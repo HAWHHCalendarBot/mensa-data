@@ -1,16 +1,16 @@
 [
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-01-10T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
+		"LactoseFree": false,
+		"Name": "Dessert des Tages (Gl, Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -126,41 +126,23 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-01-10T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Gorgonzola (La), Hartkäse (La), Gnocchi (Gl, Ei)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
-		},
-		"Beef": false,
-		"Category": "Vegetarisch",
+		"Beef": true,
+		"Category": "Gut und günstig",
 		"Date": "2020-01-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gnocchi a la Romana mit Artischocken und Tomaten (Gl, Ei)",
+		"Name": "Wir kochen was Sie lieben..., Schmorkohl mit Rinderhack (Sl), Röstkartoffelwürfel, Karottensalat (2, Gl, So)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.75,
-		"PriceStudent": 3.3,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]
