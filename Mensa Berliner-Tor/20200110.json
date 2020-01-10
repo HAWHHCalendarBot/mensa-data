@@ -1,6 +1,27 @@
 [
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-10T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Blumenkohlcremesuppe (Gl, La, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -19,28 +40,6 @@
 		"PriceStudent": 1.4,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-01-10T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Tomaten-Kokossuppe (3, Gl, So, Sl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -110,7 +109,6 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"So": "Soja/-erzeugnisse"
@@ -121,7 +119,7 @@
 		"Date": "2020-01-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "gebratener Pak Choi (2, Gl, So), Blumenkohl mit gebräunten Bröseln (Gl, La), Karottengemüse in Kräuterrahm (Gl, La), Dicke Bohnen meditterraneo, Spätzle (Gl, Ei, La)",
+		"Name": "Euro Gemüse, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2, Gl, So, La), Blumenkohl, Rösti mit Tomate und Mozzarella überbacken (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
