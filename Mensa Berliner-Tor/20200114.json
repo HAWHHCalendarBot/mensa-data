@@ -1,11 +1,11 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"9": "Süßungsmittel",
-			"Ei": "Ei/-erzeugnisse",
+			"3": "Antioxidationsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -13,7 +13,7 @@
 		"Date": "2020-01-14T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Beerenkompott (1, 9, La)",
+		"Name": "Gemüse Pilzeintopf (3, Gl, La, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -24,22 +24,25 @@
 	},
 	{
 		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-01-14T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Vegane Linsensuppe (Sl)",
+		"LactoseFree": false,
+		"Name": "Germknödel mit Schokoladenfüllung (Gl, So, La, Nu), Vanillesoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -112,8 +115,12 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -121,7 +128,7 @@
 		"Date": "2020-01-14T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Austernpilzragout (Gl, La), Spanisches Pfannengemüse, Brechbohnen, Broccoli mit Hirtenkäse (La), Nusskartoffeln",
+		"Name": "Weißkraut-Kartoffelragout (Sl), Blumenkohl in Rahm (Gl, La), Karotten Pastinakenmix mit frischer Petersilie, glacierte rote Beete mit Cranberries, Pasta con verdure mit buntem Gemüse und Käse überbacken (1, 6, La, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -149,6 +156,27 @@
 		"PriceStudent": 2.4,
 		"Vegan": true,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-14T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Gebratene Mi-Nudeln (Gl, Ei, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {

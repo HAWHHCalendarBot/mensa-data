@@ -1,18 +1,15 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"9": "Süßungsmittel",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-01-22T00:00:00.000Z",
+		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Grießspeise (Gl, La), Beerenkompott (1, 9, La)",
+		"Name": "Pfirsichquarkspeise (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -23,15 +20,18 @@
 	},
 	{
 		"Additives": {
-			"Sf": "Senf/-erzeugnisse"
+			"3": "Antioxidationsmittel",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-01-22T00:00:00.000Z",
+		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Indische Tomaten Linsensuppe (Sf)",
+		"Name": "Süßkartoffelsuppe (3, Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -43,46 +43,43 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"Sf": "Senf/-erzeugnisse"
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": true,
-		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-01-22T00:00:00.000Z",
+		"Category": "Gut und günstig",
+		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Salzkartoffeln",
-		"Pig": true,
+		"Name": "Chili con Carne (2), Fladenbrot (Gl, Ei, So, Se)",
+		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.4,
-		"PriceStudent": 3,
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.25,
+		"PriceStudent": 2.1,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
-		"Date": "2020-01-22T00:00:00.000Z",
+		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Wir kochen was Sie lieben..., Broccoli Nuggets (Gl, Ei, So, La, Sl), Gemüse Bulgur (Gl, Sl), Ajvar Dip (La)",
+		"Name": "Cappeletti Rosso (Gl, La), geschmolzene Tomaten mit Ricottacreme (La)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.5,
-		"PriceGuest": 5.65,
-		"PriceStudent": 3.2,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.4,
+		"PriceStudent": 3,
 		"Vegan": false,
 		"Vegetarian": true
 	}

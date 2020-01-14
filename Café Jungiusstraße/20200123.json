@@ -1,6 +1,45 @@
 [
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": true,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-23T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "2 Stück Apfelküchlein (Gl, La), Vanillesoße (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-23T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Kartoffelsuppe (Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"1": "Farbstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sf": "Senf/-erzeugnisse"
@@ -37,29 +76,6 @@
 		"PriceAttendant": 5.1,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.8,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-01-23T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Wir kochen was Sie lieben..., Jackfrucht Frikassee (Gl, Ei, La, Sl, Sw), Reis",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.1,
-		"PriceGuest": 5.15,
-		"PriceStudent": 2.8,
 		"Vegan": false,
 		"Vegetarian": true
 	}
