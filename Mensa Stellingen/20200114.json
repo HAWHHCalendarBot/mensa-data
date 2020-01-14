@@ -77,7 +77,7 @@
 		"Date": "2020-01-14T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Schweinenackensteak Holzfäller Art mit Schmorzwiebeln (Sf), , Kartoffelkroketten (Gl), , Sour Cream (4, Ei, La, Sf)",
+		"Name": "Schweinenackensteak Holzfäller Art mit Schmorzwiebeln (Sf), Kartoffelkroketten (Gl), Sour Cream (4, Ei, La, Sf)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.95,
@@ -88,6 +88,7 @@
 	},
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -95,14 +96,14 @@
 		"Category": "Gut und günstig",
 		"Date": "2020-01-14T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (Sf), Reis",
+		"LactoseFree": false,
+		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (La, Sf), Reis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.7,
 		"PriceGuest": 4.65,
 		"PriceStudent": 2.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
