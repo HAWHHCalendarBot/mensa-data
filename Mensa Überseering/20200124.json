@@ -65,10 +65,7 @@
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
@@ -79,7 +76,7 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Mandelbroccoli (La, Nu), Karotten Pastinakenmix mit frischer Petersilie, gebratene Paprika (5, Sw), Auberginen mit Balsamico Bianco (3, 5, Sw), Schupfnudeln (Gl, Ei), Meerrettichsoße (3, 5, Gl, La, Sw)",
+		"Name": "Mandelbroccoli (La, Nu), Spanisches Pfannengemüse, gebratene Paprika (5, Sw), Erbsen- Karotten Gemüse (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -104,9 +101,9 @@
 		"Name": "Frikadelle (Gl, Ei), Rahmsoße (Gl, La, Sl)",
 		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 2.9,
-		"PriceGuest": 3.65,
-		"PriceStudent": 1.75,
+		"PriceAttendant": 3.25,
+		"PriceGuest": 4.1,
+		"PriceStudent": 1.95,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -133,22 +130,43 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pasta Napoli, Tomatensoße, Eliche (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
 			"6": "Geschwärzt",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Backkartoffel Greek Style, Tzatziki (La), griechisches Gemüse (6)",
+		"LactoseFree": true,
+		"Name": "Backkartoffel Greek Style, griechisches Gemüse (6), veganes Tzatziki (1, So, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.35,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
