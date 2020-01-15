@@ -1,7 +1,6 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -10,7 +9,7 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Milchreis (La), Rhabarberkompott (1, La)",
+		"Name": "Milchreis (La), Kompott",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -18,6 +17,27 @@
 		"PriceStudent": 1.4,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-01-15T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Hühnerfrikassee (Gl, La, Sw), Reis",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4,
+		"PriceGuest": 5,
+		"PriceStudent": 2.7,
+		"Vegan": false,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -86,7 +106,8 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -94,7 +115,7 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La)",
+		"Name": "Pasta mit Kräutersauce,Champignons (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,

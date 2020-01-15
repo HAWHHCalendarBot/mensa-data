@@ -73,7 +73,8 @@
 	{
 		"Additives": {
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -81,18 +82,19 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Kürbis-Koriander-Suppe (La, Sl)",
+		"Name": "Geflügel-Curry-Rahmsuppe (La, Sl, Sw)",
 		"Pig": false,
-		"Poultry": false,
+		"Poultry": true,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
 			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -101,7 +103,7 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Milchreis (La), Rhabarberkompott (1, La)",
+		"Name": "Milchreis (La), Beerenkompott (1, 9, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -143,7 +145,7 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Sommergemüse, Tomaten Belugalinsenragout (2, Sl), Spitzkohl mediteran (6), Zucchinigemüse mit gerösteten Sonnenblumenkernen, Pfannengemüse mit Kartoffeln und Quinoa",
+		"Name": "Gemüsemischung, Tomaten Belugalinsen (2, Sl), Spitzkohl in Rahm (6), Zucchinigemüse, Pfannengemüse",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -179,6 +181,7 @@
 	},
 	{
 		"Additives": {
+			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -188,7 +191,7 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Primavera mit Auberginen, Tomaten,Zucchini und Kapern (Sw), Pasta (Gl)",
+		"Name": "Pasta Primavera mit Auberginen, Tomaten, Oliven, Zucchini (6, Sw), Pasta (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
