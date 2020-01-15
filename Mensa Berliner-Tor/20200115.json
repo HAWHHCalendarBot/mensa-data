@@ -1,6 +1,7 @@
 [
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -10,7 +11,7 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Kürbis-Koriander-Suppe (La, Sl)",
+		"Name": "Blumenkohl-Broccoli Suppe (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -21,8 +22,10 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -30,7 +33,7 @@
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Milchreis (La), Rhabarberkompott (1, La)",
+		"Name": "Germknödel mit Schokoladenfüllung (Gl, So, La, Nu), Vanillesoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -110,48 +113,62 @@
 			"2": "Konservierungsstoffe",
 			"5": "Geschwefelt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Se": "Sesam/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": true,
+		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), glacierte Perlzwiebeln in Rotwein (5, Sw), Karotten Rustica, Bratnudeln mit Gemüsestreifen (2, Gl, So, Se), Rosenkohl in Parmesanpanade (2, La)",
+		"LactoseFree": true,
+		"Name": "Rosenkohlpfanne (2, 5, Sw), Prinzessbohnen, Karotten Rustica, Broccoli, Kroketten (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-15T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Funghi mit Pilzen in Sahnesoße (3, Gl, La, Sl, Sw), Fusilli (Gl)",
+		"LactoseFree": true,
+		"Name": "Pasta mit Chili sin carne (Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-15T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Zwiebelreis (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
