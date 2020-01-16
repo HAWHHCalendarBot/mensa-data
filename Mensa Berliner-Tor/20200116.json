@@ -1,9 +1,8 @@
 [
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -12,14 +11,33 @@
 		"Date": "2020-01-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kartoffelsuppe (2, 3, 8, Sl)",
-		"Pig": true,
-		"Poultry": false,
+		"Name": "Curry Gemüseeintopf mit Hähnchenbruststreifen (3, Sl, Sf)",
+		"Pig": false,
+		"Poultry": true,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-16T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Milchreis (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -93,7 +111,8 @@
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -101,7 +120,7 @@
 		"Date": "2020-01-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rosenkohl in Rahm (Gl, La, Sl), Blattspinat, Tomaten Mango Belugalinsenragout (2, Sl), Fenchelgemüse (Sl), Blechkartoffeln",
+		"Name": "Rosenkohl in Rahm (Gl, La, Sl), buntem Gemüse, Broccoli, Asiagemüse (2, Gl, So), Blumenkohl in Rahm (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -157,23 +176,43 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Pizzaiola mit Mozzarellakäse in Tomatensoße (La, Sl), Hartkäse (La), Tagliatelle (Gl)",
+		"Name": "Pasta con ragu bianco (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-16T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pasta mit Chili sin carne (Gl, So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
