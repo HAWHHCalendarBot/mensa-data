@@ -1,6 +1,29 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-16T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Deftige Kartoffelsuppe mit Schweinefleisch (2, 3, 8, La, Sl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -19,28 +42,6 @@
 		"PriceStudent": 1.4,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-01-16T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Kartoffelsuppe (2, 3, 8, Sl)",
-		"Pig": true,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -110,8 +111,11 @@
 	{
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -119,7 +123,7 @@
 		"Date": "2020-01-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Prinzeßgemüse, Mexikanisches Gemüse (Sl), gebratene Zucchini, Pfannen Champignons, Kartoffelgratin (Ei, La)",
+		"Name": "Prinzeßgemüse, Mexikanisches Gemüse (Sl), Zucchini und Weißkohl in Soja-Currysoße (Gl, So, Sf), Pfannen Champignons, Kartoffelgratin (Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -140,7 +144,7 @@
 		"Date": "2020-01-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta \"Finferli\" Hähnchenstreifen mit Pfifferlingen (La, Sl), Pasta (Gl)",
+		"Name": "Pasta \"Finferli\" Hähnchenstreifen und Pfifferlingen in Tomaten-Sahnesoße (La, Sl), Pasta (Gl)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 0.85,
