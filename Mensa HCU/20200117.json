@@ -25,6 +25,26 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-17T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Se": "Sesam/-erzeugnisse",
 			"Sf": "Senf/-erzeugnisse"
@@ -47,6 +67,7 @@
 	{
 		"Additives": {
 			"Fi": "Fisch/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse"
 		},
@@ -56,7 +77,7 @@
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Rotbarschfilet auf Tomaten Zucchinigemüse (Fi, La, Nu), Ofenkartoffeln",
+		"Name": "Rotbarschfilet auf Tomaten Zucchinigemüse (Fi, La, Nu), Weiße Soße (Gl, La), Ofenkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 6.5,
@@ -67,22 +88,23 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"1": "Farbstoffe",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gut und günstig",
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Rosmarinkartoffeln, Schnittlauchquark (La), Mexikanischer Bohnensalat",
+		"LactoseFree": true,
+		"Name": "Rosmarinkartoffeln, Ajvar Dip (1, Sf), Mexikanische Bohnen",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.6,
 		"PriceGuest": 4.6,
 		"PriceStudent": 2.3,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
