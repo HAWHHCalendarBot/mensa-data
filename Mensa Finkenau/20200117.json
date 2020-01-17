@@ -1,6 +1,27 @@
 [
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-17T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pfannkuchen mit Waldbeerfüllung (Gl, Ei, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"1": "Farbstoffe",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
@@ -12,7 +33,7 @@
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Paprikarahmsoße (Gl, La), Kartoffelspalten Spicy (1, Gl)",
+		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Rahmsauce (Gl, La), Kartoffelspalten (1, Gl)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.8,
@@ -68,38 +89,45 @@
 	},
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"LactoseFree": false,
+		"Name": "Vegetarisches Moussaka (La), Gartengemüse, Süßkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"Fi": "Fisch/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
+		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Fish": true,
+		"LactoseFree": false,
+		"Name": "Pasta mit Spinat-Rahmsauce (1, Gl, Fi, So, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
+		"Vegan": false,
 		"Vegetarian": false
 	}
 ]

@@ -1,28 +1,6 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"9": "Süßungsmittel",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-01-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Grießspeise (Gl, La), Beerenkompott (1, 9, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -40,6 +18,27 @@
 		"PriceStudent": 1.4,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-17T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Sahniger Vanillequark (La), mit Beeren (1, 9, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -90,7 +89,8 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
-			"6": "Geschwärzt"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -98,7 +98,7 @@
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Erbsen, Karotten (1), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Gebratene Champignons, gebratene Drillinge",
+		"Name": "Linsenragout (Sl), Couscousgemüse (1, Sl), Rustikale Gemüsepfanne, Fingermöhren, Spargel in Rahm vegan (So)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -110,6 +110,7 @@
 	{
 		"Additives": {
 			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -118,7 +119,7 @@
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So, Sf), Basmatireis",
+		"Name": "Süßkartoffelragout asiatisch (So, Sl, Sf), Basmatireis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.7,
@@ -129,18 +130,20 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta Boscaiola mit Mischpilzen und Speck (2, 3, 8), Eliche (Gl)",
+		"LactoseFree": false,
+		"Name": "Nudelauflauf mit Schinken (1, Gl, La), Gemüse (2, 3, 8, La)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -151,9 +154,9 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -161,14 +164,14 @@
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-17T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta vegane Käsesoße (1, 2, Gl, So), Pasta (Gl)",
+		"LactoseFree": false,
+		"Name": "Soja Bolognese mit Gemüse (So, Sl), Pasta (Gl), Hartkäse (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
