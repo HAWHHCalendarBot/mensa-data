@@ -25,7 +25,6 @@
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
@@ -35,15 +34,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-01-20T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Gemüse süß sauer aus dem Wok (2, Gl, So, Sl, Sw), Champignon Lauchpfanne (Gl, La, Sw), Gartengemüse, Flageolets Bohnen",
+		"LactoseFree": true,
+		"Name": "Gemüse süß sauer aus dem Wok (2, Gl, So, Sl, Sw), Champignon Lauchpfanne (Sw), Gartengemüse, Flageolets Bohnen",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -57,7 +56,7 @@
 		"Date": "2020-01-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Tomaten Chili Knoblauch Spaghetti mit Tofu (6, Gl, So), Spaghetti (Gl)",
+		"Name": "Tomaten Chili Knoblauch Spaghetti mit Tofu (6, So), Spaghetti (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -68,7 +67,7 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -78,7 +77,7 @@
 		"Date": "2020-01-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Käse-Lauchsuppe mit Rinderhack (1, La, Sl)",
+		"Name": "Käse-Lauchsuppe mit Rinderhack (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2,
