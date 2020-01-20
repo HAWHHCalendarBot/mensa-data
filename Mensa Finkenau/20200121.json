@@ -1,8 +1,8 @@
 [
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -11,7 +11,7 @@
 		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Süßer Quarkauflauf (Gl, Ei, La), Zimt- Vanillesoße (La)",
+		"Name": "Milchreis (La), Beerenkompott (1, 9, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -65,39 +65,24 @@
 	},
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"LactoseFree": false,
+		"Name": "Spinat-Sesamgemüse (Se), Vegetarisches Moussaka (La, Sl), Broccoli, Kräuterkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
-		"Date": "2020-01-21T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -105,6 +90,7 @@
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Se": "Sesam/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -113,7 +99,7 @@
 		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pad Thai Reisnudeln mit Hähnchen und Ei (2, Gl, Ei, So, La)",
+		"Name": "Pad Thai Reisnudeln mit Hähnchen und Ei (2, Gl, Ei, So, La, Se)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 3.8,
@@ -124,6 +110,26 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-21T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta des Tages (Gl, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -131,7 +137,7 @@
 		"Date": "2020-01-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gebratener Curry - Kokos - Blumenkohl mit Kürbiskernen",
+		"Name": "Gebratener Curry - Kokos - Blumenkohl,Basmati Reis und Kürbiskernen",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.1,
