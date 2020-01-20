@@ -1,6 +1,50 @@
 [
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-27T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "2 Quarkkeulchen (Gl, Ei, La), Apfelmus (3)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-27T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Kartoffelsuppe (2, 3, 8, Sl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"1": "Farbstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sf": "Senf/-erzeugnisse",
@@ -19,6 +63,29 @@
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gut und günstig",
+		"Date": "2020-01-27T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2, 3, 8, Sl), Kartoffelpüree (La)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
@@ -60,5 +127,27 @@
 		"PriceStudent": 0.65,
 		"Vegan": true,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-01-27T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Ravioli Pommodore mit einer Oliven Frischkäsefüllung (Gl, Ei, La), Tomatenrahmsoße mit grünem Pfeffer (3, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
