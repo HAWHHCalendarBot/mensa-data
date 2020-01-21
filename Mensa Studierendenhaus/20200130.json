@@ -1,27 +1,50 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
 			"Sf": "Senf/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": true,
-		"Category": "Campus Spezial",
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-01-30T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Olympusteller (Gl, Ei, Sf), Tzatziki (La), Kartoffeltwister (Gl), Krautsalat (3, 5, Sw)",
-		"Pig": false,
+		"LactoseFree": true,
+		"Name": "*** Afternoon Special *** Currybratwurst (3, 4, 8, Sf), BBQ Soße (2, 9, Sl, Sf), Pommes Frites (Sf)",
+		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 1,
-		"PriceGuest": 1.25,
-		"PriceStudent": 0,
+		"PriceAttendant": 4.15,
+		"PriceGuest": 5.2,
+		"PriceStudent": 2.85,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-01-30T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "*** Afternoon Special *** vegetarische Bratwurst (Ei), BBQ Soße (2, 9, Sl, Sf), Pommes Frites (Sf)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.15,
+		"PriceGuest": 5.2,
+		"PriceStudent": 2.85,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
