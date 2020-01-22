@@ -26,15 +26,17 @@
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"5": "Geschwefelt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": true,
+		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), glacierte Perlzwiebeln in Rotwein (5, Sw), Karotten Rustica, Gemüsemix Eskorial",
+		"LactoseFree": false,
+		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), Karotten Rustica, Gemüsemix Eskorial, Kaisergemüse in Rahm (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -63,6 +65,30 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-01-22T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Schnittbohnensuppe (2, 3, 8, Gl, La, Sl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": false,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {

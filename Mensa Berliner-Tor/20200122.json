@@ -2,17 +2,16 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
-			"9": "Süßungsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
-		"Alcohol": false,
+		"Alcohol": true,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Grießspeise (Gl, La), Beerenkompott (1, 9, La)",
+		"Name": "2 Stück Apfelküchlein (Gl, La), Pflaumenkompott (1, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -23,22 +22,23 @@
 	},
 	{
 		"Additives": {
-			"Sf": "Senf/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Indische Tomaten Linsensuppe (Sf)",
+		"LactoseFree": false,
+		"Name": "Champignoncremesuppe (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -93,7 +93,6 @@
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -102,7 +101,7 @@
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Buttererbsen (La), Prinzessbohnen, Grillgemüse mit Quinoa (2, Gl, So), Wirsing in Chilicreme (Gl, So, Sl), gebratene Drillinge",
+		"Name": "Broccoli (La), Buntes Chinagemüse (2, Gl, So), Rosenkohl mit Möhren (La), Frühlingsgemüse (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -134,22 +133,42 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta Primavera mit Auberginen, Tomaten,Zucchini und Kapern (Sw), Tagliatelle (Gl)",
+		"LactoseFree": false,
+		"Name": "Cappeletti Rosso mit Linsen und Käse überbacken (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-22T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Kartoffelgratin (Ei, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
