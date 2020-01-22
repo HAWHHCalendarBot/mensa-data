@@ -22,9 +22,14 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"5": "Geschwefelt",
 			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -32,7 +37,7 @@
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Kabeljau aus dem Kräutersud auf Blattspinat mit Tomaten Penne (Gl, Fi, La)",
+		"Name": "Kabeljau aus dem Kräutersud auf Blattspinat mit Tomaten Penne (1, 5, Gl, Fi, So, La, Sf, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.9,
@@ -80,7 +85,7 @@
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Schinken Krustenbraten, Biersoße (Gl, Sl), Apfelrotkohl (3, 5, Sw), Semmelklöße (Gl, Ei)",
+		"Name": "Schinken Krustenbraten, Biersoße (Gl, Sl), Apfelrotkohl (3, 5, Gl, Sw), Semmelklöße (Gl, Ei)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 5.3,

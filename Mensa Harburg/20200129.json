@@ -138,26 +138,6 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Gut und günstig",
-		"Date": "2020-01-29T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Zucchini Hackfleischtopf (Sl), Penne (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 4.75,
-		"PriceStudent": 2.5,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -200,5 +180,27 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-01-29T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Soja Bolognese mit Gemüse (So, Sl), Bunte Nudeln (Gl), Hartkäse (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
