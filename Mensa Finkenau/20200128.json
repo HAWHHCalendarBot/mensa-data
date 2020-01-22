@@ -1,6 +1,48 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-28T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Milchreis (La), Beerenkompott (1, 9, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-01-28T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Hähnchenbrust mit Kokos Currysoße (Gl, So), Broccoli (La), Basmatireis",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -12,12 +54,36 @@
 		"Date": "2020-01-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Wir kochen was Sie lieben..., Frisch gebackene XXL Pizza mit frischem grünen Spargel, roten Zwiebeln und Hollandaise (Gl, Ei, La, Sl)",
+		"Name": "Frisch gebackene XXL Pizza mit Hähnchenstreifen, Broccoli und Hollandaise (Gl, Ei, La, Sl)",
 		"Pig": false,
-		"Poultry": false,
+		"Poultry": true,
 		"PriceAttendant": 6.5,
 		"PriceGuest": 8.15,
 		"PriceStudent": 5.5,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-01-28T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Gebackener Blumenkohl mit würzigem Bulgur, Rosinen, Mandelsplittern, Rote Beete Salat mit Hirtenkäse (Gl, La, Nu, Sl, Sf, Se)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.95,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.95,
 		"Vegan": false,
 		"Vegetarian": true
 	},

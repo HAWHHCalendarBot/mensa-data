@@ -1,8 +1,7 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
@@ -12,7 +11,7 @@
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Grießspeise (Gl, La), Beerenkompott (1, 9, La)",
+		"Name": "Germknödel (Gl, Ei, La), kalte Vanillesoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -92,6 +91,14 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -99,7 +106,7 @@
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Name": "Kürbisgemüse (3, 5, Sl, Sw), Curry-Blumenkohl (2, Gl, So, Sl, Se), Kräuterkartoffeln, Gartengemüse",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -110,16 +117,21 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-22T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La)",
+		"LactoseFree": true,
+		"Name": "Reisnudeln mit Gemüse und Ei (2, Gl, Ei, So, Nu, Sl, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
