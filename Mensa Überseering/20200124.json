@@ -24,23 +24,23 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Blumenkohl-Broccoli Suppe (Gl, La, Sl)",
+		"LactoseFree": true,
+		"Name": "Blumenkohl-Broccoli Suppe (Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -90,7 +90,7 @@
 		"Additives": {
 			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -98,7 +98,7 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta mit Spinat und Olivenöl (6, Sf), Eliche (Gl)",
+		"Name": "Pasta mit Spinat und Olivenöl (6, So), Eliche (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -163,7 +163,7 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Sojageschnetzeltes mit Waldpilzen (Gl, So, Sl), Apfel Zimt Rotkohl (3, 5, Sw), Kartoffelklöße",
+		"Name": "Sojageschnetzeltes mit Waldpilzen (Gl, So, Sl), Apfel Zimt Rotkohl (3, 5, Sw), Röstkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.4,

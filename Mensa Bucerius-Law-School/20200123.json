@@ -22,8 +22,6 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -31,19 +29,20 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-01-23T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Rosenkohl in Rahm (Gl, La, Sl), Blattspinat, Tomaten Mango Belugalinsenragout (2, Sl), Fenchelgemüse (Sl)",
+		"LactoseFree": true,
+		"Name": "Rosenkohl, Blattspinat, Belugalinsenragout (2, Sl), Fenchelgemüse (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -51,12 +50,32 @@
 		"Date": "2020-01-23T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl)",
+		"Name": "Pasta con lenticchie mit Linsen in pikanter Soße (So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-01-23T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Champignoncremesuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": true,
 		"Vegetarian": false
 	},
