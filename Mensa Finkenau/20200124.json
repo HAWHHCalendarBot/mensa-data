@@ -1,6 +1,29 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Beerenkompott (1, 9, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -11,7 +34,7 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Paprikarahmsoße (Gl, La), Kroketten (Gl)",
+		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Rahmsauce (Gl, La), Kroketten (Gl)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.7,
@@ -48,6 +71,14 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -55,7 +86,7 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Name": "Apfelrotkohl (3, 5, Sw), glasierte Minz-Karotten, Broccoli, Curry-Weißkohl (2, Gl, So, Sf, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -66,21 +97,25 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
+		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"LactoseFree": false,
+		"Name": "Pasta mit Gemüse und Basilikumpesto (Gl, La, Nu, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -97,7 +132,7 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Broccoli Nuggets (Gl, Ei, So, La, Sl), Bulgur mit Rosinen und Mandeln (Gl, Nu), Paprikadip mit Walnüssen (Nu)",
+		"Name": "Broccoli Nuggets (Gl, Ei, So, La, Sl), Reis mit Rosinen und Mandeln (Gl, Nu), Paprikadip mit Walnüssen (Nu)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.75,

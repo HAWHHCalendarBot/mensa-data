@@ -1,27 +1,6 @@
 [
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-01-24T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Blumenkohl-Broccoli Suppe (Gl, La, Sl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 			"1": "Farbstoffe",
 			"9": "Süßungsmittel",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -33,6 +12,32 @@
 		"Fish": false,
 		"LactoseFree": false,
 		"Name": "Milchreis (La), Beerenkompott (1, 9, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Vegetarischer Grünkohleintopf mit Soja-Wursteinlage (3, 5, Gl, Ei, So, La, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -74,7 +79,7 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Kabeljau auf Blattspinat mit Tomaten Penne (Gl, Fi, La)",
+		"Name": "Kabeljau auf Rahmblattspinat mit Tomaten (Gl, Fi, La), Dillkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.8,
@@ -85,28 +90,21 @@
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Mandelbroccoli (La, Nu), Karotten Pastinakenmix mit frischer Petersilie, gebratene Paprika (5, Sw), Auberginen mit Balsamico Bianco (3, 5, Sw), Schupfnudeln (Gl, Ei), Meerrettichsoße (3, 5, Gl, La, Sw)",
+		"LactoseFree": true,
+		"Name": "Sommergemüse",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -130,10 +128,8 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -141,7 +137,51 @@
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Boscaiola mit Mischpilzen und Speck (2, 3, 8), Eliche (Gl)",
+		"Name": "Pasta Basilico (Gl, So), Pasta (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pasta Hähnchencurry (2, Gl, So), Pasta (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Matrigiana mit Speck und Tomaten (2, 3, 8), Hartkäse (La), Pasta (Gl)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -152,23 +192,22 @@
 	},
 	{
 		"Additives": {
-			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-24T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta mit Spinat und Olivenöl (6, Sf), Eliche (Gl)",
+		"LactoseFree": false,
+		"Name": "Pasta Tomaten-Ricottasoße (Gl, La), Pasta (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
