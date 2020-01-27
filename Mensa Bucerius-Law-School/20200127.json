@@ -31,7 +31,7 @@
 		"Date": "2020-01-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, gegrillte Maiskolben mit Kräuterbutter (La), Grüne und gelbe Zucchini mit Oliven und Cherrytomate, Tomaten-Oliven-Ragout (6)",
+		"Name": "Gartenbohnen mit Pfifferlingen, gegrillte Maiskolben mit Kräuterbutter (La), Grüne und gelbe Zucchini, Tomaten-Oliven-Ragout (6)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -68,6 +68,27 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-01-27T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegetarische Minestrone (Gl, Sl, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"1": "Farbstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -89,7 +110,6 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -97,14 +117,14 @@
 		"Category": "Vegetarisch",
 		"Date": "2020-01-27T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Indischer Spinat mit roten Linsen (La, Sw), Reis",
+		"LactoseFree": true,
+		"Name": "Indischer Spinat mit roten Linsen (Sw), Reis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.4,
 		"PriceGuest": 3.85,
 		"PriceStudent": 2.95,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
