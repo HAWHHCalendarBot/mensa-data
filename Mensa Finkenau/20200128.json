@@ -114,6 +114,8 @@
 	},
 	{
 		"Additives": {
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -121,7 +123,7 @@
 		"Date": "2020-01-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Name": "Kürbisgemüse (Sl), Süßkartoffeln, Kräuterkartoffeln, Currykohl (Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -132,20 +134,24 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
+		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-28T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"LactoseFree": false,
+		"Name": "Pasta mit gebratenen Champignons und Pesto (Gl, La, Nu, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
