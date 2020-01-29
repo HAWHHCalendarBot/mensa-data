@@ -1,21 +1,44 @@
 [
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"4": "Geschmacksverstärker",
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": true,
-		"Category": "Beliebt und gerne gegessen",
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hausgemachte Lasagne Bolognese (Gl, La), Tomatensoße (Gl, La)",
+		"Name": "Ofenkartoffel Sourcreme (4, Ei, La, Sf)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6,
-		"PriceStudent": 3.5,
+		"PriceAttendant": 3.05,
+		"PriceGuest": 3.55,
+		"PriceStudent": 1.95,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-07T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Topping zur Ofenkartoffel: Hähnchenstreifen (3, 8, Sw)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 1.4,
+		"PriceGuest": 1.55,
+		"PriceStudent": 1.3,
 		"Vegan": false,
 		"Vegetarian": false
 	}
