@@ -72,23 +72,25 @@
 	},
 	{
 		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"3": "Antioxidationsmittel",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-01-29T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Karottensuppe mit Kerbel (Sl, Sw)",
+		"LactoseFree": false,
+		"Name": "Curry-Creme-Suppe mit Blumenkohl und Zuckerschoten (3, La, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -126,34 +128,14 @@
 		"Date": "2020-01-29T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Zuckerschoten (Sl), glasierte Honigmöhren, Champignon Lauchpfanne mit Balsamico (5, Sw), Currycremewirsing (Gl, So), Tomatenbulgur (Gl)",
+		"Name": "Zuckerschoten (Sl),  Möhren,  Champignon Lauchpfanne mit Balsamico (5, Sw), Currycremewirsing (Gl, So), Mediterrane Gemüsepfanne,  Zucchinigemüse & Paprika (Gl, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-01-29T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kurkuma Soße mit roten Linsen und Lauchzwiebeln \"Salsa di curcuma con lenticchie rosse e cipollotti\" (Gl, La), Pasta (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -180,6 +162,26 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-01-29T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Tomatensoße mit roten Linsen und Lauchzwiebeln \"Salsa di curcuma con lenticchie rosse e cipollotti\" (Gl, La), Pasta (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
