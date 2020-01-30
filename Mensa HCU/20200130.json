@@ -1,6 +1,48 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-30T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "pikante Hckfleischsuppe mit Zucchini (2, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-01-30T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Süßer Quarkauflauf (Gl, Ei, La), Heidelbeerkompott (1, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -25,6 +67,7 @@
 		"Additives": {
 			"1": "Farbstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -33,8 +76,8 @@
 		"Category": "Campus Spezial",
 		"Date": "2020-01-30T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Hausgemachter Rinderbraten (Sl, Sw), Rotweinsoße (Sl, Sw), Wirsing, Macairekartoffeln (1, Gl)",
+		"LactoseFree": false,
+		"Name": "Hausgemachter Rinderbraten (Sl, Sw), Rotweinsoße (Sw), Wirsing (La), Macairekartoffeln (1, Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 6.4,
@@ -51,16 +94,16 @@
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gut und günstig",
+		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-30T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Spaghetti Tomaten Belugalinsenragout (2, Gl, Sl)",
+		"Name": "Pasta mit Tomaten Belugalinsenragout (2, Gl, Sl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.35,
-		"PriceGuest": 4.1,
-		"PriceStudent": 2.05,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.65,
 		"Vegan": true,
 		"Vegetarian": false
 	},
