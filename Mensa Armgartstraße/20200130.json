@@ -1,6 +1,9 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -10,31 +13,30 @@
 		"Date": "2020-01-30T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Mangold mit gerösteten Walnüssen (Nu), Paprikagemüse mit Mango und Kokosmilch, Orientalisches Linsengemüse (Sl), Broccoli, Langkorn Wildreis",
-		"Pig": false,
+		"Name": "Mangold mit gerösteten Walnüssen (Nu), Backkartoffel, Orientalisches Linsengemüse (Sl), Broccoli, Sauerkraut mit Speck (2, 3, 8, Sl)",
+		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-01-30T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Matrigiana mit Speck und Tomaten (2, 3, 8), Hartkäse (La), Vollkorn Penne (Gl)",
-		"Pig": true,
+		"Name": "Bolognese Soße (Gl, So, Sl), Hartkäse (La), Vollkorn Penne (Gl)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
