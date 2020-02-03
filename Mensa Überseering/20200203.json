@@ -2,23 +2,23 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-03T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Blumenkohl-Broccoli Suppe (Gl, La, Sl)",
+		"LactoseFree": true,
+		"Name": "Blumenkohl-Broccoli Suppe (Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -89,8 +89,6 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -98,15 +96,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-03T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Champignon Lauchpfanne (Gl, La, Sw), Gartengemüse, Broccoli, Auberginen mit Tomaten (Gl, La, Sw)",
+		"LactoseFree": true,
+		"Name": "Champignon Lauchpfanne (Sw), Gartengemüse, Broccoli, Auberginen mit Tomaten (Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -118,7 +116,7 @@
 		"Date": "2020-02-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Stortelli mit Kichererbsen und Tomaten (Gl), rote Beete Tomatensoße",
+		"Name": "Fit in die Woche ! Stortelli mit Kichererbsen und Tomaten (Gl), rote Beete Tomatensoße",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.25,
