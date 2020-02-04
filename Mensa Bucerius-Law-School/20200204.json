@@ -68,6 +68,26 @@
 	},
 	{
 		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-02-04T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Kartoffelsuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
@@ -93,8 +113,8 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -102,14 +122,14 @@
 		"Category": "Vegetarisch",
 		"Date": "2020-02-04T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Nudelpfanne mit Zucchini, Staudensellerie und Radicchio (Gl, La, Sl, Sw)",
+		"LactoseFree": true,
+		"Name": "Nudelpfanne mit Zucchini, Staudensellerie und Radicchio (Gl, So, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.55,
 		"PriceGuest": 4,
 		"PriceStudent": 3.05,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
