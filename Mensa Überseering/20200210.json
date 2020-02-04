@@ -1,7 +1,6 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -9,10 +8,10 @@
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-02-14T00:00:00.000Z",
+		"Date": "2020-02-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "2 Quarkkeulchen (Gl, Ei, La), Pflaumenkompott (1, La)",
+		"Name": "2 Pfannkuchen mit Waldbeerfüllung (Gl, Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -23,126 +22,131 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": true,
+		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-02-14T00:00:00.000Z",
+		"Date": "2020-02-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Käse-Lauchsuppe mit Rinderhack (1, La, Sl)",
+		"Name": "Tomatensuppe (La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
 		"Vegan": false,
-		"Vegetarian": false
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": false,
-		"Beef": false,
+		"Alcohol": true,
+		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-02-14T00:00:00.000Z",
+		"Date": "2020-02-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hühnerfrikassee (Gl, La, Sw), Reis",
+		"Name": "Rinderhacksteak gratiniert mit Tomate und Käse (Gl, Ei, La, Sl, Sf), italienische Soße (Gl, La, Sw)",
 		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 3.85,
-		"PriceGuest": 4.85,
-		"PriceStudent": 2.55,
+		"Poultry": false,
+		"PriceAttendant": 3.9,
+		"PriceGuest": 4.9,
+		"PriceStudent": 2.75,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"5": "Geschwefelt",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"2": "Konservierungsstoffe",
+			"6": "Geschwärzt",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
-		"Date": "2020-02-14T00:00:00.000Z",
+		"Date": "2020-02-10T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Mandelbroccoli (La, Nu), Rosenkohl (La), gebratene Paprika (5, Sw)",
+		"LactoseFree": true,
+		"Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Tomaten Mango Belugalinsenragout (2, Sl), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Romanescoröschen (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
+			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-14T00:00:00.000Z",
+		"Date": "2020-02-10T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kräutersoße (Gl, La), Gnocchi (Gl, Ei)",
+		"LactoseFree": true,
+		"Name": "Pasta con verdure mit buntem Gemüse (6, So, Sl, Sw), Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-14T00:00:00.000Z",
+		"Date": "2020-02-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Napoli, Tomatensoße, Kartoffel-Gnocchi (Gl, Ei)",
+		"Name": "Pasta Napoli, Tomatensoße, Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
-		"Date": "2020-02-14T00:00:00.000Z",
+		"Date": "2020-02-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kartoffelrösti (3), gebratenes Gemüse, Soja-Kräuter-Joghurt (So)",
+		"Name": "Mini Frühlingsrollen (Gl, So), Asiagemüse (2, Gl, So), Ananas-Chilisoße (2, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.95,
-		"PriceGuest": 4.95,
-		"PriceStudent": 2.65,
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.15,
+		"PriceStudent": 2.95,
 		"Vegan": true,
 		"Vegetarian": false
 	}
