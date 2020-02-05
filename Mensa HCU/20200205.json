@@ -1,6 +1,51 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-05T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Topfenknödel mit Kirschfüllung (1, Gl, Ei, La), Pflaumenkompott (1, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-05T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Minestrone mit Gemüse (3, 5, Gl, Sl, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -42,11 +87,8 @@
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -54,7 +96,7 @@
 		"Date": "2020-02-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Funghi mit Pilzen in Sahnesoße (3, Sl, Sw), Hartkäse (La), Spaghetti (Gl)",
+		"Name": "Cappeletti Rosso (Gl, La), geschmolzene Tomaten mit Ricottacreme (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
