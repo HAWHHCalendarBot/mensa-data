@@ -43,20 +43,25 @@
 	},
 	{
 		"Additives": {
+			"Fi": "Fisch/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
+		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-02-06T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Fish": true,
+		"LactoseFree": false,
+		"Name": "Hühnerfrikassee (Gl, Fi, So, La, Sw), Reis",
 		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
+		"Poultry": true,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
@@ -81,9 +86,12 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -91,7 +99,7 @@
 		"Date": "2020-02-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "mit Sojasauce marinierte Reisnudeln,Gemüse,Ei (2, Gl, So, La, Sl, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
