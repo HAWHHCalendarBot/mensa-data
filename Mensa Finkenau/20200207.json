@@ -45,6 +45,8 @@
 	},
 	{
 		"Additives": {
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -52,7 +54,7 @@
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Name": "Broccoli, Kürbis-Süßkartoffelgemüse (Sl), geschmorter Weisskohl mit Curry (Sf), Erbsen-Karotten Gemüse",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -82,23 +84,24 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"LactoseFree": true,
+		"Name": "Pasta mit Lauch-Sojasahnesauce (2, Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
