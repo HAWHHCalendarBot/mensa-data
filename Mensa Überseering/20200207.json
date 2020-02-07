@@ -23,25 +23,23 @@
 	},
 	{
 		"Additives": {
-			"5": "Geschwefelt",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kürbis-Ingwer-Suppe (5, La, Sl, Sw)",
+		"LactoseFree": true,
+		"Name": "Kürbis-Ingwer-Suppe (So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -56,7 +54,7 @@
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust im Knuspermantel (Gl), Currysoße (Gl, La, Sf), pikantes Möhrengemüse (Sl)",
+		"Name": "Hähnchenbrust im Knuspermantel (Gl), Currysoße mit Mango (Gl, La, Sf), pikantes Möhrengemüse (Sl)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 3.5,
@@ -67,7 +65,6 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
@@ -79,7 +76,7 @@
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Buntes Wokgemüse Indonesia mit Kokos (So, Sf), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La, Sl), Romanescoröschen (Sl), Schwarzwurzeln in Rahm (Gl, La)",
+		"Name": "Buntes Wokgemüse Indonesia mit Kokos (So, Sf), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La, Sl), Romanescoröschen (Sl), Erbsen- Karotten Gemüse (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -98,12 +95,32 @@
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.75,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.45,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-07T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Gorgonzolasoße (Gl, La), Penne (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
 	},
@@ -117,27 +134,7 @@
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Napoli, Tomatensoße, Eliche (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-07T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Spinat Sojasoße (So), Eliche (Gl)",
+		"Name": "Pasta Napoli, Tomatensoße, Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -156,7 +153,7 @@
 		"Date": "2020-02-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kichererbsen Bohnenpfanne mit Paprika, Zucchini und Auberginen (Sw), Korianderkartoffeln",
+		"Name": "Kichererbsen Bohnenpfanne mit Paprika, Zucchini und Auberginen (Sw), Kräuterkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.6,
