@@ -1,23 +1,67 @@
 [
 	{
 		"Additives": {
-			"Fi": "Fisch/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
-		"Alcohol": true,
+		"Alcohol": false,
 		"Beef": false,
-		"Category": "Campus Spezial",
+		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-21T00:00:00.000Z",
-		"Fish": true,
-		"LactoseFree": false,
-		"Name": "Gebratenes Seelachsfilet (Gl, Fi), Dillrahmsoße (Gl, La, Sw), Blattspinat, Salzkartoffeln",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.65,
-		"PriceStudent": 4.3,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-21T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Geflügelsuppe mit Gemüse (Gl, La, Sl)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-02-21T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kasseler Nackenbraten (2, 3, La, Sl), Röstkartoffeln",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.4,
+		"PriceStudent": 3,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -43,6 +87,30 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gut und günstig",
+		"Date": "2020-02-21T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Carbonara mit Tofuwürfel (1, 2, Gl, So, Sl, Sf), Conchiglie (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.65,
+		"PriceGuest": 4.6,
+		"PriceStudent": 2.35,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -86,5 +154,29 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-02-21T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegetarische Frühlingsrolle (Gl, Ei, So), Ananas-Chilisoße-Gemüsesoße (2, So, Sl, Sf), Kurkumareis",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]

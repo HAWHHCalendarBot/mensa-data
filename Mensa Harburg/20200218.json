@@ -84,24 +84,23 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": false,
+		"Alcohol": true,
 		"Beef": false,
-		"Category": "Beliebt und gerne gegessen",
+		"Category": "Campus Spezial",
 		"Date": "2020-02-18T00:00:00.000Z",
-		"Fish": false,
+		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Champignonrahmsoße (Gl, La, Sl), Pommes Frites (Sf)",
-		"Pig": true,
+		"Name": "Gebratenes Seelachsfilet (Gl, Fi), Dillrahmsoße (Gl, La, Sw), Blattspinat, Salzkartoffeln",
+		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.65,
-		"PriceGuest": 5.85,
-		"PriceStudent": 3.35,
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.3,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -127,6 +126,47 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-18T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Pasta (Gl), Hartkäse (La)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-18T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pasta Tomaten-Basilicumsoße (So), Pasta (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
