@@ -44,27 +44,6 @@
 	},
 	{
 		"Additives": {
-			"Fi": "Fisch/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-02-12T00:00:00.000Z",
-		"Fish": true,
-		"LactoseFree": false,
-		"Name": "Gebackenes Alaska Seelachsfilet (Gl, Fi), rote Beete Zwiebel Quark (La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.6,
-		"PriceGuest": 4.55,
-		"PriceStudent": 2.45,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -88,9 +67,9 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -98,13 +77,40 @@
 		"Category": "Gut und günstig",
 		"Date": "2020-02-12T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2, 3, 8, Sl)",
+		"LactoseFree": false,
+		"Name": "Kohlroulade (Ei, La, Sf), Salzkartoffeln, Bratensoße (Sl)",
 		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 3.25,
-		"PriceGuest": 4.1,
-		"PriceStudent": 1.95,
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Fi": "Fisch/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gut und günstig",
+		"Date": "2020-02-12T00:00:00.000Z",
+		"Fish": true,
+		"LactoseFree": false,
+		"Name": "Matjesfilets (2, Fi), Matjessoße Hausfrauen Art (1, 3, 9, Ei, La, Sf, Sw), Salzkartoffeln",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
 		"Vegan": false,
 		"Vegetarian": false
 	},
