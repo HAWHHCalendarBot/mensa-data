@@ -2,6 +2,7 @@
 	{
 		"Additives": {
 			"3": "Antioxidationsmittel",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -10,19 +11,19 @@
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-11T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Curry Gemüseeintopf (3, Sl, Sf)",
+		"LactoseFree": false,
+		"Name": "Curry Gemüseeintopf (3, La, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
+			"3": "Antioxidationsmittel",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -31,7 +32,7 @@
 		"Date": "2020-02-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Milchreis (La), Pflaumenkompott (1, La)",
+		"Name": "Milchreis (La), Apfelkompott (3)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -109,8 +110,6 @@
 	{
 		"Additives": {
 			"6": "Geschwärzt",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -119,14 +118,14 @@
 		"Date": "2020-02-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Mais mit Gemüsestreifen (Sl), gebratene Paprika, Tomaten-Oliven-Ragout (6), Gnocchi (Gl, Ei)",
+		"Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Mais mit bunten Gemüsen (Sl), gebratene Paprika, Tomaten-Oliven-Ragout (6), gebratene Drillinge",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
