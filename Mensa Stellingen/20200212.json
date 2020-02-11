@@ -69,15 +69,17 @@
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Gut und günstig",
 		"Date": "2020-02-12T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Mini-Leberkäse (2, 3, 8), Bayrisch Kraut (3, 5, Sw), Kartoffeln aus dem Ofen",
+		"LactoseFree": false,
+		"Name": "Mini-Leberkäse (2, 3, 8), süße Senfsoße (5, La, Sf, Sw), Bayrisch Kraut (3, 5, Sw), Kartoffeln aus dem Ofen",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 3.8,
@@ -88,7 +90,8 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -96,7 +99,7 @@
 		"Date": "2020-02-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
+		"Name": "Kürbis-Gemüse-Ragout mit Tomate & Rucola (Sw), Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.25,
