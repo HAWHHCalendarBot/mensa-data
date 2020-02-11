@@ -1,20 +1,23 @@
 [
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-02-21T00:00:00.000Z",
+		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Tagessuppe",
+		"LactoseFree": false,
+		"Name": "Geflügelsuppe mit Gemüse (Gl, La, Sl)",
 		"Pig": false,
-		"Poultry": false,
+		"Poultry": true,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
@@ -23,18 +26,15 @@
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-02-21T00:00:00.000Z",
+		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Krakauer Bratwurst (2, 3, 4, 8, So, Sf), Zwiebelsoße (Sl), Erbsen-Karotten Gemüse (La), Kartoffelpüree (La)",
+		"LactoseFree": true,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Röstkartoffeln",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.3,
@@ -46,22 +46,21 @@
 	{
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
-		"Date": "2020-02-21T00:00:00.000Z",
+		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kartoffel - Gemüseauflauf (Ei, La, Sl), Kräutersoße (Gl, La)",
+		"LactoseFree": true,
+		"Name": "Vegetarischer Grünkohl (Sl, Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.4,
-		"PriceStudent": 3,
+		"PriceAttendant": 4.45,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.15,
 		"Vegan": false,
 		"Vegetarian": true
 	}
