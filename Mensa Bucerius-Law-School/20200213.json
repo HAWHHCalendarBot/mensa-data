@@ -21,28 +21,6 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
-		"Date": "2020-02-13T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Rosenkohl in Rahm (Gl, La, Sl), Blattspinat, Tomaten Mango Belugalinsenragout (2, Sl), Blechkartoffeln",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -63,6 +41,26 @@
 	},
 	{
 		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-02-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Zwiebelsuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
@@ -74,8 +72,8 @@
 		"Date": "2020-02-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Linsensuppe (2, 3, 8, Sl), Geflügel Wiener (2, 3, 8)",
-		"Pig": true,
+		"Name": "Linsensuppe (Sl), Geflügel Wiener (2, 3, 8)",
+		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 3.45,
 		"PriceGuest": 3.9,
