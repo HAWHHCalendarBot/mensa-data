@@ -22,6 +22,10 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -31,7 +35,7 @@
 		"Date": "2020-02-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kartoffel-Bohnen-Suppe (So, Sl)",
+		"Name": "Bohnensuppe mit Räuchertofu (1, 2, Gl, So, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -62,17 +66,15 @@
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse"
+			"Se": "Sesam/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Campus Spezial",
 		"Date": "2020-02-17T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Putensteak, Kokos-Curry-Soße (3, La, Sf), Brokkoli, Langkorn-Wildreis-Mix",
+		"LactoseFree": true,
+		"Name": "Putensteak, Kokos-Curry-Soße, Brokkoli, Sesamkartoffeln (Se)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 5.95,
@@ -83,8 +85,10 @@
 	},
 	{
 		"Additives": {
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -92,7 +96,7 @@
 		"Date": "2020-02-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pikantes Jackfruit-Chili mit Kichererbsen, Mais & Bohnen (Sl, Sf), Langkorn-Wildreis-Mix",
+		"Name": "Pikantes Jackfruit-Chili mit Kichererbsen, Mais & Bohnen (2, Gl, So, Sl), Langkorn-Wildreis-Mix",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.8,
