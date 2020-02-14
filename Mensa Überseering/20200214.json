@@ -66,8 +66,9 @@
 	{
 		"Additives": {
 			"5": "Geschwefelt",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -75,40 +76,18 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-14T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Mandelbroccoli (La, Nu), Rosenkohl (La), gebratene Paprika (5, Sw)",
+		"LactoseFree": true,
+		"Name": "Wirsing in Chilicreme (Gl, So, Sl), Spanisches Pfannengemüse, gebratene Paprika (5, Sw), Zuckerschoten",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-14T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kräutersoße (Gl, La), Gnocchi (Gl, Ei)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
@@ -117,7 +96,28 @@
 		"Date": "2020-02-14T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Napoli, Tomatensoße, Kartoffel-Gnocchi (Gl, Ei)",
+		"Name": "Pasta Napoli, Tomatensoße, Fusilli (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-14T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Soja-Kräutersoße (Gl, So, La), Fusilli (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
