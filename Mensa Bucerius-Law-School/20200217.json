@@ -46,7 +46,6 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -55,15 +54,37 @@
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-02-17T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta gran sapore mit Auberginen (La, Sl, Sw), Fusilli (Gl)",
+		"LactoseFree": true,
+		"Name": "Pasta gran sapore mit Auberginen (Sl, Sw), Fusilli (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-02-17T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Kartoffelsuppe (Sl), Geflügel Wiener Würstchen (2, 3, 8)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
