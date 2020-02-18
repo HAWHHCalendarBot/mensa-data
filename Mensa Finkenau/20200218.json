@@ -23,18 +23,20 @@
 	{
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-02-18T00:00:00.000Z",
-		"Fish": false,
+		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Champignonrahmsoße (Gl, La, Sl), Pommes Frites (Sf)",
+		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Champignonrahmsoße (Gl, Fi, So, La, Sl), Pommes Frites (Sf)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.65,
@@ -65,6 +67,7 @@
 		"Additives": {
 			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -73,7 +76,7 @@
 		"Date": "2020-02-18T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Tomaten Chili Knoblauch Spaghetti mit Tofu (6, Gl, So)",
+		"Name": "Tomaten Chili Knoblauch Spaghetti mit Tofu (6, Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.35,
@@ -94,7 +97,7 @@
 		"Date": "2020-02-18T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta mit Cherrytomaten und Basilikumpesto,Sonnenblumenkerne (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
