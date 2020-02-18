@@ -1,6 +1,50 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-26T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Milchreis (La), Rhabarberkompott (1, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-02-26T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kasseler Nackenbraten (2, 3, La, Sl), Salzkartoffeln",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.4,
+		"PriceStudent": 3,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
@@ -10,55 +54,12 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei, La)",
+		"Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei, La), Basmatireis",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.9,
-		"PriceGuest": 4.9,
-		"PriceStudent": 3.05,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Gut und günstig",
-		"Date": "2020-02-26T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Texashacksteak (Gl, Ei), Pfefferrahmsoße (Gl, La, Sl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.1,
-		"PriceGuest": 3.9,
-		"PriceStudent": 1.95,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-02-26T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Gnocchi mit Austernpilzen, Erbsen und Paprika (Gl, Ei, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.35,
-		"PriceGuest": 5.45,
-		"PriceStudent": 3.05,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.6,
 		"Vegan": false,
 		"Vegetarian": true
 	}
