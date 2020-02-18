@@ -2,6 +2,7 @@
 	{
 		"Additives": {
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Se": "Sesam/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -10,7 +11,7 @@
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Karotten-Kartoffel-Suppe (La, Sl)",
+		"Name": "Karotten-Kartoffel-Suppe mit Sesam (La, Sl, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -21,6 +22,8 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"Sf": "Senf/-erzeugnisse",
 			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -30,7 +33,7 @@
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Marinierte Hähnchenbrust (So), Paprikagemüse mit Tomate, Apfel & Bambus (Sw), Reis-Mix",
+		"Name": "Marinierte Hähnchenbrust (1, So, Sf), Paprikagemüse mit Tomate, Apfel & Bambus (1, Sf, Sw), Reis-Mix",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.6,
@@ -64,8 +67,11 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
-			"Sf": "Senf/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -73,7 +79,7 @@
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kartoffelrösti (3), Ofengemüse, Koriander-Dip (1, Sf)",
+		"Name": "Kartoffelrösti (3), Ofengemüse (2, Gl, So), Koriander-Dip (1, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.95,
