@@ -1,6 +1,7 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -11,7 +12,27 @@
 		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Germknödel (Gl, Ei, La), Mohnzucker, Vanillesoße (La)",
+		"Name": "Kaiserschmarrn (Gl, Ei, La), Kirschgrütze (1, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-19T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Spargelsuppe (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -65,7 +86,6 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -74,15 +94,15 @@
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Nudelpfanne mit Zucchini, Staudensellerie und Radicchio (Gl, La, Sl, Sw)",
+		"LactoseFree": true,
+		"Name": "Nudelpfanne mit Zucchini, Staudensellerie und Radicchio in Hausgemachte Tomatensoße (Gl, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {

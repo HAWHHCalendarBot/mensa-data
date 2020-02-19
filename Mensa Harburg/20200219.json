@@ -25,8 +25,7 @@
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -34,7 +33,7 @@
 		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Tomaten-Kokossuppe (3, Gl, So, Sl)",
+		"Name": "Tomaten-Kokossuppe (3, Gl, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -104,7 +103,7 @@
 		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Mangold - Weißkohl Pfanne, Paprikagemüse, Orientalisches Linsengemüse (Sl), Broccoli, Langkorn Wildreis",
+		"Name": "Mangold - Weißkohl - Porree, Paprikagemüse, Mischgemüse (Sl), Orientalisches Linsengemüse (Sl), Broccoli, Kurkumareis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -157,27 +156,6 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta Florentin mit Blattspinat (Gl, So, Sl), Pasta (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
@@ -190,13 +168,35 @@
 		"Date": "2020-02-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Matrigiana mit Speck und Tomaten (2, 3, 8), Hartkäse (La), Pasta (Gl)",
+		"Name": "Pasta Boscaiola mit Mischpilzen und Speck (2, 3, 8), Pasta (Gl), Hartkäse (La)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-19T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pasta Tomaten-Sojasauce vegan (1, 2, Gl, So), Pasta (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
 		"Vegetarian": false
 	}
 ]
