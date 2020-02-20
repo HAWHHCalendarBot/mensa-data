@@ -1,6 +1,46 @@
 [
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-20T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Grünkohlsuppe mit Tofu (Ei, Sf)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-20T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Milchreis (La), Apfelkompott (3)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sf": "Senf/-erzeugnisse",
@@ -13,7 +53,7 @@
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Hähnchennuggets in pikanter Tandoorisoße (2, Gl, So, Sl, Sf), Reis",
+		"Name": "Hähnchennuggets in (2, Gl, So, Sl), Gemüsepfanne Süß-Sauer (2, Gl, So, Sl, Sf), Reis",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.7,
@@ -44,6 +84,26 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-20T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Tortellini mit Käsefüllung (Gl, La), Gorgonzolasoße (Gl, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"9": "Süßungsmittel",
@@ -59,9 +119,9 @@
 		"Name": "Kartoffelrösti (3), gebratenes Gemüse, Salsa Verde (3, 5, 9, Sf, Sw)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 0,
-		"PriceStudent": 0,
+		"PriceAttendant": 3.95,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.65,
 		"Vegan": true,
 		"Vegetarian": false
 	}

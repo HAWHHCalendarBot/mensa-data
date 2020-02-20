@@ -23,23 +23,23 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Paprika Polentasuppe mit Hirtenkäse (La, Sl)",
+		"LactoseFree": true,
+		"Name": "Gulaschsuppe mit Rindfleisch und Rote Beete (Gl, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -90,23 +90,26 @@
 	},
 	{
 		"Additives": {
-			"Nu": "Schalenfrüchte/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Mangold mit gerösteten Walnüssen (Nu), Paprikagemüse mit Mango und Kokosmilch, Orientalisches Linsengemüse (Sl), Broccoli, Langkorn Wildreis",
+		"Name": "Prinzeßbohnen Asia Style (Gl), Pad Thai Reisnudeln mit Gemüse und Soja, vegan (2, Gl, So), Prinzessbohnen mit Sesam (Se), Gemüse Bulgur (Gl, Sl), Bohnen-Kartoffel Ragout mit Rinderhack",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -134,11 +137,10 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -146,14 +148,14 @@
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta All`Amatriciana mit Speck und Tomaten (2, 3, 8), Hartkäse (La), Vollkorn Penne (Gl)",
-		"Pig": true,
+		"Name": "Pasta Funghi mit Gemüse und Käse (Gl, La, Sl, Sw)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": false
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
