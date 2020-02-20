@@ -1,25 +1,23 @@
 [
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": true,
+		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Erbseneintopf mit Speckwürfel (2, 3, 8, Sl)",
-		"Pig": true,
+		"LactoseFree": false,
+		"Name": "Erbseneintopf (La, Sl)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
 		"Vegan": false,
-		"Vegetarian": false
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -108,64 +106,69 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Prinzeßgemüse, Mexikanisches Gemüse (Sl), gebratene Zucchini, Pfannen Champignons, Kartoffelgratin (Ei, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-20T00:00:00.000Z",
-		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Campagnola mit Kürbis, Bohnen und Hähnchenstreifen,, Pasta (Gl)",
-		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"6": "Geschwärzt",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-20T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta con verdure mit buntem Gemüse (6, Sl, Sw), Pasta (Gl)",
+		"Name": "Gemüsebar, Zucchini, gebratene Champignons (Sl, Sw), Prinzessbohnen, Ofenkartoffeln, Porree, Paprika, Soja-Ragout (2, Gl, So)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-20T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Linsengemüse in Tomatensoße vegan (2, Gl, So), Pasta (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-02-20T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta All`Amatriciana mit Speck und Paparika (2, 3, 8), Hartkäse (La), Pasta (Gl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
