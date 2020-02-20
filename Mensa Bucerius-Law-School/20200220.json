@@ -27,7 +27,8 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -35,12 +36,35 @@
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Penne (Gl)",
-		"Pig": true,
+		"Name": "Pasta Contadino mit Schweinefleisch und Zucchini (So, Sl), Penne (Gl)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-02-20T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Schnittbohnensuppe (2, 3, 8, La, Sl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -69,20 +93,21 @@
 	},
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-02-20T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Belgische Pommes, Guacamole, gebratene Paprika mit Knoblauch und Kräutern",
+		"LactoseFree": false,
+		"Name": "Belgische Pommes, Guacamole (La), gebratene Paprika mit Knoblauch und Kräutern",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.4,
 		"PriceGuest": 3.85,
 		"PriceStudent": 2.95,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
