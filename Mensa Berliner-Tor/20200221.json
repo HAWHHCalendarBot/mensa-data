@@ -1,29 +1,9 @@
 [
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-02-21T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"3": "Antioxidationsmittel",
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -33,13 +13,13 @@
 		"Date": "2020-02-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Tomaten-Kokossuppe (3, Gl, So, Sl)",
+		"Name": "Asiatische Gemüsesuppe süß-sauer (2, Gl, So, Sl, Sf)",
 		"Pig": false,
-		"Poultry": false,
+		"Poultry": true,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
@@ -93,9 +73,7 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -103,21 +81,22 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-21T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "gebratener Pak Choi (2, Gl, So), Blumenkohl mit gebräunten Bröseln (Gl, La), Karottengemüse in Kräuterrahm (Gl, La), Dicke Bohnen meditterraneo, Spätzle (Gl, Ei, La)",
+		"LactoseFree": true,
+		"Name": "Buntes Gemüse, gebraten (Gl), Pad Thai Reisnudeln mit Gemüse und Soja, vegan (2, Gl, So), Spitzkohl",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -125,7 +104,7 @@
 		"Date": "2020-02-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Gorgonzola (La), Hartkäse (La), Gnocchi (Gl, Ei)",
+		"Name": "Pasta Funghi mit Gemüse und Käse (Gl, La, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
