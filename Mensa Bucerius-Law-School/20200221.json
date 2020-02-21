@@ -27,7 +27,6 @@
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -36,19 +35,18 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-21T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Mandelbroccoli (La, Nu), Karotten Pastinakenmix mit frischer Petersilie, gebratene Paprika (5, Sw), Auberginen mit Balsamico Bianco (3, 5, Sw)",
+		"LactoseFree": true,
+		"Name": "Mandelbroccoli (Nu), Karotten Pastinakenmix mit frischer Petersilie, gebratene Paprika, Auberginen mit Balsamico Bianco (3, 5, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
@@ -60,7 +58,7 @@
 		"Date": "2020-02-21T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "bunte Fusilli (Gl), Kürbis Currysoße (3, Gl, So, Sl, Sf)",
+		"Name": "bunte Fusilli (Gl), Kürbis Currysoße (So, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -68,6 +66,26 @@
 		"PriceStudent": 0.65,
 		"Vegan": true,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-02-21T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Champignoncremesuppe (Gl, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
