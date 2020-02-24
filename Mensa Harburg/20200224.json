@@ -1,8 +1,13 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -10,7 +15,7 @@
 		"Date": "2020-02-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Vegetarische Erbsencremesuppe (La, Sl)",
+		"Name": "Curry Gemüseeintopf (2, 3, Gl, So, La, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -94,7 +99,7 @@
 		"Date": "2020-02-24T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Sommergemüse, Tomaten Belugalinsenragout (2, Sl), Spitzkohl mediteran (6), Zucchinigemüse mit gerösteten Sonnenblumenkernen, Pfannengemüse mit Kartoffeln und Quinoa",
+		"Name": "Sommergemüse, Tomaten Linsenragout (2, Sl), Spitzkohl mediteran (6), Zucchinigemüse mit gerösteten Sonnenblumenkernen, Pfannengemüse mit Kartoffeln und Quinoa",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -105,22 +110,23 @@
 	},
 	{
 		"Additives": {
-			"6": "Geschwärzt"
+			"6": "Geschwärzt",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gut und günstig",
 		"Date": "2020-02-24T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Rosenkohlpfanne mit Kürbis und Kartoffeln (6)",
+		"LactoseFree": false,
+		"Name": "Rosenkohlpfanne mit Kürbis und Kartoffeln (6), Kräuter-Schmanddip (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.75,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.45,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
