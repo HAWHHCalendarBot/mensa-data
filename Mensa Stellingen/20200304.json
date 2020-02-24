@@ -1,24 +1,21 @@
 [
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-03-04T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Germknödel (Gl, Ei, La), Vanillesoße (La)",
+		"LactoseFree": true,
+		"Name": "Tagessuppe",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -45,29 +42,6 @@
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Campus Spezial",
-		"Date": "2020-03-04T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsepfanne Thai Green mit Frühlingsrollen (2, Gl, So, Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.95,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.95,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Kr": "Krebstier(e)/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse",
@@ -79,13 +53,36 @@
 		"Date": "2020-03-04T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüsepfanne Thai Green mit Knuspergarnelen (2, Gl, Kr, So, Sl, Sw)",
+		"Name": "Gebackene Garnelen auf Gemüsepfanne Thai Green (2, Gl, Kr, So, Sl, Sw), Langkorn-Wildreis-Mix",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.95,
 		"PriceGuest": 6.2,
 		"PriceStudent": 3.95,
 		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-03-04T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Mini-Frühlingsrollen mit Gemüsepfanne Thai Green (2, Gl, So, Sl, Sw), Langkorn-Wildreis-Mix",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.95,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.95,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
