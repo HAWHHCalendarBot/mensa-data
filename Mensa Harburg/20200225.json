@@ -1,8 +1,6 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"9": "Süßungsmittel",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -13,7 +11,7 @@
 		"Date": "2020-02-25T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Beerenkompott (1, 9, La)",
+		"Name": "2 Eierpfannkuchen (Gl, Ei, La), kalte Vanille-Schmandsoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -24,6 +22,7 @@
 	},
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -31,21 +30,22 @@
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-25T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Vegane Linsensuppe (Sl)",
+		"LactoseFree": false,
+		"Name": "Vegetarische Erbsensuppe (La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"5": "Geschwefelt",
 			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -54,7 +54,7 @@
 		"Date": "2020-02-25T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüsepfanne Hot Spice (2, 5, Sl, Sw), Basmatireis",
+		"Name": "Gemüsepfanne Hot Spice (2, 5, So, Sl, Sw), Basmatireis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.05,
@@ -89,6 +89,53 @@
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-02-25T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kasseler Nackenbraten (2, 3, La, Sl), Salzkartoffeln",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.4,
+		"PriceStudent": 3,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-02-25T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Salzkartoffeln",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.4,
+		"PriceStudent": 3,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -101,7 +148,7 @@
 		"Date": "2020-02-25T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Kasseler Nackenbraten (2, 3, La, Sl), Röstkartoffeln",
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Kasseler Nackenbraten (2, 3, La, Sl), Salzkartoffeln",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 5.3,
@@ -113,7 +160,10 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
-			"6": "Geschwärzt"
+			"5": "Geschwefelt",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -121,7 +171,7 @@
 		"Date": "2020-02-25T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Erbsen, Karotten (1), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Gebratene Champignons, gebratene Drillinge",
+		"Name": "Rosenkohl mit Mandeln (Nu, Sl), Karotten (1), Grüne und gelbe Zucchini mit Cherrytomate, Gebratene Champignons (5, Sw), gebratene Drillinge",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
