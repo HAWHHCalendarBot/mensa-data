@@ -34,7 +34,7 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Blattspinat Asia Style (Gl), Stangenbrechbohnen Provencial, Austernpilze mit roten Zwiebeln, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La, Sl)",
+		"Name": "Blattspinat Asia Style (Gl), Kohlrabi in Rahm (Gl, La), Stangenbrechbohnen Provencial, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -45,21 +45,40 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Penne mit Kürbis Bolognese (Gl, La)",
+		"LactoseFree": true,
+		"Name": "Penne mit Kürbis Bolognese (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-02-26T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Champignoncremesuppe (Gl, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": false,
 		"Vegetarian": true
 	},

@@ -22,23 +22,23 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kürbis-Koriander-Suppe (La, Sl)",
+		"LactoseFree": true,
+		"Name": "Kürbis-Koriander-Suppe (So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -62,8 +62,8 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"5": "Geschwefelt",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -72,7 +72,7 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), Karotten Rustica, Zuckerschoten, gebratene Champignons (Sw)",
+		"Name": "Süßkartoffel mit Kichererbsen und Spinat (So, Sf), gebratenes Gemüse, Zuckerschoten, gebratene Champignons (Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -95,7 +95,7 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Funghi mit Pilzen in Sahnesoße (3, Gl, La, Sl, Sw), Fusilli (Gl)",
+		"Name": "Pasta Funghi mit Pilzen in Sahnesoße (3, Gl, La, Sl, Sw), Strozzapreti (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -114,7 +114,7 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Napoli, Tomatensoße, Fusilli (Gl)",
+		"Name": "Pasta Napoli, Tomatensoße, Strozzapreti (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -128,7 +128,6 @@
 			"1": "Farbstoffe",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse",
@@ -140,12 +139,12 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Sojagyros (So, Sl), veganes Tzatziki (1, So, Sf), Krautsalat (3, 5, Sw), Gemüse Bulgur (Gl, Sl)",
+		"Name": "Sojagyros (So, Sl), veganes Tzatziki (1, So, Sf), Krautsalat (3, 5, Sw)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.65,
-		"PriceGuest": 5.85,
-		"PriceStudent": 3.35,
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.15,
+		"PriceStudent": 2.8,
 		"Vegan": true,
 		"Vegetarian": false
 	}
