@@ -1,17 +1,19 @@
 [
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-03-06T00:00:00.000Z",
+		"Date": "2020-03-02T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
+		"LactoseFree": false,
+		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Beerenkompott (1, 9, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -23,62 +25,48 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-03-06T00:00:00.000Z",
+		"Date": "2020-03-02T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse-Curry-Suppe mit Grünkern (Gl, So, Sl)",
+		"LactoseFree": false,
+		"Name": "Blumenkohl-Broccoli Suppe (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-03-06T00:00:00.000Z",
-		"Fish": false,
+		"Date": "2020-03-02T00:00:00.000Z",
+		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl), Paprikarahmsoße (La), Pommes Frites (Sf)",
-		"Pig": true,
+		"Name": "Gebackene Seelachsfiletwürfel (Gl, Fi, La), Remoulade (1, 3, 9, Ei, La, Sf, Sw), Pommes Frites (Sf)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.7,
 		"PriceGuest": 5.9,
 		"PriceStudent": 3.4,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-03-06T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Penne (Gl), Sauce Bolognese mit Rindfleisch, geriebener Käse (La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 4.75,
-		"PriceStudent": 2.5,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -90,10 +78,10 @@
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gut und günstig",
-		"Date": "2020-03-06T00:00:00.000Z",
+		"Date": "2020-03-02T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Veganes Chili con Corn mit Grünkern & Kichererbsen (Gl, Sl), Reis",
+		"Name": "Linsenbolognese in pikanter Soße (Sl), Spaghetti (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.35,
