@@ -75,27 +75,8 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-02-26T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kürbis-Koriander-Suppe (La, Sl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -104,7 +85,7 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Milchreis (La), Rhabarberkompott (1, La)",
+		"Name": "Milchreis (La), Beerenkompott (1, 9, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -115,9 +96,33 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-02-26T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pikante Gulaschsuppe mit Rindfleisch (2, Gl, So, Sl, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"6": "Geschwärzt",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -126,7 +131,7 @@
 		"Date": "2020-02-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Mais mit Gemüsestreifen (Sl), gebratene Paprika, Tomaten-Oliven-Ragout (6), Gnocchi (Gl, Ei)",
+		"Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Mais mit Gemüsestreifen (Sl), gebratene Paprika, Tomaten-Oliven-Ragout (6), Karotten (La), Gnocchi (Gl, Ei)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
