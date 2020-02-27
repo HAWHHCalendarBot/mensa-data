@@ -22,9 +22,31 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-02-27T00:00:00.000Z",
+		"Fish": true,
+		"LactoseFree": false,
+		"Name": "Seelachs Knusperecken (Gl, Ei, Fi, Sf), Kräuterdip (La), Broccoli (La), Reis",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -32,7 +54,7 @@
 		"Date": "2020-02-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust mit Tomaten Mozzarella Kruste (Gl, La), Broccoli (La), Curryreis (Sf)",
+		"Name": "Hähnchenbrust mit Tomaten Mozzarella Kruste (Gl, La), Tomatensoße, Broccoli (La), Kräuterreis",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.7,
@@ -43,26 +65,31 @@
 	},
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-27T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"LactoseFree": false,
+		"Name": "Kürbisgemüse (3, 5, Sl, Sw), Broccoli (La), Kartoffelgratin (Ei, La), Gemüsecurry mit Quorn (Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"Sf": "Senf/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -70,15 +97,15 @@
 		"Category": "Gut und günstig",
 		"Date": "2020-02-27T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Afrikanische Gemüse Kartoffel Tajine (Sl), Knoblauchdip (1, Sf)",
+		"LactoseFree": false,
+		"Name": "Afrikanische Gemüse Kartoffel Tajine (Sl), Kräuterdip (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.8,
 		"PriceGuest": 4.75,
 		"PriceStudent": 2.5,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -92,7 +119,7 @@
 		"Date": "2020-02-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta in Spinat - Käsesoße (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
