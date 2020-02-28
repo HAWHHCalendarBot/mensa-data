@@ -32,7 +32,7 @@
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust Tandoori (La, Sf), Tandoori Dip (La, Sf), Ingwermöhrchen mit Sesam (Se), Basmatireis",
+		"Name": "Hähnchenbrust Tandoori (La, Sf), Tandoori Dip (La, Sf), Ingwermöhrchen mit Sesam (Se), Reis",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.15,
@@ -43,35 +43,20 @@
 	},
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-02-28T00:00:00.000Z",
-		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Kürbisgemüse (3, 5, Sl, Sw), Broccoli (La), Kartoffelgratin (Ei, La), Gemüsecurry mit Quorn (Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -82,22 +67,21 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (La)",
+		"LactoseFree": true,
+		"Name": "Pasta (Gl), Soße Arrabiata",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.05,
 		"PriceGuest": 5.1,
 		"PriceStudent": 2.75,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
