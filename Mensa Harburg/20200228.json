@@ -43,6 +43,7 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Se": "Sesam/-erzeugnisse",
 			"Sf": "Senf/-erzeugnisse",
@@ -54,7 +55,7 @@
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust Tandoori (So, La, Sf), Tandoori Dip (La, Sf), Ingwermöhrchen mit Sesam (Se), Basmatireis",
+		"Name": "Hähnchenbrust Tandoori (So, La, Sf), Tandoori Dip (1, La, Sf), Ingwermöhrchen mit Sesam (Se), Basmatireis",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.15,
@@ -65,6 +66,7 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
@@ -77,7 +79,7 @@
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rosenkohl mit Mandeln (Nu, Sl), Erbsen-Mais Gemüse (La), Blattspinat in Sojarahm (Gl, So), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La, Sl), gebratenes Gemüse (Sl)",
+		"Name": "Rosenkohl mit Mandeln (Nu, Sl), Erbsen-Mais Gemüse (La), Blattspinat in Sojarahm (Gl, So), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La, Sl), gebratenes Gemüse (Sl), Kartoffelgratin (Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -88,7 +90,9 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"1": "Farbstoffe",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -96,7 +100,7 @@
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rosmarinkartoffeln, Schnittlauchquark (La), Mexikanischer Bohnensalat",
+		"Name": "Rosmarinkartoffeln, Schnittlauchquark (1, La, Sf), Mexikanischer Bohnensalat",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.6,
@@ -107,24 +111,29 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta des Tages",
+		"LactoseFree": false,
+		"Name": "Pasta \"Finferli\" Hähnchenstreifen mit Waldpilzen (La, Sl), Pasta (Gl), Hartkäse (La)",
 		"Pig": false,
-		"Poultry": false,
+		"Poultry": true,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -132,7 +141,7 @@
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta des Tages",
+		"Name": "Tomaten-Sojacremesoße (So), mit Pasta (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -152,7 +161,7 @@
 		"Date": "2020-02-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (La)",
+		"Name": "Pasta (Gl), Blattspinat Tomaten Frischkäsesoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.05,
