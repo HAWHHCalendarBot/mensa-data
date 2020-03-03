@@ -31,7 +31,7 @@
 		"Date": "2020-03-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Milchreis (La), Heidelbeerkompott (1, La)",
+		"Name": "Milchreis (La), Pflaumenkompott (1, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -114,7 +114,8 @@
 			"1": "Farbstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -122,7 +123,7 @@
 		"Date": "2020-03-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Blumenkohl, Bunter Rübenmix (Sl), Mangold Gemüse (Gl, So, Sl), gebackene Süßkartoffel (1)",
+		"Name": "Blumenkohl, Bunter Rübenmix (Sl), Mangold Gemüse in veganer Kokoscurrysoße (Gl, Sl, Sw), Kartoffelragout mit Pilzen (Gl, So, Sw), gebackene Süßkartoffel (1)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -142,36 +143,13 @@
 		"Date": "2020-03-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Vegane Chili sin carne (So, Sl), Kräuterreis",
+		"Name": "Vegane Chili sin carne (So, Sl), Vollkornreis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.35,
 		"PriceGuest": 4.2,
 		"PriceStudent": 2.05,
 		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-03-03T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Carbonara mit Speck (2, 3, 8, Gl, La), Hartkäse (La), Pasta (Gl)",
-		"Pig": true,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
@@ -194,6 +172,29 @@
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-03-03T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Rindergeschnetzeltes mit Pilzen \"ZüricherArt\" (3, Gl, So, La, Sl), Hartkäse (La), Pasta (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
 		"Vegetarian": false
 	}
 ]
