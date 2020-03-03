@@ -116,20 +116,16 @@
 		"Additives": {
 			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
-			"5": "Geschwefelt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Se": "Sesam/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
-		"Alcohol": true,
+		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-03-04T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), glacierte Perlzwiebeln in Rotwein (5, Sw), Karotten Rustica, Bratnudeln mit Gemüsestreifen (2, Gl, So, Se), Rosenkohl in Parmesanpanade (2, La), Gratinierter Blumenkohl (La), Gemüsemix Eskorial, Spicy Wedges (1, Gl)",
+		"Name": "Rosenkohl in Parmesanpanade (2, La), Gratinierter Blumenkohl (La), Gemüsemix Eskorial, Spicy Wedges (1, Gl), Karotten Rustica",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -182,23 +178,22 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-03-04T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Gorgonzola (La), Eliche (Gl)",
+		"LactoseFree": true,
+		"Name": "Tomatensoße Napoli, Maccaroni (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
