@@ -97,8 +97,11 @@
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": true,
@@ -107,7 +110,7 @@
 		"Date": "2020-03-04T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Kasseler Nackenbraten (2, 3, La, Sl), Thymian-Rotweinsoße (La, Sw), Broccoli, Rosmarinkartoffeln",
+		"Name": "Kasseler Nackenbraten (2, 3, La, Sl), Rotweinrahmsoße (Gl, So, La, Sl, Sw), Broccoli, Spätzle (Gl, Ei)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 5.3,
@@ -119,23 +122,23 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-03-04T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "glacierte rote Beete, Gemüsepfanne Texas (Gl), gedünsteter Kohlrabi, Ratatouille (Sl, Sw), Rosmarinkartoffeln",
+		"LactoseFree": false,
+		"Name": "glacierte rote Beete, Tricolore Gemüse (La, Sl), gedünsteter Kohlrabi, Mangold Gemüse in Kokoscurrysoße (Gl), Röstkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
