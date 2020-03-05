@@ -23,31 +23,12 @@
 	},
 	{
 		"Additives": {
-			"Fi": "Fisch/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Campus Spezial",
-		"Date": "2020-03-06T00:00:00.000Z",
-		"Fish": true,
-		"LactoseFree": false,
-		"Name": "Kabeljau auf Blattspinat mit Tomaten Penne (Gl, Fi, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 5.8,
-		"PriceGuest": 9.6,
-		"PriceStudent": 4.8,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
+			"1": "Farbstoffe",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"6": "Geschwärzt",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -55,14 +36,14 @@
 		"Category": "Vegetarisch",
 		"Date": "2020-03-06T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Backkartoffel, Tzatziki (La), griechisches Gemüse (6), Krautsalat (3, 5, Sw)",
+		"LactoseFree": true,
+		"Name": "Backkartoffel, veganes Tzatziki (1, So, Sf), griechisches Gemüse (6), Krautsalat (3, 5, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.2,
 		"PriceGuest": 5.8,
 		"PriceStudent": 2.9,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
