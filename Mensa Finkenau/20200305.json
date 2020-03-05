@@ -43,26 +43,32 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-03-05T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"LactoseFree": false,
+		"Name": "pikantes Grillgemüse (Sl, Sf), Blumenkohl, Gnocchi (Gl, Ei), Karotten (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -70,7 +76,7 @@
 		"Date": "2020-03-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Linsenbolognese in pikanter Soße (Sl), Conchiglie (Gl)",
+		"Name": "Linsenbolognese in pikanter Soße (So, Sl), Conchiglie (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.35,
@@ -91,7 +97,7 @@
 		"Date": "2020-03-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "In Rahm gebackene Kartoffeln (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,

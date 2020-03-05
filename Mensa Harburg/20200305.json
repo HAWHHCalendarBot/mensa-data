@@ -2,7 +2,6 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
-			"9": "Süßungsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
@@ -12,7 +11,7 @@
 		"Date": "2020-03-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Grießspeise (Gl, La), Beerenkompott (1, 9, La)",
+		"Name": "Grießspeise (Gl, La), Kirschgrütze (1, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -40,27 +39,6 @@
 		"PriceStudent": 1.4,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-03-05T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Vegane Tom Kha Suppe (So, Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -135,8 +113,11 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
@@ -146,8 +127,8 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-03-05T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Zuckerschoten (Sl), glasierte Honigmöhren, Champignon Lauchpfanne mit Balsamico (5, Sw), Currycremewirsing (Gl, So), Tomatenbulgur (Gl)",
+		"LactoseFree": false,
+		"Name": "veganer Weißkohlcurry (2, Gl, So, Sl), bunte Kartoffel-Gemüsepfanne, Champignon Lauchpfanne mit Balsamico (5, Sw), Currycremewirsing (Gl, So), Milchschnitzel (Gl, Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
