@@ -23,7 +23,8 @@
 	},
 	{
 		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -31,7 +32,7 @@
 		"Date": "2020-03-09T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kartoffelsuppe (Sl)",
+		"Name": "Vegane Kartoffelsuppe (So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -65,6 +66,51 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-03-09T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Hähnchenbrust Geschnetzeltes \"Toscana Art \" (Sl), Penne (Gl)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-03-09T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Schweineschnitzel (1, Gl), Sauerkraut mit Speck (2, 3, 8, Sl), Kartoffelpüree (La)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
@@ -84,28 +130,6 @@
 		"PriceStudent": 3.75,
 		"Vegan": false,
 		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
-		"Date": "2020-03-09T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "gebratener, bunter Pak Choi (So), Blumenkohl, Karottengemüse, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl), Schupfnudeln (Gl, Ei)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -130,52 +154,11 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-03-09T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta \"Paprica\" Paprika mit grünem Pfeffer (So, Sl), Pasta (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Fi": "Fisch/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-03-09T00:00:00.000Z",
-		"Fish": true,
-		"LactoseFree": false,
-		"Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl, Fi, La, Sl), Pasta (Gl), Hartkäse (La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Nu": "Schalenfrüchte/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -183,12 +166,12 @@
 		"Date": "2020-03-09T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "+++NEU & LECKER BEI UNS+++, All in one pot - Paellastyle mit Salatmix, Chiasamen und Walnüsse (2, Nu, Sl)",
+		"Name": "+++NEU & LECKER BEI UNS+++, All in one pot - Paellastyle mit Räuchertofu, Salatmix, Chiasamen und Walnüsse (2, Gl, So, Nu, Sl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 4.75,
-		"PriceStudent": 2.5,
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.35,
+		"PriceStudent": 3.75,
 		"Vegan": true,
 		"Vegetarian": false
 	}
