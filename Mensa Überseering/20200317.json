@@ -1,10 +1,10 @@
 [
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -12,13 +12,13 @@
 		"Date": "2020-03-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Kartoffelsuppe (2, 3, 8, Sl)",
-		"Pig": true,
+		"Name": "Süßkartoffelsuppe (3, Gl, So, Sl)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
@@ -43,76 +43,6 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"5": "Geschwefelt",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Wok",
-		"Date": "2020-03-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsepfanne Hot Spice mit Tomaten (2, 5, Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.35,
-		"PriceGuest": 4.25,
-		"PriceStudent": 2.2,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"5": "Geschwefelt",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Aus dem Wok",
-		"Date": "2020-03-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Rindfleisch Hot Spice mit Tomaten (2, 5, Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4,
-		"PriceGuest": 5.05,
-		"PriceStudent": 3.1,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Se": "Sesam/-erzeugnisse",
-			"Sf": "Senf/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-03-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Hamburger mit Tomate, Gurke und Salat (1, 2, 3, 9, Gl, Ei, Sf, Se)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.55,
-		"PriceGuest": 4.5,
-		"PriceStudent": 2.4,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
 			"Fi": "Fisch/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
@@ -123,12 +53,12 @@
 		"Date": "2020-03-17T00:00:00.000Z",
 		"Fish": true,
 		"LactoseFree": true,
-		"Name": "Thai Chicken (Fi, So, Sl)",
+		"Name": "Thai Chicken (Fi, So, Sl), Kokosreis",
 		"Pig": false,
 		"Poultry": true,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 4.8,
-		"PriceStudent": 2.95,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.5,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -143,32 +73,12 @@
 		"Date": "2020-03-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Austernpilzragout (Gl, La), Spanisches Pfannengemüse, Brechbohnen, Broccoli mit Hirtenkäse (La), Nusskartoffeln",
+		"Name": "Austernpilzragout (Gl, La), Spanisches Pfannengemüse, Brechbohnen, Broccoli mit Hirtenkäse (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Gut und günstig",
-		"Date": "2020-03-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kräuterrührei (Ei, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.95,
-		"PriceGuest": 3.75,
-		"PriceStudent": 1.8,
 		"Vegan": false,
 		"Vegetarian": true
 	},
@@ -186,7 +96,7 @@
 		"Date": "2020-03-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Funghi mit Pilzen in Sahnesoße (3, Gl, La, Sl, Sw), Hartkäse (La), Spaghetti (Gl)",
+		"Name": "Pasta Funghi mit Pilzen in Sahnesoße (3, Gl, La, Sl, Sw), Hartkäse (La), Farfalle (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -197,8 +107,7 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -206,13 +115,13 @@
 		"Date": "2020-03-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Spaghetti (Gl)",
+		"Name": "Pasta Napoli, Tomatensoße, Farfalle (Gl)",
 		"Pig": false,
-		"Poultry": true,
+		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
@@ -235,32 +144,5 @@
 		"PriceStudent": 2,
 		"Vegan": true,
 		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Se": "Sesam/-erzeugnisse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-03-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Vegetarischer Hamburger (1, 2, 3, 9, Gl, Ei, Sl, Sf, Se)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0,
-		"Vegan": false,
-		"Vegetarian": true
 	}
 ]

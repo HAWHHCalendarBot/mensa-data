@@ -45,67 +45,6 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Wok",
-		"Date": "2020-03-20T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Entenfleisch Honey Pepper (1, Sl, Sw)",
-		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 4,
-		"PriceGuest": 5.05,
-		"PriceStudent": 3.1,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Wok",
-		"Date": "2020-03-20T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsepfanne Honey Pepper (Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.35,
-		"PriceGuest": 4.25,
-		"PriceStudent": 2.2,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-03-20T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Hausgemachte Lasagne Bolognese (Gl, La), Tomatensoße",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6,
-		"PriceStudent": 3.5,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
@@ -130,7 +69,6 @@
 		"Additives": {
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -139,7 +77,7 @@
 		"Date": "2020-03-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rosenkohl (La), Bunter Rübenmix (Sl), pikante Zucchiniwürfel, Buntes Wokgemüse Indonesia (So, Sf), Duftreis",
+		"Name": "Rosenkohl (La), pikante Zucchiniwürfel, Broccoli, Buntes Wokgemüse Indonesia (So, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -150,28 +88,31 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gut und günstig",
 		"Date": "2020-03-20T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+		"LactoseFree": true,
+		"Name": "Vegane Carbonara mit Tofuwürfel (1, 2, Gl, So, Sl, Sf), Conchiglie (Gl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.75,
-		"PriceGuest": 4.7,
-		"PriceStudent": 2.45,
-		"Vegan": false,
-		"Vegetarian": true
+		"PriceAttendant": 3.65,
+		"PriceGuest": 4.6,
+		"PriceStudent": 2.35,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
@@ -180,53 +121,13 @@
 		"Date": "2020-03-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Boscaiola mit Mischpilzen und Speck (2, 3, 8), Eliche (Gl)",
-		"Pig": true,
+		"Name": "Pasta Napoli, Tomatensoße, Kartoffel-Gnocchi (Gl, Ei)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"6": "Geschwärzt",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-03-20T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta mit Spinat und Olivenöl (6, Sf), Eliche (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-03-20T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Kichererbsen Bohnenpfanne mit Paprika, Zucchini und Auberginen (Sw), Korianderkartoffeln",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.75,
-		"PriceStudent": 3.3,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegetarian": true
 	}
 ]

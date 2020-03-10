@@ -22,67 +22,22 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-03-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Tomatensuppe (La, Sl)",
+		"Name": "Käse-Lauchsuppe mit Rinderhack (1, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Wok",
-		"Date": "2020-03-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsepfanne Thai Red (2, Gl, So, Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.35,
-		"PriceGuest": 4.25,
-		"PriceStudent": 2.2,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Wok",
-		"Date": "2020-03-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Putenfleisch Thai Red (2, Gl, So, Sl, Sw)",
-		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 4,
-		"PriceGuest": 5.05,
-		"PriceStudent": 3.1,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -110,23 +65,23 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Campus Spezial",
+		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-03-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Entenbrustfilet, Pfefferrahmsoße mit Mango-Chutney (Gl, La, Sl)",
+		"LactoseFree": true,
+		"Name": "Veganes Mango Bananen Gemüse Curry (2, Gl, So), Basmatireis",
 		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 5.1,
-		"PriceGuest": 6.45,
-		"PriceStudent": 4.4,
-		"Vegan": false,
+		"Poultry": false,
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
@@ -142,7 +97,7 @@
 		"Date": "2020-03-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rosenkohl in Rahm (Gl, La, Sl), Blattspinat, Tomaten Mango Belugalinsenragout (2, Sl), Fenchelgemüse (Sl), Blechkartoffeln",
+		"Name": "Blattspinat, Tomaten Mango Belugalinsenragout (2, Sl), Austernpilze in Schnittlauchrahm (La), Gemüsepfanne Texas (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -154,83 +109,40 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"So": "Soja/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gut und günstig",
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-03-19T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Basilico (Gl, La), Hartkäse (La), Strozzapreti (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-03-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Tagliatelle (Gl), Lauch- Sojasahne (So)",
+		"Name": "Pasta Napoli, Tomatensoße, Strozzapreti (Gl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.6,
-		"PriceGuest": 4.5,
-		"PriceStudent": 2.3,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
 		"Vegan": true,
 		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-03-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Basilico (Gl, La), Hartkäse (La), Farfalle (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-03-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Nerone mit Schweinefleisch und Gemüse (La, Sl), Hartkäse (La), Farfalle (Gl)",
-		"Pig": true,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-03-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Käsespätzle mit Zwiebelschmelze (Gl, Ei, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.4,
-		"PriceStudent": 2.35,
-		"Vegan": false,
-		"Vegetarian": true
 	}
 ]
