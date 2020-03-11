@@ -2,6 +2,49 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-03-11T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Milchreis (La), Kirschgrütze (1, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"3": "Antioxidationsmittel",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-03-11T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane mediterane Suppe von Hülsenfrüchten mit Gemüse (1, 3, Gl, So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 2.8,
+		"PriceStudent": 1.4,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
@@ -28,6 +71,7 @@
 	},
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Se": "Sesam/-erzeugnisse",
@@ -40,7 +84,7 @@
 		"Date": "2020-03-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Veganer Jackfruitburger (5, Gl, Sf, Se, Sw), Pommes Frites (Sf)",
+		"Name": "Veganer Jackfruitburger (3, 5, Gl, Sf, Se, Sw), Pommes Frites (Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.7,
@@ -56,16 +100,16 @@
 		},
 		"Alcohol": false,
 		"Beef": true,
-		"Category": "Gut und günstig",
+		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-03-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
 		"Name": "Zucchini Hackfleischtopf (Sl), Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 5,
-		"PriceStudent": 2.5,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": false
 	}
