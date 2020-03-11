@@ -1,30 +1,10 @@
 [
 	{
 		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-03-11T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Karottensuppe mit Kerbel (Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -32,7 +12,28 @@
 		"Date": "2020-03-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Mohn Schupfnudeln (Gl, Ei, La), Pflaumenkompott (1, La)",
+		"Name": "Germknödel mit Schokoladenfüllung (Gl, So, La, Nu), Vanillesoße (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-03-11T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Käse-Lauchsuppe mit Paprikastreifen (1, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -122,9 +123,11 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Se": "Sesam/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -132,7 +135,7 @@
 		"Date": "2020-03-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Blattspinat Asia Style (Gl), Stangenbrechbohnen Provencial, Austernpilze mit roten Zwiebeln, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La, Sl), Kartoffelspalten (Gl)",
+		"Name": "Euro Gemüsemischung natur, vegan, Prinzessbohnen, Maiskolben (La), Basmatireis, italienische Brotsalat, warm (Gl, Ei, So, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -143,7 +146,7 @@
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
@@ -155,7 +158,7 @@
 		"Date": "2020-03-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Funghi mit Pilzen in Sahnesoße (3, Gl, La, Sl, Sw), Fusilli (Gl)",
+		"Name": "Pasta con verdure mit buntem Gemüse, gratiniert (6, Gl, La, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
