@@ -1,6 +1,8 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -11,7 +13,7 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pfannkuchen mit Waldbeerfüllung (Gl, Ei, La)",
+		"Name": "2 Stück Eierpfannkuchen (Gl, Ei, La), Beerenkompott (1, 9, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -22,26 +24,78 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Tomatensuppe (La, Sl)",
-		"Pig": false,
+		"LactoseFree": true,
+		"Name": "Bohneneintopf mit Speck und Schweinefleisch (2, 3, 5, 8, Gl, Sl, Sw)",
+		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-03-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Mexikanischer Bohneneintopf mit Rindfleisch (2, 3, 8, Gl, Sl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-03-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Currybratwurst (3, 4, 8, Sf), Pommes Frites (Sf), Ajvar",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4,
+		"PriceGuest": 5,
+		"PriceStudent": 2.7,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -49,18 +103,18 @@
 			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": true,
+		"Alcohol": false,
 		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rinderhacksteak gratiniert mit Tomate und Käse (Gl, Ei, La, Sl, Sf), italienische Soße (Sw), Reis",
+		"Name": "Rinderhacksteak (Gl, Ei, La, Sl, Sf), Krautsalat (3, 5, Sw), Tzatziki (La), Reis",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.05,
-		"PriceGuest": 5.1,
-		"PriceStudent": 2.75,
+		"PriceAttendant": 3.7,
+		"PriceGuest": 4.65,
+		"PriceStudent": 2.4,
 		"Vegan": false,
 		"Vegetarian": false
 	},

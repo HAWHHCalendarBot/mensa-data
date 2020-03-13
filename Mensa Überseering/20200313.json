@@ -90,7 +90,8 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -98,7 +99,7 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Blumenkohl mit gebräunten Bröseln (Gl, La), Schwarzwurzeln (La), Karottengemüse in Kräuterrahm (Gl, La), Rosenkohl (La)",
+		"Name": "Blumenkohl mit gebräunten Bröseln (Gl, La), Schwarzwurzeln (La), Karottengemüse in Kräuterrahm (Gl, So), Rosenkohl (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -131,6 +132,26 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-03-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Basilikumsoße (Gl, La), Hartkäse (La), Spaghetti (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
@@ -146,27 +167,6 @@
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-03-13T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Saporita mit Rindfleisch und Paprika (La, Sl), Hartkäse (La), Fusilli (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
 		"Vegetarian": false
 	}
 ]
