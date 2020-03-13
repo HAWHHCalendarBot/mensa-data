@@ -22,7 +22,6 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -30,15 +29,15 @@
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Marokkanische Linsensuppe (La, Sl)",
+		"LactoseFree": true,
+		"Name": "Marokkanische Linsensuppe (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -55,9 +54,9 @@
 		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Tomatensoße, Paprikareis",
 		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.4,
-		"PriceStudent": 3,
+		"PriceAttendant": 4.15,
+		"PriceGuest": 5.2,
+		"PriceStudent": 2.85,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -121,7 +120,7 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Vegetarische Paella (3, Sl), Soja Tomatendip (1, Sf)",
+		"Name": "Vegan Paella (3, Sl), Soja Tomatendip (1, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.6,
