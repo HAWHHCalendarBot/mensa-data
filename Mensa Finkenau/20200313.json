@@ -22,8 +22,12 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -31,7 +35,7 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Susländer grobe Bratwurst (8), Schmorzwiebeln, Kartoffel Möhrenstampf (La)",
+		"Name": "Susländer grobe Bratwurst (8), Bratensoße (Sl), dicke Bohnen in Rahm oder Karotten (2, 3, 8, Gl, La), Röstkartoffeln",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.6,
@@ -43,54 +47,83 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
-			"4": "Geschmacksverstärker",
-			"Fi": "Fisch/-erzeugnisse",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Kr": "Krebstier(e)/-erzeugnisse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Se": "Sesam/-erzeugnisse",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Wt": "Weichtiere/-erzeugnisse"
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Campus Spezial",
 		"Date": "2020-03-13T00:00:00.000Z",
-		"Fish": true,
+		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Wir kochen was Sie lieben..., Kabeljau mit Hummerbutter (1, 4, Gl, Kr, Fi, La, Sl), Frutti di mare (Kr, Sl, Wt), pikantes Grillgemüse (Sl, Sf), Penne (Gl)",
+		"Name": "Spicy Chicken Bowl, Basmatireis, Avocado, Granatapfel, Kürbiskerne mit Wild Karachi Dressing (1, 2, 3, 5, 9, Gl, Ei, So, La, Sf, Se, Sw)",
 		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 6.9,
-		"PriceGuest": 8.65,
-		"PriceStudent": 5.9,
+		"Poultry": true,
+		"PriceAttendant": 7.5,
+		"PriceGuest": 9.4,
+		"PriceStudent": 6.5,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-03-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Veggie Power Bowl, Tofu, Basmatireis, Süßkartoffeln, Avocado, Koriander, Cashew und Wasabi Dressing (1, 2, 3, 5, Gl, Ei, So, Nu, Sf, Se, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 6.6,
+		"PriceGuest": 8.25,
+		"PriceStudent": 5.6,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "dicke Bohnen mit Speck (Gl, La), Broccoli, Erbsen, Blumenkohl",
+		"LactoseFree": true,
+		"Name": "Broccoli, Erbsen, Blumenkohl",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -99,15 +132,15 @@
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta mit Cherrytomaten und Basilikum (Gl, La, Nu, Sl)",
+		"LactoseFree": true,
+		"Name": "Pasta mit Champignons und Pesto (Gl, Nu, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -127,5 +160,29 @@
 		"PriceStudent": 3.3,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-03-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Indischer Biryani mit mariniertem gebratenen Tofu (2, Gl, So, Nu, Sl, Se)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]

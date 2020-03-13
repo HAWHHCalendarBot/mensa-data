@@ -31,7 +31,7 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Tomatensuppe (La, Sl)",
+		"Name": "Marokkanische Linsensuppe (La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -52,12 +52,38 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Paprikarahmsoße (Gl, La)",
+		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Tomatensoße, Paprikareis",
 		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 4.15,
-		"PriceGuest": 5.2,
-		"PriceStudent": 2.85,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.4,
+		"PriceStudent": 3,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Campus Spezial",
+		"Date": "2020-03-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Rinderhacksteak (Gl, Ei, La, Sl, Sf), Krautsalat (3, 5, Sw), Tzatziki (La), Paprikareis",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.9,
+		"PriceGuest": 4.9,
+		"PriceStudent": 2.9,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -83,9 +109,10 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"3": "Antioxidationsmittel",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -93,7 +120,7 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Vegetarische Paella (3, Sl), Soja Knoblauchdip (So)",
+		"Name": "Vegetarische Paella (3, Sl), Soja Tomatendip (1, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.6,
@@ -104,7 +131,6 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
@@ -113,13 +139,34 @@
 		"Date": "2020-03-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Napoli, Tomatensoße, Kartoffel-Gnocchi (Gl, Ei)",
+		"Name": "Pasta Napoli, Tomatensoße, Spaghetti (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-03-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Saporita mit Rindfleisch und Paprika (La, Sl), Hartkäse (La), Fusilli (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]
