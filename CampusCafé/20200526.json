@@ -20,7 +20,9 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -30,13 +32,13 @@
 		"Date": "2020-05-26T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Chili sin carne mit Bohnen und Mais (So, Sl), Baguette (Gl)",
+		"Name": "Chili sin carne mit Bohnen und Mais (So, Sl), Fladenbrot (Gl, Ei, So, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.35,
 		"PriceGuest": 4.2,
 		"PriceStudent": 2.05,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
