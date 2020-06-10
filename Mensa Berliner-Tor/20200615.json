@@ -1,16 +1,19 @@
 [
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-06-15T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Hähnchenstreifen al arrabiata mit Gemüse und, Reis",
+		"LactoseFree": false,
+		"Name": "Rindergulasch mit Paprika (La), Spätzle (Gl, Ei)",
 		"Pig": false,
-		"Poultry": true,
+		"Poultry": false,
 		"PriceAttendant": 1.3,
 		"PriceGuest": 1.65,
 		"PriceStudent": 0,
@@ -19,9 +22,10 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -29,8 +33,8 @@
 		"Category": "Vegetarisch",
 		"Date": "2020-06-15T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Schupfnudel Kürbis Champignonpfanne (Gl, Ei, Sw), Kräuterquark (La)",
+		"LactoseFree": true,
+		"Name": "Buntes Gemüse in Soja Pflaumen Soße (2, Gl, So, Sl, Sw), Duftreis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 1.3,
