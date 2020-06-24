@@ -1,25 +1,43 @@
 [
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Se": "Sesam/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": true,
+		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-06-24T00:00:00.000Z",
 		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Hähnchenbrust mit Kokos Currysoße (Gl, So), Zuckerschoten (La), Basmatireis",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gut und günstig",
+		"Date": "2020-06-24T00:00:00.000Z",
+		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Chili con Carne (2), Fladenbrot (Gl, Ei, So, Se)",
+		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So, Sf), Basmatireis",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 1.65,
-		"PriceStudent": 0,
-		"Vegan": false,
+		"PriceAttendant": 3.7,
+		"PriceGuest": 4.65,
+		"PriceStudent": 2.4,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
@@ -260,25 +278,5 @@
 		"PriceStudent": 5,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Sf": "Senf/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-06-24T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So, Sf), Basmatireis",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 1.65,
-		"PriceStudent": 0,
-		"Vegan": true,
-		"Vegetarian": false
 	}
 ]
