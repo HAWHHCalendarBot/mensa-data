@@ -26,8 +26,10 @@
 		"Additives": {
 			"1": "Farbstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -35,12 +37,12 @@
 		"Date": "2020-07-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Ägyptische Falafel (Gl, Sl), mit frischem Salat, oder Pommes Frites (Sf), dazu Knoblauchdip (1, Sf), oder Currydip (1, Sf)",
+		"Name": "Ägyptische Falafel mit Humusfüllung (Gl, So, Sl, Se), dazu frischer Salat, oder Pommes Frites (Sf), mit Knoblauchdip (1, Sf), oder Currydip (1, Sf)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.75,
-		"PriceStudent": 3.3,
+		"PriceAttendant": 0,
+		"PriceGuest": 0,
+		"PriceStudent": 0,
 		"Vegan": true,
 		"Vegetarian": false
 	},
@@ -112,28 +114,6 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Angebot Food Truck",
-		"Date": "2020-07-17T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Vegetarische Schnitzel in Knusperpanade (Gl, Ei, La), mit frischem Salat, oder Pommes Frites (Sf)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.7,
-		"PriceGuest": 5.9,
-		"PriceStudent": 3.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -149,5 +129,30 @@
 		"PriceStudent": 0,
 		"Vegan": true,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-07-17T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Broccoli Nuggets (Gl, Ei, So, La, Sl), mit frischem Salat, oder Pommes Frites (Sf), dazu Knoblauchdip (1, Sf), oder Currydip (1, Sf)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.75,
+		"PriceGuest": 5.95,
+		"PriceStudent": 3.45,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
