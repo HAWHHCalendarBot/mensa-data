@@ -5,7 +5,11 @@
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"6": "Geschwärzt",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
 			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": true,
@@ -14,23 +18,21 @@
 		"Date": "2020-07-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Hausgemachte Antipastivariation (2, 3, 5, 6, Sf, Sw)",
+		"Name": "Hausgemachte Antipastivariation mit Fladenbrot (2, 3, 5, 6, Gl, Ei, So, Sf, Se, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.35,
 		"PriceGuest": 6.05,
 		"PriceStudent": 4.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Se": "Sesam/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -38,7 +40,7 @@
 		"Date": "2020-07-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Feuerspieß mit Paprika und Speck (2, Gl), Paprikarahmsoße (Gl, La), Fladenbrot (Gl, Ei, So, Se)",
+		"Name": "Feuerspieß mit Paprika und Speck (2, Gl), Paprikarahmsoße (Gl, La), Spicy Wedges (1, Gl)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.3,
