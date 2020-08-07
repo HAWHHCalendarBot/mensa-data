@@ -1,30 +1,6 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Se": "Sesam/-erzeugnisse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Angebot Food Truck",
-		"Date": "2020-08-14T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Ägyptische Falafel mit Humusfüllung (Gl, So, Sl, Se), dazu frischer Salat, oder Pommes Frites (Sf), mit Knoblauchdip (1, Sf), oder Currydip (1, Sf)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6,
-		"PriceStudent": 3.5,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
@@ -44,6 +20,27 @@
 		"PriceAttendant": 4.4,
 		"PriceGuest": 5.5,
 		"PriceStudent": 3.1,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Angebot Food Truck",
+		"Date": "2020-08-14T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Hähnchen Crossies (Gl), mit Pommes Frites (Sf), oder frischem Salat, dazu Knoblauchdip (1, Sf), oder Currydip (1, Sf)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 0,
+		"PriceGuest": 0,
+		"PriceStudent": 0,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -110,6 +107,30 @@
 	{
 		"Additives": {
 			"1": "Farbstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-08-14T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Ägyptische Falafel mit Humusfüllung (Gl, So, Sl, Se), dazu frischer Salat, oder Pommes Frites (Sf), mit Knoblauchdip (1, Sf), oder Currydip (1, Sf)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0,
+		"PriceGuest": 0,
+		"PriceStudent": 0,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -131,26 +152,5 @@
 		"PriceStudent": 3.45,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-08-14T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Hähnchen Crossies (Gl), mit Pommes Frites (Sf), oder frischem Salat, dazu Knoblauchdip (1, Sf), oder Currydip (1, Sf)",
-		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6,
-		"PriceStudent": 3.5,
-		"Vegan": false,
-		"Vegetarian": false
 	}
 ]
