@@ -15,7 +15,7 @@
 		"Date": "2020-08-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust mit Cloe Slow Salat (2, 9, Ei, So, La, Sf), Herzoginkartoffeln (Gl, Ei, La)",
+		"Name": "Hähnchenbrust mit Cole Slow Salat (2, 9, Ei, So, La, Sf), Herzoginkartoffeln (Gl, Ei, La)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.8,
@@ -26,9 +26,12 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -36,14 +39,14 @@
 		"Category": "Campus Spezial",
 		"Date": "2020-08-10T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Antipastiteller (3, 5, Gl, Sw)",
+		"LactoseFree": false,
+		"Name": "Antipastiteller (2, 3, 5, Gl, Ei, La, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.4,
 		"PriceGuest": 6.75,
 		"PriceStudent": 4.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
