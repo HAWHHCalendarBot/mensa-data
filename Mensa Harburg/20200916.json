@@ -15,7 +15,7 @@
 		"Date": "2020-09-16T00:00:00.000Z",
 		"Fish": true,
 		"LactoseFree": true,
-		"Name": "Thai Curry, Grünes Thai- Gemüsecurry mit Seelachsfilet (1, 2, Gl, Fi, So, Sl, Sw), Basmatireis",
+		"Name": "Thai Curry, Grünes Thai- Gemüsecurry mit Seelachsfilet (1, 2, Gl, Fi, So, Sl, Sw), Reis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.7,
@@ -39,7 +39,7 @@
 		"Date": "2020-09-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Thai Curry, Grünes Thai-Gemüsecurry (1, 2, Gl, So, Sl, Sw), Basmatireis",
+		"Name": "Thai Curry, Grünes Thai-Gemüsecurry (1, 2, Gl, So, Sl, Sw), Reis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.05,
@@ -50,6 +50,9 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -57,15 +60,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-09-16T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsemix,  Bunter Rübenmix (Sl), pikante Zucchiniwürfel, Ratatouille (Sl), Kräuter Chili Kartoffeln",
+		"LactoseFree": false,
+		"Name": "Gemüsemix, Sommergemüse (Sl), gebratene Zucchini, Broccoli (La), Ratatouille (Sl), Gnocchi (Gl, Ei)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
