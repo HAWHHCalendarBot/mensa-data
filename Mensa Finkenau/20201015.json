@@ -1,18 +1,18 @@
 [
 	{
 		"Additives": {
-			"8": "Phosphat",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-10-12T00:00:00.000Z",
+		"Date": "2020-10-15T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Susländer grobe Bratwurst (8), Schmorzwiebeln, Kartoffel Möhrenstampf (La)",
-		"Pig": true,
-		"Poultry": false,
+		"LactoseFree": true,
+		"Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
+		"Pig": false,
+		"Poultry": true,
 		"PriceAttendant": 1.3,
 		"PriceGuest": 1.65,
 		"PriceStudent": 0,
@@ -21,21 +21,24 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
-			"Fi": "Fisch/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": true,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Campus Spezial",
-		"Date": "2020-10-12T00:00:00.000Z",
-		"Fish": true,
+		"Date": "2020-10-15T00:00:00.000Z",
+		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gebratenes Kabeljaufilet (Gl, Fi), Cremiges Kürbis-Risotto mit einem Ingwer- Espuma (2, La, Sl, Sw)",
-		"Pig": false,
+		"Name": "Wir kochen was Sie lieben..., Fabi&#039;s canadien Poutine mit Steakhousepommes, PulledPork, Cheddar cheese und pikanter Bratensoße (1, 2, 3, 9, Ei, So, La, Sl, Sf)",
+		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 1,
 		"PriceGuest": 1.25,
@@ -45,34 +48,12 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Campus Spezial",
-		"Date": "2020-10-12T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Wir kochen was Sie lieben..., Gebratene Pierogi mit Kartoffel - Quarkfüllung , geschmolzenen Zwiebeln und Schmand (Gl, Ei, La, Sl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 1,
-		"PriceGuest": 1.25,
-		"PriceStudent": 0,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
-		"Date": "2020-10-12T00:00:00.000Z",
+		"Date": "2020-10-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
 		"Name": "Gemüse des Tages (La)",
@@ -86,6 +67,25 @@
 	},
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gut und günstig",
+		"Date": "2020-10-15T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 1.3,
+		"PriceGuest": 1.65,
+		"PriceStudent": 0,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
@@ -93,7 +93,7 @@
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-10-12T00:00:00.000Z",
+		"Date": "2020-10-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
 		"Name": "Pasta des Tages (Gl, La, Sl)",
