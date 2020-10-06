@@ -24,28 +24,33 @@
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Campus Spezial",
+		"Alcohol": true,
+		"Beef": true,
+		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-10-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Putensteak, Broccoli, Tomaten-Basilikumsoße (Gl, La), Tomaten-Gnocchi (Gl, Ei)",
+		"Name": "Rinderhacksteak (Gl, Ei, La, Sl, Sf), italienische Soße (Sw), Reis",
 		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 1,
-		"PriceGuest": 1.25,
+		"Poultry": false,
+		"PriceAttendant": 1.3,
+		"PriceGuest": 1.65,
 		"PriceStudent": 0,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Se": "Sesam/-erzeugnisse",
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -53,7 +58,7 @@
 		"Date": "2020-10-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Blumenkohl Broccoli Mix mit Sesam und Tomatenragout (Sl, Sf, Se), Kurkuma Reis mit schwarzen Bohnen",
+		"Name": "Mini Frühlingsrollen (Gl, So), Asiagemüse (2, Gl, So), Ananas-Chilisoße (2, Sl, Sf), Reis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5,
