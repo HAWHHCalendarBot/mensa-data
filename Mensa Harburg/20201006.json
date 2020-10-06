@@ -1,6 +1,7 @@
 [
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -8,15 +9,15 @@
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-10-06T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Indische Tomaten Linsensuppe (Sf)",
+		"LactoseFree": false,
+		"Name": "Indische Tomaten Linsensuppe (La, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -45,7 +46,9 @@
 			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
 			"6": "Geschwärzt",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -53,29 +56,7 @@
 		"Date": "2020-10-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Prinzessbohnen, Tomaten Belugalinsenragout (2, Sl), glasiertes Tandoori Lemon Gemüse (Sl), Tomaten-Oliven-Ragout (6), Karotten (1)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"2": "Konservierungsstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-10-06T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta vegane Käsesoße (1, 2, Gl, So), Pasta (Gl)",
+		"Name": "Prinzessbohnen, Tomaten Belugalinsenragout (2, Sl), Asiagemüse in Currycreme (2, Gl, So), Tomaten-Oliven-Ragout (6), Karottenstifte (1), Röstiecken",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -83,6 +64,26 @@
 		"PriceStudent": 0.65,
 		"Vegan": true,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-10-06T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta (Gl), Bärlauchsoße (Gl, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
