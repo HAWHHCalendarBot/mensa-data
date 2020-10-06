@@ -1,6 +1,31 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": true,
+		"Beef": false,
+		"Category": "BLS Spezial",
+		"Date": "2020-10-15T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2, Gl, La), Hollandaise (Ei, La, Sl, Sw), Buttererbsen (La), Macairekartoffeln (1, Gl)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4.85,
+		"PriceGuest": 5.5,
+		"PriceStudent": 4.2,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -40,5 +65,28 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-10-15T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Vegetarisches Geschnetzeltes Gyros Art (Ei), Pfefferminz Joghurt Dip (La), Krautsalat (3, 5, Sw), Reis",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.95,
+		"PriceGuest": 5.6,
+		"PriceStudent": 4.3,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
