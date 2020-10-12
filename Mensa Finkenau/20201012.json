@@ -1,8 +1,30 @@
 [
 	{
 		"Additives": {
-			"8": "Phosphat",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-10-12T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Germknödel (Gl, Ei, La), Vanillesoße (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -10,7 +32,7 @@
 		"Date": "2020-10-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Susländer grobe Bratwurst (8), Schmorzwiebeln, Kartoffel Möhrenstampf (La)",
+		"Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl), Kartoffel Möhrenstampf (La)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 5.4,
@@ -67,27 +89,28 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-10-12T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"LactoseFree": true,
+		"Name": "gebratene Paprika, Broccoli (Sl), Süßkartoffeln (Sl), Karotten (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -96,7 +119,7 @@
 		"Date": "2020-10-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta mit Cherrytomaten, Basilikumpesto (Gl, La, Nu, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
