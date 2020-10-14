@@ -84,7 +84,7 @@
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -93,21 +93,21 @@
 		"Category": "Aus dem Wok",
 		"Date": "2020-10-14T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsepfanne in pikanter Tandoorisoße (2, Gl, So, Sl, Sf), Reis",
+		"LactoseFree": false,
+		"Name": "Gemüsepfanne in pikanter Thai-Currysoße (2, Gl, So, La, Sl), Reis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.05,
 		"PriceGuest": 5.1,
 		"PriceStudent": 2.75,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -116,8 +116,8 @@
 		"Category": "Aus dem Wok",
 		"Date": "2020-10-14T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsepfanne mit Hähnchennuggets in pikanter Tandoorisoße (2, Gl, So, Sl, Sf), Reis",
+		"LactoseFree": false,
+		"Name": "Gemüsepfanne mit Hähnchennuggets in pikanter Thai-Currysoße (2, Gl, So, La, Sl), Reis",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.7,
@@ -128,18 +128,20 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"1": "Farbstoffe",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-10-14T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "gebratener, bunter Pak Choi (So), Blumenkohl, Karottengemüse, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl), Schupfnudeln (Gl, Ei)",
+		"LactoseFree": false,
+		"Name": "Tandorigemüse mit Pak Choi (1, So, Sf), gebratene Champignons (La, Sw), Karottengemüse mit Ingwer, Buntes Gemüse mit Schwarzwurzeln (Sl), Zucchini-Tomaten Gemüse, bunter Tomatenreis (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -161,7 +163,7 @@
 		"Date": "2020-10-14T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Funghi mit Pilzen in Rahmsoße (Gl, So, Sl, Sw), Pasta (Gl)",
+		"Name": "Vegane herbstliche Pilzsoße (Gl, So, Sl, Sw), Pasta (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
