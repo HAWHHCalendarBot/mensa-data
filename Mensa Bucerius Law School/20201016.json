@@ -3,8 +3,6 @@
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -12,15 +10,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-10-16T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Mandelbroccoli (La, Nu), gebratene Paprika (5, Sw), Auberginen mit Balsamico Bianco (3, 5, Sw)",
+		"LactoseFree": true,
+		"Name": "Broccoli, gebratene Paprika (5, Sw), Auberginen mit Balsamico Bianco (3, 5, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -36,13 +34,33 @@
 		"Date": "2020-10-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "bunte Fusilli (Gl), Kürbis Currysoße (3, Gl, So, Sl, Sf)",
+		"Name": "bunte Fusilli (Gl), Kürbis Currysoße (3, So, Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-10-16T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "pikanter Rindfleischtopf mit Gemüse (La, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
