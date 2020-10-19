@@ -23,6 +23,7 @@
 	{
 		"Additives": {
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Se": "Sesam/-erzeugnisse",
 			"Sf": "Senf/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -32,7 +33,7 @@
 		"Date": "2020-10-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pikante Hähnchenbrust (So, Sf), Joghurt Dip (La), glasierte Honigmöhren, Kräuter Chili Kartoffeln",
+		"Name": "Pikante Hähnchenbrust (So, Sf), Sesam-Joghurt Dip (La, Se), glasierte Honigmöhren, Kräuter Chili Kartoffeln",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.9,
@@ -84,24 +85,26 @@
 	{
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-10-19T00:00:00.000Z",
-		"Fish": false,
+		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Semmelknödel mit frischem Waldpilzragout in Kräuterrahm (Gl, Ei, La, Sl, Sw)",
+		"Name": "Semmelknödel mit frischem Waldpilzragout in Kräuterrahm (Gl, Ei, Fi, So, La, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.8,
 		"PriceGuest": 6,
 		"PriceStudent": 3.5,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]
