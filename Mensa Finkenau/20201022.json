@@ -1,6 +1,26 @@
 [
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-10-22T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"Ei": "Ei/-erzeugnisse",
@@ -26,22 +46,25 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-10-22T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Broccoli (La)",
+		"LactoseFree": true,
+		"Name": "Orientalisches Linsengemüse (2, Gl, So, Sl), Kürbisgemüse (Sl), Spitzkohl in Rahm (Sl), Gartengemüse",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -55,7 +78,7 @@
 		"Date": "2020-10-22T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta mit mediterranem Gemüse und Pesto Rosso (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
