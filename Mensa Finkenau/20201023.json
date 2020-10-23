@@ -26,7 +26,9 @@
 			"5": "Geschwefelt",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": true,
@@ -34,8 +36,8 @@
 		"Category": "Campus Spezial",
 		"Date": "2020-10-23T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Susländer Schweinebraten in einer Dijonsenf-Marinade und PaleAle-Sauce (5, Sf, Sw), Semmelklöße (Gl, Ei), Apfelrotkohl (3, 5, Sw)",
+		"LactoseFree": false,
+		"Name": "Susländer Schweinebraten in einer Dijonsenf-Marinade und PaleAle-Sauce (5, La, Sl, Sf, Sw), Semmelklöße (Gl, Ei), Apfelrotkohl (3, 5, Gl, Sw)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 6.7,
@@ -46,22 +48,21 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-10-23T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Broccoli (La)",
+		"LactoseFree": true,
+		"Name": "Broccoli, Kohlgemüse, Erbsen-Karotten Gemüse, Süßkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -75,7 +76,7 @@
 		"Date": "2020-10-23T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta mit Cherrytomaten und Basilikumpesto (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
