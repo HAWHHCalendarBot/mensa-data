@@ -1,17 +1,17 @@
 [
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-11-04T00:00:00.000Z",
+		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
+		"LactoseFree": false,
+		"Name": "Germknödel (Gl, Ei, La), Vanillesoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -22,38 +22,39 @@
 	},
 	{
 		"Additives": {
+			"5": "Geschwefelt",
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
-		"Beef": true,
+		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
-		"Date": "2020-11-04T00:00:00.000Z",
+		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rinderhacksteak mit Tomate & Käse (Gl, Ei, La), italienische Soße, Penne (Gl)",
-		"Pig": false,
+		"Name": "Kohlroulade mit Schweinefleischfüllung (Ei, La, Sf), Dijon-Senf-Soße (5, Sf, Sw), Kartoffeln",
+		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.75,
-		"PriceStudent": 3.3,
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.25,
+		"PriceStudent": 2.9,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
-		"Date": "2020-11-04T00:00:00.000Z",
+		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pikantes Jackfruit-Chili mit Kichererbsen, Mais & Bohnen (Sl, Sf), Weizenflan (Gl)",
+		"Name": "Indischer Dal mit roten Linsen, Kartoffeln, Gemüse & Spinat (So, Sf), Langkorn-Wildreis-Mix",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.95,
