@@ -173,6 +173,25 @@
 	},
 	{
 		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gemüse-Bar pro 100g",
+		"Date": "2020-11-02T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "glacierte rote Beete, gedünsteter Kohlrabi, Ratatouille (Sl), Rosmarinkartoffeln",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
@@ -193,21 +212,48 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-11-02T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Arcobaleno mit Schinken und Käse (1, 2, 3, 8, La, Sl, Sw), Hartkäse (La), Penne (Gl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gut und günstig",
+		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-02T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Spaghetti (Gl), Gorgonzolasoße (Gl, La), Rucola mit Tomatenwürfeln",
+		"Name": "Pasta Gorgonzola Broccoli (La), Hartkäse (La), Gnocchi (Gl, Ei)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.75,
-		"PriceGuest": 4.7,
-		"PriceStudent": 2.45,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
 	},
