@@ -21,7 +21,6 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
@@ -31,15 +30,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-10-30T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Rosenkohl (La), Bunter Rübenmix (Sl), pikante Zucchiniwürfel, Buntes Wokgemüse Indonesia (So, Sf), Duftreis",
+		"LactoseFree": true,
+		"Name": "Bunter Rübenmix (Sl), pikante Zucchiniwürfel, Buntes Wokgemüse Indonesia (So, Sf), Basmatireis mit Kürbis",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -62,6 +61,26 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-10-30T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Pfifferlingrahmsuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
