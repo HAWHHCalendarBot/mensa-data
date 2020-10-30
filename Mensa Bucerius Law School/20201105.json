@@ -2,6 +2,29 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "BLS Spezial",
+		"Date": "2020-11-05T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Röstkartoffeln",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4,
+		"PriceGuest": 4.6,
+		"PriceStudent": 3.5,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
@@ -33,36 +56,13 @@
 		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Penne (Gl)",
-		"Pig": true,
+		"Name": "Vegetarische Pasta Contadino mit Champignons und Zucchini (Sl), Penne (Gl)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Tagesgericht",
-		"Date": "2020-11-05T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pizza Schinken Champignon (2, 3, 8, Gl, La)",
-		"Pig": true,
-		"Poultry": false,
-		"PriceAttendant": 5,
-		"PriceGuest": 5.7,
-		"PriceStudent": 4.35,
-		"Vegan": false,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
