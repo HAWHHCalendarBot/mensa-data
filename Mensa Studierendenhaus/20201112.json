@@ -42,22 +42,24 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Hühnerfrikassee (Gl, La, Sw), Reis",
-		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 3.9,
-		"PriceGuest": 4.9,
-		"PriceStudent": 2.6,
+		"LactoseFree": true,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Röstkartoffeln",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -128,60 +130,61 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
-		"Beef": true,
-		"Category": "Gut und günstig",
+		"Beef": false,
+		"Category": "Vegetarisch",
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Überbackene Hackfleisch Gemüsepfanne (Gl, La)",
+		"LactoseFree": true,
+		"Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 4.75,
-		"PriceStudent": 2.5,
+		"PriceAttendant": 4.25,
+		"PriceGuest": 5.35,
+		"PriceStudent": 2.95,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-11-12T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.25,
+		"PriceGuest": 5.35,
+		"PriceStudent": 2.95,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-11-12T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegetarischer Grünkohl (Sl, Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.45,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.15,
 		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-11-12T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.25,
-		"PriceGuest": 5.35,
-		"PriceStudent": 2.95,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-11-12T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.25,
-		"PriceGuest": 5.35,
-		"PriceStudent": 2.95,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegetarian": true
 	}
 ]
