@@ -22,6 +22,7 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
@@ -33,13 +34,35 @@
 		"Date": "2020-11-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchen Crossies (Gl), Champignonrahmsoße (Gl, La, Sl, Sw), Kroketten (Gl)",
-		"Pig": false,
-		"Poultry": true,
+		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Champignonrahmsoße (Gl, La, Sl, Sw), Kroketten (Gl)",
+		"Pig": true,
+		"Poultry": false,
 		"PriceAttendant": 4.9,
 		"PriceGuest": 6.15,
 		"PriceStudent": 3.6,
 		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-11-11T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pikanter Wrap mit Mexikan-Füllung (4, Gl, So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 1,
+		"PriceGuest": 1.25,
+		"PriceStudent": 0,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
