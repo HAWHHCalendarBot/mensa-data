@@ -1,65 +1,24 @@
 [
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-11-10T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Milchreis (La), Pflaumenkompott (1, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": true,
 		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-11-10T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Rinderhacksteak gratiniert mit Tomate und Käse (Gl, Ei, La, Sl, Sf), italienische Soße (Sw)",
-		"Pig": false,
+		"LactoseFree": true,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Röstkartoffeln",
+		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 4.1,
-		"PriceGuest": 5.15,
-		"PriceStudent": 2.95,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Campus Spezial",
-		"Date": "2020-11-10T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Putenschnitzel mit Tomaten und Käse überbacken (La), Kräutersoße (Gl, La)",
-		"Pig": false,
-		"Poultry": true,
 		"PriceAttendant": 4.5,
-		"PriceGuest": 5.7,
-		"PriceStudent": 3.8,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -87,7 +46,9 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Ei": "Ei/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -95,13 +56,13 @@
 		"Date": "2020-11-10T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Vegane Maultaschen (Gl), Tomatensoße",
+		"Name": "Vegetarischer Grünkohl (Sl, Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.9,
-		"PriceGuest": 4.9,
-		"PriceStudent": 2.75,
-		"Vegan": true,
-		"Vegetarian": false
+		"PriceAttendant": 4.45,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.15,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
