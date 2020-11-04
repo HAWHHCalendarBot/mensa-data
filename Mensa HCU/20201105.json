@@ -1,24 +1,23 @@
 [
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"Sf": "Senf/-erzeugnisse"
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
-		"Beef": true,
+		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Röstkartoffeln",
-		"Pig": true,
-		"Poultry": false,
-		"PriceAttendant": 4.5,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.2,
+		"LactoseFree": false,
+		"Name": "Schupfnudelpfanne mit Hähnchen und Wintergemüse und Kräuterdip (3, Gl, Ei, La)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.8,
+		"PriceStudent": 2.9,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -74,24 +73,26 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Vegetarischer Grünkohl (Sl, Sf), Geräuchertes Tofusteak (Gl, So), Röstkartoffeln",
+		"LactoseFree": false,
+		"Name": "Vegane Rote Beete Gnocchi mit Wintergemüse und Soja-Dip (1, 3, 5, Gl, La, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 1.3,
 		"PriceGuest": 0,
 		"PriceStudent": 0,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
