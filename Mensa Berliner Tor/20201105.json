@@ -94,7 +94,9 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -102,7 +104,7 @@
 		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Broccoli (La), Cremespinat (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -133,24 +135,29 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Se": "Sesam/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Penne Rigate mit Rinderhack (Gl, Ei, La, Sl, Sf), Bratnudeln mit Gemüsestreifen (2, Gl, So, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
