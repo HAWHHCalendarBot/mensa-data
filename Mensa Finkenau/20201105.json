@@ -20,16 +20,18 @@
 	},
 	{
 		"Additives": {
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-11-05T00:00:00.000Z",
-		"Fish": false,
+		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Schweinegeschnetzeltes \"Züricher Art\" mit Pasta (Gl, La)",
+		"Name": "Schweinegeschnetzeltes \"Züricher Art\" mit Pasta (Gl, Fi, So, La)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.2,
@@ -113,7 +115,8 @@
 	},
 	{
 		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -121,7 +124,7 @@
 		"Date": "2020-11-05T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Schmorkohl (Sl)",
+		"Name": "Schmorkohl (Sl), gebratene Champignons (Sw), Djuvecreis, Gebackene Banane",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
