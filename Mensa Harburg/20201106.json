@@ -1,25 +1,24 @@
 [
 	{
 		"Additives": {
-			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-11-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Kürbis-Ingwer-Suppe (5, La, Sl, Sw)",
+		"Name": "Baltische Gulaschsuppe (9, La, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
 		"PriceGuest": 3.25,
 		"PriceStudent": 1.4,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -45,6 +44,9 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -52,7 +54,7 @@
 		"Date": "2020-11-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüsebar des Tages",
+		"Name": "orientalisches Linsenragout vegan, (2, Sl), Weißkohl-Curry-Gemüse,, herbstliches Kohlgemüse,, Texasgemüse, (Gl), Gemüsecouscous geschmort (Gl, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -82,6 +84,31 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-11-06T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Käsespätzle mit Zwiebelschmelze (Gl, Ei, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -89,7 +116,7 @@
 		"Date": "2020-11-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta des Tages",
+		"Name": "Pasta (Gl), vegane Shiitake-Pilz-Sauce (Gl, So, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,

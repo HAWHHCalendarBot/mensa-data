@@ -2,28 +2,6 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-11-06T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Germknödel mit Schokoladenfüllung (Gl, So, La, Nu), Vanillesoße (La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -32,7 +10,7 @@
 		"Date": "2020-11-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust in Parmesanpanade (Gl, La), Kräutersoße (Gl, La), Pasta (Gl)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Gl, La), Champignon-Kräutersauce (Gl, La), Kartoffelstampf (La)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.5,
@@ -54,7 +32,7 @@
 		"Date": "2020-11-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Cremiges Kräuter-Risotto mit gebratenem Kabeljau und rote Bete Espuma (2, La, Sl, Sw)",
+		"Name": "Cremiges Kräuter-Risotto mit gebratenem Kabeljau und Rote-Bete-Espuma (2, La, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 6.9,
@@ -73,7 +51,7 @@
 		"Date": "2020-11-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "geschmorter Orangen-Chicorreé, gebratene Kochbanane, Cajun-Süßkartoffeln, gebratener Curry-Broccoli (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -94,7 +72,7 @@
 		"Date": "2020-11-06T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Käsespätzle mit Röstzwiebeln (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -105,22 +83,25 @@
 	},
 	{
 		"Additives": {
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-11-06T00:00:00.000Z",
-		"Fish": false,
+		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Pasta Gorgonzola mit Blattspinat (Gl, La)",
+		"Name": "Pasta in Sahne-Gorgonzolasauce mit Blattspinat (Gl, Fi, So, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.2,
 		"PriceGuest": 5.25,
 		"PriceStudent": 2.9,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]
