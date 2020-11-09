@@ -22,18 +22,19 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-11-09T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Hähnchenbrust im Knuspermantel (Gl), Currysoße (Gl, La, Sf), pikantes Möhrengemüse (Sl), Reis",
+		"LactoseFree": true,
+		"Name": "Hähnchenbrust im Knuspermantel (Gl), Currysoße (2, Gl, So, Sl, Sf), pikantes Möhrengemüse (Sl), Reis",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.5,
@@ -66,7 +67,9 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -74,7 +77,7 @@
 		"Date": "2020-11-09T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Kartoffelpüree (La), schwarzes Bohnenragout (Gl, Sl), Blumenkohl, Banane",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -95,7 +98,7 @@
 		"Date": "2020-11-09T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta mit Spinat-Gorgonzolasauce (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
