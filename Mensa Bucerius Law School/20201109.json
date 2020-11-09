@@ -31,7 +31,7 @@
 		"Date": "2020-11-09T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "glacierte rote Beete, Gemüsepfanne Texas (Gl), gedünsteter Kohlrabi (La), Rosmarinkartoffeln",
+		"Name": "glacierte rote Beete, Broccoli (La), Karotten (La), Gemüsepfanne Texas (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -43,23 +43,45 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-09T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Austernpilze in Sahnesoße (Gl, La, Sl), Fusilli (Gl)",
+		"LactoseFree": true,
+		"Name": "Vegane Pasta Waldpilze in Cremesoße (So, Sl), Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"5": "Geschwefelt",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-11-09T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Kürbiscremesuppe (5, So, Sl, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
