@@ -1,46 +1,6 @@
 [
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-11-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Kürbis-Koriander-Suppe (La, Sl)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-11-19T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Milchreis (La), Brombeerkompott (1, La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -83,6 +43,28 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gemüse-Bar pro 100g",
+		"Date": "2020-11-19T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Königserbsenschoten, Wirsing in Chilicreme (Gl, So, Sl), Blattspinat in Rahm (Gl, La), Gemüsemix Balance, Gemüsecouscous (Gl, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -103,22 +85,42 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-11-19T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Basilico (Gl, La), Hartkäse (La), Farfalle (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Vegetarisch",
+		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Broccoliauflauf (Gl, La, Sl), Kräutersoße (Gl, La)",
-		"Pig": false,
+		"Name": "Pasta Nerone mit Schweinefleisch und Gemüse (La, Sl), Hartkäse (La), Farfalle (Gl)",
+		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 1.65,
-		"PriceStudent": 0,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]
