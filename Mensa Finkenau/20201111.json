@@ -56,7 +56,7 @@
 		"Date": "2020-11-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Wrap \"Mexico\" mit schwarzen Bohnen,Cajun-Hähnchenstreifen,Avocado,Tomatenragout,Sour Cream,Koriander (4, Gl, So, Sl)",
+		"Name": "Wrap \"Mexico\" mit schwarzen Bohnen,Cajun-Hähnchenstreifen,Avocado,Baby Leaf,Sour Cream,Koriander (4, Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.4,
@@ -67,28 +67,34 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-11-11T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"LactoseFree": true,
+		"Name": "gebratene Zucchini, Grünkohl (Sl, Sf), Karotten (Sl), Kräuterkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"5": "Geschwefelt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -96,7 +102,7 @@
 		"Date": "2020-11-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Reisnudeln mit Gemüse und Ei (2, 5, Gl, So, La, Sl, Sf, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
