@@ -92,7 +92,10 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -100,7 +103,7 @@
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Broccoli (La) Buttererbsen (La) Apfelrotkohl (3, 5, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -111,24 +114,25 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Lasagne Bolognese (Gl, Ei, La, Sl) Pasta Saporita mit Rindfleisch und Paprika (La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {

@@ -21,7 +21,7 @@
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "LovelyChickenBowl,Tomatenbulgur,Kimchi Gurke, Avocado, Kürbiskerne mit Wild Karachi & WasabiDressing (1, 2, 3, 5, 9, Gl, Ei, So, La, Sl, Sf, Se, Sw), Kimchi Gurke (2, Gl, So)",
+		"Name": "LovelyChickenBowl,Tomatenbulgur,Kimchi Gurke, Avocado, Kürbiskerne mit Wild Karachi & WasabiDressing (1, 2, 3, 5, 9, Gl, Ei, So, La, Sl, Sf, Se, Sw) Kimchi Gurke (2, Gl, So)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 6.6,
@@ -52,7 +52,7 @@
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "LovelyVegiBowl, Tofu, Bulgur, Kimchi Gurke, Avocado, Kürbiskerne mit Wild Karachi & Wasabi Dressing (1, 2, 3, 5, 9, Gl, Ei, So, La, Sl, Sf, Se, Sw), Kimchi Gurke (2, Gl, So)",
+		"Name": "LovelyVegiBowl, Tofu, Bulgur, Kimchi Gurke, Avocado, Kürbiskerne mit Wild Karachi & Wasabi Dressing (1, 2, 3, 5, 9, Gl, Ei, So, La, Sl, Sf, Se, Sw) Kimchi Gurke (2, Gl, So)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.8,
@@ -63,8 +63,11 @@
 	},
 	{
 		"Additives": {
-			"Nu": "Schalenfrüchte/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -72,14 +75,14 @@
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Mangold mit gerösteten Walnüssen (Nu), Paprikagemüse mit Mango und Kokosmilch, Orientalisches Linsengemüse (Sl), Broccoli",
-		"Pig": false,
+		"Name": "Bayrisch Kraut, (3, 5, Sw) Erbsen,Gemüse Bulgur, (Gl, Sl) Broccoli",
+		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -91,12 +94,34 @@
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta Broccoli-Tomate, Spaghetti (Gl)",
+		"Name": "Pasta Broccoli-TomateMaccaroni (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"5": "Geschwefelt",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-11-12T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane italienische Gemüse-Polentasuppe (5, So, Sl, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": true,
 		"Vegetarian": false
 	},
@@ -114,7 +139,7 @@
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Champignonrahmsoße (Gl, La, Sl), Pommes Frites (Sf)",
+		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La) Champignonrahmsoße (Gl, La, Sl) Pommes Frites (Sf)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.3,
@@ -125,21 +150,21 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Orientalisches Linsenpürree, gebratenes Gemüse, Zitronen-Dip (La)",
+		"LactoseFree": true,
+		"Name": "Veganes Orientalisches Linsenpürree,gebratenes Gemüse,Zitronen-Dip (So)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.4,
 		"PriceGuest": 3.85,
 		"PriceStudent": 2.95,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]

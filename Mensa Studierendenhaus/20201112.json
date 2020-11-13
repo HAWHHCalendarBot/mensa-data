@@ -67,7 +67,8 @@
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
-			"Sf": "Senf/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": true,
@@ -75,7 +76,7 @@
 		"Date": "2020-11-12T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Röstkartoffeln",
+		"Name": "Grünkohl (2, 3, 8, Sf) Krakauer Bratwurst (2, 3, 4, 8, So, Sf) Röstkartoffeln",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.5,
@@ -163,6 +164,27 @@
 		"PriceStudent": 2.95,
 		"Vegan": true,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-11-12T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegetarischer Grünkohl (Sl, Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.45,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.15,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
