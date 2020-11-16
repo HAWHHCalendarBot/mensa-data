@@ -22,8 +22,7 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"So": "Soja/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -31,14 +30,35 @@
 		"Date": "2020-11-23T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust mit Kokos Currysoße (Gl, So), Basmatireis, Zuckerschoten (La)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Gl, La), Kräutersoße (Gl, La), Pasta (Gl)",
 		"Pig": false,
 		"Poultry": true,
-		"PriceAttendant": 4.7,
-		"PriceGuest": 5.9,
-		"PriceStudent": 3.4,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-11-23T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Quinoa-Gemüsepfanne mit veganem Kräuterdip (3, La, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 1,
+		"PriceGuest": 1.25,
+		"PriceStudent": 0,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -61,29 +81,6 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"So": "Soja/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Gut und günstig",
-		"Date": "2020-11-23T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pad Thai Reisnudeln mit Hähnchen und Ei (2, Gl, Ei, So, La)",
-		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 4.75,
-		"PriceStudent": 2.5,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
@@ -102,26 +99,5 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Se": "Sesam/-erzeugnisse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-11-23T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Blumenkohl Broccoli Mix mit Sesam und Tomatenragout (Sl, Sf, Se), Kurkuma Reis mit schwarzen Bohnen",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.8,
-		"PriceGuest": 4.75,
-		"PriceStudent": 2.5,
-		"Vegan": true,
-		"Vegetarian": false
 	}
 ]

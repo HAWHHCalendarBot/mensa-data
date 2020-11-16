@@ -22,9 +22,11 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Se": "Sesam/-erzeugnisse",
-			"Sf": "Senf/-erzeugnisse"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -32,12 +34,12 @@
 		"Date": "2020-11-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Hähnchenbrust Tandoori (La, Sf), Tandoori Dip (La, Sf), Ingwermöhrchen mit Sesam (Se), Basmatireis",
-		"Pig": false,
-		"Poultry": true,
-		"PriceAttendant": 4.15,
-		"PriceGuest": 5.2,
-		"PriceStudent": 2.85,
+		"Name": "Wir kochen was Sie lieben..., Penne (Gl), Pasta Carbonara mit Speck (2, 3, 8, Gl, La), frisch geriebener Hartkäse (2, La)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.15,
+		"PriceStudent": 2.8,
 		"Vegan": false,
 		"Vegetarian": false
 	},
@@ -83,23 +85,25 @@
 	},
 	{
 		"Additives": {
+			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-11-27T00:00:00.000Z",
-		"Fish": false,
+		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Spaghetti mit Ratatouillegemüse und Hirtenkäse (Gl, La, Sw)",
+		"Name": "Pasta in Sahne-Gorgonzolasauce mit Blattspinat (Gl, Fi, So, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.15,
-		"PriceGuest": 5.2,
-		"PriceStudent": 2.85,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]
