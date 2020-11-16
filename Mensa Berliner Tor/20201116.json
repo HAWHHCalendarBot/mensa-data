@@ -67,7 +67,15 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -75,19 +83,19 @@
 		"Date": "2020-11-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
-		"Pig": false,
+		"Name": "Broccoli natur, vegan (La), Champignon Pastinakenmix mit frischer Petersilie (La), Orientalisches Kichererbsengemüse (2, 5, Sw), Linsengemüse mit Karotten (2, 3, 5, 8, Sl, Sw), Wirsing in Chilicreme (Gl, So, Sl)",
+		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -95,8 +103,8 @@
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-16T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"LactoseFree": true,
+		"Name": "Zitronenreis mit marinierten Tofu, Gebratene Mi-Nudeln (Gl, Ei, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,

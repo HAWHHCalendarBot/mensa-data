@@ -1,6 +1,76 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-11-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Beerenkompott (1, 9, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-11-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Hähnchenbrust in Parmesanpanade (Gl, La), Kräutersoße (Gl, La), Strozzapreti (Gl)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 3.95,
+		"PriceGuest": 4.95,
+		"PriceStudent": 2.65,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-11-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Veganer Amaranth Burger (2, 3, 5, Gl, Sw), Rotkohl Coleslaw (So, Sf), Walnuss Senf Soße (1, 5, Nu, Sf, Sw), Pommes Frites (Sf)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.65,
+		"PriceStudent": 5.1,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -17,6 +87,26 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gut und günstig",
+		"Date": "2020-11-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So, Sf), Basmatireis",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.7,
+		"PriceGuest": 4.65,
+		"PriceStudent": 2.4,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -38,5 +128,24 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-11-24T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Farfalle mit Rucola und Tomaten (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
