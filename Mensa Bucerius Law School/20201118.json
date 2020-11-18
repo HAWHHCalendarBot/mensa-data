@@ -4,7 +4,6 @@
 			"2": "Konservierungsstoffe",
 			"5": "Geschwefelt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Se": "Sesam/-erzeugnisse",
 			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
@@ -14,15 +13,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-11-18T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), Karotten Rustica, Bratnudeln mit Gemüsestreifen (2, Gl, So, Se), Rosenkohl in Parmesanpanade (2, La)",
+		"LactoseFree": true,
+		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), Karotten Rustica, Bratreis mit Gemüsestreifen (2, Gl, So, Se), Rosenkohl nature",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -44,6 +43,26 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-11-18T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Erbsen-Koriandersuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {

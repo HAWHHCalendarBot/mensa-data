@@ -1,47 +1,51 @@
 [
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-11-25T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Champignonrahmsoße (Gl, La, Sl), Sommergemüse (La), Pommes Frites (Sf)",
+		"Name": "Grünkohl (2, 3, 8, Sf), Kasseler Nackenbraten (2, 3, La, Sl), Röstkartoffeln",
 		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 3.95,
-		"PriceGuest": 4.95,
-		"PriceStudent": 2.65,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"3": "Antioxidationsmittel",
-			"Ei": "Ei/-erzeugnisse",
+			"5": "Geschwefelt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-11-25T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Ravioli Pommodore mit einer Oliven Frischkäsefüllung (Gl, Ei, La), Tomatenrahmsoße mit grünem Pfeffer (3, La)",
+		"LactoseFree": true,
+		"Name": "Ägyptische Falafel (Gl, Sl), Knoblauchdip (1, Sf), Gemüse Bulgur (Gl, Sl), Krautsalat (3, 5, Sw)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 1.65,
-		"PriceStudent": 0,
-		"Vegan": false,
-		"Vegetarian": true
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
