@@ -68,6 +68,12 @@
 	},
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -75,17 +81,19 @@
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüsebar des Tages",
+		"Name": "gebratener Paprika, Blumenkohl, gebratene Zucchini, gebratenes Aubergingemüse (Sl), pikantes Kürbisgemüse (3, 5, Sl, Sw), Schupfnudeln (Gl, Ei)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -93,7 +101,7 @@
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta des Tages",
+		"Name": "pikante Linsensoße mit Kokosmilch (Sl, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
