@@ -64,15 +64,39 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Blattspinat, Tomaten Mango Belugalinsenragout (2, Sl), Fenchelgemüse (Sl), Blechkartoffeln",
+		"Name": "Blattspinat,, Tomaten Mango Belugalinsenragout (2, Sl), Fenchelgemüse (Sl), Grünkohl mit Speck (2, 3, 8, Sf)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-11-19T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Asiatische Bratnudeln mit Gemüse (Sl), Asia-Dip (1, Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -83,20 +107,22 @@
 	},
 	{
 		"Additives": {
-			"Sl": "Sellerie/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
+		"Category": "Suppe &amp; Co",
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl)",
+		"Name": "Vegane Lauchcremesuppe (Gl, So, Sl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": true,
 		"Vegetarian": false
 	},
@@ -111,7 +137,7 @@
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Spaghetti (Gl), Bolognese, Hartkäse (La)",
+		"Name": "Spaghetti (Gl), Bolognese,, Hartkäse (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.6,
@@ -122,10 +148,11 @@
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"3": "Antioxidationsmittel",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -134,8 +161,8 @@
 		"Category": "Vegetarisch",
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Hausgemachter Gemüsebratling (3, Gl, Ei, Sl, Sw), Kerbelsoße (Gl, La), Vollkorn Fussili (Gl), Apfel Karotten Salat (3, Sw)",
+		"LactoseFree": true,
+		"Name": "Veganer hausgemachter Gemüsebratling (3, Gl, Ei, Sl, Sw), Gemüse Bulgur (Gl, Sl), Soja Paprikadip (1, Sf), Apfel Karotten Salat (3, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.4,
