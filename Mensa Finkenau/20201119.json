@@ -90,36 +90,37 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Se": "Sesam/-erzeugnisse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"4": "Geschmacksverstärker",
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Campus Spezial",
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "vegatarischer Gemüseburger im schwarzem Burgerbrötchen (2, Gl, So, Sl, Se), Pommes Frites (Sf)",
+		"LactoseFree": false,
+		"Name": "vegatarischer Gemüseburger im schwarzem Burgerbrötchen mit Salat und Kräutersauce (4, Ei, La, Sf), Pommes Frites (Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.6,
 		"PriceGuest": 7,
 		"PriceStudent": 4.6,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Se": "Sesam/-erzeugnisse",
 			"Sf": "Senf/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -127,7 +128,7 @@
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Wir kochen was Sie lieben..., Sesam-Chickenburger (2, 3, Gl, So, Se), Pommes Frites (Sf)",
+		"Name": "Wir kochen was Sie lieben..., Sesam-Chickenburger mit Salat und Wasabisauce (1, 2, 3, 5, Gl, Ei, So, Sf, Sw), Pommes Frites (Sf)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 1,
@@ -138,7 +139,13 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -146,7 +153,7 @@
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "israelischer Blumenkohl, Chilli-Karotten (Sl), Brechbohnen in Rahm (La), asiatisches Gemüse (2, Gl, So, Se, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -167,7 +174,7 @@
 		"Date": "2020-11-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta mit Hirtenkäse und Tomaten (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
