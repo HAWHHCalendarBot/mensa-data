@@ -1,18 +1,20 @@
 [
 	{
 		"Additives": {
+			"5": "Geschwefelt",
 			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": true,
+		"Alcohol": false,
 		"Beef": false,
 		"Category": "Campus Spezial",
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": true,
 		"LactoseFree": false,
-		"Name": "Gebratenes Seelachsfilet (Gl, Fi), Dillrahmsoße (Gl, La, Sw), Blattspinat, Salzkartoffeln",
+		"Name": "Gebratenes Seelachsfilet (Gl, Fi), Dijon-Senfsoße (5, Gl, La, Sf, Sw), Blattspinat, Salzkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 5.3,
@@ -23,6 +25,7 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -32,14 +35,14 @@
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Mangold - Weißkohl Pfanne, herbstliche Gemüsepfanne, Porreegemüse in Rahm (Gl, So), Broccoli",
+		"Name": "Mangold - Weißkohl Pfanne, herbstliche Gemüsepfanne, Porreegemüse in Rahm (Gl, So), Broccoli, buntes Gemüse \"Texas-Art\", vegetarische Bratwurst (Ei)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
