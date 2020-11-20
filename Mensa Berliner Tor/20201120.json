@@ -1,6 +1,7 @@
 [
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -11,7 +12,7 @@
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Dessert des Tages (Gl, Ei, La)",
+		"Name": "Apfelstrudel (Gl, Ei, La), Vanillesoße (La), Apfelkompott (3)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -67,7 +68,8 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -75,7 +77,7 @@
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Broccoli (La), Sellerie-Karotten Gemüse (La, Sl), glasiertes Wurzelgemüse mit gerieben Äpfel (La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -86,24 +88,24 @@
 	},
 	{
 		"Additives": {
+			"6": "Geschwärzt",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"LactoseFree": true,
+		"Name": "Pasta Bolognese (Gl), Tomaten Chili Knoblauch Spaghetti mit Tofu (6, Gl, So)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
