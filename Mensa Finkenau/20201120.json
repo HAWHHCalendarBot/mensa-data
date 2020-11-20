@@ -11,7 +11,7 @@
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
+		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Kompott (3)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -35,14 +35,35 @@
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Frischer Linseneintopf mit Gemüse und Kräutern (Sl, Sw), Geflügelwiener Würstchen (2, 3, 8), Baguette (Gl)",
-		"Pig": false,
+		"Name": "Frischer Linseneintopf Gemüse und Kräutern (2, 3, 8, Sl, Sw), Geflügelwiener Würstchen (2, 3, 8), Baguette (Gl)",
+		"Pig": true,
 		"Poultry": true,
 		"PriceAttendant": 4.2,
 		"PriceGuest": 5.25,
 		"PriceStudent": 2.9,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-11-20T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "fruchtiges Curry-Hähnchengeschnezeltes mit Reis (Gl, Ei, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6,
+		"PriceStudent": 3.5,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -68,7 +89,7 @@
 	},
 	{
 		"Additives": {
-			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -78,18 +99,21 @@
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl), Kartoffel Möhrenstampf (La)",
-		"Pig": true,
-		"Poultry": false,
-		"PriceAttendant": 5.4,
-		"PriceGuest": 6.75,
-		"PriceStudent": 4.1,
+		"Name": "Nudelauflauf in der Kokotte gebacken mit Hähnchenstreifen in feuriger Tomatensoße (Gl, La, Sl)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6,
+		"PriceStudent": 3.5,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -97,7 +121,7 @@
 		"Date": "2020-11-20T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Grünkohl (Gl, Sl, Sf), Röstkartoffeln, Brechbohnen in Rahm (La, Sl), Gartengemüse (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
