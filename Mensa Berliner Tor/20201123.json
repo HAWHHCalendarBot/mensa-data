@@ -1,9 +1,10 @@
 [
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -11,7 +12,7 @@
 		"Date": "2020-11-23T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Dessert des Tages (Gl, Ei, La)",
+		"Name": "Germknödel mit Schokoladenfüllung (Gl, So, La, Nu), Vanillesoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -47,7 +48,11 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -55,7 +60,7 @@
 		"Date": "2020-11-23T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Orientalisches Kichererbsengemüse (2, 5, Sw), Apfelrotkohl (3, 5, Sw), gegrillte Maiskolben mit Kräuterbutter (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -66,24 +71,24 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"6": "Geschwärzt",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-23T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"LactoseFree": true,
+		"Name": "Pasta con verdure mit buntem Gemüse in Sahne Sauce (6, Sl, Sw), Gemüse- Reis sweet and sour (Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
