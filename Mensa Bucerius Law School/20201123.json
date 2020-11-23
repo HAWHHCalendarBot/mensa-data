@@ -3,7 +3,9 @@
 		"Additives": {
 			"6": "Geschwärzt",
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -11,7 +13,7 @@
 		"Date": "2020-11-23T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Tomaten-Oliven-Ragout (6), Gnocchi (Gl, Ei)",
+		"Name": "Gartenbohnen mit Pfifferlingen, vegane Champignons in Rahm (So, Sw), Grüne und gelbe Zucchini (6), Gnocchi (Gl, Ei)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -22,12 +24,8 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
@@ -36,14 +34,33 @@
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-23T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Arcobaleno mit Schinken und Käse (1, 2, 3, 8, La, Sl, Sw), Fusilli (Gl)",
-		"Pig": true,
+		"LactoseFree": true,
+		"Name": "vegetarische Pasta Arcobaleno mit Paprika und Quorn (Ei, Sl, Sw), Penne (Gl)",
+		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-11-23T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Veganer Kartoffel-Kichererbseneintopf mit Gemüse (Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
@@ -58,7 +75,7 @@
 		"Date": "2020-11-23T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Schweineschnitzel Toscana (1, Gl, La), Basilikumsoße (Gl, La), Penne (Gl)",
+		"Name": "Schweineschnitzel Toscana (1, Gl, La), Kräutersoße (Gl, La), Penne (Gl)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 3.95,
