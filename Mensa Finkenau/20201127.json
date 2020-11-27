@@ -1,9 +1,30 @@
 [
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"1": "Farbstoffe",
+			"9": "Süßungsmittel",
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-11-27T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "2 Quarkkeulchen (Gl, Ei, La), Beerenkompott (1, 9, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -11,7 +32,27 @@
 		"Date": "2020-11-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
+		"Name": "2 Quarkkeulchen, Kompott (3)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-11-27T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -52,7 +93,7 @@
 		"Date": "2020-11-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Name": "buntem Gemüse, Süßkartoffeln, Röstkartoffeln, Tellerrösti",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -63,7 +104,9 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -71,7 +114,7 @@
 		"Date": "2020-11-27T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Ratatouille - Gemüse (Gl, Sl, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
