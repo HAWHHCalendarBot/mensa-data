@@ -1,6 +1,7 @@
 [
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -11,7 +12,7 @@
 		"Date": "2020-11-30T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Dessert des Tages (Gl, Ei, La)",
+		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Apfelmus (3)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -22,7 +23,10 @@
 	},
 	{
 		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -30,7 +34,7 @@
 		"Date": "2020-11-30T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Prinzessbohnen, Tricolore Gemüse (La, Sl), Rosmarinkartoffeln, Gemüsemix Eskorial mit Rahmsauce (Gl, So, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -43,15 +47,17 @@
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
-		"Alcohol": false,
+		"Alcohol": true,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-11-30T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta Champignons in Cremesoße (La, Sl), Curryreis (Sf), Pasta Basilico (Gl, La, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
