@@ -23,9 +23,35 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-12-01T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Nudelauflauf mit Schinkensauce und Käse überbacken (2, 3, 8, Gl, La, Sl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.25,
+		"PriceStudent": 2.9,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
 			"9": "Süßungsmittel",
 			"Ei": "Ei/-erzeugnisse",
-			"Sf": "Senf/-erzeugnisse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -33,7 +59,7 @@
 		"Date": "2020-12-01T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pulled Tandoori Chicken Sandwich mit cremigen Rotkohl, Koriander,Cranberry (2, 9, Ei, Sf)",
+		"Name": "Pulled Tandoori Chicken Sandwich mit cremigen Rotkohl, Koriander,Cranberry (2, 9, Gl, Ei, So, Sf)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 6,
@@ -51,7 +77,7 @@
 		"Date": "2020-12-01T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"Name": "Karotten, Prinzessbohnen, gebratene Zucchini, Süßkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -73,7 +99,7 @@
 		"Date": "2020-12-01T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Frikadelle (Gl, Ei), Rahmsoße (Gl, La, Sl), Kartoffelpüree (La)",
+		"Name": "Frikadelle (Gl, Ei), Buttererbsen (La), Rahmsoße (Gl, La, Sl), Kartoffelpüree (La)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 3.35,
@@ -84,22 +110,24 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-12-01T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta des Tages (Gl)",
+		"LactoseFree": false,
+		"Name": "Pasta mit Tomaten,Erbsen,Hartkäse und Basilikum (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
