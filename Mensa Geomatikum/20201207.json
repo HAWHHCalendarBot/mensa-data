@@ -1,10 +1,11 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
+			"8": "Phosphat",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -12,7 +13,7 @@
 		"Date": "2020-12-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "5 Nürnberger Bratwürstchen, Bayrisch Kraut (3, 5, Sw), Kartoffelpüree (La)",
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2, 3, 8, Sl), Kartoffelpüree (La)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.1,
@@ -23,23 +24,24 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gut und günstig",
+		"Category": "Vegetarisch",
 		"Date": "2020-12-07T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Wir kochen was Sie lieben..., Indische Curryeier (Gl, Ei, La), Basmatireis",
+		"LactoseFree": true,
+		"Name": "Süßkartoffel Kokos Soja Curry (So, Sl, Sf), Tomatenbulgur (Gl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 1.65,
-		"PriceStudent": 0,
-		"Vegan": false,
-		"Vegetarian": true
+		"PriceAttendant": 3.95,
+		"PriceGuest": 4.95,
+		"PriceStudent": 2.65,
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
