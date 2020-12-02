@@ -1,17 +1,17 @@
 [
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Aus dem Suppentopf und Süßes",
 		"Date": "2020-12-02T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Dessert des Tages (Gl, Ei, La)",
+		"LactoseFree": true,
+		"Name": "3 Stück Kartoffelpuffer (Gl, Ei), Apfelmus (3)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 2.6,
@@ -38,17 +38,45 @@
 		"Date": "2020-12-02T00:00:00.000Z",
 		"Fish": true,
 		"LactoseFree": true,
-		"Name": "#allinONEPOT......, Hokkaido Kürbis / Basmati Reis / Baby Spinat / Cashewkerne / Putenbrust / Weißkohl \"Kimchi-Art\" (1, 2, 3, 5, Gl, Fi, So, Nu, Sw)",
+		"Name": "#allinONEPOT......, Hokkaido Kürbis/Basmati Reis/Baby Spinat/Cashewkerne/Putenbrust/Weißkohl \"Kimchi-Art\"/Granatapfel (1, 2, 3, 5, Gl, Fi, So, Nu, Sw)",
 		"Pig": false,
 		"Poultry": true,
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6,
-		"PriceStudent": 3.8,
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.3,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"1": "Farbstoffe",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Fi": "Fisch/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-12-02T00:00:00.000Z",
+		"Fish": true,
+		"LactoseFree": true,
+		"Name": "#allinONEPOT..VEGGIE.., Hokkaido Kürbis/Basmati Reis/Baby Spinat/Cashewkerne/Soja/Weißkohl \"Kimchi-Art\"/Granatapfl (1, 2, 3, 5, Gl, Fi, So, Nu, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.3,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
@@ -57,7 +85,7 @@
 		"Date": "2020-12-02T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Gemüse des Tages (La)",
+		"Name": "Gemüsemix Eskorial mit Tomatensauce (Gl, La), Maisgemüse (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -90,9 +118,13 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -100,7 +132,7 @@
 		"Date": "2020-12-02T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta des Tages (Gl, La, Sl)",
+		"Name": "Pasta mit Spinatsahnesoße (Gl, La, Sl), Pasta mit Soja Bolognese mit Gemüse (Gl, So, Sl), Bratnudeln mit Gemüsestreifen (2, Gl, Ei, So, Se), Tortellini mit Käsefüllung (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -108,32 +140,5 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Fi": "Fisch/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Nu": "Schalenfrüchte/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-12-02T00:00:00.000Z",
-		"Fish": true,
-		"LactoseFree": true,
-		"Name": "#allinONEPOT..VEGGIE.., Hokkaido Kürbis / Basmati Reis / Baby Spinat / Cashewkerne / Soja / Weißkohl \"Kimchi-Art\" (1, 2, 3, 5, Gl, Fi, So, Nu, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.75,
-		"PriceGuest": 5.95,
-		"PriceStudent": 3.45,
-		"Vegan": false,
-		"Vegetarian": false
 	}
 ]
