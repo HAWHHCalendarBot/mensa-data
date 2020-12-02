@@ -22,6 +22,31 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Campus Spezial",
+		"Date": "2020-12-07T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Kasseler Nackenbraten (2, 3, La, Sl), Salzkartoffeln",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.5,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"6": "Geschwärzt",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
@@ -41,27 +66,6 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"2": "Konservierungsstoffe",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Gut und günstig",
-		"Date": "2020-12-07T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Spinat Rindfleisch Curry (2, La, Sf), Reis",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.6,
-		"PriceGuest": 4.5,
-		"PriceStudent": 2.3,
-		"Vegan": false,
-		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -86,23 +90,21 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-12-07T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Süßkartoffel Kokos Soja Curry (So, Sl, Sf), Tomatenbulgur (Gl)",
+		"LactoseFree": false,
+		"Name": "Cappeletti Rosso (Gl, La), Tomaten-Gemüsesoße",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 3.95,
-		"PriceGuest": 4.95,
-		"PriceStudent": 2.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
