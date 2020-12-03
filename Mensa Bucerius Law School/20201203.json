@@ -10,7 +10,7 @@
 		"Date": "2020-12-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Schweinenackensteak, Kräuterbutter (La), Paprika-Zwiebelgemüse, Kroketten (Gl)",
+		"Name": "Schweinenackensteak vom Grill,, Kräuterbutter, (La), Paprika-Zwiebelgemüse,, Kroketten (Gl)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.5,
@@ -22,6 +22,7 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -30,7 +31,7 @@
 		"Date": "2020-12-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Blattspinat, Tomaten Mango Belugalinsenragout (2, Sl), Blechkartoffeln",
+		"Name": "Veganer Blattspinat in Creme,, Veganes orientalisches Gemüse mit Couscous, (Gl, Sl), Tomaten Mango Belugalinsenragout, (2, Sl), Blechkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -41,7 +42,9 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -49,13 +52,33 @@
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-12-03T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl), Penne (Gl)",
+		"LactoseFree": false,
+		"Name": "Pasta Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl), Spaghetti mit Pesto (2, Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-12-03T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Rote Beete Cremesuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": true,
 		"Vegetarian": false
 	},
