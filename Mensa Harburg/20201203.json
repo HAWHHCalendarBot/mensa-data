@@ -1,27 +1,6 @@
 [
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Aus dem Suppentopf und Süßes",
-		"Date": "2020-12-03T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Germknödel (Gl, Ei, La), Vanillesoße (La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 2.6,
-		"PriceGuest": 3.25,
-		"PriceStudent": 1.4,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
@@ -67,24 +46,34 @@
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-12-03T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüsebar des Tages",
+		"LactoseFree": false,
+		"Name": "Blumenkohl-Broccoli (So), Ratatouille mit Artischocken (Sw), Bohnen mit Pilzen, Spinat in Rahm (So), Grillgemüse mit Paprika, Zucchini, Champignons (Sl, Sf), Kartoffelauflauf (Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -92,7 +81,7 @@
 		"Date": "2020-12-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Pasta des Tages",
+		"Name": "Pasta (Gl), Champignon Sauce (Gl, So, Sl, Sw), Tomaten-Soja-Sahne (So)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
