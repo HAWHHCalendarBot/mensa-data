@@ -22,16 +22,20 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
-		"Alcohol": false,
+		"Alcohol": true,
 		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-12-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (Sl), Kartoffelpüree (La)",
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (Sl), Biersoße (2, 3, 8, Gl, Sl), Kartoffelpüree (La)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.1,
@@ -42,40 +46,44 @@
 	},
 	{
 		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-12-07T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Gemüse des Tages",
+		"LactoseFree": false,
+		"Name": "Ratatouille (Sl), Buttererbsen, dicke Bohnen in Rahm (La, Sl), Prinzessbohnen",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-12-07T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta des Tages (Gl)",
+		"LactoseFree": false,
+		"Name": "Pasta mit Spinat-Gorgonzolasauce (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
@@ -92,7 +100,7 @@
 		"Date": "2020-12-07T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse Kokos Curry (So, Sl, Sf, Se), Naan Brot (Gl, Ei, So, Se)",
+		"Name": "Spinat-Süßkartoffelcurry (So, Sl, Sf, Se), Naan Brot (Gl, Ei, So, Se)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4,
