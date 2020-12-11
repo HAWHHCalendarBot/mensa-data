@@ -22,6 +22,28 @@
 	},
 	{
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2020-12-11T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Gänsekeule, Geflügelrahmsoße (La), Apfelrotkohl (3, 5, Sw), Salzkartoffeln",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 1,
+		"PriceGuest": 1.25,
+		"PriceStudent": 0,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"Fi": "Fisch/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -44,11 +66,13 @@
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -56,8 +80,8 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-12-11T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Mandelbroccoli (Nu), Karotten Pastinakenmix mit frischer Petersilie, gebratene Paprika (5, Sw), Auberginen mit Balsamico Bianco (3, 5, Sw), Schupfnudeln (Gl, Ei)",
+		"LactoseFree": false,
+		"Name": "Mandelbroccoli (Nu), Grillgemüse mit Quinoa (2, Gl, So), gebratene Paprika (5, Sw), Auberginen mit Balsamico Bianco (3, 5, Sw), Blattspinat in Rahm (Gl, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -89,9 +113,6 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -102,28 +123,7 @@
 		"Date": "2020-12-11T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Pasta Carbonara mit Speck (2, 3, 8, Gl, La), Hartkäse (La), Gnocchi (Gl, Ei)",
-		"Pig": true,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2020-12-11T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Pasta Gorgonzola (La), Tomatensoße, Hartkäse (La), Gnocchi (Gl, Ei)",
+		"Name": "Pasta Gorgonzola (La), Hartkäse (La), Gnocchi (Gl, Ei)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -131,5 +131,27 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-12-11T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pasta Nerone mit Schweinefleisch und Gemüse (La, Sl), Hartkäse (La), Gnocchi (Gl, Ei)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": false
 	}
 ]
