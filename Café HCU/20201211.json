@@ -1,25 +1,46 @@
 [
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2020-12-11T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Schweinegeschnetzeltes mit Pilzen (2, 3, 8, So, La, Sw), Reis",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.9,
+		"PriceGuest": 7.2,
+		"PriceStudent": 3.6,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-12-11T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Semmelknödel mit frischem Waldpilzragout in Kräuterrahm (Gl, Ei, La, Sl, Sw)",
+		"LactoseFree": true,
+		"Name": "Räuchertofu in Pilzrahm (Gl, So), Reis",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.6,
-		"PriceGuest": 6.6,
-		"PriceStudent": 3.3,
-		"Vegan": false,
-		"Vegetarian": true
+		"PriceAttendant": 4.7,
+		"PriceGuest": 6.8,
+		"PriceStudent": 3.4,
+		"Vegan": true,
+		"Vegetarian": false
 	}
 ]
