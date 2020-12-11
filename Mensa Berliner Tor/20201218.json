@@ -1,6 +1,27 @@
 [
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2020-12-18T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Dessert des Tages (Gl, Ei, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
@@ -15,9 +36,54 @@
 		"Name": "Ofenkartoffel light mit gebratenen Hähnchenstreifen (3, 5, La, Sw)",
 		"Pig": false,
 		"Poultry": true,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 1.65,
-		"PriceStudent": 0,
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.15,
+		"PriceStudent": 3.6,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gemüse-Bar pro 100g",
+		"Date": "2020-12-18T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "buntem Gemüse, Gemüse- Reis (Se), Mexikanisches Gemüse (Sl), Schnittlauchkartoffeln",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"6": "Geschwärzt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2020-12-18T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Bratnudeln mit Rinderstreifen (2, Gl, So, Se), Pasta con verdure mit buntem Gemüse und Soja (6, So, Sl, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": false
 	}
