@@ -1,38 +1,48 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Campus Spezial",
 		"Date": "2020-12-15T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Wir kochen was Sie lieben..., Dummy",
-		"Pig": false,
+		"LactoseFree": false,
+		"Name": "Wir kochen was Sie lieben..., Kohlwurst (2, 3, 4, 8, Sf), Spitzkohl in Rahm (La), Kroketten (Gl)",
+		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 1,
 		"PriceGuest": 1.25,
 		"PriceStudent": 0,
-		"Vegan": true,
+		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Vegetarisch",
 		"Date": "2020-12-15T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Wir kochen was Sie lieben..., Dummy",
+		"LactoseFree": false,
+		"Name": "Wir kochen was Sie lieben..., Dummy (Ei), Spitzkohl in Rahm (La), Kroketten (Gl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 1.3,
 		"PriceGuest": 1.65,
 		"PriceStudent": 0,
-		"Vegan": true,
-		"Vegetarian": false
+		"Vegan": false,
+		"Vegetarian": true
 	}
 ]
