@@ -88,9 +88,9 @@
 	{
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
 			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
@@ -99,7 +99,7 @@
 		"Date": "2020-12-15T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Prinzeßgemüse, Mexikanisches Gemüse (Sl), Champignons in Rahm (Gl, La, Sw), Kartoffelgratin (Ei, La)",
+		"Name": "Prinzeßgemüse, Mexikanisches Gemüse (Sl), vegane Champignons in Rahm (So, Sw), Kartoffelgratin (Ei, La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -130,6 +130,26 @@
 		"PriceStudent": 0.65,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-12-15T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Broccolicremesuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
