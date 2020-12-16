@@ -1,24 +1,45 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"So": "Soja/-erzeugnisse"
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-12-16T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Frikadelle (Gl, Ei), Kartoffelpüree (La), Currycremewirsing (Gl, So)",
+		"LactoseFree": true,
+		"Name": "Frikadelle (Gl, Ei), Kartoffelsalat (2, Gl, Ei, Sf)",
 		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 4.45,
-		"PriceGuest": 5.6,
-		"PriceStudent": 3.15,
+		"PriceAttendant": 3.95,
+		"PriceGuest": 4.95,
+		"PriceStudent": 2.65,
 		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2020-12-16T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Gemüseschnitzel (Gl, Sl), Salzkartoffeln, Currycremewirsing (Gl, So)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4,
+		"PriceGuest": 5,
+		"PriceStudent": 2.7,
+		"Vegan": true,
 		"Vegetarian": false
 	}
 ]
