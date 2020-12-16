@@ -1,41 +1,69 @@
 [
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
+		"Beef": true,
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2020-12-16T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Blattspinat Asia Style (Gl), Stangenbrechbohnen Provencial, Röstkartoffeln, Kohlrabi in Rahm (Gl, La)",
-		"Pig": false,
+		"LactoseFree": true,
+		"Name": "Veganer Blattspinat in Rahm, (So, Sl), Grünkohl, (2, 3, 8, Sf), Stangenbrechbohnen Provencial,, Kohlrabi und Karotten",
+		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Se": "Sesam/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Pasta-Bar pro 100g",
 		"Date": "2020-12-16T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Penne mit Kürbis Bolognese (Gl, La)",
+		"LactoseFree": true,
+		"Name": "Ragout von der Gans süß-sauer (Sl), Bratnudeln mit Gemüsestreifen (2, Gl, So, Se)",
 		"Pig": false,
-		"Poultry": false,
+		"Poultry": true,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2020-12-16T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Pilzcremesuppe (Gl, La, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
 		"Vegan": false,
 		"Vegetarian": true
 	},
@@ -51,7 +79,7 @@
 		"Date": "2020-12-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Paniertes Putenschnitzel (Gl), Korianderdip (La), Gemüse Bulgur (Gl, Sl)",
+		"Name": "Paniertes Putenschnitzel (Gl), Pestocreme (La), Gemüsecouscous (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 4.15,
@@ -62,7 +90,6 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
 			"Sf": "Senf/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -72,7 +99,7 @@
 		"Date": "2020-12-16T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So, Sf), Reis, Knoblauchdip (1, Sf)",
+		"Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So, Sf), Reis,, Knoblauchdip (So)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.15,
