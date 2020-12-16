@@ -42,23 +42,22 @@
 	},
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2020-12-16T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Tagliatelle mit Kürbis Bolognese (Gl, La), Spaghetti (Gl)",
+		"LactoseFree": true,
+		"Name": "Pasta Arrabiata mit Hähnchenstreifen (Gl)",
 		"Pig": false,
-		"Poultry": false,
+		"Poultry": true,
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.25,
 		"PriceStudent": 2.1,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -81,6 +80,25 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Gut und günstig",
+		"Date": "2020-12-16T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pasta Arrabiata (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
@@ -98,28 +116,6 @@
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
-		"Date": "2020-12-16T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Nudelpfanne mit Zucchini, Staudensellerie und Radicchio (Gl, La, Sl, Sw)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.1,
-		"PriceGuest": 5.15,
-		"PriceStudent": 2.8,
 		"Vegan": false,
 		"Vegetarian": true
 	}
