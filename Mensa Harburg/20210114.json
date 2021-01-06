@@ -1,79 +1,41 @@
 [
 	{
 		"Additives": {
-			"4": "Geschmacksverstärker",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse"
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
-		"Beef": true,
+		"Beef": false,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2021-01-14T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Texashacksteak (Gl, Ei), Pfeffercreme (4, Ei, La, Sf), Kartoffelspalten (Gl)",
+		"Name": "Hühnerfrikassee (Gl, La, Sw), Reis",
 		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 5.05,
-		"PriceGuest": 6.35,
-		"PriceStudent": 3.75,
+		"Poultry": true,
+		"PriceAttendant": 3.9,
+		"PriceGuest": 4.9,
+		"PriceStudent": 2.6,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Gemüse-Bar pro 100g",
+		"Category": "Vegetarisch",
 		"Date": "2021-01-14T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüsebar des Tages",
+		"Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Gut und günstig",
-		"Date": "2021-01-14T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.4,
-		"PriceStudent": 2.2,
-		"Vegan": false,
-		"Vegetarian": true
-	},
-	{
-		"Additives": {
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Pasta-Bar pro 100g",
-		"Date": "2021-01-14T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Pasta des Tages",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 0.85,
-		"PriceGuest": 1.05,
-		"PriceStudent": 0.65,
+		"PriceAttendant": 4.25,
+		"PriceGuest": 5.35,
+		"PriceStudent": 2.95,
 		"Vegan": true,
 		"Vegetarian": false
 	}
