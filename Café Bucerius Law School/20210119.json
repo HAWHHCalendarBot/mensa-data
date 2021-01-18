@@ -1,30 +1,31 @@
 [
 	{
 		"Additives": {
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": true,
-		"Category": "Beliebt und gerne gegessen",
+		"Category": "Tagesgericht",
 		"Date": "2021-01-19T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Bolognese, Penne (Gl), Hartkäse (La)",
-		"Pig": false,
+		"LactoseFree": true,
+		"Name": "Grünkohl (2, 3, 8, Sf), Kochwurst (2, 3, 4, 8, Sf), Röstkartoffeln",
+		"Pig": true,
 		"Poultry": false,
-		"PriceAttendant": 3.9,
-		"PriceGuest": 4.9,
-		"PriceStudent": 2.6,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 4.85,
+		"PriceStudent": 3.7,
 		"Vegan": false,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Se": "Sesam/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
@@ -34,12 +35,12 @@
 		"Date": "2021-01-19T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Ägyptische Falafel mit Hummusfüllung (Gl, So, Sl, Se), Kräuter Joghurt Dip (La), Gemüsecouscous (Gl, La, Sl), Rotkohlsalat (3)",
+		"Name": "Gemüsecouscous (Gl, Sl), Tzatziki oder (La), veganer Soja Kräuterdip (So)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.2,
+		"PriceAttendant": 2.85,
+		"PriceGuest": 3.2,
+		"PriceStudent": 2.45,
 		"Vegan": false,
 		"Vegetarian": true
 	}
