@@ -1,52 +1,49 @@
 [
 	{
 		"Additives": {
+			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"9": "Süßungsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Aktion",
+		"Category": "Aus dem Wok",
 		"Date": "2021-04-28T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Currybratwurst (3, 4, 8, Sf), BBQ Soße (2, 9, Sl, Sf), Kartoffeltwister (Gl)",
-		"Pig": true,
+		"Name": "Veganes Thai Curry, Grünes Thai-Gemüsecurry (1, 2, Gl, So, Sl, Sw), Basmatireis",
+		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.5,
-		"PriceGuest": 5.65,
-		"PriceStudent": 3.2,
-		"Vegan": false,
+		"PriceAttendant": 4.05,
+		"PriceGuest": 5.1,
+		"PriceStudent": 2.75,
+		"Vegan": true,
 		"Vegetarian": false
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
-			"9": "Süßungsmittel",
+			"1": "Farbstoffe",
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse"
 		},
 		"Alcohol": false,
-		"Beef": false,
-		"Category": "Vegetarisch",
+		"Beef": true,
+		"Category": "Campus Spezial",
 		"Date": "2021-04-28T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Vegetarische Bratwurst (Ei), BBQ Soße (2, 9, Sl, Sf), Kartoffeltwister (Gl)",
+		"LactoseFree": false,
+		"Name": "Juicy Beef Sandwich: Saftiges Rindfleisch überzogen mit geschmolzenem Cheddar im Ciabattasandwich (1, Gl, Ei, La, Sf)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.5,
-		"PriceGuest": 5.65,
-		"PriceStudent": 3.2,
+		"PriceAttendant": 1,
+		"PriceGuest": 1.25,
+		"PriceStudent": 0,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]

@@ -1,6 +1,32 @@
 [
 	{
 		"Additives": {
+			"2": "Konservierungsstoffe",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Aktion",
+		"Date": "2021-04-29T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Currybratwurst (3, 4, 8, Sf), BBQ Soße (2, 9, Sl, Sf), Kartoffeltwister (Gl)",
+		"Pig": true,
+		"Poultry": false,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
@@ -63,49 +89,26 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
+			"9": "Süßungsmittel",
+			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"Sl": "Sellerie/-erzeugnisse",
-			"So": "Soja/-erzeugnisse",
-			"Sw": "Schwefeldioxid/Sulfite"
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
-		"Category": "Aus dem Wok",
+		"Category": "Vegetarisch",
 		"Date": "2021-04-29T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Veganes Thai Curry, Grünes Thai-Gemüsecurry (1, 2, Gl, So, Sl, Sw), Basmatireis",
+		"Name": "Vegetarische Bratwurst (Ei), BBQ Soße (2, 9, Sl, Sf), Kartoffeltwister (Gl)",
 		"Pig": false,
 		"Poultry": false,
-		"PriceAttendant": 4.05,
-		"PriceGuest": 5.1,
-		"PriceStudent": 2.75,
-		"Vegan": true,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
-			"1": "Farbstoffe",
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": true,
-		"Category": "Campus Spezial",
-		"Date": "2021-04-29T00:00:00.000Z",
-		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Juicy Beef Sandwich: Saftiges Rindfleisch überzogen mit geschmolzenem Cheddar im Ciabattasandwich (1, Gl, Ei, La, Sf)",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.4,
-		"PriceStudent": 3.3,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.2,
 		"Vegan": false,
-		"Vegetarian": false
+		"Vegetarian": true
 	}
 ]
