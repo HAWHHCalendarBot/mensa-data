@@ -1,30 +1,6 @@
 [
 	{
 		"Additives": {
-			"9": "Süßungsmittel",
-			"Ei": "Ei/-erzeugnisse",
-			"Fi": "Fisch/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse"
-		},
-		"Alcohol": false,
-		"Beef": false,
-		"Category": "Beliebt und gerne gegessen",
-		"Date": "2021-05-07T00:00:00.000Z",
-		"Fish": true,
-		"LactoseFree": false,
-		"Name": "Seelachs Knusperecken (Gl, Ei, Fi, Sf), rote Beete Zwiebel Quark (9, La), Salzkartoffeln",
-		"Pig": false,
-		"Poultry": false,
-		"PriceAttendant": 1.3,
-		"PriceGuest": 1.65,
-		"PriceStudent": 0,
-		"Vegan": false,
-		"Vegetarian": false
-	},
-	{
-		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"So": "Soja/-erzeugnisse"
@@ -32,7 +8,7 @@
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Campus Spezial",
-		"Date": "2021-05-07T00:00:00.000Z",
+		"Date": "2021-05-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
 		"Name": "Chick &#039;n sheep Salat, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei, So, La)",
@@ -52,7 +28,7 @@
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Campus Spezial",
-		"Date": "2021-05-07T00:00:00.000Z",
+		"Date": "2021-05-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
 		"Name": "Sheep Salat,Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei, La)",
@@ -66,24 +42,45 @@
 	},
 	{
 		"Additives": {
-			"1": "Farbstoffe",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
 		"Category": "Gut und günstig",
-		"Date": "2021-05-07T00:00:00.000Z",
+		"Date": "2021-05-03T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Grünkern-Bolognese (Gl, Sl), Rigatoni (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 1.3,
+		"PriceGuest": 1.65,
+		"PriceStudent": 0,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"1": "Farbstoffe",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": true,
+		"Category": "Gut und günstig",
+		"Date": "2021-05-03T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Kaiserschmarrn (Gl, Ei, La), Pflaumenkompott (1, La)",
+		"Name": "Texashacksteak (Gl, Ei), Kartoffelspalten Spicy (1, Gl), Pfefferrahmsoße (Gl, La, Sl)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 1.3,
 		"PriceGuest": 1.65,
 		"PriceStudent": 0,
 		"Vegan": false,
-		"Vegetarian": true
+		"Vegetarian": false
 	}
 ]
