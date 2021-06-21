@@ -88,13 +88,11 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"9": "Süßungsmittel",
+			"5": "Geschwefelt",
 			"Sf": "Senf/-erzeugnisse",
-			"Sl": "Sellerie/-erzeugnisse"
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -102,13 +100,37 @@
 		"Date": "2021-06-22T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Currybratwurst (3, 4, 8, Sf), Grillsoße (2, 9, Sl, Sf), Pommes Frites (Sf)",
+		"Name": "Aus der Pfanne und vom Grill: gegrillte Chorizo mit Spanischem Kartoffelsalat, und Bärlauchsenf (3, 5, Sl, Sf, Sw)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 3.95,
 		"PriceGuest": 4.45,
 		"PriceStudent": 3.4,
 		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Vegetarisch",
+		"Date": "2021-06-22T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Aus der Pfanne und vom Grill: veganer hausgemachter Gemüsebratling mit spanischem Kartoffelsalat (3, 5, Gl, So, Sl, Sw)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 3.6,
+		"PriceGuest": 4.05,
+		"PriceStudent": 3.1,
+		"Vegan": true,
 		"Vegetarian": false
 	}
 ]
