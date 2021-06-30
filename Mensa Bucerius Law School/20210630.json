@@ -64,7 +64,9 @@
 	{
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": false,
@@ -72,7 +74,7 @@
 		"Date": "2021-06-30T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Putensteak, Kräuterbutter (La), Broccoli, Kartoffelgratin (Ei, La)",
+		"Name": "Putensteak, Pfefferrahmsoße (Gl, La, Sl), Kräuterbutter (La), Broccoli, Kartoffelgratin (Ei, La)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 6.35,
@@ -124,6 +126,26 @@
 		"PriceStudent": 3.75,
 		"Vegan": false,
 		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2021-06-30T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), Penne (Gl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
