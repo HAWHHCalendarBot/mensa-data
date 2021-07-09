@@ -45,10 +45,52 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2021-07-09T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "vegane \"Texas-Hack-Pfanne\" oder Pasta \"Don Pepe\" mit Blattspinat und Seefisch (Gl, So, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 0.85,
+		"PriceGuest": 1.05,
+		"PriceStudent": 0.65,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2021-07-09T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": true,
+		"Name": "Vegane Gemüsecremesuppe (So, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": true,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
 			"1": "Farbstoffe",
 			"2": "Konservierungsstoffe",
 			"9": "Süßungsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sf": "Senf/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -57,8 +99,8 @@
 		"Category": "Tagesgericht",
 		"Date": "2021-07-09T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Hähnchenkeule (Sf), Grillsoße (2, 9, Sl, Sf), Kartoffelspalten Spicy (1, Gl)",
+		"LactoseFree": false,
+		"Name": "Hähnchenkeule (Sf), Grillsoße (2, 9, Sl, Sf), Kartoffelspalten Spicy (1, Gl), Grilltomate (La)",
 		"Pig": false,
 		"Poultry": true,
 		"PriceAttendant": 3.7,
