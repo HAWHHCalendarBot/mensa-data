@@ -2,15 +2,17 @@
 	{
 		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
 		"Beef": true,
 		"Category": "Beliebt und gerne gegessen",
 		"Date": "2021-07-26T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": true,
-		"Name": "Schwedische Köttbullar (Gl, Ei), Salzkartoffeln, Preiselbeeren",
+		"LactoseFree": false,
+		"Name": "Schwedische Köttbullar (Gl, Ei), Salzkartoffeln, Rahmsoße (Gl, La, Sl), Preiselbeeren",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 3.9,
@@ -18,6 +20,47 @@
 		"PriceStudent": 2.6,
 		"Vegan": false,
 		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"So": "Soja/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2021-07-26T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Chick&#039;n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei, So, La)",
+		"Pig": false,
+		"Poultry": true,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 4.65,
+		"PriceStudent": 4.2,
+		"Vegan": false,
+		"Vegetarian": false
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Campus Spezial",
+		"Date": "2021-07-26T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Egg&#039;n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei, La)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 4,
+		"PriceGuest": 4.15,
+		"PriceStudent": 3.75,
+		"Vegan": false,
+		"Vegetarian": true
 	},
 	{
 		"Additives": {
