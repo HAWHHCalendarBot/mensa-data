@@ -23,7 +23,6 @@
 	{
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -31,15 +30,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2021-09-13T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "glacierte rote Beete, Gemüsepfanne Texas (Gl), gedünsteter Kohlrabi (La), Ratatouille (Sl), Rosmarinkartoffeln",
+		"LactoseFree": true,
+		"Name": "glacierte rote Beete, Gemüsepfanne Texas (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
 		"PriceGuest": 1.05,
 		"PriceStudent": 0.65,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
@@ -64,6 +63,27 @@
 	},
 	{
 		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2021-09-13T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Erbsencremesuppe (Gl, La, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
 			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)"
@@ -74,7 +94,7 @@
 		"Date": "2021-09-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Rindfleischfrikadelle (Gl, Ei), Kohlrabigemüse (La), Kartoffelpüree (La)",
+		"Name": "Rindfleischfrikadelle (Gl, Ei), Kohlrabigemüse (La), hausgemachtes Kartoffelpüree (La)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 3.25,
@@ -85,7 +105,6 @@
 	},
 	{
 		"Additives": {
-			"2": "Konservierungsstoffe",
 			"3": "Antioxidationsmittel",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"Sl": "Sellerie/-erzeugnisse",
@@ -97,7 +116,7 @@
 		"Date": "2021-09-13T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Gemüse- Couscous mit Tofu, Backpflaumen (2, Gl, So, Sl), Tomaten Pfirsich Relish (3)",
+		"Name": "Gemüse- Couscous mit Tofu (Gl, So, Sl), Tomaten Pfirsich Relish (3)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.15,
