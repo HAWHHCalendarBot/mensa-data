@@ -44,9 +44,6 @@
 	},
 	{
 		"Additives": {
-			"Ei": "Ei/-erzeugnisse",
-			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
-			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Nu": "Schalenfrüchte/-erzeugnisse",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
@@ -55,15 +52,15 @@
 		"Category": "Gemüse-Bar pro 100g",
 		"Date": "2021-09-22T00:00:00.000Z",
 		"Fish": false,
-		"LactoseFree": false,
-		"Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi (Gl, Ei), Karotten Rustica, Flageolets Bohnen",
+		"LactoseFree": true,
+		"Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (Nu), Karotten Rustica, Flageolets Bohnen",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.9,
 		"PriceGuest": 1.1,
 		"PriceStudent": 0.7,
-		"Vegan": false,
-		"Vegetarian": true
+		"Vegan": true,
+		"Vegetarian": false
 	},
 	{
 		"Additives": {
