@@ -23,9 +23,9 @@
 	{
 		"Additives": {
 			"2": "Konservierungsstoffe",
-			"Ei": "Ei/-erzeugnisse",
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sf": "Senf/-erzeugnisse",
 			"So": "Soja/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -34,7 +34,7 @@
 		"Date": "2021-09-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "gebratener Pak Choi (2, Gl, So), Blumenkohl mit gebräunten Bröseln (Gl, La), Karottengemüse in Kräuterrahm (Gl, La), Spätzle (Gl, Ei, La)",
+		"Name": "gebratener Pak Choi (2, Gl, So), Blumenkohl mit gebräunten Bröseln (Gl, La), veganes Karottengemüse in Kräuterrahm (So), Rosmarinkartoffel (Sf)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 0.85,
@@ -69,7 +69,28 @@
 		"Additives": {
 			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
 			"La": "Milch/-erzeugnisse (einschl. Laktose)",
-			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"Alcohol": false,
+		"Beef": false,
+		"Category": "Suppe &amp; Co",
+		"Date": "2021-09-17T00:00:00.000Z",
+		"Fish": false,
+		"LactoseFree": false,
+		"Name": "Lauchcremesuppe (Gl, La, Sl)",
+		"Pig": false,
+		"Poultry": false,
+		"PriceAttendant": 2,
+		"PriceGuest": 2.25,
+		"PriceStudent": 1.7,
+		"Vegan": false,
+		"Vegetarian": true
+	},
+	{
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie/-erzeugnisse"
 		},
 		"Alcohol": false,
@@ -78,7 +99,7 @@
 		"Date": "2021-09-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": false,
-		"Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl, La, Sl), Pommes Frites (Sf)",
+		"Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl, La, Sl), frische Spätzle gebraten (Gl, Ei, La)",
 		"Pig": true,
 		"Poultry": false,
 		"PriceAttendant": 4.3,
@@ -103,7 +124,7 @@
 		"Date": "2021-09-17T00:00:00.000Z",
 		"Fish": false,
 		"LactoseFree": true,
-		"Name": "Ägyptische Falafel (Gl, Sl), Knoblauchdip (1, Sf), Gemüse Bulgur (Gl, Sl), Krautsalat (3, 5, Sw)",
+		"Name": "Ägyptische Falafel (Gl, Sl), Knoblauchdip (1, Sf), Pommes Frites (Sf), Krautsalat (3, 5, Sw)",
 		"Pig": false,
 		"Poultry": false,
 		"PriceAttendant": 4.6,
