@@ -1,17 +1,33 @@
 [
   {
-    "Name": "Frisches Pastrami aus dem Ofen (Sf), glasiertes Wurzelgemüse (La,Sl), hausgemachtes Kartoffel- Butterstampf (La)",
-    "Category": "CampusSpezial",
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
+    "Category": "CampusWorld",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "1": "mit Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.4,
-    "Beef": true
+    "PriceAttendant": 3.45,
+    "PriceGuest": 4.45,
+    "PriceStudent": 2.25,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
+    "Category": "Pastabar",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Strozzapreti (Gl)",
@@ -30,36 +46,6 @@
     "Pig": true
   },
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
-    "Category": "Pastabar",
-    "Date": "2021-10-15T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
-    "Category": "CampusWorld",
-    "Date": "2021-10-15T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.45,
-    "PriceGuest": 4.45,
-    "PriceStudent": 2.25,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-15T00:00:00Z",
@@ -76,5 +62,19 @@
     "PriceStudent": 2.6,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Frisches Pastrami aus dem Ofen (Sf), glasiertes Wurzelgemüse (La,Sl), hausgemachtes Kartoffel- Butterstampf (La)",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "Beef": true
   }
 ]

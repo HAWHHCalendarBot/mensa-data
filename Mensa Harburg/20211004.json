@@ -1,49 +1,7 @@
 [
   {
-    "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true
-  },
-  {
-    "Name": "Pasta Tomaten-Basilicumsoße (So), Conchiglie (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
-    "Category": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 4.65,
-    "PriceStudent": 4.2,
-    "Poultry": true
-  },
-  {
     "Name": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
-    "Category": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
+    "Category": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
@@ -55,16 +13,18 @@
     "Vegetarian": true
   },
   {
-    "Name": "Schweinenackensteak, Ofengemüse mit Kartoffeln und Feta (La)",
-    "Category": "CampusSpezial",
+    "Name": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
+    "Category": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Pig": true
+    "PriceAttendant": 4.5,
+    "PriceGuest": 4.65,
+    "PriceStudent": 4.2,
+    "Poultry": true
   },
   {
     "Name": "Vegane Maultaschen (Gl), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
@@ -116,6 +76,34 @@
     "Vegan": true
   },
   {
+    "Name": "Pasta Tomaten-Basilicumsoße (So), Conchiglie (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
     "Name": "2 Stück Apfelküchlein (Gl,La), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2021-10-04T00:00:00Z",
@@ -128,5 +116,17 @@
     "PriceStudent": 1.5,
     "Alcohol": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Schweinenackensteak, Ofengemüse mit Kartoffeln und Feta (La)",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Pig": true
   }
 ]
