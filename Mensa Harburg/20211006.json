@@ -1,20 +1,5 @@
 [
   {
-    "Name": "Linsenlasagne (Gl,So,La,Sl), Tomatensoße Napoli",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.2,
-    "PriceGuest": 5.4,
-    "PriceStudent": 2.9,
-    "Vegetarian": true
-  },
-  {
     "Name": "Rindergulasch mit Paprika (La), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2021-10-06T00:00:00Z",
@@ -42,20 +27,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
-    "Category": "Pastabar",
+    "Name": "Linsenlasagne (Gl,So,La,Sl), Tomatensoße Napoli",
+    "Category": "CampusSpezial",
     "Date": "2021-10-06T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "Vegetarian": true
   },
   {
     "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
@@ -73,6 +57,40 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Pig": true
+  },
+  {
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
+    "Category": "Pastabar",
+    "Date": "2021-10-06T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Rosenkohl, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-06T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
@@ -100,23 +118,5 @@
     "PriceGuest": 4.65,
     "PriceStudent": 4.2,
     "Poultry": true
-  },
-  {
-    "Name": "Rosenkohl, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-06T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]

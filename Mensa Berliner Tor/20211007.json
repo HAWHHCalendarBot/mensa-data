@@ -5,23 +5,6 @@
     "Date": "2021-10-07T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "LactoseFree": true,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Tages-Tipp",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
       "3": "mit Antioxidationsmittel",
       "4": "mit Geschmacksverstärker",
       "8": "mit Phosphat",
@@ -53,6 +36,23 @@
     "Poultry": true
   },
   {
+    "Name": "Tages-Tipp",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kürbis-Koriander-Suppe (La,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-10-07T00:00:00Z",
@@ -80,21 +80,17 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (2,Sl), Spätzle (Gl,Ei,La), gebratene Paprika (5,Sw)",
-    "Category": "Gemüsebar",
+    "Name": "Gnocchi mit Fenchel, Artischocken und Ricotta (Gl,Ei,La)",
+    "Category": "CampusWorld",
     "Date": "2021-10-07T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
-      "5": "Geschwefelt",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "Vegetarian": true
   },
   {
@@ -124,6 +120,24 @@
     "Pig": true
   },
   {
+    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (2,Sl), Spätzle (Gl,Ei,La), gebratene Paprika (5,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-07T00:00:00Z",
@@ -135,20 +149,6 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Gnocchi mit Fenchel, Artischocken und Ricotta (Gl,Ei,La)",
-    "Category": "CampusWorld",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
     "Vegetarian": true
   }
 ]
