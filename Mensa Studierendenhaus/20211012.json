@@ -1,5 +1,50 @@
 [
   {
+    "Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "Poultry": true
+  },
+  {
+    "Name": "Gebratenes Zanderfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",
+    "Category": "CampusVital",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Fish": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
     "Category": "Pastabar",
     "Date": "2021-10-12T00:00:00Z",
@@ -28,35 +73,6 @@
     "Vegan": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La), Basmatireis",
-    "Category": "CampusWorld",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
-    },
-    "PriceAttendant": 4.4,
-    "PriceGuest": 5.6,
-    "PriceStudent": 3.1,
-    "Poultry": true
-  },
-  {
     "Name": "Buttererbsen (La), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Brokkoli, Reis",
     "Category": "Gemüsebar",
     "Date": "2021-10-12T00:00:00Z",
@@ -68,21 +84,5 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
-  },
-  {
-    "Name": "Gebratenes Zanderfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",
-    "Category": "CampusVital",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Fish": true,
-    "LactoseFree": true
   }
 ]

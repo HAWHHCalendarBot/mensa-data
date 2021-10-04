@@ -1,21 +1,5 @@
 [
   {
-    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße Napoli, Karotten Sellerie Salat (Sl,Sw)",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.25,
-    "PriceGuest": 6.45,
-    "PriceStudent": 3.95,
-    "Vegetarian": true
-  },
-  {
     "Name": "Gebratenes Zanderfilet (Gl,Fi), Risotto mit Bärlauch (La,Sl,Sw), confierte Strauchtomaten",
     "Category": "CampusSpezial",
     "Date": "2021-10-05T00:00:00Z",
@@ -33,19 +17,19 @@
     "Fish": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
-    "Category": "Pottkieker",
+    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße Napoli, Karotten Sellerie Salat (Sl,Sw)",
+    "Category": "CampusSpezial",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
-      "1": "mit Farbstoff",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.45,
+    "PriceStudent": 3.95,
     "Vegetarian": true
   },
   {
@@ -62,17 +46,30 @@
     "Poultry": true
   },
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
-    "Category": "Pastabar",
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Prinzessbohnen, Süßkartoffelwürfel gebacken, gerösteter Brokkoli",
+    "Category": "Gemüsebar",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "6": "Geschwärzt"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
+  },
+  {
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Prinzessbohnen, Süßkartoffelwürfel gebacken, gerösteter Brokkoli",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Vegane Kräutersoße mit Sojasahne mit Rächertofu (Gl,So,Sl), Farfalle (Gl)",
@@ -90,29 +87,32 @@
     "Vegan": true
   },
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Prinzessbohnen, Süßkartoffelwürfel gebacken, gerösteter Brokkoli",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
+    "Category": "Pastabar",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Prinzessbohnen, Süßkartoffelwürfel gebacken, gerösteter Brokkoli",
-    "Category": "Gemüsebar",
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt"
+      "1": "mit Farbstoff",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   }
 ]

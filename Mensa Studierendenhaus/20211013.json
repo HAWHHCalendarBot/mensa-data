@@ -1,21 +1,5 @@
 [
   {
-    "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
-    "Category": "CampusVital",
-    "Date": "2021-10-13T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
-    },
-    "PriceAttendant": 3.3,
-    "PriceGuest": 4.5,
-    "PriceStudent": 2.0,
-    "Vegetarian": true
-  },
-  {
     "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Sf,Se)",
     "Category": "CampusWorld",
     "Date": "2021-10-13T00:00:00Z",
@@ -60,6 +44,20 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
@@ -126,17 +124,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw)",
-    "Category": "CampusSpezial",
+    "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
+    "Category": "CampusVital",
     "Date": "2021-10-13T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "2": "mit Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "LactoseFree": true,
-    "Poultry": true
+    "PriceAttendant": 3.3,
+    "PriceGuest": 4.5,
+    "PriceStudent": 2.0,
+    "Vegetarian": true
   }
 ]

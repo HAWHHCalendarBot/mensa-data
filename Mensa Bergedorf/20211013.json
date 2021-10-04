@@ -1,24 +1,5 @@
 [
   {
-    "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Sf,Se)",
-    "Category": "CampusWorld",
-    "Date": "2021-10-13T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.4,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
     "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi (Gl,Ei)",
     "Category": "Gemüsebar",
     "Date": "2021-10-13T00:00:00Z",
@@ -33,41 +14,6 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
-  },
-  {
-    "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
-    "Category": "CampusVital",
-    "Date": "2021-10-13T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
-    },
-    "PriceAttendant": 3.3,
-    "PriceGuest": 4.5,
-    "PriceStudent": 2.0,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-13T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "4": "mit Geschmacksverstärker",
-      "8": "mit Phosphat",
-      "9": "mit Süßungsmittel",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.95,
-    "PriceGuest": 5.05,
-    "PriceStudent": 2.7,
-    "LactoseFree": true,
-    "Pig": true
   },
   {
     "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
@@ -94,6 +40,60 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "4": "mit Geschmacksverstärker",
+      "8": "mit Phosphat",
+      "9": "mit Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.95,
+    "PriceGuest": 5.05,
+    "PriceStudent": 2.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Sf,Se)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
+    "Category": "CampusVital",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 3.3,
+    "PriceGuest": 4.5,
+    "PriceStudent": 2.0,
     "Vegetarian": true
   }
 ]

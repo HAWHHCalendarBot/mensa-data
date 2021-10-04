@@ -61,21 +61,32 @@
     "Poultry": true
   },
   {
-    "Name": "Räucherlachs mit einer mediterranen Tomatensoße (2,5,Fi,Sw), Eliche (Gl)",
-    "Category": "Pastabar",
+    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Hausgemachtes Knoblauch- Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Fish": true,
-    "LactoseFree": true
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Poultry": true
+  },
+  {
+    "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Basmatireis",
+    "Category": "CampusVital",
+    "Date": "2021-10-14T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.0,
+    "PriceGuest": 5.2,
+    "PriceStudent": 2.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
@@ -93,17 +104,21 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Hausgemachtes Knoblauch- Kartoffelpüree (La)",
-    "Category": "CampusKlassiker",
+    "Name": "Räucherlachs mit einer mediterranen Tomatensoße (2,5,Fi,Sw), Eliche (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
+      "2": "mit Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.8,
-    "PriceGuest": 6.0,
-    "PriceStudent": 3.5,
-    "Poultry": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Fish": true,
+    "LactoseFree": true
   },
   {
     "Name": "Kürbisspalten gebacken, gebratene Champignons (La,Sw), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
@@ -117,20 +132,5 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
-  },
-  {
-    "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Basmatireis",
-    "Category": "CampusVital",
-    "Date": "2021-10-14T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.0,
-    "PriceGuest": 5.2,
-    "PriceStudent": 2.7,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]

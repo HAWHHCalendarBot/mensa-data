@@ -1,17 +1,29 @@
 [
   {
-    "Name": "Gnocchi mit Fenchel, Artischocken und Ricotta (Gl,Ei,La)",
-    "Category": "CampusWorld",
+    "Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw,Lu), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
     "Date": "2021-10-07T00:00:00Z",
     "Additives": {
+      "1": "mit Farbstoff",
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "mit Phosphat",
+      "9": "mit Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
-    "Vegetarian": true
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
+    "Alcohol": true,
+    "Beef": true,
+    "Pig": true
   },
   {
     "Name": "veganes Rosenkohl-Edamame-Curry mit Reisnudeln (So,Sl)",
@@ -28,31 +40,18 @@
     "Vegan": true
   },
   {
-    "Name": "Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
-    "Category": "Pastabar",
+    "Name": "Gnocchi mit Fenchel, Artischocken und Ricotta (Gl,Ei,La)",
+    "Category": "CampusWorld",
     "Date": "2021-10-07T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "Vegetarian": true
-  },
-  {
-    "Name": "Hähnchenstreifen al arrabiata, Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
   },
   {
     "Name": "Milchreis (La), Beerenkompott (1,9,La)",
@@ -82,6 +81,33 @@
     "Vegetarian": true
   },
   {
+    "Name": "Hähnchenstreifen al arrabiata, Eliche (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
     "Category": "Gemüsebar",
     "Date": "2021-10-07T00:00:00Z",
@@ -95,31 +121,5 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
-  },
-  {
-    "Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw,Lu), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "8": "mit Phosphat",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Lu": "Lupine und - erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.3,
-    "PriceGuest": 7.5,
-    "PriceStudent": 5.0,
-    "Alcohol": true,
-    "Beef": true,
-    "Pig": true
   }
 ]

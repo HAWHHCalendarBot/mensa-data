@@ -1,5 +1,21 @@
 [
   {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.45,
+    "PriceGuest": 4.45,
+    "PriceStudent": 2.25,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Frisches Pastrami aus dem Ofen (Sf), glasiertes Wurzelgemüse (La,Sl), hausgemachtes Kartoffel- Butterstampf (La)",
     "Category": "CampusSpezial",
     "Date": "2021-10-15T00:00:00Z",
@@ -12,6 +28,24 @@
     "PriceGuest": 6.9,
     "PriceStudent": 4.4,
     "Beef": true
+  },
+  {
+    "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.85,
+    "PriceGuest": 4.95,
+    "PriceStudent": 2.6,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Strozzapreti (Gl)",
@@ -42,39 +76,5 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegetarian": true
-  },
-  {
-    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
-    "Category": "CampusWorld",
-    "Date": "2021-10-15T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.45,
-    "PriceGuest": 4.45,
-    "PriceStudent": 2.25,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-15T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.85,
-    "PriceGuest": 4.95,
-    "PriceStudent": 2.6,
-    "Beef": true,
-    "LactoseFree": true
   }
 ]
