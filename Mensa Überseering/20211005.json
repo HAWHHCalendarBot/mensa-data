@@ -1,34 +1,5 @@
 [
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "3": "mit Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Käse-Lauchsuppe mit Rinderhack (1,La,Sl)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Beef": true
-  },
-  {
     "Name": "Gebratenes Zanderfilet (Gl,Fi)",
     "Category": "CampusSpezial",
     "Date": "2021-10-05T00:00:00Z",
@@ -41,6 +12,21 @@
     "PriceStudent": 4.05,
     "Fish": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Gemüsemix Eskorial, Wirsing in Chilicreme (Gl,So,Sl), Zuckerschoten (La)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander Erdnüsse, und Chillimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
@@ -66,14 +52,56 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Gemüsemix Eskorial, Wirsing in Chilicreme (Gl,So,Sl), Zuckerschoten (La)",
-    "Category": "Gemüsebar",
+    "Name": "Käse-Lauchsuppe mit Rinderhack (1,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Vollkorn Penne (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -93,33 +121,5 @@
     "PriceStudent": 2.6,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "3": "mit Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true
   }
 ]

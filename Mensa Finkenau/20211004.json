@@ -1,5 +1,41 @@
 [
   {
+    "Name": "Broccoli, Süßkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli, Süßkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta mit Pesto und Gemüse (Gl,La,Nu)",
+    "Category": "Pastabar",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Milchreis (La), Beerenkompott (1,9,La)",
     "Category": "Pottkieker",
     "Date": "2021-10-04T00:00:00Z",
@@ -14,21 +50,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Würziger Spießbraten mit Schmorzwiebeln (Sf), Bratensoße (Sl), Kartoffel - Selleriestampf (La,Sl,Sw)",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
-    "Pig": true
-  },
-  {
     "Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So,Sf), Basmatireis",
     "Category": "CampusVital",
     "Date": "2021-10-04T00:00:00Z",
@@ -39,17 +60,6 @@
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
   },
@@ -69,16 +79,18 @@
     "Poultry": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Würziger Spießbraten mit Schmorzwiebeln (Sf), Bratensoße (Sl), Kartoffel - Selleriestampf (La,Sl,Sw)",
+    "Category": "CampusKlassiker",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Pig": true
   }
 ]

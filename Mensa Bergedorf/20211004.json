@@ -1,5 +1,18 @@
 [
   {
+    "Name": "Vegane Maultaschen (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 4.25,
+    "PriceGuest": 5.35,
+    "PriceStudent": 3.0,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Pasta Broccoli-Gorgonzola (La)",
     "Category": "Pastabar",
     "Date": "2021-10-04T00:00:00Z",
@@ -26,19 +39,6 @@
     "Beef": true
   },
   {
-    "Name": "Vegane Maultaschen (Gl)",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 4.25,
-    "PriceGuest": 5.35,
-    "PriceStudent": 3.0,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Putensteak, mediterranes Wok-Gemüse (Sw), Baguette Brötchen (Gl)",
     "Category": "CampusVital",
     "Date": "2021-10-04T00:00:00Z",
@@ -51,20 +51,6 @@
     "PriceStudent": 5.25,
     "LactoseFree": true,
     "Poultry": true
-  },
-  {
-    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Rübstiel mit Zwiebeln und Knoblauch, Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi (Gl)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
   },
   {
     "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), frischem Gemüse (2,Sw), rote Currysoße (Sl)",
@@ -80,6 +66,20 @@
     "PriceGuest": 5.3,
     "PriceStudent": 2.8,
     "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Rübstiel mit Zwiebeln und Knoblauch, Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
     "Vegetarian": true
   }
 ]
