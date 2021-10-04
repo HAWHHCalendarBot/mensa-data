@@ -1,21 +1,35 @@
 [
   {
-    "Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Gl,Ei,So,La,Sl,Sf)",
+    "Name": "Baked Potato \"Green Garden\" mit Karotte, Gurke, Rote Beete, Blattsalat,Sourcreme oder veganen Dip (S (3,4,Ei,So,La,Sf)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2021-10-07T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "4": "mit Geschmacksverstärker",
       "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 6.0,
-    "PriceGuest": 6.6,
-    "PriceStudent": 5.3,
-    "Poultry": true
+    "PriceAttendant": 3.65,
+    "PriceGuest": 4.25,
+    "PriceStudent": 2.95,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Knusprige Kartoffelrösti mit Sourcreme oder veganen Dip (4,Ei,La,Sf)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "4": "mit Geschmacksverstärker",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 3.3,
+    "PriceGuest": 3.9,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
   },
   {
     "Name": "Basic green Salat, Blattsalat, Karotten,Erbsen,Rote Beete, Gurken, Croutons Balsamico-Dressing (Gl,La,Sl)",
@@ -49,7 +63,69 @@
     "Vegetarian": true
   },
   {
-    "Name": "Baked Potato \"Mexican\" mit Chili sin carne , Kidneybohnen,Mais, Jalapeneos, Nachos und Sourcreme (2,3,4,Ei,So,La,Sf)",
+    "Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Gl,Ei,So,La,Sl,Sf)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.0,
+    "PriceGuest": 6.6,
+    "PriceStudent": 5.3,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta nach Wahl mit Pesto Genovese (La,Nu)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 4.9,
+    "PriceStudent": 3.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Rote Beete Bratling mit Sourcreme oder veganen Dip (4,Gl,Ei,La,Sf)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "4": "mit Geschmacksverstärker",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 3.6,
+    "PriceGuest": 4.2,
+    "PriceStudent": 2.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta nach Wahl mit Bolognese Soße (Gl,So,Sl)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 4.9,
+    "PriceStudent": 3.6,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Baked Potato \"Mexican\" mit Chili sin carne , Kidneybohnen,Mais, Jalapeneos, Nachos und Sourcreme ode (2,3,4,Ei,So,La,Sf)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2021-10-07T00:00:00Z",
     "Additives": {
@@ -64,54 +140,6 @@
     "PriceAttendant": 4.3,
     "PriceGuest": 4.9,
     "PriceStudent": 3.6,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Baked Potato \"Green Garden\" mit Karotte, Gurke, Rote Beete, Blattsalat,Sourcreme (3,4,Ei,So,La,Sf)",
-    "Category": "Food Angebot im Café ZessP",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "3": "mit Antioxidationsmittel",
-      "4": "mit Geschmacksverstärker",
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.65,
-    "PriceGuest": 4.25,
-    "PriceStudent": 2.95,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Knusprige Kartoffelrösti mit Sourcreme (4,Ei,La,Sf)",
-    "Category": "Food Angebot im Café ZessP",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "4": "mit Geschmacksverstärker",
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 3.3,
-    "PriceGuest": 3.9,
-    "PriceStudent": 2.6,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Rote Beete Bratling mit Sourcreme (4,Gl,Ei,La,Sf)",
-    "Category": "Food Angebot im Café ZessP",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "4": "mit Geschmacksverstärker",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 3.6,
-    "PriceGuest": 4.2,
-    "PriceStudent": 2.9,
     "Vegetarian": true
   }
 ]

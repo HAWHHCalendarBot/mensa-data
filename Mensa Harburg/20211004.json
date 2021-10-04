@@ -1,37 +1,30 @@
 [
   {
-    "Name": "Hähnchenschnitte gefüllt mit Broccoli und Käse (Gl,La,Sl), italienische Soße (La,Nu), Penne (Gl)",
-    "Category": "CampusKlassiker",
+    "Name": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
+    "Category": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.2,
-    "Poultry": true
+    "PriceAttendant": 4.05,
+    "PriceGuest": 4.2,
+    "PriceStudent": 3.75,
+    "Vegetarian": true
   },
   {
-    "Name": "Vegane Maultaschen (Gl), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
-    "Category": "CampusKlassiker",
+    "Name": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
+    "Category": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
-      "3": "mit Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "9": "mit Süßungsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.0,
-    "PriceGuest": 6.2,
-    "PriceStudent": 3.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 4.5,
+    "PriceGuest": 4.65,
+    "PriceStudent": 4.2,
+    "Poultry": true
   },
   {
     "Name": "Pasta Tomaten-Basilicumsoße (So), Conchiglie (Gl)",
@@ -62,16 +55,53 @@
     "Beef": true
   },
   {
-    "Name": "Schweinenackensteak, Ofengemüse mit Kartoffeln und Feta (La)",
-    "Category": "CampusSpezial",
+    "Name": "Karotten, Auberginen-Zucchini Gemüse (Sw), Rübstiel mit Zwiebeln und Knoblauch, Kohlrabi in Rahm (Gl,So), Süßkartoffel Gnocchi (Gl)",
+    "Category": "Gemüsebar",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Pig": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vegane Maultaschen (Gl), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "9": "mit Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenschnitte gefüllt mit Broccoli und Käse (Gl,La,Sl), italienische Soße (La,Nu), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Poultry": true
   },
   {
     "Name": "2 Stück Apfelküchlein (Gl,La), Vanillesoße (La)",
@@ -88,45 +118,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
-    "Category": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
+    "Name": "Schweinenackensteak, Ofengemüse mit Kartoffeln und Feta (La)",
+    "Category": "CampusSpezial",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 4.65,
-    "PriceStudent": 4.2,
-    "Poultry": true
-  },
-  {
-    "Name": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
-    "Category": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.05,
-    "PriceGuest": 4.2,
-    "PriceStudent": 3.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Karotten, Auberginen-Zucchini Gemüse (Sw), Rübstiel mit Zwiebeln und Knoblauch, Kohlrabi in Rahm (Gl,So), Süßkartoffel Gnocchi (Gl)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Pig": true
   }
 ]

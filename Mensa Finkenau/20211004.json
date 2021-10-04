@@ -1,5 +1,30 @@
 [
   {
+    "Name": "Süßkartoffeln, gebratene Zucchini, Gerösteter Blumenkohl, gebratene Paprika",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Milchreis (La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-04T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "9": "mit Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Würziger Spießbraten mit Schmorzwiebeln (Sf), Bratensoße (Sl), Kartoffel - Selleriestampf (La,Sl,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-04T00:00:00Z",
@@ -15,43 +40,18 @@
     "Pig": true
   },
   {
-    "Name": "Süßkartoffeln, gebratene Zucchini, Gerösteter Blumenkohl, gebratene Paprika",
-    "Category": "Gemüsebar",
+    "Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So,Sf), Basmatireis",
+    "Category": "CampusVital",
     "Date": "2021-10-04T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Pasta mit Pesto und gebratene Zucchini (Gl,La,Nu)",
-    "Category": "Pastabar",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Milchreis (La), Beerenkompott (1,9,La)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-04T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "9": "mit Süßungsmittel",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
   },
   {
     "Name": "Putensteak vom Grill, Geschmorter Kardamom - Orangen - Kürbis, Couscous mit Mandeln (Gl,Nu,Sl), Joghurt-Limetten-Soße (La)",
@@ -69,17 +69,17 @@
     "Poultry": true
   },
   {
-    "Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (So,Sf), Basmatireis",
-    "Category": "CampusVital",
+    "Name": "Pasta mit Pesto und gebratene Zucchini (Gl,La,Nu)",
+    "Category": "Pastabar",
     "Date": "2021-10-04T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   }
 ]
