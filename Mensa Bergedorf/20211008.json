@@ -1,28 +1,27 @@
 [
   {
-    "Name": "Lammragout (2,Ei,La,Sl,Sw)",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-08T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.55,
-    "Alcohol": true,
-    "Lamb": true
-  },
-  {
     "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-08T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "9": "mit Süßungsmittel",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -44,22 +43,6 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Fish": true
-  },
-  {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-08T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "9": "mit Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Wrap mit Quorn-Tomaten- Kokos-Füllung, Rotkohlsalat, Rucola, Gurken und Koriander-Joghurt (2,3,5,Gl,Ei,La,Sw)",
@@ -92,5 +75,22 @@
     "PriceGuest": 5.05,
     "PriceStudent": 2.7,
     "Pig": true
+  },
+  {
+    "Name": "Lammragout (2,Ei,La,Sl,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.55,
+    "Alcohol": true,
+    "Lamb": true
   }
 ]

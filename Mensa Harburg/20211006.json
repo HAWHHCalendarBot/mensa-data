@@ -1,15 +1,36 @@
 [
   {
-    "Name": "Rindergulasch mit Paprika (La), Salzkartoffeln",
-    "Category": "CampusKlassiker",
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
+    "Category": "Pastabar",
     "Date": "2021-10-06T00:00:00Z",
     "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
+    "Category": "Pastabar",
+    "Date": "2021-10-06T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 5.0,
-    "PriceGuest": 6.2,
-    "PriceStudent": 3.7,
-    "Beef": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
   },
   {
     "Name": "Rosenkohl, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
@@ -45,6 +66,19 @@
     "Vegetarian": true
   },
   {
+    "Name": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
+    "Category": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
+    "Date": "2021-10-06T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.05,
+    "PriceGuest": 4.2,
+    "PriceStudent": 3.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Linsenlasagne (Gl,So,La,Sl), Tomatensoße Napoli",
     "Category": "CampusSpezial",
     "Date": "2021-10-06T00:00:00Z",
@@ -58,39 +92,6 @@
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
-    "Category": "Pastabar",
-    "Date": "2021-10-06T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "8": "mit Phosphat",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Pig": true
-  },
-  {
-    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
-    "Category": "Pastabar",
-    "Date": "2021-10-06T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
@@ -107,16 +108,15 @@
     "Poultry": true
   },
   {
-    "Name": "Egg'n cheese, Blattsalat, Karotten, Rettich, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,La)",
-    "Category": "Chick'n cheese, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,La)",
+    "Name": "Rindergulasch mit Paprika (La), Salzkartoffeln",
+    "Category": "CampusKlassiker",
     "Date": "2021-10-06T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.05,
-    "PriceGuest": 4.2,
-    "PriceStudent": 3.75,
-    "Vegetarian": true
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Beef": true
   }
 ]

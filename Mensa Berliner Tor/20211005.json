@@ -1,33 +1,15 @@
 [
   {
-    "Name": "Spaghetti (Gl), Bolognese, Hartkäse (La)",
-    "Category": "CampusKlassiker",
+    "Name": "Karotten- Pastinaken- Mix, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+    "Category": "Gemüsebar",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.3,
-    "PriceGuest": 5.5,
-    "PriceStudent": 3.0,
-    "Beef": true
-  },
-  {
-    "Name": "Tages-Tipp",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.75,
-    "PriceGuest": 7.95,
-    "PriceStudent": 5.45,
-    "Alcohol": true,
-    "Fish": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Schupfnudeln (Gl,Ei)",
@@ -41,21 +23,6 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "3": "mit Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
     "Vegetarian": true
   },
   {
@@ -73,15 +40,18 @@
     "Beef": true
   },
   {
-    "Name": "Karotten- Pastinaken- Mix, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
-    "Category": "Gemüsebar",
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
+    "Category": "Pottkieker",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "Vegetarian": true
   },
   {
@@ -106,5 +76,35 @@
     "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Spaghetti (Gl), Bolognese, Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Beef": true
+  },
+  {
+    "Name": "frischgeGRILLT..,Zanderfilet (Gl,Fi), Risotto mit Bärlauch (La,Sl,Sw), confierte Strauchtomaten",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.75,
+    "PriceGuest": 7.95,
+    "PriceStudent": 5.45,
+    "Alcohol": true,
+    "Fish": true
   }
 ]

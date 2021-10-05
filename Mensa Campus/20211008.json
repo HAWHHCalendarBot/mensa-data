@@ -1,5 +1,17 @@
 [
   {
+    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen (La)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2021-10-08T00:00:00Z",
@@ -30,16 +42,40 @@
     "Pig": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen (La)",
-    "Category": "Gemüsebar",
+    "Name": "rote-Linsen-Medaillons (Gl,Sl), grüne Bohnen mit Knoblauch und Ingwer, Minz-Joghurt-Soße (La), Fladenbrot (Gl,Ei,So,Se)",
+    "Category": "CampusVital",
     "Date": "2021-10-08T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 3.65,
+    "PriceGuest": 4.85,
+    "PriceStudent": 2.35,
     "Vegetarian": true
+  },
+  {
+    "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf), Kartoffelspalten Spicy (1,Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "2": "mit Konservierungsstoff",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Wrap mit Quorn-Tomaten- Kokos-Füllung, Rotkohlsalat, Rucola, Gurken und Koriander-Joghurt (2,3,5,Gl,Ei,La,Sw)",
@@ -77,41 +113,5 @@
     "PriceStudent": 3.65,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "rote-Linsen-Medaillons (Gl,Sl), grüne Bohnen mit Knoblauch und Ingwer, Minz-Joghurt-Soße (La), Fladenbrot (Gl,Ei,So,Se)",
-    "Category": "CampusVital",
-    "Date": "2021-10-08T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.65,
-    "PriceGuest": 4.85,
-    "PriceStudent": 2.35,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf), Kartoffelspalten Spicy (1,Gl)",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-08T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "2": "mit Konservierungsstoff",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.8,
-    "PriceStudent": 3.3,
-    "Beef": true,
-    "LactoseFree": true
   }
 ]

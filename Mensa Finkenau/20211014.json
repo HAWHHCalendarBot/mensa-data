@@ -1,25 +1,27 @@
 [
   {
-    "Name": "Fabi's canadien Poutine mit Steakhousepommes, PulledPork, Cheddar cheese und pikanter Bratensoße (1,2,3,9,Ei,So,La,Sl,Sf)",
-    "Category": "CampusWorld",
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-14T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
-      "1": "mit Farbstoff",
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
-    "PriceAttendant": 6.3,
-    "PriceGuest": 7.5,
-    "PriceStudent": 5.0,
-    "Alcohol": true,
-    "Beef": true,
-    "Pig": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -34,19 +36,6 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-14T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Frischer Linseneintopf mit Gemüse und Kräutern (Sl,Sw), Baguette (Gl)",
@@ -81,14 +70,25 @@
     "Pig": true
   },
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Fabi's canadien Poutine mit Steakhousepommes, PulledPork, Cheddar cheese und pikanter Bratensoße (1,2,3,9,Ei,So,La,Sl,Sf)",
+    "Category": "CampusWorld",
     "Date": "2021-10-14T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Additives": {
+      "1": "mit Farbstoff",
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
+    "Alcohol": true,
+    "Beef": true,
+    "Pig": true
   }
 ]

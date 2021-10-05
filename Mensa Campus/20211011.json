@@ -13,6 +13,21 @@
     "Vegetarian": true
   },
   {
+    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi (Gl,Ei)",
+    "Category": "Pastabar",
+    "Date": "2021-10-11T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "Veloute mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2021-10-11T00:00:00Z",
@@ -30,19 +45,34 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi (Gl,Ei)",
-    "Category": "Pastabar",
+    "Name": "Zwiebelsuppe (Gl,La,Sl)",
+    "Category": "Pottkieker",
     "Date": "2021-10-11T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Pig": true
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-11T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
@@ -76,53 +106,6 @@
     "Poultry": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-11T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Zwiebelsuppe (Gl,La,Sl)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-11T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Rote Beete Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,Gl,La,Sw)",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-11T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "3": "mit Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
-    "Vegetarian": true
-  },
-  {
     "Name": "Gebackene Seelachsfiletwürfel (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-11T00:00:00Z",
@@ -141,5 +124,22 @@
     "PriceGuest": 5.9,
     "PriceStudent": 3.4,
     "Fish": true
+  },
+  {
+    "Name": "Rote Beete Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,Gl,La,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-11T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "Vegetarian": true
   }
 ]
