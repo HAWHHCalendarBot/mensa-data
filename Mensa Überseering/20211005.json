@@ -1,17 +1,46 @@
 [
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
-    "Category": "Pottkieker",
+    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Conchiglie (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
-      "3": "mit Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Conchiglie (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "gebratene Champignons (Sw), Gratinierter Blumenkohl (La), Kohlrabi in Rahm (Gl,La), Asiagemüse (2,Gl,So)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-05T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
     "Vegetarian": true
   },
   {
@@ -29,50 +58,22 @@
     "Beef": true
   },
   {
-    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
+    "Category": "Pottkieker",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
       "3": "mit Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true
-  },
-  {
-    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "Vegetarian": true
   },
   {
-    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Gemüsemix Eskorial, Wirsing in Chilicreme (Gl,So,Sl), Zuckerschoten (La)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Veganer Indischer Dal mit roten Linsen, Kartoffeln und Spinat (So,Sf), Langkorn-Wildreis",
+    "Name": "Veganer Indischer Dal mit roten Linsen, Kartoffeln und Spinat (So,Sf), Reis",
     "Category": "CampusVital",
     "Date": "2021-10-05T00:00:00Z",
     "Additives": {
@@ -98,28 +99,5 @@
     "PriceStudent": 4.05,
     "Fish": true,
     "LactoseFree": true
-  },
-  {
-    "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander Erdnüsse, und Chillimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
-    "Category": "CampusWorld",
-    "Date": "2021-10-05T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "9": "mit Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
-    "LactoseFree": true,
-    "Vegetarian": true
   }
 ]

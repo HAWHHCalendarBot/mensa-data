@@ -1,31 +1,16 @@
 [
   {
-    "Name": "Kürbisspalten gebacken, gebratene Champignons (La,Sw), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-14T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
-    "Category": "Pastabar",
+    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Hausgemachtes Knoblauch- Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Poultry": true
   },
   {
     "Name": "Räucherlachs mit einer mediterranen Tomatensoße (2,5,Fi,Sw), Eliche (Gl)",
@@ -45,17 +30,33 @@
     "LactoseFree": true
   },
   {
-    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La)",
-    "Category": "CampusKlassiker",
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 3.3,
-    "PriceGuest": 4.3,
-    "PriceStudent": 2.1,
-    "Poultry": true
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kürbis-Ingwer-Suppe (5,La,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-14T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Basmatireis",
@@ -73,15 +74,16 @@
     "Vegan": true
   },
   {
-    "Name": "Putengyros, Tzatziki (La)",
-    "Category": "CampusWorld",
+    "Name": "Kürbisspalten gebacken, gebratene Champignons (La,Sw), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
+    "Category": "Gemüsebar",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.1,
-    "PriceGuest": 5.1,
-    "PriceStudent": 2.9,
-    "Poultry": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   }
 ]
