@@ -1,25 +1,25 @@
 [
   {
-    "Name": "Tomatensoße Napoli, Strozzapreti (Gl)",
+    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Gemüsemix Eskorial, pikantes Grillgemüse (Sl,Sf), Fingermöhrchen (La)",
+    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen (La), Gemüse Sesamreis (Se)",
     "Category": "Gemüsebar",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -43,20 +43,6 @@
     "Pig": true
   },
   {
-    "Name": "Beerenkaltschale mit Grießschnitte (9,Gl,La)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-15T00:00:00Z",
-    "Additives": {
-      "9": "mit Süßungsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
     "Name": "Rote Beete Suppe mit Chili und Apfel (3,9,Gl,So,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-10-15T00:00:00Z",
@@ -74,37 +60,40 @@
     "Vegan": true
   },
   {
-    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Gemüse Bulgur (Gl,Sl)",
     "Category": "CampusWorld",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
       "1": "mit Farbstoff",
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 3.45,
-    "PriceGuest": 4.45,
-    "PriceStudent": 2.25,
+    "PriceAttendant": 4.95,
+    "PriceGuest": 6.15,
+    "PriceStudent": 3.65,
     "LactoseFree": true,
     "Vegan": true
   },
   {
-    "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Lammragout (2,Ei,La,Sl,Sw), Tagliatelle (Gl)",
+    "Category": "CampusSpezial",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
-      "9": "mit Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 3.85,
-    "PriceGuest": 4.95,
-    "PriceStudent": 2.6,
-    "Beef": true,
-    "LactoseFree": true
+    "PriceAttendant": 6.55,
+    "PriceGuest": 7.75,
+    "PriceStudent": 5.25,
+    "Alcohol": true,
+    "Lamb": true
   }
 ]

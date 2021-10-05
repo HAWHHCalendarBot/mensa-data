@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Vollkorn Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-13T00:00:00Z",
     "Additives": {
@@ -13,7 +13,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Vollkorn Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-13T00:00:00Z",
     "Additives": {
@@ -27,14 +27,12 @@
     "Beef": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi (Gl,Ei)",
+    "Name": "Ratatouille (Sl), Prinzessbohnen, Zuckerschoten, Gartengemüse in Rahm (Gl,La)",
     "Category": "Gemüsebar",
     "Date": "2021-10-13T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -88,22 +86,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Bratnudeln mit Gemüsestreifen (2,Gl,So,Se), scharfer Asia-Dip (1,Sf)",
+    "Name": "vegetarische Bratwurst (Ei), BBQ Soße (2,9,Sl,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-13T00:00:00Z",
     "Additives": {
-      "1": "mit Farbstoff",
       "2": "mit Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.6,
-    "PriceStudent": 2.1,
+    "PriceAttendant": 3.95,
+    "PriceGuest": 5.05,
+    "PriceStudent": 2.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",
@@ -123,38 +120,5 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Pig": true
-  },
-  {
-    "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw)",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-13T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Sf,Se)",
-    "Category": "CampusWorld",
-    "Date": "2021-10-13T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.4,
-    "Beef": true,
-    "LactoseFree": true
   }
 ]
