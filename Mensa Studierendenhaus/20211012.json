@@ -1,32 +1,58 @@
 [
   {
-    "Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La), Basmatireis",
-    "Category": "CampusWorld",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
+    "Category": "Pastabar",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.4,
-    "PriceGuest": 5.6,
-    "PriceStudent": 3.1,
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Gebratenes Zanderfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",
-    "Category": "CampusVital",
+    "Name": "Buttererbsen (La), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Brokkoli, Reis",
+    "Category": "Gemüsebar",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Kräutersoße mit Sojasahne mit Rächertofu (Gl,So,Sl), Farfalle (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Fish": true,
-    "LactoseFree": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Karottensuppe mit Kerbel (Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
@@ -45,44 +71,47 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
-    "Category": "Pastabar",
+    "Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+    "Category": "CampusKlassiker",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
   },
   {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Rächertofu (Gl,So,Sl), Farfalle (Gl)",
-    "Category": "Pastabar",
+    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße Napoli, Karotten Sellerie Salat (Sl,Sw)",
+    "Category": "CampusSpezial",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.45,
+    "PriceStudent": 3.95,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gebratenes Zanderfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",
+    "Category": "CampusVital",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Buttererbsen (La), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Brokkoli, Reis",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Fish": true,
+    "LactoseFree": true
   }
 ]
