@@ -1,5 +1,32 @@
 [
   {
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
     "Category": "CampusVital",
     "Date": "2021-10-13T00:00:00Z",
@@ -14,5 +41,43 @@
     "PriceGuest": 4.5,
     "PriceStudent": 2.0,
     "Vegetarian": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "4": "mit Geschmacksverstärker",
+      "8": "mit Phosphat",
+      "9": "mit Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Sf,Se)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "Beef": true,
+    "LactoseFree": true
   }
 ]

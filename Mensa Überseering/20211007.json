@@ -44,20 +44,6 @@
     "Vegan": true
   },
   {
-    "Name": "Geflügelsuppe mit Gemüse (Gl,La,Sl)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-07T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Poultry": true
-  },
-  {
     "Name": "Milchreis (La), Beerenkompott (1,9,La)",
     "Category": "Pottkieker",
     "Date": "2021-10-07T00:00:00Z",
@@ -70,6 +56,24 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Mediterrane Fischsuppe (Kr,Fi,Sl,Sw,Wt)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-07T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Kr": "Krebstiere und Krebstiererzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)",
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Alcohol": true,
+    "Fish": true,
+    "LactoseFree": true
   },
   {
     "Name": "veganes Rosenkohl-Edamame-Curry mit Reisnudeln (So,Sl)",

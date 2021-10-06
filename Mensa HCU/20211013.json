@@ -16,21 +16,41 @@
     "Vegetarian": true
   },
   {
-    "Name": "Bratnudeln mit Gemüsestreifen (2,Gl,So,Se), scharfer Asia-Dip (1,Sf)",
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-13T00:00:00Z",
     "Additives": {
-      "1": "mit Farbstoff",
       "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "4": "mit Geschmacksverstärker",
+      "8": "mit Phosphat",
+      "9": "mit Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 6.8,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Sf,Se)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-13T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.2,
-    "PriceStudent": 2.1,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 5.7,
+    "PriceGuest": 8.8,
+    "PriceStudent": 4.4,
+    "Beef": true,
+    "LactoseFree": true
   }
 ]
