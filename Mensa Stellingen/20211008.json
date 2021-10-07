@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Tagesangebot (Gl,Ei,La)",
+    "Name": "Tagesangebot - Süßspeise (Gl,Ei,La)",
     "Category": "Pottkieker",
     "Date": "2021-10-08T00:00:00Z",
     "Additives": {
@@ -28,6 +28,21 @@
     "Vegan": true
   },
   {
+    "Name": "Paniertes Putenschnitzel (Gl), Pfefferrahmsoße (La), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Beef": true,
+    "Poultry": true
+  },
+  {
     "Name": "Wir kochen, was Sie lieben..., Currybratwurst (3,4,8,Sf), BBQ-Grill-Soße (9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-08T00:00:00Z",
@@ -44,5 +59,18 @@
     "PriceStudent": 3.4,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika, Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Beef": true,
+    "LactoseFree": true
   }
 ]
