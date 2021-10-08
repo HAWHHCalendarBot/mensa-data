@@ -29,33 +29,20 @@
     "Fish": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Erbsen-Mais Gemüse (La)",
+    "Name": "gebratenes Gemüse, Antipasti (5,Sw), Mexikanisches Gemüse (Sl), Rosenkohl (So)",
     "Category": "Gemüsebar",
     "Date": "2021-10-08T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "5": "Geschwefelt",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Tomaten Kokos Suppe mit Huhn (Sl)",
-    "Category": "Pottkieker",
-    "Date": "2021-10-08T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
     "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
@@ -71,6 +58,20 @@
     "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Käse-Lauchsuppe mit Rinderhack (1,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true
   },
   {
     "Name": "Wrap mit Quorn-Tomaten- Kokos-Füllung, Rotkohlsalat, Rucola, Gurken und Koriander-Joghurt (2,3,5,Gl,Ei,La,Sw)",

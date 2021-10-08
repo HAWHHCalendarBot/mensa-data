@@ -1,48 +1,49 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-08T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
+    "Name": "Brechbohne, Estragon-Karotten (La), gebratene Paprika (5,Sw), spanisches Kartoffelgemüse",
     "Category": "Gemüsebar",
     "Date": "2021-10-08T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
-      "9": "mit Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
     "Category": "Pastabar",
     "Date": "2021-10-08T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
+      "2": "mit Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Fish": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Süßkartoffel Gnocchi (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-08T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
   },
   {
     "Name": "Wrap mit Quorn-Tomaten- Kokos-Füllung, Rotkohlsalat, Rucola, Gurken und Koriander-Joghurt (2,3,5,Gl,Ei,La,Sw)",
@@ -61,20 +62,6 @@
     "PriceGuest": 5.1,
     "PriceStudent": 2.6,
     "Vegetarian": true
-  },
-  {
-    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-08T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.95,
-    "PriceGuest": 5.05,
-    "PriceStudent": 2.7,
-    "Pig": true
   },
   {
     "Name": "Lammragout (2,Ei,La,Sl,Sw)",
