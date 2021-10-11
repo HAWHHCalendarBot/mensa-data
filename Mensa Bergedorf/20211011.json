@@ -13,18 +13,18 @@
     "Vegan": true
   },
   {
-    "Name": "Maisgemüse (La), Blattspinat in Rahm (Gl,La), Bunter Rübenmix (Sl), Blumenkohl in Rahm (Gl,La), Nusskartoffeln",
+    "Name": "Zucchinigemüse in Rahm (Gl,So), gebratenes Gemüse, Nusskartoffeln",
     "Category": "Gemüsebar",
     "Date": "2021-10-11T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
@@ -60,13 +60,14 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La)",
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Pfefferrahmsoße (Gl,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2021-10-11T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.15,
     "PriceGuest": 5.15,
@@ -74,11 +75,12 @@
     "Poultry": true
   },
   {
-    "Name": "Honey Garlic Chicken mit Sesam Brokkoli und gebackenen Ofenkartoffel (2,Gl,So,Se) (2,Gl,So,Se)",
+    "Name": "Honey Garlic Chicken mit Sesam Brokkoli und gebackenen Ofenkartoffel (2,Gl,So,Se) (2,Gl,So,Se), Asiasoße süß-sauer (2,9)",
     "Category": "CampusVital",
     "Date": "2021-10-11T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
+      "9": "mit Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"

@@ -1,16 +1,17 @@
 [
   {
-    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
+    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch (So), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
     "Name": "Maisgemüse (La), Blattspinat in Rahm (Gl,La), Bunter Rübenmix (Sl), Nusskartoffeln",
@@ -25,6 +26,19 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffelsuppe mit Räuchertofu (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-11T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Maccaroni (Gl)",

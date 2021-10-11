@@ -1,21 +1,24 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kürbis-Karottensuppe mit Kurkuma (Sl), Kräuterkartoffeln, Karotten (La)",
     "Category": "Gemüsebar",
     "Date": "2021-10-11T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Grünkern-Bolognese (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2021-10-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,11 +27,11 @@
     "Vegan": true
   },
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Name": "Milchreis (La), Beerenkompott (9)",
     "Category": "Pottkieker",
     "Date": "2021-10-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "9": "mit Süßungsmittel",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 2.7,
@@ -88,6 +91,25 @@
     "PriceStudent": 3.5,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Gemüse Bulgur (Gl,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-11T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Honey Garlic Chicken mit Sesam Blumenkohl und gebackenen Ofenkartoffel (2,Gl,So,Se)",
