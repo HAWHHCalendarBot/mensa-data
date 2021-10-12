@@ -14,23 +14,39 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur (Gl,Sl)",
-    "Category": "Gemüsebar",
+    "Name": "Kartoffelsuppe (2,3,8,Sl)",
+    "Category": "Pottkieker",
     "Date": "2021-10-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
-    "Name": "Süßkartoffel Rucolaschnitte (Gl), Soja- Joghurt-Zitronen-Dip (1,3,So,Sf)",
+    "Name": "Frikadelle (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffel Möhrenstampf (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-21T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Beef": true,
+    "Pig": true
+  },
+  {
+    "Name": "Süßkartoffel Rucolaschnitte (Gl), Soja- Joghurt-Zitronen-Dip (1,3,So,Sf), Gurkensalat",
     "Category": "CampusVital",
     "Date": "2021-10-21T00:00:00Z",
     "Additives": {
@@ -40,25 +56,9 @@
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.05,
-    "PriceGuest": 5.15,
-    "PriceStudent": 2.8,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Tofu Curry mit Mango (2,3,Gl,So)",
-    "Category": "CampusWorld",
-    "Date": "2021-10-21T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.3,
-    "PriceGuest": 5.4,
-    "PriceStudent": 3.05,
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
     "LactoseFree": true,
     "Vegan": true
   }

@@ -45,6 +45,36 @@
     "Vegetarian": true
   },
   {
+    "Name": "Zwiebelsuppe (Gl,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-18T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-18T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
     "Category": "CampusVital",
     "Date": "2021-10-18T00:00:00Z",
@@ -62,20 +92,37 @@
     "Vegetarian": true
   },
   {
-    "Name": "Rote Beete Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,Gl,La,Sw)",
-    "Category": "CampusSpezial",
+    "Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Zuckerschoten (La), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2021-10-18T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Poultry": true
+  },
+  {
+    "Name": "Gebackene Seelachsfiletwürfel (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
     "Date": "2021-10-18T00:00:00Z",
     "Additives": {
       "1": "mit Farbstoff",
       "3": "mit Antioxidationsmittel",
-      "5": "Geschwefelt",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
-    "Vegetarian": true
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Fish": true
   }
 ]

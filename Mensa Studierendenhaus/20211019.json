@@ -44,21 +44,65 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchen Crossies (Gl), BBQ Soße (2,9,Sl,Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Süßer Quarkauflauf (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
     "Date": "2021-10-19T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
-      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Süßkartoffelsuppe (3,Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-19T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenkeule (Sf), Zwiebelsoße (Sl), Fenchel-Couscous (Gl,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-19T00:00:00Z",
+    "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.25,
-    "PriceGuest": 5.35,
-    "PriceStudent": 3.0,
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Frikadelle (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffel Möhrenstampf (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-19T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Beef": true,
+    "Pig": true
   },
   {
     "Name": "Pikantes Linsencurry mit frischem Grünkohlsalat und Senf-Ingwer-Dressing (3,5,Gl,En,So,Sl,Sf,Se,Sw)",
