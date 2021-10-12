@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Brokkoli",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "6": "Geschwärzt",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-12T00:00:00Z",
@@ -32,6 +18,22 @@
     "Category": "Pastabar",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Brokkoli (Gl,So,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
@@ -87,19 +89,18 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Zanderfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",
+    "Name": "Gebratenes Zanderfilet (Gl,Fi), Wirsing in Chilicreme (Gl,La,Sl), gebratene Drillinge",
     "Category": "CampusVital",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 6.8,
     "PriceGuest": 8.0,
     "PriceStudent": 5.5,
-    "Fish": true,
-    "LactoseFree": true
+    "Fish": true
   }
 ]

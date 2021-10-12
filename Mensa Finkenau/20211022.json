@@ -1,5 +1,47 @@
 [
   {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-22T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli Nuggets (Gl,Ei,So,La,Sl), Hollandaise (Ei,La,Sl,Sw), Erbsen, Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-22T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Alcohol": true,
+    "Vegetarian": true
+  },
+  {
     "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Hollandaise (Ei,La,Sl,Sw), Erbsen, Röstkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2021-10-22T00:00:00Z",
@@ -18,7 +60,7 @@
     "Poultry": true
   },
   {
-    "Name": "Quesadilla con carne, geschmorte Schweineschulter, Käse, Zwiebeln, Koriander (1,La), Pico de Gallo",
+    "Name": "Quesadilla con carne, geschmorte Schweineschulter, Käse, Zwiebeln, Koriander (1,La), Pico de Gallo, Bananenchips",
     "Category": "CampusWorld",
     "Date": "2021-10-22T00:00:00Z",
     "Additives": {
@@ -31,7 +73,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Quesadilla con carne, geschmorte Schweineschulter, Käse, Zwiebeln, Koriander (1,La), Pico de Gallo",
+    "Name": "Quesadilla con carne, geschmorte Schweineschulter, Käse, Zwiebeln, Koriander (1,La), Pico de Gallo, Bananenchips",
     "Category": "CampusWorld",
     "Date": "2021-10-22T00:00:00Z",
     "Additives": {
