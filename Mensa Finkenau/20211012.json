@@ -1,34 +1,66 @@
 [
   {
-    "Name": "Broccoli, Spitzkohl in Rahm (La)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Broccoli, Spitzkohl in Rahm (La)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Spitzkohl in Käse-Sahnesauce (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli, Ägyptische Falafel (Gl,Sl), Kohlrabigemüse, Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli, Ägyptische Falafel (Gl,Sl), Kohlrabigemüse, Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli, Ägyptische Falafel (Gl,Sl), Kohlrabigemüse, Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli, Ägyptische Falafel (Gl,Sl), Kohlrabigemüse, Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -53,11 +85,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat",
+    "Name": "4 Röstiecken, Kräuterquark (Gl,So,La), Gurkensalat",
     "Category": "CampusKlassiker",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.9,
     "PriceGuest": 5.1,
@@ -65,10 +99,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenbrust gegrillt, Ratatouille (Sw), Röstkartoffeln",
+    "Name": "Hähnchenbrust gegrillt (2,Gl,So), Ratatouille (Sw), Röstkartoffeln",
     "Category": "CampusWorld",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.4,
@@ -80,7 +117,7 @@
   },
   {
     "Name": "Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Hummus, Süßkartoffel, Karachi-Dressing (Gl,Sl,Sf,Se), Rotkohlsalat geraspelt",
-    "Category": "Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Hummus, Süßkartoffel, Karachi-Dressing (Gl,Sl,Sf,Se), Rotkohlsalat geraspelt",
+    "Category": "Chicken Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Humus, Süßkartoffel, Karachi-Dressing (Gl,So,Sl,Sf,Se), Rotkohlsalat geraspelt",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
@@ -96,7 +133,7 @@
   },
   {
     "Name": "Chicken Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Humus, Süßkartoffel, Karachi-Dressing (Gl,So,Sl,Sf,Se), Rotkohlsalat geraspelt",
-    "Category": "Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Hummus, Süßkartoffel, Karachi-Dressing (Gl,Sl,Sf,Se), Rotkohlsalat geraspelt",
+    "Category": "Chicken Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Humus, Süßkartoffel, Karachi-Dressing (Gl,So,Sl,Sf,Se), Rotkohlsalat geraspelt",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
