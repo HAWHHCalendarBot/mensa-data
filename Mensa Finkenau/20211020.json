@@ -1,9 +1,23 @@
 [
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Bratensoße (Sl), Kroketten (Gl), Buttererbsen (La)",
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Paniertes Schweineschnitzel (Gl), Bratensoße (Sl), Herzoginkartoffeln (Gl,Ei,La), Buttererbsen (La)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-20T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -12,6 +26,27 @@
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
     "Pig": true
+  },
+  {
+    "Name": "Pikantes Linsencurry mit frischem Grünkohlsalat und Senf-Ingwer-Dressing (3,5,Gl,En,So,Sl,Sf,Se,Sw)",
+    "Category": "CampusVital",
+    "Date": "2021-10-20T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Spanische Paella mit gebackener Hähnchenkeule , Meeresfrüchten und Gemüse (Kr,Sl,Wt)",
