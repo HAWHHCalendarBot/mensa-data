@@ -1,28 +1,12 @@
 [
   {
-    "Name": "hausgemachtes Pesto Genovese (2,La), Fusilli (Gl)",
+    "Name": "hausgemachtes Pesto Genovese (2,Gl,La), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-12T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Zucchinigemüse in Rahm (Gl,So,Sl), glasiertes Wurzelgemüse (La,Sl), Mandelbroccoli (La,Nu), Schwarzwurzeln in Rahm (Gl,La)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-12T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -48,6 +32,24 @@
     "Lamb": true
   },
   {
+    "Name": "Linsen-Tofu-Gemüse (Gl,So,Sl), glasiertes Wurzelgemüse (La,Sl), Mandelbroccoli (La,Nu), Vegan, Aubergine gebacken (Ei,La,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "4 Röstiecken, Kräuterquark (La)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-12T00:00:00Z",
@@ -70,6 +72,21 @@
     "PriceAttendant": 3.65,
     "PriceGuest": 4.75,
     "PriceStudent": 2.4,
+    "Poultry": true
+  },
+  {
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Pfefferrahmsoße (Gl,La,Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-12T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.15,
+    "PriceGuest": 5.15,
+    "PriceStudent": 2.95,
     "Poultry": true
   },
   {
