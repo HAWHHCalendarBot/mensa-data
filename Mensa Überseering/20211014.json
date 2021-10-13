@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Kürbisspalten gebacken, gebratene Champignons (La,Sw), Spitzkohl in Rahm (La), Romanesco (Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-14T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
     "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-14T00:00:00Z",
@@ -27,6 +13,20 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "gebratene Champignons (La,Sw), Spitzkohl in Rahm (La), Romanesco (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-14T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Räucherlachs mit einer mediterranen Tomatensoße (2,5,Fi,Sw), Eliche (Gl)",
@@ -46,17 +46,18 @@
     "LactoseFree": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
+      "3": "mit Antioxidationsmittel",
       "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
