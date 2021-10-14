@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-14T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2021-10-14T00:00:00Z",
@@ -33,14 +48,30 @@
     "Vegan": true
   },
   {
-    "Name": "Putengyros, Tzatziki (La), Krautsalat (3,5,Sw), Kartoffeltwister (Gl)",
+    "Name": "Putengyros, Pommes Frites (Sf), Tzatziki (La), Krautsalat (3,5,Sw)",
     "Category": "CampusWorld",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
       "3": "mit Antioxidationsmittel",
       "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.6,
+    "PriceGuest": 10.6,
+    "PriceStudent": 5.3,
+    "Poultry": true
+  },
+  {
+    "Name": "Putengyros, Pommes Frites (Sf), Tzatziki (La), Krautsalat (3,5,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-14T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.6,
