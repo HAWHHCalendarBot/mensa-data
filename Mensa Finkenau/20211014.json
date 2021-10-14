@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Broccoli, gebratene Champignons, Kräuterkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Gemüse-Lasagne (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2021-10-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
