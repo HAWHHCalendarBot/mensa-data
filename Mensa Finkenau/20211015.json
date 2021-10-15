@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Broccoli, Süßkartoffeln, gebratene Champignons, Minz-Karotten",
     "Category": "Gemüsebar",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta in Gorgonzola Sauce und Babyspinat (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
@@ -40,7 +41,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
+    "Name": "Pasta mit Haselnuss-Chilli Pesto (2,Gl,Ei,La,Nu)",
     "Category": "CampusVital",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {

@@ -11,17 +11,19 @@
     "Vegan": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen (La), Gemüse Sesamreis (Se)",
+    "Name": "glasierte rote Beete, Zuckerschoten, Broccoli, Fingermöhrchen, Ofenfrischer Nudelauflauf mit Rindfleisch, Pilzen und Lauch (Gl,So,La,Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Beef": true
   },
   {
     "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Strozzapreti (Gl)",
@@ -111,5 +113,21 @@
     "PriceStudent": 5.25,
     "Alcohol": true,
     "Lamb": true
+  },
+  {
+    "Name": "Putengyros, Tzatziki (La), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
+    "Category": "CampusWorld",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.6,
+    "PriceGuest": 7.8,
+    "PriceStudent": 5.3,
+    "Poultry": true
   }
 ]

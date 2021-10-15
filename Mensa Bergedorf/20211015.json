@@ -1,33 +1,66 @@
 [
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
-    "Category": "Pastabar",
+    "Name": "Kürbisspalten gebacken, Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
+    "Category": "Gemüsebar",
     "Date": "2021-10-15T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Strozzapreti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-15T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "8": "mit Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Pig": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Räucherlachs mit einer mediterranen Tomatensoße (2,5,Fi,Sw), Eliche (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Fish": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Sf,Se)",
+    "Category": "Pastabar",
+    "Date": "2021-10-15T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
