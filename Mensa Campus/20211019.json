@@ -1,14 +1,29 @@
 [
   {
-    "Name": "Karotten- Pastinaken- Mix, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Bratkartoffeln",
+    "Name": "Karotten- Pastinaken- Mix, Kartoffelgratin (Ei,La), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
     "Category": "Gemüsebar",
     "Date": "2021-10-19T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Karotten- Pastinaken- Mix, Kartoffelgratin (Ei,La), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-19T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Schupfnudeln (Gl,Ei)",
@@ -54,6 +69,22 @@
     "Vegetarian": true
   },
   {
+    "Name": "Frikadelle (Gl,Ei), hausgemachtes Kartoffel- Butterstampf (La), Rahmsoße (Gl,La,Sl), Brechbohnen (La)",
+    "Category": "CampusVital",
+    "Date": "2021-10-19T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.6,
+    "PriceGuest": 4.8,
+    "PriceStudent": 2.3,
+    "Beef": true,
+    "Pig": true
+  },
+  {
     "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2021-10-19T00:00:00Z",
@@ -84,6 +115,21 @@
     "PriceGuest": 5.2,
     "PriceStudent": 2.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Bulgursalat mit grünen Spargel, Avocado, Zuckerschoten, Walnuss und Sesam (Gl,Nu,Se)",
+    "Category": "CampusVital",
+    "Date": "2021-10-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "gebratenes Putensteak, Broccoli mit Knoblauch (La), Rosmarinkartoffel, Kräuterbutter (La)",

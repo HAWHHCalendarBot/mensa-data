@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gebratene Zucchini, Süßkartoffeln, Weißkohl, Orientalisches Kichererbsengemüse",
     "Category": "Gemüsebar",
     "Date": "2021-10-19T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,17 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Pesto und Spinat (Gl,La)",
     "Category": "Pastabar",
     "Date": "2021-10-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La), kalte Vanillesoße (La)",
@@ -38,13 +38,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Chili sin carne (So,Sl), Korbbrot (6,Gl,Nu)",
+    "Name": "Chili sin carne (So,Sl), Fladenbrot (Gl,Ei,So,Se)",
     "Category": "CampusVital",
     "Date": "2021-10-19T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -52,7 +52,7 @@
     "PriceGuest": 4.6,
     "PriceStudent": 2.1,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Frühlingsgemüse (La), Basmatireis",
