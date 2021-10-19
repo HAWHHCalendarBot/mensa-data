@@ -1,5 +1,37 @@
 [
   {
+    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-10-25T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
     "Name": "Milchreis (La), Beerenkompott (1,9,La)",
     "Category": "Pottkieker",
     "Date": "2021-10-25T00:00:00Z",
@@ -12,5 +44,50 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gemüsefrittata (Ei,La), Schnittlauchquark (La), Salat mit Italian Dressing (Sf,Sw)",
+    "Category": "CampusVital",
+    "Date": "2021-10-25T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.25,
+    "PriceGuest": 5.45,
+    "PriceStudent": 2.95,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Schweinefiletmedaillons, Dijon-Senfsoße (5,Gl,La,Sf,Sw), Prinzessbohnen, Kroketten (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2021-10-25T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.25,
+    "PriceGuest": 7.45,
+    "PriceStudent": 4.95,
+    "Pig": true
   }
 ]
