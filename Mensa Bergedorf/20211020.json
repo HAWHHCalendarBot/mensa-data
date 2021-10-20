@@ -1,11 +1,26 @@
 [
   {
-    "Name": "Pilzsoße mit Räucherknoblauch und Basilikum (Gl,La,Sw), Maccaroni (Gl)",
+    "Name": "Hähnchenstreifen al arrabiata, Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, frischem Gemüse (2,Sw), griechisches Gemüse (6,La), Süßkartoffelwürfel gebacken, Pak Choi (So)",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-20T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "6": "Geschwärzt",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -14,12 +29,18 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frischem Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-    "Category": "Gemüsebar",
+    "Name": "Pikantes Linsencurry (3,5,Gl,En,So,Sl,Sf,Se,Sw), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-10-20T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
-      "6": "Geschwärzt",
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -29,31 +50,18 @@
     "Vegan": true
   },
   {
-    "Name": "Chili sin carne (So,Sl)",
+    "Name": "Chili sin carne (So,Sl), Reis",
     "Category": "CampusVital",
     "Date": "2021-10-20T00:00:00Z",
     "Additives": {
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 2.65,
-    "PriceGuest": 3.75,
-    "PriceStudent": 1.4,
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.6,
+    "PriceStudent": 2.1,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Paniertes Schweineschnitzel (Gl), Zitrone",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-20T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 3.55,
-    "PriceGuest": 4.65,
-    "PriceStudent": 2.3,
-    "LactoseFree": true,
-    "Pig": true
   },
   {
     "Name": "Rindergulasch mit Paprika (La), Fusilli (Gl)",
@@ -67,6 +75,21 @@
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
     "Beef": true
+  },
+  {
+    "Name": "Paniertes Schweineschnitzel (Gl), Waldpilzsoße (3,Gl,La,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-20T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.35,
+    "Pig": true
   },
   {
     "Name": "Ziegenkäseburger mit Birnen - Cranberry - Chutney und Blattsalat, Walnussdressing (1,3,9,Gl,Ei,La,Nu,Sf,Lu)",

@@ -1,16 +1,18 @@
 [
   {
-    "Name": "Bolognese, Maccaroni (Gl)",
+    "Name": "Pilzsoße mit Knoblauch und Basilikum (Gl,So,Sw), Maccaroni (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "gerösteter Blumenkohl, frischem Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
@@ -26,21 +28,6 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Pilzsoße mit Räucherknoblauch und Basilikum (Gl,So,La,Sw), Maccaroni (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-20T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
   },
   {
     "Name": "Grießspeise (Gl,La), Beerenkompott (1,9,La)",
