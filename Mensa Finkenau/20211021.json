@@ -1,9 +1,13 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Flagoletbohnen und Petersilien Pesto (Gl,Nu,Sl)",
+    "Category": "Pastabar",
     "Date": "2021-10-21T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +15,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Prinzessbohnen, Linsengemüse (Sl,Sf), Kürbisgemüse (Sl,Sf), gebratene Paprika mit Hirtenkäse (La,Sl)",
+    "Category": "Gemüsebar",
     "Date": "2021-10-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), kalte Vanillesoße (La)",
@@ -51,6 +56,19 @@
     "Vegan": true
   },
   {
+    "Name": "Hähnchen Crossies (Gl), Paprikadip (La), Djuvecreis",
+    "Category": "CampusKlassiker",
+    "Date": "2021-10-21T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Poultry": true
+  },
+  {
     "Name": "gebackene Hähnchenkeule (Gl), Paprikadip (La), Djuvecreis",
     "Category": "gebackene Hähnchenkeule (Gl), Paprikadip (La), Djuvecreis",
     "Date": "2021-10-21T00:00:00Z",
@@ -62,37 +80,6 @@
     "PriceGuest": 6.2,
     "PriceStudent": 3.7,
     "Poultry": true
-  },
-  {
-    "Name": "Hähnchen Crossies (Gl), BBQ Soße (2,9,Sl,Sf), Djuvecreis",
-    "Category": "CampusKlassiker",
-    "Date": "2021-10-21T00:00:00Z",
-    "Additives": {
-      "2": "mit Konservierungsstoff",
-      "9": "mit Süßungsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 5.0,
-    "PriceGuest": 6.2,
-    "PriceStudent": 3.7,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Kabeljau frisch vom Grill mit Broccoli - Blumenkohlsalat Sonnenblumenkernen und Limettenschmand (Gl,Fi,La), Gurken-Ingwer Relish",
-    "Category": "CampusSpezial",
-    "Date": "2021-10-21T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 6.6,
-    "PriceGuest": 7.8,
-    "PriceStudent": 5.3,
-    "Fish": true
   },
   {
     "Name": "Kabeljau frisch vom Grill mit Broccoli - Blumenkohlsalat Sonnenblumenkernen und Limettenschmand (Gl,Fi,La), Gurken-Ingwer Relish",
