@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Broccoli, Prinzessbohnen, Gemüse Kartoffel Curry (Sl,Sf), Röstiecken",
     "Category": "Gemüsebar",
     "Date": "2021-10-22T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +14,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Gemüselasagne (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2021-10-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), kalte Vanillesoße (La)",
@@ -53,7 +57,7 @@
     "Vegan": true
   },
   {
-    "Name": "Broccoli Nuggets (Gl,Ei,So,La,Sl), Hollandaise (Ei,La,Sl,Sw), Erbsen, Röstkartoffeln",
+    "Name": "Broccoli Nuggets (Gl,Ei,So,La,Sl), Hollandaise (Gl,Ei,La,Sl,Sw), Erbsen, Röstkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2021-10-22T00:00:00Z",
     "Additives": {
@@ -71,7 +75,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Hollandaise (Ei,La,Sl,Sw), Erbsen, Röstkartoffeln",
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Hollandaise (Gl,Ei,La,Sl,Sw), Erbsen, Röstkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2021-10-22T00:00:00Z",
     "Additives": {
