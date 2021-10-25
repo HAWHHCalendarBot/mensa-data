@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Karotten (La), Rübstiel mit Zwiebeln und Knoblauch, Süßkartoffel Gnocchi (Gl), Blumenkohl",
+    "Name": "Karotten (La), buntem Gemüse, Süßkartoffel Gnocchi (Gl), Blumenkohl",
     "Category": "Gemüsebar",
     "Date": "2021-10-25T00:00:00Z",
     "Additives": {
@@ -13,24 +13,40 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Broccoli-Gorgonzola (La), Conchiglie (Gl)",
+    "Name": "vegetarisches Wurstgulasch mit Paprika (9,Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-25T00:00:00Z",
     "Additives": {
+      "9": "mit Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Rosenkohlgratin (Ei,La), Kräuterkartoffeln",
+    "Name": "vegane Kürbiscremesuppe mit Kokos (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-25T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Rosenkohlgratin (Ei,La), Kräuterkartoffeln, Kräutersoße (Gl,La)",
     "Category": "CampusVital",
     "Date": "2021-10-25T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 4.1,
