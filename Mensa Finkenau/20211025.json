@@ -43,12 +43,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Spaghetti mit Ratatouillegemüse und Hirtenkäse (Gl,La,Sw)",
+    "Name": "Spaghetti mit Ratatouillegemüse und Hüttenkäse (Gl,La,Sl,Sw)",
     "Category": "CampusVital",
     "Date": "2021-10-25T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.2,
@@ -73,17 +74,21 @@
     "Beef": true
   },
   {
-    "Name": "Wir kochen was Sie lieben..., Grillteller mit Hähnchen und Schweinesteak, Köfte und Würstchen (Gl), Kräuterdip (La), Krautsalat (3), Röstiecken",
+    "Name": "Wir kochen was Sie lieben..., Grillteller mit Hähnchen und Köfte und Würstchen (Gl), Kräuterdip (La), Krautsalat (2,3,9,Ei,Sf), Röstiecken",
     "Category": "CampusSpezial",
     "Date": "2021-10-25T00:00:00Z",
     "Additives": {
+      "2": "mit Konservierungsstoff",
       "3": "mit Antioxidationsmittel",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 6.9,
-    "PriceGuest": 8.1,
-    "PriceStudent": 5.6,
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
     "Beef": true,
     "Pig": true,
     "Poultry": true
