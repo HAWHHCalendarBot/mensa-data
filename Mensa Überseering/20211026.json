@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Prinzessbohnen, Schwarzwurzeln (La)",
-    "Category": "Gemüsebar",
+    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Stortelli Rigati (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-10-26T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
@@ -12,12 +13,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Stortelli Rigati (Gl)",
-    "Category": "Pastabar",
+    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Prinzessbohnen, Gemüsecouscous (Gl,Sl), Kohlrabi in Rahm (Gl,La)",
+    "Category": "Gemüsebar",
     "Date": "2021-10-26T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -54,26 +56,23 @@
     "Vegetarian": true
   },
   {
-    "Name": "Bohneneintopf (2,3,5,8,Sl,Sw)",
+    "Name": "Bohneneintopf (3,5,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2021-10-26T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
       "3": "mit Antioxidationsmittel",
       "5": "Geschwefelt",
-      "8": "mit Phosphat",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Beef": true,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
   },
   {
-    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl)",
+    "Name": "2 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2021-10-26T00:00:00Z",
     "Additives": {
@@ -89,7 +88,7 @@
     "Pig": true
   },
   {
-    "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La)",
+    "Name": "Fusilli mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2021-10-26T00:00:00Z",
     "Additives": {
