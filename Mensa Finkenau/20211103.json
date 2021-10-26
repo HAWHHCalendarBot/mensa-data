@@ -1,5 +1,43 @@
 [
   {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-03T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Grießspeise (Gl,La), Apfelkompott (3)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-03T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Spaghetti Arrabiata mit Hähnchenstreifen (Gl)",
     "Category": "CampusWorld",
     "Date": "2021-11-03T00:00:00Z",
@@ -64,5 +102,20 @@
     "PriceStudent": 3.5,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Pierogi mit Quarkfüllung, rote Beete und Schmand (9,Gl,Ei,La)",
+    "Category": "CampusWorld",
+    "Date": "2021-11-03T00:00:00Z",
+    "Additives": {
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Vegetarian": true
   }
 ]
