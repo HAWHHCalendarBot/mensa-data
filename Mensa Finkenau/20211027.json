@@ -1,34 +1,36 @@
 [
   {
-    "Name": "Kohlrabigemüse (La), Sauerkraut (Sl), Augerginen-Zucchinigemüse (Sl), Karotten (La)",
+    "Name": "Dummy",
+    "Category": "Pastabar",
+    "Date": "2021-10-27T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kohlrabigemüse (La), Sauerkraut mit Speck (2,3,8,Sl), Vegan, Aubergine gebacken (Gl,Sw), Karotten (La)",
     "Category": "Gemüsebar",
     "Date": "2021-10-27T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta mit Ratatouillegemüse und Käse (Gl,La,Sl)",
-    "Category": "Pastabar",
-    "Date": "2021-10-27T00:00:00Z",
-    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Pig": true
   },
   {
-    "Name": "EXTRA: Hähnchenbrust zum Gericht",
-    "Category": "EXTRA: Hähnchenbrust zum Gericht",
+    "Name": "Hähnchenbrust zum Spargel",
+    "Category": "Hähnchenbrust zum Spargel",
     "Date": "2021-10-27T00:00:00Z",
     "Additives": {},
     "PriceAttendant": 2.1,
@@ -67,18 +69,15 @@
     "Fish": true
   },
   {
-    "Name": "Cremiges Risotto mit Gorgonzola, karamellisierten Birnen und Walnusscrunch (La,Nu,Sl) (La,Nu,Sl)",
+    "Name": "Dummy",
     "Category": "CampusWorld",
     "Date": "2021-10-27T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 5.5,
     "PriceGuest": 6.7,
     "PriceStudent": 4.2,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Reis",
