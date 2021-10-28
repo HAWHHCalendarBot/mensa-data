@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
+    "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La)",
     "Category": "Pastabar",
     "Date": "2021-10-28T00:00:00Z",
     "Additives": {
@@ -10,10 +10,24 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Poultry": true
+    "Vegetarian": true
   },
   {
-    "Name": "Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "Steckrüben-Möhren Gemüse, Spitzkohl, gebratene Paprika (5,Sw), Rosmarinkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-28T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-28T00:00:00Z",
     "Additives": {
@@ -24,24 +38,26 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Beef": true
   },
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La), Sommergemüse (La), gebratene Paprika (5,Sw)",
-    "Category": "Gemüsebar",
+    "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-10-28T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "Ei": "Ei und Eierzeugnisse",
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Spätzle mit Linsen (5,Gl,Ei,Sl,Sw)",
@@ -62,21 +78,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), veganes Tzatziki (1,So,Sf)",
+    "Name": "Ruccola Süßkartoffel Taler (Gl), Prinzessbohnen, Tzatziki (La)",
     "Category": "CampusWorld",
     "Date": "2021-10-28T00:00:00Z",
     "Additives": {
-      "1": "mit Farbstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.1,
-    "PriceGuest": 5.1,
-    "PriceStudent": 2.9,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 3.55,
+    "PriceGuest": 4.65,
+    "PriceStudent": 2.3,
+    "Vegetarian": true
   }
 ]

@@ -1,17 +1,18 @@
 [
   {
-    "Name": "Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "Vegane Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (So,Sl), Eliche (Gl)",
     "Category": "Pastabar",
     "Date": "2021-10-28T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "gerösteter Broccoli, Spätzle (Gl,Ei,La), Sommergemüse (La), gebratene Paprika (5,Sw)",
@@ -28,6 +29,23 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Hühnertopf mit Gemüse und Eierstich (3,8,Ei,La,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2021-10-28T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Poultry": true
   },
   {
     "Name": "Spätzle mit Linsen (5,Gl,Ei,Sl,Sw), Apfel Karotten Salat (3,Sw)",
