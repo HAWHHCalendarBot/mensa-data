@@ -14,14 +14,28 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9), Sauerkraut vegetarisch (Sl)",
+    "Name": "Brechbohne, Rahmwirsing (Gl,So), Cajun Gemüse (Sl), Romanesco, gebratene Paprika",
     "Category": "Gemüsebar",
     "Date": "2021-10-29T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "9": "mit Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Brechbohne, Rahmwirsing (Gl,So), Cajun Gemüse (Sl), Romanesco, gebratene Paprika",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -45,17 +59,18 @@
     "Fish": true
   },
   {
-    "Name": "Tomatensuppe (La,Sl)",
+    "Name": "Tomatensuppe (So,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-10-29T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kokosnuss-Kichererbsen mit knusprigem Spitzkohl, Reis",

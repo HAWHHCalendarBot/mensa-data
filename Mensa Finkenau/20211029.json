@@ -1,27 +1,32 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2021-10-29T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Cherrytomaten und Pesto (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2021-10-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kräuterkartoffeln, Couscous (Gl,Sl), Kartoffelgratin (Ei,La), Erbsen",
+    "Category": "Gemüsebar",
+    "Date": "2021-10-29T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
@@ -89,17 +94,19 @@
     "Lamb": true
   },
   {
-    "Name": "Bouillabaisse mit gegrilltem Kabeljaufilet, frischem Gemüse und Baguette (1,4,Gl,Kr,Fi,La,Sl,Sw)",
+    "Name": "Bouillabaisse mit gegrilltem Kabeljaufilet, frischem Gemüse und Baguette (1,2,4,Gl,Kr,Fi,So,La,Sl,Sw)",
     "Category": "CampusWorld",
     "Date": "2021-10-29T00:00:00Z",
     "Additives": {
       "1": "mit Farbstoff",
+      "2": "mit Konservierungsstoff",
       "4": "mit Geschmacksverstärker",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Kr": "Krebstiere und Krebstiererzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.8,
