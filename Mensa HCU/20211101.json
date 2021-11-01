@@ -1,26 +1,14 @@
 [
   {
-    "Name": "Pasta mit Tomaten-Gemüse- Ragout und  Sojastreifen (Gl,So)",
+    "Name": "Vegane Pasta mit Brokkoli und dicken Bohnen in Tomatensauce (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-01T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
-    "Category": "Pottkieker",
-    "Date": "2021-11-01T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegan": true
   },
@@ -38,6 +26,24 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Vegane orientalische Kichererbsensuppe mit Kokosmilch und Kohl (1,3,Gl,So,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-01T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "3": "mit Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "All in one Pot - Reisnudeln / Tofuwü/ Eisbergsalat/ Koriander / Gurke/ Erdnüsse/ Äpfel/ Röstzwiebeln (2,Gl,En,So,Sf,Sw)",
