@@ -1,5 +1,44 @@
 [
   {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-08T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-08T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Veganer Steckrübeneintopf mit einem Brötchen (Gl,Sl,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-08T00:00:00Z",
@@ -13,6 +52,22 @@
     "PriceStudent": 2.1,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-08T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.15,
+    "PriceGuest": 5.35,
+    "PriceStudent": 2.85,
+    "Pig": true
   },
   {
     "Name": "Steckrübeneintopf mit Kochwurst und einem Brötchen (2,3,4,8,Gl,Sl,Sf,Sw)",

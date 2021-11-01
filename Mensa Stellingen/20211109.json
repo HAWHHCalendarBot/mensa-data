@@ -1,34 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-09T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-11-09T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Milchreis (La), Kirschgrütze (1,La)",
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
-      "1": "mit Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 2.7,
@@ -37,7 +14,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Name": "Würzige Thai-Soja-Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
     "Category": "CampusWorld",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
@@ -53,23 +30,22 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebackene Hähnchenschenkel in orientalischer Tomatensauce, Mandel - Couscous (Gl,Nu,Sl,Sw)",
-    "Category": "CampusWorld",
+    "Name": "Cordon Bleu vom Schweinerücken, Tomaten-Hollandaise (Ei,La,Sl), Blumenkohl, Kartoffelkroketten (Gl)",
+    "Category": "CampusKlassiker",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.8,
     "PriceGuest": 7.0,
     "PriceStudent": 4.5,
-    "LactoseFree": true,
-    "Poultry": true
+    "Pig": true
   },
   {
-    "Name": "Putensteak (Sw), Koriandersalsa, Gurkensalat mit Chilli und schwarzem Sesam (3,5,Se,Sw), CousCous (Gl,Sl)",
+    "Name": "Putenbraten (Sw), Koriandersalsa, Gurkensalat mit Chilli und schwarzem Sesam (3,5,Se,Sw), CousCous (Gl,Sl)",
     "Category": "CampusSpezial",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {

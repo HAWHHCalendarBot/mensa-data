@@ -1,41 +1,31 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-11T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2021-11-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2021-11-11T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kartoffel-Gemüse-Gulasch mit Taco Chips (2,Gl,So,Sl)",
@@ -52,21 +42,6 @@
     "PriceStudent": 2.65,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Hausgemachte geschmorte Paprikaschote gefüllt mit Hackfleisch und fruchtiger Tomatensoße (Sl,Sf), Reis",
-    "Category": "CampusKlassiker",
-    "Date": "2021-11-11T00:00:00Z",
-    "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
-    "Beef": true,
-    "LactoseFree": true,
-    "Pig": true
   },
   {
     "Name": "Seelachsfilet in Senfsoße mit Kartoffel Mangoldstampf (5,Gl,Fi,La,Sl,Sf,Sw)",

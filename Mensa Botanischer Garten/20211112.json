@@ -1,36 +1,66 @@
 [
   {
-    "Name": "Tapenade von schwarzen Oliven mit Kräutern und Olivenöl (6), Farfalle (Gl)",
+    "Name": "Pikantes Wurstragout mit Belugalinsen und Räucherpaprika (2,3,8,So,La,Sl,Sf), Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-12T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true,
+    "Pig": true
   },
   {
-    "Name": "Kürbisgemüse, Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (2,Gl,So,Sl,Sf,Sw), Prinzessbohnen, Kartoffelgratin (Ei,La)",
-    "Category": "Gemüsebar",
+    "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-12T00:00:00Z",
+    "Additives": {
+      "3": "mit Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La), Tomatensoße Napoli",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "Beef": true
+  },
+  {
+    "Name": "Tofu Teriyaki mit Pak Choi (2,Gl,So,Se), Basmatireis",
+    "Category": "CampusWorld",
     "Date": "2021-11-12T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
