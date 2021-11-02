@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Karotten, Kartoffel-Blumenkohlcurry (Sl,Sf), gerösteter Blumenkohl, gebratene Paprika",
     "Category": "Gemüsebar",
     "Date": "2021-11-02T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +14,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Ratouillegemüse und Käse (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2021-11-02T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -37,6 +42,23 @@
     "Vegetarian": true
   },
   {
+    "Name": "Pad Thai Reisnudeln mit Hähnchen und Ei (2,Gl,Ei,So,La,Se)",
+    "Category": "CampusWorld",
+    "Date": "2021-11-02T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Poultry": true
+  },
+  {
     "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
     "Category": "CampusVital",
     "Date": "2021-11-02T00:00:00Z",
@@ -50,31 +72,8 @@
     "Vegetarian": true
   },
   {
-    "Name": "Spicy Pastrami Bowl mit Rinds Pastrami, Reis, Rotkohl, Erbsen, Madras-Kürbis, Wurzelgemüse, Wasabi (1,3,5,Ei,En,Sl,Sf,Sw), Kimchi Gurke (2,Gl,So), Basmatireis, Rotkohlsalat geraspelt",
-    "Category": "Spicy Pastrami Bowl mit Rinds Pastrami, Reis, Rotkohl, Erbsen, Madras-Kürbis, Wurzelgemüse, Wasabi (1,3,5,Ei,En,Sl,Sf,Sw), Kimchi Gurke (2,Gl,So), Basmatireis, Rotkohlsalat geraspelt",
-    "Date": "2021-11-02T00:00:00Z",
-    "Additives": {
-      "1": "mit Farbstoff",
-      "2": "mit Konservierungsstoff",
-      "3": "mit Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Ei": "Ei und Eierzeugnisse",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.9,
-    "PriceGuest": 7.5,
-    "PriceStudent": 6.2,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
     "Name": "Spicy Pastrami Bowl mit Rinds Pastrami, Reis, Rotkohl, Edamame, Madras-Kürbis, Wurzelgemüse, Wasabi (1,2,3,5,9,Gl,Ei,En,So,Sl,Sf,Sw)",
-    "Category": "Spicy Pastrami Bowl mit Rinds Pastrami, Reis, Rotkohl, Erbsen, Madras-Kürbis, Wurzelgemüse, Wasabi (1,3,5,Ei,En,Sl,Sf,Sw), Kimchi Gurke (2,Gl,So), Basmatireis, Rotkohlsalat geraspelt",
+    "Category": "Spicy Pastrami Bowl mit Rinds Pastrami, Reis, Rotkohl, Edamame, Madras-Kürbis, Wurzelgemüse, Wasabi (1,3,5,Ei,En,Sl,Sf,Sw), Frisches Pastrami aus dem Ofen (Sf), Basmatireis, Rotkohlsalat geraspelt, Kimchi Gurke (2,Gl,So)",
     "Date": "2021-11-02T00:00:00Z",
     "Additives": {
       "1": "mit Farbstoff",
@@ -95,5 +94,29 @@
     "PriceStudent": 6.2,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Spicy Pastrami Bowl mit Rinder Pastrami, Reis, Rotkohl, Erbsen, Madras-Kürbis, Wurzelgemüse, (1,3,5,Ei,En,Sl,Sf,Sw), Kimchi Gurke (2,Gl,So), Wasabi Dressing (1,9,So,La), Basmatireis",
+    "Category": "Spicy Pastrami Bowl mit Rinds Pastrami, Reis, Rotkohl, Edamame, Madras-Kürbis, Wurzelgemüse, Wasabi (1,3,5,Ei,En,Sl,Sf,Sw), Frisches Pastrami aus dem Ofen (Sf), Basmatireis, Rotkohlsalat geraspelt, Kimchi Gurke (2,Gl,So)",
+    "Date": "2021-11-02T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.9,
+    "PriceGuest": 7.5,
+    "PriceStudent": 6.2,
+    "Beef": true
   }
 ]
