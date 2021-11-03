@@ -55,17 +55,62 @@
     "Vegetarian": true
   },
   {
-    "Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl)",
+    "Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,Ei,So,La,Sl)",
     "Category": "CampusVital",
     "Date": "2021-11-03T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Grüner Salat mit Blumenkohl, Zucchini und Ei (Sl,Sw), Schnittlauch Dip (Ei,La)",
+    "Category": "CampusVital",
+    "Date": "2021-11-03T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.55,
+    "PriceGuest": 5.75,
+    "PriceStudent": 3.25,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hähnchen Tika Masala (La,Sf), Kräuterreis, pikantes Gemüse Sugo (Sl)",
+    "Category": "CampusWorld",
+    "Date": "2021-11-03T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Poultry": true
+  },
+  {
+    "Name": "Mini Frühlingsrollen (Gl,So), Basmatireis, Chinagemüse (2,Gl,So)",
+    "Category": "CampusSpezial",
+    "Date": "2021-11-03T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
     "LactoseFree": true,
     "Vegan": true
   }
