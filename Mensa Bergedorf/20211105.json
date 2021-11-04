@@ -1,12 +1,45 @@
 [
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen (La), Gemüse Sesamreis (Se), buntes Asia Gemüse mit Wasserkastanie und Lotuswurzel (2,Se)",
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Spaghetti (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta All`Amatriciana mit Speck und Tomaten (2,3,8), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "8": "mit Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "glasierte rote Beete, Zuckerschoten (La), Fingermöhrchen, Gemüsepaella (2,Gl,So,Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-11-05T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -41,5 +74,27 @@
     "PriceGuest": 4.7,
     "PriceStudent": 2.5,
     "Poultry": true
+  },
+  {
+    "Name": "All in one Pot - Bulgur/ Soja/Weißkohl/ Cranberries/ Ananas/ Baby Leaf/ Asia Remoulade/Cashews (1,2,3,9,Gl,Ei,So,Nu,Sl,Sf)",
+    "Category": "CampusVital",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "1": "mit Farbstoff",
+      "2": "mit Konservierungsstoff",
+      "3": "mit Antioxidationsmittel",
+      "9": "mit Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "LactoseFree": true,
+    "Vegetarian": true
   }
 ]
