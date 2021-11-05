@@ -14,13 +14,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "glasierte rote Beete, Broccoli, Fingermöhrchen (La), Gemüse Sesamreis (Se), buntes Asia Gemüse mit Wasserkastanie und Lotuswurzel (2,Se)",
+    "Name": "glasierte rote Beete, Broccoli, Fingermöhrchen (La), gebratene Champignons (5,Sw), Zuckerschoten (La)",
     "Category": "Gemüsebar",
     "Date": "2021-11-05T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
+      "5": "Geschwefelt",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -126,5 +126,23 @@
     "PriceStudent": 5.5,
     "Fish": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Spareribs (9,Gl), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "9": "mit Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Alcohol": true,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
