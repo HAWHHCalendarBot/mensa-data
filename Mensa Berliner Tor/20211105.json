@@ -11,17 +11,16 @@
     "Vegan": true
   },
   {
-    "Name": "Spaghetti (Gl)",
-    "Category": "Pastabar",
+    "Name": "Blumenkohl, vegan, buntem Gemüse, Zuckerschoten (La), geschmolzene Kirschtomaten",
+    "Category": "Gemüsebar",
     "Date": "2021-11-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Rahmsoße (Gl,La,Sl)",
@@ -78,6 +77,47 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "#rocktheWOK..,, Bratreis / Pak Choi / Ei / Frühlingszwiebeln (Ei), grüne Kokos-Curry-Soße, scharf",
+    "Category": "CampusWorld",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "#SCHNITZELglück..,, Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Kartoffelpüree (La), Zitrone",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "Pig": true
+  },
+  {
+    "Name": "#SCHNITZELglück..,, Paniertes Putenschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Kartoffelpüree (La), Zitrone",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "Poultry": true
   },
   {
     "Name": "#SCHNITZELglück..,, Vegetarisches Schnitzel in Knusperpanade (Gl,Ei,La), Champignonrahmsoße (Gl,La,Sl), Kartoffelpüree (La), Zitrone",
