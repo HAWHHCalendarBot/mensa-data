@@ -1,27 +1,30 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Romanesco, Vegetarisches Moussaka (La), Gebackene Banane, gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2021-11-05T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-11-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Gemüse und Käse (Gl,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -38,12 +41,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La,Se), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-05T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.2,
@@ -52,14 +56,17 @@
     "Poultry": true
   },
   {
-    "Name": "Gebratenes Kabeljaufilet auf lauwarmen Belugalinsen , Grillgemüse und Salsa Verde (5,9,Fi,Sf,Sw)",
+    "Name": "Gebratenes Kabeljaufilet auf lauwarmen Belugalinsen , Grillgemüse und Salsa Verde (2,5,Gl,Fi,So,Sf,Se,Sw)",
     "Category": "CampusSpezial",
     "Date": "2021-11-05T00:00:00Z",
     "Additives": {
+      "2": "mit Konservierungsstoff",
       "5": "Geschwefelt",
-      "9": "mit Süßungsmittel",
       "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.8,
