@@ -80,18 +80,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Rindergulasch mit Paprika (La), Salzkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2021-11-17T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 5.0,
-    "PriceGuest": 6.2,
-    "PriceStudent": 3.7,
-    "Beef": true
-  },
-  {
     "Name": "Vegane Maultaschen (Gl), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-17T00:00:00Z",
@@ -104,10 +92,22 @@
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
+    "PriceAttendant": 4.25,
+    "PriceGuest": 5.35,
+    "PriceStudent": 3.0,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika (La), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-17T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 5.0,
     "PriceGuest": 6.2,
     "PriceStudent": 3.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true
   }
 ]
