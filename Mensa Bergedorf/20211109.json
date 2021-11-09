@@ -1,36 +1,16 @@
 [
   {
-    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Category": "Pastabar",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), Kräuterquark (La)",
-    "Category": "CampusVital",
-    "Date": "2021-11-09T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.55,
-    "PriceGuest": 4.55,
-    "PriceStudent": 2.35,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Putengeschnetzeltes Züricher Art (La), Spätzle (Gl,Ei)",
@@ -47,19 +27,17 @@
     "Poultry": true
   },
   {
-    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Name": "Wir kochen was Sie lieben..., Köfte in Knoblauchsoße (Gl,Sw), Reis",
     "Category": "CampusWorld",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
-      "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.3,
-    "PriceGuest": 5.5,
-    "PriceStudent": 3.0,
-    "LactoseFree": true,
-    "Vegetarian": true
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.45,
+    "PriceStudent": 3.95,
+    "Beef": true,
+    "LactoseFree": true
   }
 ]

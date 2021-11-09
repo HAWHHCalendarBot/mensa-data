@@ -1,17 +1,17 @@
 [
   {
-    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Schupfnudeln (Gl,Ei)",
+    "Name": "Steckrüben-Kürbissoße mit Thymian (So), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse",
@@ -30,12 +30,25 @@
     "Vegan": true
   },
   {
-    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Name": "Vegane Orientalische Linsensuppe (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-09T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Veganes würziges Thai - Soja - Ragout mit Ingwer, Koriander, Limettenblättern und Asia Nudeln (2,Gl,So)",
     "Category": "CampusWorld",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -43,7 +56,7 @@
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
     "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), BBQ-Bohnen-Pfanne, Kräuterquark (La), Salzkartoffeln",
@@ -62,7 +75,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Putenbraten (Sw), Koriandersalsa, Gurkensalat mit Chilli und schwarzem Sesam (3,5,Se,Sw), CousCous (Gl,Sl)",
+    "Name": "Putensteak vom Grill (Sw), Koriandersalsa, Gurkensalat mit Chilli und schwarzem Sesam (3,5,Se,Sw), CousCous (Gl,Sl)",
     "Category": "CampusSpezial",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
