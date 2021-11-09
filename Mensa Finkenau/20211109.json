@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gebratene Zucchini, Sauerkraut (Sl), feuriger Blumenkohl, Gartengemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-11-09T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +13,58 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "gebratene Zucchini, Sauerkraut (Sl), feuriger Blumenkohl, Gartengemüse (Sl)",
+    "Category": "Gemüsebar",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "gebratene Zucchini, Sauerkraut (Sl), feuriger Blumenkohl, Gartengemüse (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-09T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "gebratene Zucchini, Sauerkraut (Sl), feuriger Blumenkohl, Gartengemüse (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-09T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta mit Cherrytomaten und Pesto (Gl,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Milchreis (La), Kirschgrütze (1,La)",
@@ -37,20 +80,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,So,Se)",
     "Category": "CampusWorld",
     "Date": "2021-11-09T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.3,
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
     "Name": "Gebackene Hähnchenschenkel in orientalischer Tomatensauce, Mandel - Couscous (Gl,Nu,Sl,Sw)",
