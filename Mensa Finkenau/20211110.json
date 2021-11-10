@@ -56,17 +56,36 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchen Tika Masala (La,Sf), Kräuterreis",
+    "Name": "Hähnchen Tika Masala (La,Sf), Couscous (Gl,Sl)",
     "Category": "CampusWorld",
     "Date": "2021-11-10T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.4,
     "PriceGuest": 5.6,
     "PriceStudent": 3.1,
     "Poultry": true
+  },
+  {
+    "Name": "Farmers Bowl mit Senf-Wurzelgemüse, Schweineschulter, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,Sl,Sf,Sw), Basmatireis",
+    "Category": "Farmers Bowl mit Senf-Wurzelgemüse, Ziegenkäse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,La,Sl,Sf,Sw), Basmatireis",
+    "Date": "2021-11-10T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 7.4,
+    "PriceStudent": 6.1,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Farmers Bowl mit Senf-Wurzelgemüse, Ziegenkäse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,La,Sl,Sf,Sw), Basmatireis",

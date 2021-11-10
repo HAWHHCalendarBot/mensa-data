@@ -1,5 +1,55 @@
 [
   {
+    "Name": "Soße Arrabiata mit Rinderstreifen",
+    "Category": "Pastabar",
+    "Date": "2021-11-10T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
+    "Category": "Pastabar",
+    "Date": "2021-11-10T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tricolore Gemüsepfanne, vegan, geschmolzene Kirschtomaten, Blattspinat in Rahm (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Rahmsoße (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Bratkartoffeln, Kräuterrührei (Ei,La)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-10T00:00:00Z",
@@ -32,7 +82,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Putengeschnetzeltes Züricher Art (La), Spätzle (Gl,Ei), Apfel Karotten Salat (3,Sw)",
+    "Name": "Rindergeschnetzeltes Züricher Art (La), Spätzle (Gl,Ei), Apfel Karotten Salat (3,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-10T00:00:00Z",
     "Additives": {
@@ -45,7 +95,7 @@
     "PriceAttendant": 4.8,
     "PriceGuest": 6.0,
     "PriceStudent": 3.5,
-    "Poultry": true
+    "Beef": true
   },
   {
     "Name": "#allinONEPOT..,, Tandoori Chicken / Vollkornreis / Avocado / Linsen / Cranberries / Chia Samen / Baby Salad / Mango (1,2,3,Gl,So,La,Sl,Sf)",
