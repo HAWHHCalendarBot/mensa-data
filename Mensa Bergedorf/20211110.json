@@ -1,14 +1,46 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis, Bunter Rübenmix (Sl), Buttererbsen (La)",
+    "Name": "Pasta Frutti di mare in Tomatensoße (Gl,Kr,Sl,Wt)",
+    "Category": "Pastabar",
+    "Date": "2021-11-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Kr": "Krebstiere und Krebstiererzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Category": "Pastabar",
+    "Date": "2021-11-10T00:00:00Z",
+    "Additives": {
+      "2": "mit Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, Blattspinat in Rahm (Gl,La), griechisches Gemüse (6), Kartoffel Gemüsecurry (2,Sl,Sf), Orientalisches Linsengemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-11-10T00:00:00Z",
     "Additives": {
       "2": "mit Konservierungsstoff",
       "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -40,20 +72,5 @@
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
     "Vegetarian": true
-  },
-  {
-    "Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl)",
-    "Category": "CampusVital",
-    "Date": "2021-11-10T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]
