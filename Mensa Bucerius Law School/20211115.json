@@ -1,17 +1,17 @@
 [
   {
-    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi (Gl)",
+    "Name": "Karotten, Auberginen-Zucchini Gemüse (Sw), Kohlrabi nature, Süßkartoffel Gnocchi (Gl)",
     "Category": "Gemüsebar",
     "Date": "2021-11-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
@@ -26,6 +26,20 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Beef": true
+  },
+  {
+    "Name": "vegetarische Lauchcremesuppe (Gl,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), frisches Gemüse (2,Sw), rote Currysoße (Sl)",
@@ -63,7 +77,7 @@
     "Vegan": true
   },
   {
-    "Name": "Feldsalat mit Süßkartoffel- Linsenpürree, geröstetem Blumenkohl, Mandeln und Limetten-Senf-Dressing (3,Nu,Sf)",
+    "Name": "Feldsalat mit Süßkartoffel- Linsenpürree, geröstetem Blumenkohl, Kerne und Limetten-Senf-Dressing (3,Nu,Sf)",
     "Category": "CampusVital",
     "Date": "2021-11-15T00:00:00Z",
     "Additives": {

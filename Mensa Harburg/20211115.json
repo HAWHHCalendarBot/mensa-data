@@ -1,16 +1,32 @@
 [
   {
-    "Name": "Pasta Broccoli-Gorgonzola (La), Conchiglie (Gl)",
+    "Name": "Pasta Broccoli in Sojacreamsoße (So), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Karotten, Kaisergemüse (Sw),   Zuckerschoten, Kohlrabi in Rahm (Gl,So), Süßkartoffel Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
@@ -25,21 +41,6 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Beef": true
-  },
-  {
-    "Name": "Karotten, Auberginen-Zucchini Gemüse (Sw), Rübstiel mit Zwiebeln und Knoblauch, Kohlrabi in Rahm (Gl,So,La), Süßkartoffel Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-15T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
   },
   {
     "Name": "Asiatische Gemüsesuppe süß-sauer mit Hühnchenfleisch (2,Gl,So,Sl,Sf)",
