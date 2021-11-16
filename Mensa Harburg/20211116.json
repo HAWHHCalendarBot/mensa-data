@@ -1,15 +1,14 @@
 [
   {
-    "Name": "Karotten- Pastinaken- Mix, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+    "Name": "Karotten- Pastinaken- Mix, Gartenbohnen mit Mischpilzen und Cherrytomaten, gebratenem Wirsing,   bunte Gemüsepfanne, Bratkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2021-11-16T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
@@ -26,7 +25,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "Pasta \"Milano\" mit Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-16T00:00:00Z",
     "Additives": {
@@ -38,7 +37,27 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pikantes Wurstragout mit Belugalinsen und Räucherpaprika (2,3,8,So,La,Sl,Sf), Farfalle (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "Pig": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
