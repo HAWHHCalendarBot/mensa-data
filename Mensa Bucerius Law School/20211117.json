@@ -1,13 +1,11 @@
 [
   {
-    "Name": "Rosenkohl (2,La), spanisches Kartoffelgemüse, gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,La,Nu,Sl)",
+    "Name": "Rosenkohl (2,La),  spanisches Kartoffelgemüse,  gebratene Zucchini,  Curryreis mit Gemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-11-17T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -16,21 +14,33 @@
     "Vegetarian": true
   },
   {
-    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
+    "Name": "vegane cremige Soße mit Wirsing (So), Schupfnudeln (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2021-11-17T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Pig": true
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "vegane Gulaschsuppe mit Kartoffeln und Paprika (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-17T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Linsenlasagne (Gl,So,La,Sl), Tomatensoße Napoli",
