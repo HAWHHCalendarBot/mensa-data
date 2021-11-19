@@ -1,21 +1,30 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-19T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Gemüselasagne (2,Gl,So,La,Sl)",
     "Category": "Pastabar",
     "Date": "2021-11-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "gebackene Kochbanane, veganes Rosenkohl-Edamame-Curry (So,Sl,Se), Kräuterkartoffeln, schwarzen Bohnenragout (2,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-19T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -66,13 +75,16 @@
     "Pig": true
   },
   {
-    "Name": "Samke Harra - Scharfer Kabeljau vom Grill auf gebackenem Ofengemüse mit Koriandersalsa (Gl,Fi,Sl)",
+    "Name": "Samke Harra - Scharfer Kabeljau vom Grill auf gebackenem Ofengemüse mit Sesam Dip (2,Gl,Fi,So,Sl,Se)",
     "Category": "CampusWorld",
     "Date": "2021-11-19T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 6.8,
     "PriceGuest": 8.0,
