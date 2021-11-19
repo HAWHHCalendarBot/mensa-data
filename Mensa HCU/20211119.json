@@ -1,5 +1,78 @@
 [
   {
+    "Name": "Pasta mit Rindfleisch-Bolognese (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Vegane Pasta mit Soja-Bolognese (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Grießspeise (Gl,La), Kirschgrütze (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-19T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Currysuppe mit Gemüse, Soja und Kokosmilch (1,3,Gl,So)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-19T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Palatschinken mit mediterraner Gemüsefüllung (Gl,Ei,La,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-19T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 3.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Lammragout (2,Ei,La,Sl,Sw), Tagliatelle (Gl)",
     "Category": "CampusSpezial",
     "Date": "2021-11-19T00:00:00Z",
