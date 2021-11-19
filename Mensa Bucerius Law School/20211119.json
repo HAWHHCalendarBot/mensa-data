@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco",
+    "Name": "Brechbohne,  Cajun Gemüse (Sl),  Romanesco,  Bratgemüse (Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2021-11-19T00:00:00Z",
     "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -13,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat oder vegetarisch ohne Lachs (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-19T00:00:00Z",
     "Additives": {
@@ -28,12 +29,27 @@
     "Fish": true
   },
   {
-    "Name": "Grünkern-Bolognese (Gl,Sl), Spaghetti (Gl)",
+    "Name": "vegane Steckrübencremesuppe (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-19T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Soja-Bolognese (So,Sl), Spaghetti (Gl)",
     "Category": "CampusVital",
     "Date": "2021-11-19T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.6,
@@ -60,7 +76,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Zanderfilet (Gl,Fi), Risotto mit Bärlauch (La,Sl,Sw), confierte Strauchtomaten",
+    "Name": "Gebratenes Zanderfilet (Gl,Fi), Risotto mit Bärlauch (La,Sl,Sw), Blattspinat in Rahm (Gl,La)",
     "Category": "CampusSpezial",
     "Date": "2021-11-19T00:00:00Z",
     "Additives": {
