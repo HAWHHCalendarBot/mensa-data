@@ -52,7 +52,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+    "Name": "Grünkohl (Gl,Sl,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
@@ -60,21 +60,23 @@
       "3": "Antioxidationsmittel",
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.7,
     "PriceGuest": 5.9,
     "PriceStudent": 3.4,
-    "Beef": true,
     "LactoseFree": true,
     "Pig": true
   },
   {
-    "Name": "Vegetarischer Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
+    "Name": "Vegetarischer Grünkohl (Gl,Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
@@ -85,7 +87,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Kasseler Nackenbraten (2,3,La,Sl), Röstkartoffeln",
+    "Name": "Grünkohl (Gl,Sl,Sf), Kochwurst (2,3,4,8,Sf), Kasseler Nackenbraten (2,3,La,Sl), Röstkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
@@ -93,6 +95,7 @@
       "3": "Antioxidationsmittel",
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -100,7 +103,6 @@
     "PriceAttendant": 6.4,
     "PriceGuest": 7.6,
     "PriceStudent": 5.1,
-    "Beef": true,
     "Pig": true
   }
 ]
