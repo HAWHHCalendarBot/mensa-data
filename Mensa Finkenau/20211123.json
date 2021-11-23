@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Belugalinsenragout (Sl), Spitzkohl (Sl), gebackene Aubergine, pikantes Grillgemüse (Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2021-11-23T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +14,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit feurigem Basilikumpesto und Zucchini (Gl,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -40,11 +45,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+    "Name": "4 Röstiecken, Kräuterquark (4,Ei,La,Sf), Gurkensalat",
     "Category": "CampusKlassiker",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "4": "Geschmacksverstärker",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 3.9,
     "PriceGuest": 5.1,
@@ -104,22 +112,5 @@
     "PriceGuest": 7.6,
     "PriceStudent": 5.1,
     "Pig": true
-  },
-  {
-    "Name": "Fit ins neue Jahr:, Farmers Bowl mit Senf-Wurzelgemüse, Ziegenkäse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,La,Sl,Sf,Sw), Basmatireis",
-    "Category": "Fit ins neue Jahr:, Farmers Bowl mit Senf-Wurzelgemüse, Ziegenkäse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,La,Sl,Sf,Sw), Basmatireis",
-    "Date": "2021-11-23T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 7.4,
-    "PriceStudent": 6.1,
-    "Vegetarian": true
   }
 ]

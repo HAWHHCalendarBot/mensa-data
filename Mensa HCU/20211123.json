@@ -1,14 +1,16 @@
 [
   {
-    "Name": "Dummy",
+    "Name": "Pasta mit Gorgonzolasauce und Brokkoli (Gl,La)",
     "Category": "Pastabar",
     "Date": "2021-11-23T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pflaumenkompott (1,La)",
@@ -24,11 +26,27 @@
     "Vegetarian": true
   },
   {
-    "Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+    "Name": "4 Röstiecken, oder VEGAN mit Soja-Dip (1,Sf), Kräuterquark (La), Gurkensalat (La)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.2,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "4 Röstiecken, oder VEGAN mit Soja-Dip (1,Sf), Kräuterquark (La), Gurkensalat (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-23T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 3.9,
     "PriceGuest": 5.2,

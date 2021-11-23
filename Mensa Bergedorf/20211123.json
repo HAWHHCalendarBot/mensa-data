@@ -1,10 +1,10 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Brokkoli, Reis",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Grünkern-Bolognese (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -12,6 +12,43 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Fenchelgemüse (Sl), Asiatische Reispfanne (2,3,9,Sl), Champignon Lauchpfanne (Sw), Blattspinat in Rahm (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2021-11-23T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
   },
   {
     "Name": "4 Röstiecken, Kräuterquark (La)",
@@ -26,12 +63,12 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La)",
+    "Name": "Hähnchenbrust in Tandoori-Marinade (Sf), Schmand-Joghurt-Soße (La)",
     "Category": "CampusWorld",
     "Date": "2021-11-23T00:00:00Z",
     "Additives": {
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 3.65,
     "PriceGuest": 4.75,
@@ -52,19 +89,5 @@
     "PriceGuest": 5.6,
     "PriceStudent": 3.25,
     "Vegetarian": true
-  },
-  {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi)",
-    "Category": "CampusVital",
-    "Date": "2021-11-23T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.5,
-    "Fish": true,
-    "LactoseFree": true
   }
 ]
