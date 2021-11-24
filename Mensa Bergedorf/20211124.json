@@ -1,6 +1,20 @@
 [
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "Pasta Pesto mit Cherrytomaten (2,Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2021-11-24T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ratatouille mit Quinoa (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
     "Category": "Gemüsebar",
     "Date": "2021-11-24T00:00:00Z",
     "Additives": {
@@ -12,6 +26,23 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Pollo Asia mit Geflügelbrust (2,Gl,So,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2021-11-24T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Milchreis (La), Rhabarberkompott (1,La)",

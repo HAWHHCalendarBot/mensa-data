@@ -55,15 +55,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Cremiges Risotto mit Gorgonzola, karamellisierten Birnen und Walnuss-Crunch (La,Nu,Sl)",
+    "Name": "Cremiges Risotto mit Gorgonzola, karamellisierten Birnen und Walnuss-Crunch (La,Nu,Sl,Sw)",
     "Category": "CampusWorld",
     "Date": "2021-11-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 5.5,
     "PriceGuest": 6.7,
     "PriceStudent": 4.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "Alcohol": true,
+    "Vegetarian": true
   },
   {
     "Name": "Kabeljau aus dem Kräutersud auf Grünkohl-Kartoffelgemüse und Dijon-Senfsauce (5,Gl,Fi,La,Sl,Sf,Sw)",
