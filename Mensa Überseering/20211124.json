@@ -1,19 +1,20 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße (So), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-24T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2021-11-24T00:00:00Z",
     "Additives": {
@@ -27,7 +28,7 @@
     "Beef": true
   },
   {
-    "Name": "Steckrübengemüse in Rahm (Gl,La,Sl), Glacierte Pastinaken mit Honig, Mangold mit gerösteten Walnüssen (Nu), Ratatouille (Sl)",
+    "Name": "Steckrübengemüse in Rahm (Gl,La,Sl), Mangold mit gerösteten Walnüssen (Nu), Ratatouille (Sl), buntem Gemüse",
     "Category": "Gemüsebar",
     "Date": "2021-11-24T00:00:00Z",
     "Additives": {
@@ -42,78 +43,31 @@
     "Vegetarian": true
   },
   {
-    "Name": "Steckrübengemüse in Rahm (Gl,La,Sl), Glacierte Pastinaken mit Honig, Mangold mit gerösteten Walnüssen (Nu), Ratatouille (Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Steckrübengemüse in Rahm (Gl,La,Sl), Glacierte Pastinaken mit Honig, Mangold mit gerösteten Walnüssen (Nu), Ratatouille (Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Steckrübengemüse in Rahm (Gl,La,Sl), Glacierte Pastinaken mit Honig, Mangold mit gerösteten Walnüssen (Nu), Ratatouille (Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Milchreis (La), Rhabarberkompott (1,La)",
+    "Name": "Kartoffelsuppe (Sl)",
     "Category": "Pottkieker",
     "Date": "2021-11-24T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Kartoffelsuppe (2,3,8,Sl)",
-    "Category": "Pottkieker",
-    "Date": "2021-11-24T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
+  },
+  {
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-24T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
