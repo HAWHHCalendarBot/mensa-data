@@ -1,5 +1,46 @@
 [
   {
+    "Name": "Tomatensoße Napoli, Farfalle (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Blattspinat (Sl), Mais-Karotten Gemüse, Schwarzwurzeln in Rahm (Gl,La), Kürbisgemüse",
+    "Category": "Gemüsebar",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Zucchini Walnusssoße (Gl,La,Nu), Farfalle (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-12-02T00:00:00Z",
@@ -12,5 +53,49 @@
     "PriceStudent": 1.5,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Grießspeise (Gl,La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Paniertes Schweineschnitzel (Gl), Zitrone",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 3.5,
+    "PriceGuest": 4.5,
+    "PriceStudent": 2.3,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Tofu Curry mit Mango (2,3,Gl,So), Vollkornreis",
+    "Category": "CampusWorld",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
