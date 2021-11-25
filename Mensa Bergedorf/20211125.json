@@ -1,11 +1,43 @@
 [
   {
-    "Name": "Kürbisspalten gebacken, gebratene Champignons (La,Sw), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-11-25T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Kürbis gebacken, gebratene Champignons (La,Sw), Spitzkohl in Rahm (So), Orientalisches Linsengemüse (Gl,So,Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-11-25T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pennette mit Haselnuss Pesto und Broccoli (2,Gl,Ei,La,Nu)",
+    "Category": "Pastabar",
+    "Date": "2021-11-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -44,5 +76,19 @@
     "PriceStudent": 3.4,
     "Beef": true,
     "Pig": true
+  },
+  {
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Blattspinat in Rahm (Gl,La)",
+    "Category": "CampusVital",
+    "Date": "2021-11-25T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.45,
+    "PriceGuest": 6.55,
+    "PriceStudent": 4.2,
+    "Fish": true
   }
 ]
