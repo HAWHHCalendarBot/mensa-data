@@ -1,11 +1,10 @@
 [
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen (La), Gemüse Sesamreis (Se)",
+    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen (La)",
     "Category": "Gemüsebar",
     "Date": "2021-11-26T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -13,17 +12,34 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl)",
-    "Category": "CampusVital",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
+    "Category": "Pastabar",
     "Date": "2021-11-26T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 3.05,
-    "PriceGuest": 4.15,
-    "PriceStudent": 1.8,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
+    "Category": "Pastabar",
+    "Date": "2021-11-26T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
@@ -38,6 +54,19 @@
     "PriceAttendant": 3.45,
     "PriceGuest": 4.45,
     "PriceStudent": 2.25,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Reis",
+    "Category": "CampusVital",
+    "Date": "2021-11-26T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
   },
