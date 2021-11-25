@@ -1,27 +1,34 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2021-11-25T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Gemüse und Gorgonzolasauce (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2021-11-25T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gartengemüse, Grünkohl-Kartoffelgemüse (2,3,8,Sf), gebratene Zucchini, Karotten (La)",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "Pig": true
   },
   {
     "Name": "2 Quarkkeulchen (Gl,Ei,La), Beerenkompott (9)",
