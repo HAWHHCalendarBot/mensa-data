@@ -41,6 +41,21 @@
     "Pig": true
   },
   {
+    "Name": "Grießspeise (Gl,La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-11-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Rote Beete Suppe mit Chili und Apfel (3,9,Gl,So,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-11-26T00:00:00Z",
@@ -72,11 +87,10 @@
     "Vegan": true
   },
   {
-    "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf), Kartoffelspalten Spicy (1,Gl)",
+    "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-26T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
       "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
@@ -89,6 +103,25 @@
     "PriceStudent": 3.4,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-26T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Gemüse Bulgur (Gl,Sl)",
