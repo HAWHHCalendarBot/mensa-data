@@ -1,24 +1,26 @@
 [
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Name": "Pasta Mexiko mit Rindfleisch (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2021-11-29T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Pig": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+    "Name": "Zuckerschoten (La), glacierte rote Beete, Champignons in Rahm (Gl,La,Sw), Chili-Kartoffeln aus dem Ofen",
     "Category": "Gemüsebar",
     "Date": "2021-11-29T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -71,6 +73,26 @@
     "PriceGuest": 4.8,
     "PriceStudent": 2.3,
     "Vegetarian": true
+  },
+  {
+    "Name": "Fish´n chips (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-11-29T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Fish": true
   },
   {
     "Name": "Rote Beete Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,Gl,La,Sw)",
