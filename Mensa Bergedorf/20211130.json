@@ -1,20 +1,68 @@
 [
   {
-    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl)",
+    "Category": "Pastabar",
     "Date": "2021-11-30T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
+    "Fish": true
+  },
+  {
+    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2021-11-30T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "gebratener Pak Choi (2,Gl,So), Kohlrabi in Rahm (Gl,La), Spanisches Pfannengemüse, Rote Beete Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,Gl,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2021-11-30T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Gemüsepfanne Hot Spice mit Bohnen (2,Sl,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2021-11-30T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.75,
+    "PriceGuest": 4.85,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hähnchen Crossies (Gl), BBQ Soße (2,9,Sl,Sf)",
@@ -76,7 +124,7 @@
     "Pig": true
   },
   {
-    "Name": "Susländer Schweineschnitzel paniert (Gl,La), Satésoße (2,9,Gl,En,So), Thailändischer Gurkensalat mit Minze, Chilli und Thai-Basilikum (2,3,5,Gl,So,Se,Sw)",
+    "Name": "Susländer Schweineschnitzel paniert (Gl,Ei,La), Satésoße (2,9,Gl,En,So), Thailändischer Gurkensalat mit Minze, Chilli und Thai-Basilikum (2,3,5,Gl,So,Se,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2021-11-30T00:00:00Z",
     "Additives": {
@@ -84,6 +132,7 @@
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
       "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
