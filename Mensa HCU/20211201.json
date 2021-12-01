@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Nudelauflauf al Forno mit Rinderhack, Käse, Gemüse und Tomatensoße (Gl,La,Sl)",
+    "Name": "Nudelauflauf al Forno mit Rinderhack, Käse, Gemüse und Käsesauce (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2021-12-01T00:00:00Z",
     "Additives": {
@@ -14,10 +14,27 @@
     "Beef": true
   },
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Name": "Blumenkohlsuppe mit Baguette (Gl,La,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-12-01T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-01T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -27,7 +44,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Reisnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Se)",
+    "Name": "Reisnudeln mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Se)",
     "Category": "CampusWorld",
     "Date": "2021-12-01T00:00:00Z",
     "Additives": {
@@ -43,5 +60,24 @@
     "PriceStudent": 3.4,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Gemüse Bulgur (Gl,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2021-12-01T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.95,
+    "PriceGuest": 7.3,
+    "PriceStudent": 3.65,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
