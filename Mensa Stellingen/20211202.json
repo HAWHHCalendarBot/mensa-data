@@ -15,11 +15,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenkeule (Sf), BBQ-Curry-Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Name": "Hähnchenkeule (Sf), BBQ-Soße (4,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-02T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
       "9": "Süßungsmittel",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -31,14 +31,14 @@
     "Poultry": true
   },
   {
-    "Name": "Süßkartoffel-Rucola-Schnitte (Gl), Rote-Beete-Dip (1,Sf), Ofengemüse (2)",
+    "Name": "Süßkartoffel-Rucola-Schnitte (Gl), Rote-Beete-Dip (1,Sf), Gemüse-Kartoffel-Ragout (Sl)",
     "Category": "CampusVital",
     "Date": "2021-12-02T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.8,
     "PriceGuest": 6.0,
@@ -47,17 +47,24 @@
     "Vegan": true
   },
   {
-    "Name": "Pulled Pork mit Zwiebeln (Sf), Pommes Frites (Sf), 3erlei-Bohnensalat (4)",
-    "Category": "CampusWorld",
+    "Name": "Leberkas Burger mit Krautsalat, süßem Senf und Röstzwiebeln im Laugenbrötchen (2,3,5,8,Gl,Ei,La,Sf,Se,Sw), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
     "Date": "2021-12-02T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker",
-      "Sf": "Senf und Senferzeugnisse"
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 6.2,
-    "PriceGuest": 7.4,
-    "PriceStudent": 4.9,
-    "LactoseFree": true,
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
     "Pig": true
   }
 ]
