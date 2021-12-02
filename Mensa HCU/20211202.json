@@ -1,9 +1,27 @@
 [
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Name": "Champignon Risotto (La,Sl,Sw), Weißweinsoße (Gl,La,Sw)",
+    "Category": "Pastabar",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Alcohol": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2021-12-02T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -11,6 +29,24 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Asiatische Rindfleischsuppe mit Teriyaki und Gemüse (2,3,Gl,En,So,Se)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Tofu Curry mit Mango (2,3,Gl,So), Vollkornreis",
