@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Selbstgemachter Kaiserschmarrn (Gl,Ei,La), Apfelkompott (3), Zimt &amp; Zucker",
+    "Category": "Pottkieker",
+    "Date": "2021-12-09T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Entenkeule, Geflügelrahmsoße (La), Apfelrotkohl (3,5,Sw), Kartoffelklöße",
     "Category": "CampusKlassiker",
     "Date": "2021-12-09T00:00:00Z",
@@ -15,24 +30,21 @@
     "Poultry": true
   },
   {
-    "Name": "Amaranth Burger (3,Gl), Cole slaw Salat (1,3,9,Ei,La,Sf), Walnuss Senf Soße (1,5,Nu,Sf,Sw), Pommes Frites (Sf)",
+    "Name": "Amaranth Burger (3,Gl), Cole slaw Salat (1,Sf), Senfsoße (1,5,Sf,Sw), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2021-12-09T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.6,
     "PriceGuest": 7.8,
     "PriceStudent": 5.3,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
