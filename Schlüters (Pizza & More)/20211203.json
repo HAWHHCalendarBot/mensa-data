@@ -1,45 +1,38 @@
 [
   {
-    "Name": "Pizza Funghi (Gl,La)",
+    "Name": "Caesars Salat vegetarisch (2,Gl,Ei,La,Sf)",
     "Category": "Food Angebot im Schlüters",
     "Date": "2021-12-03T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.0,
-    "PriceStudent": 4.7,
+    "PriceAttendant": 4.65,
+    "PriceGuest": 5.25,
+    "PriceStudent": 3.95,
     "Vegetarian": true
   },
   {
-    "Name": "Pizza Salami (1,2,3,Gl,La)",
+    "Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Gl,Ei,La,Sf,Sw)",
     "Category": "Food Angebot im Schlüters",
     "Date": "2021-12-03T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.0,
-    "PriceStudent": 4.7,
-    "Pig": true
-  },
-  {
-    "Name": "Pizza Gorgonzola e Spinaci (Gl,La)",
-    "Category": "Food Angebot im Schlüters",
-    "Date": "2021-12-03T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.3,
-    "PriceStudent": 5.0,
-    "Vegetarian": true
+    "PriceAttendant": 5.65,
+    "PriceGuest": 6.25,
+    "PriceStudent": 4.95,
+    "Poultry": true
   },
   {
     "Name": "Pizza Vegetarisch mit Spinat und Champignons (Gl,La)",
@@ -70,21 +63,6 @@
     "Vegan": true
   },
   {
-    "Name": "Pizza Diavolo (2,3,Gl,La)",
-    "Category": "Food Angebot im Schlüters",
-    "Date": "2021-12-03T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 6.5,
-    "PriceStudent": 5.2,
-    "Pig": true
-  },
-  {
     "Name": "Pizza Barbecue mit Hähnchenstreifen (3,8,Gl,La,Sf,Sw)",
     "Category": "Food Angebot im Schlüters",
     "Date": "2021-12-03T00:00:00Z",
@@ -99,6 +77,25 @@
     "PriceAttendant": 5.9,
     "PriceGuest": 6.5,
     "PriceStudent": 5.2,
+    "Poultry": true
+  },
+  {
+    "Name": "Pizza Bombay mit Hühnchen, Broccoli und Ananas (1,3,8,Gl,Ei,La,Sf,Sw)",
+    "Category": "Food Angebot im Schlüters",
+    "Date": "2021-12-03T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.4,
+    "PriceGuest": 7.0,
+    "PriceStudent": 5.7,
     "Poultry": true
   }
 ]
