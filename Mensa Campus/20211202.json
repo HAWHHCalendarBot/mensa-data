@@ -1,17 +1,5 @@
 [
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La)",
-    "Category": "Gemüsebar",
-    "Date": "2021-12-02T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
     "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2021-12-02T00:00:00Z",
@@ -37,6 +25,21 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Sauerkraut mit Speck (2,3,8)",
+    "Category": "Gemüsebar",
+    "Date": "2021-12-02T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
