@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Rosmarinkartoffeln, gebackene Kardamom-Zimt Aubergine, gebratene Champignons, Broccoli",
     "Category": "Gemüsebar",
     "Date": "2021-12-03T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,20 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta in Champignon-Weissweinsauce (Gl,La,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2021-12-03T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Alcohol": true,
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -38,13 +41,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Afrikanische Gemüse Kartoffel Tajine (Sl), Pfannenbrot (Gl,Ei,So,Se)",
+    "Name": "Afrikanische Gemüse Kartoffel Tajine (Sl,Sf), Pfannenbrot (Gl,Ei,So,Se)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-03T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
