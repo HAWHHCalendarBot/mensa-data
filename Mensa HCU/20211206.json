@@ -1,10 +1,50 @@
 [
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
-    "Category": "Pottkieker",
+    "Name": "Pasta Broccoli-Bohnen-Käsesoße (La), Fusilli (Gl)",
+    "Category": "Pastabar",
     "Date": "2021-12-06T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Broccoli-Bohnen-Käsesoße (La), Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffelsuppe (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-06T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Milchreis (La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "9": "Süßungsmittel",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 2.7,
@@ -13,16 +53,54 @@
     "Vegetarian": true
   },
   {
-    "Name": "Rosenkohlgratin (Ei,La), Kräuterkartoffeln",
-    "Category": "CampusVital",
+    "Name": "Chili con Carne (2), Fladenbrot (Gl,Ei,So,Se)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Chili sin carne (So,Sl), Fladenbrot (Gl,Ei,So,Se)",
+    "Category": "CampusKlassiker",
     "Date": "2021-12-06T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.1,
-    "PriceGuest": 5.6,
-    "PriceStudent": 2.8,
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Chili sin carne (So,Sl), Fladenbrot (Gl,Ei,So,Se)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-06T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
     "Vegetarian": true
   }
 ]

@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Karotten, gebratene Champignons, gebackene Aubergine-Zucchinigemüse (Sl,Sw), Afrikanische Gemüse Kartoffel Tajine (Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-12-06T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +14,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Ziegenkäse,rote Zwiebeln,Pepperoni und Pesto rosso (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2021-12-06T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Milchreis (La), Beerenkompott (1,9,La)",
@@ -38,12 +43,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Frischer Linseneintopf mit Gemüse und Kräutern (Sl,Sw), Baguette (Gl)",
+    "Name": "Frischer Linseneintopf mit Gemüse und Kräutern (2,Gl,So,Sl,Sw), Baguette (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-06T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.8,
@@ -68,7 +75,7 @@
     "Fish": true
   },
   {
-    "Name": "Frischer Linseneintopf mit Gemüse und Kräutern (Sl,Sw), Wiener Würstchen (2,3), Baguette (Gl)",
+    "Name": "Frischer Linseneintopf mit Gemüse und Kräutern (2,Gl,So,Sl,Sw), Wiener Würstchen (2,3), Baguette (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-06T00:00:00Z",
     "Additives": {
@@ -76,6 +83,7 @@
       "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.9,
