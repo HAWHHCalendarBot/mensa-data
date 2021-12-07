@@ -12,11 +12,10 @@
     "Vegetarian": true
   },
   {
-    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Schupfnudeln (Gl,Ei)",
+    "Name": "Steckrüben-Kürbissoße mit Thymian (Gl,La), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2021-12-07T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -24,6 +23,21 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
