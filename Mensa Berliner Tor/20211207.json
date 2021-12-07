@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Tomatensoße",
+    "Name": "Hähnchenstreifen al arrabiata",
     "Category": "Pastabar",
     "Date": "2021-12-07T00:00:00Z",
     "Additives": {},
@@ -8,7 +8,20 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
+  },
+  {
+    "Name": "Blattspinat in Rahm (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Broccoli, vegan, buntem Gemüse, Blattspinat in Rahm (Gl,La), Blumenkohl",
