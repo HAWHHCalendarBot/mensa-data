@@ -1,5 +1,60 @@
 [
   {
+    "Name": "Flageolets Bohnen, Mangold mit gerösteten Walnüssen (Nu), Karotten Rustica, Auberginen-Zucchini Gemüse (Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Karottensuppe mit Kerbel (Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
     "Category": "Pottkieker",
     "Date": "2021-12-15T00:00:00Z",
@@ -12,5 +67,38 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Broccoli Nuggets (Gl,Ei,So,La,Sl), scharfer Asia-Dip (1,Sf), Pommes Frites (Sf)",
+    "Category": "CampusWorld",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gebackenes Alaska Seelachsfilet (Gl,Fi), rote Beete Zwiebel Quark (9,La), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "9": "Süßungsmittel",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Fish": true
   }
 ]
