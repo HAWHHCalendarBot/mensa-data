@@ -1,17 +1,32 @@
 [
   {
-    "Name": "Karotten- Pastinaken- Mix, glacierte rote Beete, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
+    "Name": "Erbsen-Mais Gemüse (La), Auberginen-Zucchini Gemüse (Sw), glacierte rote Beete, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
     "Category": "Gemüsebar",
     "Date": "2021-12-07T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Steckrüben-Kürbissoße mit Thymian (So), Strozzapreti (Gl)",
+    "Name": "Erbsen-Mais Gemüse (La), Auberginen-Zucchini Gemüse (Sw), glacierte rote Beete, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
+    "Category": "Gemüsebar",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Steckrüben-Kürbissoße mit Thymian (So), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2021-12-07T00:00:00Z",
     "Additives": {
@@ -25,7 +40,36 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Strozzapreti (Gl)",
+    "Name": "Steckrüben-Kürbissoße mit Thymian (So), Conchiglie (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Conchiglie (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Fish": true
+  },
+  {
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2021-12-07T00:00:00Z",
     "Additives": {
@@ -66,8 +110,8 @@
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
