@@ -16,22 +16,6 @@
     "Vegan": true
   },
   {
-    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Farfalle (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-12-08T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Pig": true
-  },
-  {
     "Name": "Rosenkohl (2,La), Schwarzwurzeln in Rahm (Gl,La), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2021-12-08T00:00:00Z",
@@ -48,17 +32,18 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tomatensuppe (La,Sl)",
+    "Name": "vegane Kartoffelsuppe (So,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-12-08T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
