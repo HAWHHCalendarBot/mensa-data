@@ -1,17 +1,5 @@
 [
   {
-    "Name": "Karotten- Pastinaken- Mix, Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln, Prinzessbohnen",
-    "Category": "Gemüsebar",
-    "Date": "2021-12-07T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
     "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La)",
     "Category": "Pastabar",
     "Date": "2021-12-07T00:00:00Z",
@@ -23,6 +11,35 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Pastinaken - Paprika Mix, gebratenem Wirsing (So), Grüne und gelbe Zucchini mit Cherrytomate (6), rote Beete Gnocchi (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
@@ -59,5 +76,20 @@
     "PriceGuest": 6.0,
     "PriceStudent": 3.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Hirschragout mit Birnen (Gl,La,Sw), Rosenkohl (La)",
+    "Category": "CampusSpezial",
+    "Date": "2021-12-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.05,
+    "PriceGuest": 7.15,
+    "PriceStudent": 4.8,
+    "Alcohol": true,
+    "Game": true
   }
 ]
