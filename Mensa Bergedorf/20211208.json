@@ -1,6 +1,32 @@
 [
   {
-    "Name": "Rosenkohl (2,La), spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,La,Nu,Sl), Kohlrabi in Rahm (Gl,La)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-08T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2021-12-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Orientalisches Kichererbsengemüse (2,5,Sw), Couscous mit Mandeln, Rosinen und Chili (Gl,La,Nu,Sl), rote Beete Gnocchi, gebratenem Wirsing (So), Karotten mit Estragon (La)",
     "Category": "Gemüsebar",
     "Date": "2021-12-08T00:00:00Z",
     "Additives": {
@@ -10,6 +36,7 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -18,11 +45,12 @@
     "Vegetarian": true
   },
   {
-    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La)",
+    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La), Spaghetti (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-08T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 4.0,
@@ -48,6 +76,19 @@
     "PriceStudent": 3.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "gebratene Maultaschen auf Spinat und Bärlauch Frischkäsecreme (Gl,La)",
+    "Category": "CampusSpezial",
+    "Date": "2021-12-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Vegetarian": true
   },
   {
     "Name": "Honey Garlic Chicken mit Sesam Brokkoli und gebackenen Ofenkartoffel (2,Gl,So,Se)",
