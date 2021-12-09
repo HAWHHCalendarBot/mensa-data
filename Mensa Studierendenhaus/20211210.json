@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-12-10T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
     "Category": "Gemüsebar",
     "Date": "2021-12-10T00:00:00Z",
@@ -45,17 +31,33 @@
     "Fish": true
   },
   {
-    "Name": "Tomatensuppe (La,Sl)",
+    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-10T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La)",
     "Category": "Pottkieker",
     "Date": "2021-12-10T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "Beef": true
   },
   {
     "Name": "Grießspeise (Gl,La), Kirschgrütze (1,La)",
@@ -72,17 +74,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kokosnuss-Kichererbsen Curry mit knusprigem Spitzkohl, Reis",
-    "Category": "CampusVital",
-    "Date": "2021-12-10T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 4.0,
-    "PriceGuest": 5.2,
-    "PriceStudent": 2.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Putengulasch (Gl,La,Sl), Penne (Gl)",
     "Category": "CampusVital",
     "Date": "2021-12-10T00:00:00Z",
@@ -95,6 +86,23 @@
     "PriceGuest": 6.0,
     "PriceStudent": 3.5,
     "Poultry": true
+  },
+  {
+    "Name": "vegetarische Currywurst (2,9,Ei,Sl,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-10T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegetarian": true
   },
   {
     "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (5,Gl,La,Sf,Sw), Bratkartoffeln",

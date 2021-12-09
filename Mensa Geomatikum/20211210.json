@@ -1,13 +1,34 @@
 [
   {
-    "Name": "Kokosnuss-Kichererbsen Curry mit knusprigem Spitzkohl, Reis",
-    "Category": "CampusVital",
+    "Name": "vegetarische Currywurst (2,9,Ei,Sl,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
     "Date": "2021-12-10T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 4.0,
-    "PriceGuest": 5.2,
-    "PriceStudent": 2.7,
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gänsekeule, Geflügelrahmsoße (La), Apfelrotkohl (3,5,Sw), Salzkartoffeln",
+    "Category": "Highlight",
+    "Date": "2021-12-10T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Poultry": true
   }
 ]
