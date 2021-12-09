@@ -29,11 +29,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hafermilchreis mit Beerenkompott (Gl)",
+    "Name": "Hafermilchreis mit Beerenkompott (Gl), Süßer Bulgur vegan mit roter Grütze (Gl,So,Sw)",
     "Category": "Pottkieker",
     "Date": "2021-12-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
@@ -42,10 +44,31 @@
     "Vegan": true
   },
   {
-    "Name": "Kokosnuss-Kichererbsen Curry mit knusprigem Spitzkohl, Reis",
+    "Name": "Hafermilchreis mit Beerenkompott (Gl), Süßer Bulgur vegan mit roter Grütze (Gl,So,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kokosnuss-Kichererbsen Curry mit knusprigem Spitzkohl (2,Gl,So,Sl,Se), Reis",
     "Category": "CampusVital",
     "Date": "2021-12-09T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 4.0,
     "PriceGuest": 5.2,
     "PriceStudent": 2.7,
