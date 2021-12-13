@@ -1,16 +1,70 @@
 [
   {
-    "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl)",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2021-12-13T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pad Thai Reisnudeln mit Gemüse (2,Gl,So)",
+    "Category": "Pastabar",
+    "Date": "2021-12-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Tomaten-Gnocchi mit Gemüsestreifen (Sl), Hüttenkäse Kräuter Dip (La)",
+    "Category": "CampusWorld",
+    "Date": "2021-12-13T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.7,
+    "PriceGuest": 4.9,
+    "PriceStudent": 2.4,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Putenschnitzel, Geflügelrahmsoße (La)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-13T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.45,
-    "PriceGuest": 5.55,
-    "PriceStudent": 3.2,
-    "LactoseFree": true,
+    "PriceAttendant": 4.0,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.8,
     "Poultry": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., gebackener Ziegenkäse (Gl,Ei,La), Zucchini-Tomaten Gemüse, Perlgraupenrisotto (Gl,La)",
+    "Category": "CampusSpezial",
+    "Date": "2021-12-13T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Vegetarian": true
   }
 ]
