@@ -1,15 +1,82 @@
 [
   {
-    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La)",
+    "Name": "Brechbohnen, Pastinaken in Rahm (Gl,La), Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La), Karotten (La), Perlgraupen (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2021-12-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Frutti di mare in Tomatensoße (Gl,Kr,Sl,Wt)",
+    "Category": "Pastabar",
+    "Date": "2021-12-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Kr": "Krebstiere und Krebstiererzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Reis",
     "Category": "CampusVital",
     "Date": "2021-12-14T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 3.95,
-    "PriceGuest": 5.05,
-    "PriceStudent": 2.7,
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
     "Vegetarian": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Geschnetzeltes \" Mexico\" mit Paprika und Mais (2,3,8,So,La,Sw), Pasta (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-14T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "Pig": true
+  },
+  {
+    "Name": "Leberkäs Burger mit Krautsalat, süßem Senf und Röstzwiebeln im Laugenbun (2,3,5,8,Gl,Ei,La,Sf,Se,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2021-12-14T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.05,
+    "PriceGuest": 7.15,
+    "PriceStudent": 4.8,
+    "Pig": true
   }
 ]
