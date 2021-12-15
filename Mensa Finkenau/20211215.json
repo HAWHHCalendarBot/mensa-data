@@ -1,9 +1,14 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Broccoli, gebratene Champignons, Blumenkohl Korma (2,Gl,So,Se), Sesam-Spinat (Gl,Se)",
     "Category": "Gemüsebar",
     "Date": "2021-12-15T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,7 +16,7 @@
     "Vegan": true
   },
   {
-    "Name": "Reisnudeln mit Gemüse (2,Gl,So,Sl,Se)",
+    "Name": "Reisnudeln mit Pak Choi,Champignons und Zuchini (2,Gl,So,Sl,Se)",
     "Category": "Pastabar",
     "Date": "2021-12-15T00:00:00Z",
     "Additives": {
@@ -42,12 +47,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (La)",
+    "Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (La,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.2,
     "PriceGuest": 5.4,
@@ -55,18 +61,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Entenkeule, Geflügelrahmsoße (La), Apfelrotkohl (3,5,Sw), Kartoffelklöße",
+    "Name": "Entenkeule, Geflügelrahmsoße (La), Apfelrotkohl (3,5,Gl,Sw), Kartoffelklöße",
     "Category": "CampusKlassiker",
     "Date": "2021-12-15T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.8,
     "PriceGuest": 7.0,
     "PriceStudent": 4.5,
+    "Alcohol": true,
     "Poultry": true
   }
 ]

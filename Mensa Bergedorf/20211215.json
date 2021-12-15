@@ -1,16 +1,5 @@
 [
   {
-    "Name": "rote Beete Gnocchi, Karotten Rustica",
-    "Category": "Gemüsebar",
-    "Date": "2021-12-15T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl)",
     "Category": "Pastabar",
     "Date": "2021-12-15T00:00:00Z",
@@ -24,6 +13,22 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Fish": true
+  },
+  {
+    "Name": "rote Beete Gnocchi, Karotten Rustica, Pasta Frutti di mare in Tomatensoße (Gl,Kr,Sl,Wt), gebratene Zucchini, Frische Pasta mit Basilikum - Pesto , Parmesansplitter und Basilikum (2,Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Kr": "Krebstiere und Krebstiererzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7
   },
   {
     "Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
