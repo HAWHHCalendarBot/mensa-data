@@ -31,6 +31,20 @@
     "PriceStudent": 0.7
   },
   {
+    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Kroketten (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "Pig": true
+  },
+  {
     "Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
     "Category": "CampusWorld",
     "Date": "2021-12-15T00:00:00Z",
@@ -47,5 +61,22 @@
     "PriceGuest": 5.8,
     "PriceStudent": 3.3,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gebackenes Seelachsfilet Broccolihaube (Gl,Ei,Fi,La,Nu,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2021-12-15T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.35,
+    "PriceGuest": 6.45,
+    "PriceStudent": 4.1,
+    "Fish": true
   }
 ]
