@@ -1,6 +1,19 @@
 [
   {
-    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
+    "Name": "Tomatensoße, Conchiglie (Gl)",
+    "Category": "Pastabar",
+    "Date": "2021-12-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Soja-Lauch-Soße (So,Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
@@ -15,30 +28,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Boscaiola mit Mischpilzen und Speck (2,3,8), Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2021-12-16T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "gebratene Champignons (La,Sw), Sommergemüse (La), Austernpilzragout (Gl,La), Mexikanisches Gemüse (Sl)",
+    "Name": "Sommergemüse (La), Austernpilzragout (Gl,La), Mexikanisches Gemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -61,43 +57,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blumenkohl-Broccoli Suppe (Gl,So,Sl)",
+    "Name": "Maronensuppe (3,La,Sl)",
     "Category": "Pottkieker",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "3": "Antioxidationsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Gl,Ei,La,Sf,Se,Sw)",
-    "Category": "CampusKlassiker",
-    "Date": "2021-12-16T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 3.85,
-    "PriceGuest": 4.95,
-    "PriceStudent": 2.6,
-    "Beef": true
-  },
-  {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Fusilli (Gl)",
     "Category": "CampusVital",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
@@ -110,5 +84,20 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Entenkeule, Geflügelrahmsoße (La), Apfelrotkohl (3,5,Sw), Kartoffelklöße",
+    "Category": "Highlight",
+    "Date": "2021-12-16T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.5,
+    "Poultry": true
   }
 ]
