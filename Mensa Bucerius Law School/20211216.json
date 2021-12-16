@@ -1,16 +1,17 @@
 [
   {
-    "Name": "Kürbisspalten gebacken, gebratene Champignons (La,Sw), Spitzkohl in Rahm (La), pikante Zucchiniwürfel",
+    "Name": "Kürbisspalten gebacken,,  vegane Champignons in Rahm, (So,Sw),  Spitzkohl nature,,  pikante Zucchiniwürfel",
     "Category": "Gemüsebar",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
@@ -26,6 +27,22 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Original Russische Soljanka mit Rauchfleisch (2,8,9,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2021-12-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
@@ -64,7 +81,7 @@
     "Beef": true
   },
   {
-    "Name": "All in one pot - Paellastyle mit Geflügel (2,Gl,So,Sl)",
+    "Name": "All in one pot - Paellastyle mit Geflügel oder vegan mit Kokos-Tomatenragout (2,Gl,So,Sl)",
     "Category": "CampusSpezial",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {

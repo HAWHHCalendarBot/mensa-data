@@ -1,12 +1,11 @@
 [
   {
-    "Name": "Kräuterkartoffeln, gerösteter Blumenkohl, gebratenes  Zucchini-Auberginengemüse",
+    "Name": "Kräuterkartoffeln, gerösteter Blumenkohl, gebratenes  Zucchini-Auberginengemüse, Apfelrotkohl (3,Gl)",
     "Category": "Gemüsebar",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -44,11 +43,12 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gemüsecurry (So,Sl), Pfannenbrot (Gl)",
+    "Name": "Gemüsecurry (So,Sl,Se), Pfannenbrot (Gl)",
     "Category": "CampusVital",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -59,17 +59,20 @@
     "Vegan": true
   },
   {
-    "Name": "Pulled Pork Sandwich (3,Gl,Sf), Krautsalat, Pommes Frites (Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Pulled Pork Burger (3,Gl,Sf), Krautsalat, Wasabi Majonnaise (1,5,Sf,Sw), Pommes Frites (Sf)",
+    "Category": "CampusWorld",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
       "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.8,
-    "PriceStudent": 3.3,
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
     "LactoseFree": true,
     "Pig": true
   }
