@@ -1,9 +1,13 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, gerösteter Blumenkohl, gebratenes  Zucchini-Auberginengemüse",
     "Category": "Gemüsebar",
     "Date": "2021-12-16T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -40,10 +44,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Chili sin carne (So,Sl), Reis",
+    "Name": "Gemüsecurry (So,Sl), Pfannenbrot (Gl)",
     "Category": "CampusVital",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -54,20 +59,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pulled Pork Burger (3,Gl,Ei,La,Sf,Lu), Krautsalat, Pommes Frites (Sf)",
+    "Name": "Pulled Pork Sandwich (3,Gl,Sf), Krautsalat, Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2021-12-16T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Lu": "Lupine und - erzeugnisse",
       "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 4.6,
     "PriceGuest": 5.8,
     "PriceStudent": 3.3,
+    "LactoseFree": true,
     "Pig": true
   }
 ]
