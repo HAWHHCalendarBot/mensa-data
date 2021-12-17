@@ -27,5 +27,51 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Chili sin carne (So,Sl), Reis",
+    "Category": "CampusVital",
+    "Date": "2021-12-17T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.6,
+    "PriceStudent": 2.1,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kohlroulade (Ei,La,Sf), Bratensoße (Sl), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2021-12-17T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Pig": true
+  },
+  {
+    "Name": "Entenkeule, Geflügelrahmsoße (La), Apfelrotkohl (3,5,Sw), Semmelklöße (Gl,Ei)",
+    "Category": "Highlight",
+    "Date": "2021-12-17T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Poultry": true
   }
 ]
