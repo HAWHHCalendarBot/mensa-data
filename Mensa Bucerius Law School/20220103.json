@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Gemüsecouscous (Gl,Sl), Chili-Kartoffeln aus dem Ofen",
     "Category": "Gemüsebar",
     "Date": "2022-01-03T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
@@ -27,6 +28,20 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "vegane Erbsencremesuppe (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-01-03T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Fladenbrot (Gl,Ei,So,Se)",
