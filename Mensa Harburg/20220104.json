@@ -13,11 +13,25 @@
     "Poultry": true
   },
   {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Pasta",
+    "Category": "Pastabar",
+    "Date": "2022-01-04T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Vegane Linsenbolognese mit bunten Gemüsen (Gl,Sl,Sw), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-01-04T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -27,12 +41,11 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei)",
+    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi in Soja-Currycreme (2,Gl,So,Sl), Gartengemüse, Ofenkartoffeln mit Chilli",
     "Category": "Gemüsebar",
     "Date": "2022-01-04T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
@@ -41,7 +54,7 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
     "Name": "Milchreis (La), Kirschgrütze (1,La)",
@@ -89,7 +102,7 @@
     "Poultry": true
   },
   {
-    "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), BBQ-Bohnen-Pfanne, Kräuterquark (La), Drillinge",
+    "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), BBQ-Bohnen-Pfanne, Kräuterquark (La), Ofenkartoffeln",
     "Category": "CampusVital",
     "Date": "2022-01-04T00:00:00Z",
     "Additives": {
