@@ -1,15 +1,86 @@
 [
   {
-    "Name": "Süßkartoffel Gnocchi mit Austernpilzen, Erbsen und Paprika (Gl)",
-    "Category": "CampusVital",
+    "Name": "Basilikumsoße (Gl,La), Strozzapreti (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-01-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.8,
-    "PriceGuest": 6.0,
-    "PriceStudent": 3.5,
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Rosenkohl (2,La), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Gemüsemix Eskorial",
+    "Category": "Gemüsebar",
+    "Date": "2022-01-12T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Strozzapreti (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-01-12T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Erbsencremesuppe (La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-01-12T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Linsenlasagne (Gl,So,La,Sl), Tomatensoße Napoli",
+    "Category": "CampusSpezial",
+    "Date": "2022-01-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika (La), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-01-12T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.7,
+    "Beef": true
   }
 ]
