@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Kürbis-Tomatengemüse (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-01-04T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +14,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Broccoli (La), Süßkartoffelcurry mit Spinat (So,Sf,Se), Karotten, gebratene Zucchini",
+    "Category": "Gemüsebar",
     "Date": "2022-01-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -51,7 +56,7 @@
     "Poultry": true
   },
   {
-    "Name": "Rote Beete Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,La,Sw)",
+    "Name": "Rote Beete Gnocchi mit Grillgemüse und Limonendip (1,3,5,La,Sl,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-01-04T00:00:00Z",
     "Additives": {
@@ -59,6 +64,7 @@
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.6,
@@ -68,7 +74,7 @@
   },
   {
     "Name": "Fit ins neue Jahr:, Farmers Bowl mit Schweineschulter, Senf-Wurzelgemüse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,Sl,Sf,Sw), Basmatireis",
-    "Category": "Fit ins neue Jahr:, Farmers Bowl mit Schweineschulter, Senf-Wurzelgemüse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,Sl,Sf,Sw), Basmatireis",
+    "Category": "Fit ins neue Jahr:, Farmers Bowl mit Senf-Wurzelgemüse, Ziegenkäse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,La,Sl,Sf,Sw), Basmatireis",
     "Date": "2022-01-04T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
@@ -85,7 +91,7 @@
   },
   {
     "Name": "Fit ins neue Jahr:, Farmers Bowl mit Senf-Wurzelgemüse, Ziegenkäse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,La,Sl,Sf,Sw), Basmatireis",
-    "Category": "Fit ins neue Jahr:, Farmers Bowl mit Schweineschulter, Senf-Wurzelgemüse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,Sl,Sf,Sw), Basmatireis",
+    "Category": "Fit ins neue Jahr:, Farmers Bowl mit Senf-Wurzelgemüse, Ziegenkäse, Madras-Kürbis, Rote Beete, Honig-Senf-Creme (5,Ei,La,Sl,Sf,Sw), Basmatireis",
     "Date": "2022-01-04T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
