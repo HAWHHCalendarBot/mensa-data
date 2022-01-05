@@ -1,14 +1,12 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis, Bunter Rübenmix (Sl), Buttererbsen (La)",
-    "Category": "Gemüsebar",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
+    "Category": "Pastabar",
     "Date": "2022-01-05T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -16,17 +14,34 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchen Tika Masala (La,Sf)",
-    "Category": "CampusWorld",
+    "Name": "Pasta Hühnchen in Kokos Soße (Gl,So,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-01-05T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.65,
-    "PriceGuest": 4.75,
-    "PriceStudent": 2.4,
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, Buttererbsen (La), Kartoffel Gemüsecurry (2,Sl,Sf)",
+    "Category": "Gemüsebar",
+    "Date": "2022-01-05T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Bratkartoffeln, Kräuterrührei (Ei,La)",
@@ -55,5 +70,31 @@
     "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-01-05T00:00:00Z",
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.85,
+    "PriceGuest": 5.05,
+    "PriceStudent": 2.55,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Hähnchen Tika Masala (La,Sf), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2022-01-05T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "Poultry": true
   }
 ]

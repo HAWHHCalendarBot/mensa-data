@@ -81,14 +81,17 @@
     "Vegetarian": true
   },
   {
-    "Name": "Spicy - honey - Chickenwings auf gebackenem Zitronensalz - Blumenkohl und Limetten Minz dip",
+    "Name": "Spicy - honey - Chickenwings auf gebackenem Zitronensalz - Blumenkohl und Limetten Minz dip (La,Sl,Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-01-05T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 6.1,
     "PriceGuest": 7.3,
     "PriceStudent": 4.8,
-    "LactoseFree": true,
     "Poultry": true
   }
 ]
