@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Tomaten und Gemüse (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-01-06T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +14,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Kräuterkartoffeln, Grünkohl-Kartoffelgemüse (Sl,Sf), gebratene Champignons, Couscous (Gl,Sl,Sf)",
+    "Category": "Gemüsebar",
     "Date": "2022-01-06T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
