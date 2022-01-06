@@ -14,20 +14,19 @@
     "Poultry": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur (Gl,Sl), buntem Gemüse",
+    "Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf), gebackene Süßkartoffel, Kräuterrührei (Ei,La)",
     "Category": "Gemüsebar",
     "Date": "2022-01-06T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblätter (2,Gl,Ei,So)",
@@ -46,23 +45,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tofu Teriyaki mit Pak Choi (2,Gl,So,Se)",
-    "Category": "CampusWorld",
-    "Date": "2022-01-06T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.35,
-    "PriceGuest": 5.45,
-    "PriceStudent": 3.1,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-01-06T00:00:00Z",
     "Additives": {
@@ -80,6 +63,22 @@
     "Pig": true
   },
   {
+    "Name": "Tofu Teriyaki mit Pak Choi (2,Gl,So,Se), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-01-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Seelachsfilet in Senfsoße mit Kartoffel Mangoldstampf (5,Gl,Fi,La,Sl,Sf,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2022-01-06T00:00:00Z",
@@ -92,9 +91,9 @@
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.9,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.6,
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
     "Alcohol": true,
     "Fish": true
   }
