@@ -1,11 +1,26 @@
 [
   {
-    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Rübstiel mit Zwiebeln und Knoblauch, Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi (Gl)",
-    "Category": "Gemüsebar",
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La)",
+    "Category": "Pastabar",
     "Date": "2022-01-10T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Mangold Gemüse (2,Gl,So), Kohlrabi in Rahm (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-01-10T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -14,21 +29,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-01-10T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true
-  },
-  {
-    "Name": "Feldsalat mit Süßkartoffel- Linsenpürree, geröstetem Blumenkohl, Mandeln und Limetten-Senf-Dressing (3,Nu,Sf)",
+    "Name": "Feldsalat mit Süßkartoffel- Linsenbratling,geröstetem Blumenkohl,Mandeln und Limetten-Senf-Dressing (3,Nu,Sf)",
     "Category": "CampusVital",
     "Date": "2022-01-10T00:00:00Z",
     "Additives": {
