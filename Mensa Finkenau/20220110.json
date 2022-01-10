@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Vollkorn-Penne mir Ruccolapesto und Kirschtomaten (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-01-10T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +14,36 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Süßkartoffeln, Orientalisches Kichererbsengemüse (2,5,Sw), Ägyptische Falafel (Gl,Sl), gebratenes Grünkohl-Kartoffelgemüse (Sl,Sf)",
+    "Category": "Gemüsebar",
     "Date": "2022-01-10T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La), kalte Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-01-10T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La)",
@@ -37,7 +59,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Fit ins neue Jahr:, Sous vide gegarte Honig Ingwer-Hähnchenbrust mit Orangen-Karottenstampf und Kräutersalat (3,La)",
+    "Name": "Fit ins neue Jahr:, Sous vide gegarte Honig-Ingwer-Hähnchenbrust mit Orangen-Karottenstampf und Kräutersalat (3,La)",
     "Category": "CampusSpezial",
     "Date": "2022-01-10T00:00:00Z",
     "Additives": {
