@@ -1,5 +1,18 @@
 [
   {
+    "Name": "Bolognese, Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-01-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
     "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
     "Category": "Pastabar",
     "Date": "2022-01-12T00:00:00Z",
@@ -16,24 +29,22 @@
     "Vegan": true
   },
   {
-    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
+    "Name": "Wirsingkohl in Sojacremesoße (Gl,So,La), Schupfnudeln (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2022-01-12T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Pig": true
+    "Vegetarian": true
   },
   {
-    "Name": "Rosenkohl (2,La), spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,La,Nu,Sl)",
+    "Name": "Rosenkohl (2,La), spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Chili (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-01-12T00:00:00Z",
     "Additives": {
@@ -41,7 +52,6 @@
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
