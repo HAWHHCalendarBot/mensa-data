@@ -13,27 +13,32 @@
     "Vegetarian": true
   },
   {
-    "Name": "Vegetarisch gefüllte Kohlroulade (Gl,Ei,So), Senfsoße (Sf), Kartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-01-13T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.3,
-    "PriceGuest": 5.5,
-    "PriceStudent": 3.0,
-    "LactoseFree": true,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Süßkartoffel-Rucola-Schnitte (Gl), Gemüsepfanne mit grünem Spargel, Rosmarinkartoffeln",
+    "Name": "Süßkartoffel-Rucola-Schnitte (Gl), pikanter Dip (1,2,3,Sf), Gemüsepfanne mit grünem Spargel, Rosmarinkartoffeln",
     "Category": "CampusVital",
     "Date": "2022-01-13T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.05,
+    "PriceGuest": 6.25,
+    "PriceStudent": 3.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Süßkartoffel-Rucola-Schnitte (Gl), pikanter Dip (1,2,3,Sf), Gemüsepfanne mit grünem Spargel, Rosmarinkartoffeln",
+    "Category": "CampusVital",
+    "Date": "2022-01-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 5.05,
     "PriceGuest": 6.25,
@@ -51,9 +56,9 @@
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
     "LactoseFree": true,
     "Poultry": true
   }
