@@ -1,15 +1,40 @@
 [
   {
-    "Name": "Köfte (Gl), Joghurt-Zitronen-Dip (La), gerösteter Blumenkohl, gebratene Kartoffeln mit Minze",
-    "Category": "CampusWorld",
+    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
+    "Category": "Pastabar",
     "Date": "2022-01-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 6.6,
-    "PriceGuest": 10.6,
-    "PriceStudent": 5.3,
-    "Beef": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw,Lu), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-01-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 7.6,
+    "PriceStudent": 3.8,
+    "Alcohol": true,
+    "Beef": true,
+    "Pig": true
   }
 ]

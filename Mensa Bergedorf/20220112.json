@@ -61,7 +61,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Linsenlasagne (Gl,So,La,Sl), Tomatensoße Napoli",
+    "Name": "Linsenlasagne (Gl,So,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2022-01-12T00:00:00Z",
     "Additives": {
@@ -74,18 +74,6 @@
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Rindergulasch mit Paprika (La)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-01-12T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 4.25,
-    "PriceGuest": 5.35,
-    "PriceStudent": 3.0,
-    "Beef": true
   },
   {
     "Name": "Tortellini Pfanne mit weißer Bohnencreme (2,5,Gl,La,Sw)",
@@ -102,5 +90,18 @@
     "PriceGuest": 5.6,
     "PriceStudent": 3.1,
     "Vegetarian": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika (La), Nudeln (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-01-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Beef": true
   }
 ]
