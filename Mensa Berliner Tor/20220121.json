@@ -1,20 +1,5 @@
 [
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Naanbrot (2,Gl,La)",
-    "Category": "CampusVital",
-    "Date": "2022-01-21T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
-    "Vegetarian": true
-  },
-  {
     "Name": "Texashacksteak (Gl,Ei), BBQ Mexican Soße (2,9,Sl,Sf), Kartoffelspalten Spicy (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2022-01-21T00:00:00Z",
@@ -31,5 +16,41 @@
     "PriceStudent": 3.3,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "#bockaufWOK..., Gebackene Broccoli Nuggets mit WOK Gemüse in Gelbe Thai Curry Soße (2,Gl,Ei,So,La,Sl,Sw), Duftreis",
+    "Category": "CampusSpezial",
+    "Date": "2022-01-21T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "Vegetarian": true
+  },
+  {
+    "Name": "#bockaufWOK..., Gebackene Seelachsfiletmedaillons mit WOK Gemüse in Gelbe Thai Curry Soße (2,Gl,Fi,So,La,Sl,Sw), Duftreis",
+    "Category": "CampusSpezial",
+    "Date": "2022-01-21T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Fish": true
   }
 ]
