@@ -1,16 +1,32 @@
 [
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi)",
-    "Category": "CampusVital",
+    "Name": "4 Röstiecken, Kräuterquark (La)",
+    "Category": "CampusKlassiker",
     "Date": "2022-01-18T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.15,
+    "PriceGuest": 4.25,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-01-18T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 4.7,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.5,
-    "Fish": true,
-    "LactoseFree": true
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
