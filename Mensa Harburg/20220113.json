@@ -1,36 +1,41 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), Eliche (Gl)",
+    "Name": "Soja Bolognese (So,Sl), Nudeln (Gl)",
     "Category": "Pastabar",
     "Date": "2022-01-13T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Poultry": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "Cremige Soße von weißen Bohnen (So,Sl), Schupfnudeln (Gl,Ei), Röstkartoffeln",
     "Category": "Pastabar",
     "Date": "2022-01-13T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La), gebratene Paprika (5,Sw)",
+    "Name": "frischer Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl gebraten, vegane Belugalinsen-Soße (Sl), frische Spätzle mit Ei (Gl,Ei,La), gebratene Paprika (5,Sw), Kichererbsengemüse (2,5,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-01-13T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "5": "Geschwefelt",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
