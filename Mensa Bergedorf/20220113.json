@@ -1,11 +1,38 @@
 [
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La), gebratene Paprika (5,Sw)",
+    "Name": "Steckrüben-Kartoffel Gemüse (La), Spitzkohl, gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2022-01-13T00:00:00Z",
     "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tortellini Pfanne (2,5,Gl,La,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-01-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
       "5": "Geschwefelt",
-      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vollkornnudeln Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-01-13T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
@@ -15,20 +42,6 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
-  },
-  {
-    "Name": "veganes Rosenkohl-Edamame-Curry mit Reisnudeln (So,Sl)",
-    "Category": "CampusVital",
-    "Date": "2022-01-13T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La)",
@@ -42,6 +55,21 @@
     "PriceGuest": 5.15,
     "PriceStudent": 2.8,
     "Poultry": true
+  },
+  {
+    "Name": "Linsenlasagne (Gl,So,La,Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-01-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "Vegetarian": true
   },
   {
     "Name": "Green Bowl mit frischen Prinzeßbohnen, rote Beete, Avocado, frischem Blattspinat und Erdnussdressing (2,3,Gl,En,So), Kimchi Gurke (2,Gl,So)",
