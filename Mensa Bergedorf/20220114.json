@@ -1,19 +1,50 @@
 [
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
+    "Name": "gebratene Paprika (5,Sw), Spitzkohl, Steckrüben-Kartoffel Gemüse (La)",
     "Category": "Gemüsebar",
     "Date": "2022-01-14T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
-      "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vollkornnudeln Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-01-14T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tortellini Auflauf (2,5,Gl,Ei,La,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-01-14T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Grünkern-Bolognese (Gl,Sl), Spaghetti (Gl)",
@@ -44,7 +75,7 @@
     "Pig": true
   },
   {
-    "Name": "Gedünsteter Seelachs auf Gemüsebett (2,Gl,Fi,So,Se), Meerettich Dip (3,5,La,Sw), Basmatireis",
+    "Name": "Gebratener Seelachs auf Gemüsebett (2,Gl,Fi,So,Se), Meerettich Dip (3,5,La,Sw), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-01-14T00:00:00Z",
     "Additives": {
