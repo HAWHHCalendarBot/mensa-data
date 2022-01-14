@@ -14,22 +14,6 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Romanesco, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
-    "Date": "2022-01-14T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
     "Category": "Pastabar",
     "Date": "2022-01-14T00:00:00Z",
@@ -43,6 +27,26 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Fish": true
+  },
+  {
+    "Name": "Brechbohne,,   Blattspinat in Rahm, (Gl,So),  Kichererbsengemüse, (2,5,Sw),  Gemüsepfanne,,  Gemüse Bulgur, (Gl,Sl),  Champignon-Paprika-Zwiebel-Pfanne, (La,Nu,Sw), Spätzle mit Ei (Gl,Ei,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-01-14T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Tomaten Kokos Suppe mit Huhn (Sl)",
@@ -73,7 +77,20 @@
     "Pig": true
   },
   {
-    "Name": "Gedünsteter Seelachs auf Gemüsebett (2,Gl,Fi,So,Se), Meerettich Dip (3,5,La,Sw), Basmatireis",
+    "Name": "Rindergulasch mit Paprika (La), Fusilli (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-01-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Beef": true
+  },
+  {
+    "Name": "Gedünsteter Seelachs auf Gemüsebett (2,Gl,Fi,So,Se), Meerettichsauce (3,5,La,Sw), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-01-14T00:00:00Z",
     "Additives": {
