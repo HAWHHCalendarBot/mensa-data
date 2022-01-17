@@ -1,17 +1,17 @@
 [
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Spinatsahnesoße (Gl,La,Sl), Vollkorn Fussili (Gl)",
     "Category": "Pastabar",
     "Date": "2022-01-18T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
+    "Vegetarian": true
   },
   {
     "Name": "Currycremesuppe (vegan) (Gl)",
@@ -27,20 +27,19 @@
     "Vegan": true
   },
   {
-    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße Napoli, Karotten Sellerie Salat (Sl,Sw)",
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La), Tomatensoße Napoli, Karotten Sellerie Salat (Sl,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-01-18T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.25,
     "PriceGuest": 6.45,
     "PriceStudent": 3.95,
-    "Vegetarian": true
+    "Beef": true
   },
   {
     "Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La), Basmatireis",
