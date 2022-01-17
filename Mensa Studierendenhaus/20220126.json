@@ -51,21 +51,32 @@
     "Vegetarian": true
   },
   {
-    "Name": "Schnittbohneneintopf (2,3,8,Sl)",
+    "Name": "Tomatensuppe (La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-01-26T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Beef": true,
-    "LactoseFree": true,
-    "Pig": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Mohn Schupfnudeln (Gl,Ei,La), Pflaumenkompott (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-01-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La)",
@@ -81,18 +92,20 @@
     "Beef": true
   },
   {
-    "Name": "Vegetarisches Schnitzel in Knusperpanade (Gl,Ei,La), Kräutersoße mit Tomatenwürfel (Gl,La), bunte Fusilli (Gl)",
-    "Category": "CampusKlassiker",
+    "Name": "Honey Garlic Chicken mit Sesam Brokkoli und gebackenen Ofenkartoffel (2,Gl,So,Se)",
+    "Category": "CampusVital",
     "Date": "2022-01-26T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.3,
-    "PriceGuest": 5.5,
-    "PriceStudent": 3.0,
-    "Vegetarian": true
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisnudeln (2,Gl,So,Sl)",
