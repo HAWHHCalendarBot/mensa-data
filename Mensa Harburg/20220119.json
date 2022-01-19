@@ -13,7 +13,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Ragout Texas mit Rinderhackfleisch und Mais (La,Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-01-19T00:00:00Z",
     "Additives": {
@@ -27,21 +27,24 @@
     "Beef": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "Ratatouille (6,Sl), Karotten, Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Blattspinat in Sojarahm (Gl,So), Gnocchi",
     "Category": "Gemüsebar",
     "Date": "2022-01-19T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Milchreis (La), Rhabarberkompott (1,La)",
+    "Name": "Milchreis (La), Fruchtige Rhabarbersoße (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-01-19T00:00:00Z",
     "Additives": {
@@ -105,5 +108,20 @@
     "PriceStudent": 3.4,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Hähnchenbrust in Tahini-Marinade (Se), Pikante Schmand-Joghurt-Soße mit Bärlauch (La), 3 Stück Röstiecken, Rohkostsalat (Sl,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2022-01-19T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "Poultry": true
   }
 ]
