@@ -1,14 +1,30 @@
 [
   {
-    "Name": "Indisches Buttercurry mit Gemüse (La), Basmatireis",
+    "Name": "Vegane Soja-Bolognese mit Gemüse und Nudeln (Gl,So)",
     "Category": "Pastabar",
     "Date": "2022-01-20T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Pflaumenkompott",
+    "Category": "Pottkieker",
+    "Date": "2022-01-20T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "Vegetarian": true
   },
   {
