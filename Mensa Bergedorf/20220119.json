@@ -1,5 +1,47 @@
 [
   {
+    "Name": "Champignon Risotto (La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-01-19T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Alcohol": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Spinat- Sahnesoße mit Hirtenkäse (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-01-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spaghetti (Gl), Bolognese, Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-01-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Beef": true
+  },
+  {
     "Name": "Glasnudelsalat mit Rindfleischstreifen und Teriyakisoße (2,3,Gl,En,So,Se)",
     "Category": "CampusWorld",
     "Date": "2022-01-19T00:00:00Z",
@@ -16,5 +58,21 @@
     "PriceStudent": 3.4,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Mascarpone-Polenta mit glasiertem Rote-Bete-Ragout und Ziegenkäse (2,La,Sl,Sw), Blattsalat mit Joghurtdressing (La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-01-19T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Alcohol": true,
+    "Vegetarian": true
   }
 ]

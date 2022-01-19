@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-01-20T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +13,15 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Indischer Dal mit roten Linsen, Kartoffeln und Spinat (So,Sf), Orientalisches Kichererbsengemüse (2,5,Sw)",
+    "Category": "Gemüsebar",
     "Date": "2022-01-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
