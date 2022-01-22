@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2022-02-04T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Quesadilla con carne, Schafkäse, Käse, Zwiebeln, Koriander (1,La), Pico de Gallo, Bananenchips",
+    "Category": "CampusWorld",
+    "Date": "2022-02-04T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Quesadilla con carne, geschmorte Schweineschulter, Käse, Zwiebeln (1,La), Pico de Gallo, Bananenchips",
+    "Category": "CampusWorld",
+    "Date": "2022-02-04T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
+    "Pig": true
+  }
+]
