@@ -1,21 +1,10 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kohlrabigemüse, Süßkartoffeln, gerösteter Blumenkohl, orientalisch gewürzter Wirsing mit Kartoffeln (Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-01-26T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-01-26T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,10 +13,40 @@
     "Vegan": true
   },
   {
-    "Name": "Wir kochen was Sie lieben..., Gnocchi mit Salbeibutter und Gemüse (La)",
+    "Name": "Pasta mit Rahmchampignons (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-01-26T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Stück Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La), kalte Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-01-26T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Gnocchi mit Salbeibutter und Gemüse (1,Gl,La)",
     "Category": "CampusWorld",
     "Date": "2022-01-26T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 4.3,
