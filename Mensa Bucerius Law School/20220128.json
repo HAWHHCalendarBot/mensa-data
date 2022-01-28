@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
+    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-01-28T00:00:00Z",
     "Additives": {
@@ -14,13 +14,16 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
+    "Name": "Brechbohne, Cajun Gemüse (Sl), gebratener Pak Choi (2,Gl,So,Nu), gebratene Paprika (5,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-01-28T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "5": "Geschwefelt",
-      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -30,7 +33,22 @@
     "Vegan": true
   },
   {
-    "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
+    "Name": "Russische Kartoffelsuppe mit Speck und Wurst (5,La,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-01-28T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Pig": true
+  },
+  {
+    "Name": "gebratene Mi-Nudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
     "Category": "CampusVital",
     "Date": "2022-01-28T00:00:00Z",
     "Additives": {
@@ -65,7 +83,7 @@
     "Vegan": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (5,Gl,La,Sf,Sw), Bratkartoffeln",
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (5,Gl,La,Sf,Sw), Spitzkohl in Rahm (La), Bratkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-01-28T00:00:00Z",
     "Additives": {
