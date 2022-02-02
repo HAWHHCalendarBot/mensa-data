@@ -1,5 +1,16 @@
 [
   {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2022-02-08T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2022-02-08T00:00:00Z",
@@ -11,6 +22,19 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Milchreis (La), Kirschgrütze (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-02-08T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
@@ -29,12 +53,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "gebackene Hähnchenbrust auf pikanten Spinat - Mienudeln (2,Gl,Ei,So)",
+    "Name": "gebackene Hähnchenbrust auf pikanten Spinat - Mienudeln mit Erdnüssen (2,Gl,Ei,En,So)",
     "Category": "CampusWorld",
     "Date": "2022-02-08T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "So": "Soja und Sojaerzeugnisse"
     },
