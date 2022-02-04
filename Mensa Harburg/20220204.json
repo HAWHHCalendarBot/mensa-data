@@ -1,25 +1,11 @@
 [
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Pasta (Gl)",
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-02-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "glasierte rote Beete, Zuckerschoten, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So), Gemüse Sesamreis (Se)",
-    "Category": "Gemüsebar",
-    "Date": "2022-02-04T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -29,19 +15,38 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
+    "Name": "Cous cous-Gemüse in Tomatensoße (Sl), Süßkartoffelpfanne mit Tofu und Kürbis (Gl,So), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So), Omelettesteifen (Ei,La)",
+    "Category": "Gemüsebar",
     "Date": "2022-02-04T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Schweinfleischstreifen in süß saurer Soße (Sl,Sf), Mi-Nudel mit Gemüsestreifen (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-02-04T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
     "Pig": true
   },
   {
