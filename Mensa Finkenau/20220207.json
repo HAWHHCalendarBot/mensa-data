@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Karotten, gerösteter Blumenkohl, Süßkartoffeln, gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2022-02-07T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Spinat-Gorgonzolsauce (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-02-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "2 Quarkkeulchen (Gl,Ei,La), Kompott (9)",
@@ -39,23 +40,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Fladenbrot (Gl,Ei,So,Se)",
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Gebäck (Gl)",
     "Category": "CampusVital",
     "Date": "2022-02-07T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
     "Name": "Hähnchen Crossies (Gl), Kräuterdip (La), Djuvecreis",

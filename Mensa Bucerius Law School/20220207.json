@@ -1,54 +1,65 @@
 [
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+    "Name": "Bunter Gemüsemix mit gelben Karotten,,  Erbsen,,  Orientalisches Linsengemüse, (Sl),  Chili-Kartoffeln aus dem Ofen",
     "Category": "Gemüsebar",
     "Date": "2022-02-07T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Veloute mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi",
+    "Name": "vegane Veloute mit getrockneten Tomaten und Basilikum (2,5,So,Sw), Gnocchi",
     "Category": "Pastabar",
     "Date": "2022-02-07T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Fladenbrot (Gl,Ei,So,Se)",
+    "Name": "veganer Mexikanischer Bohneneintopf (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-02-07T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Ciabatta (Gl)",
     "Category": "CampusVital",
     "Date": "2022-02-07T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
-    "Name": "Hühnchen in Kokos Soße (So,Sl), Zuckerschoten, Basmatireis",
+    "Name": "Hühnchen in Kokos Soße, (So,Sl),  Zuckerschoten,,  Basmatireis",
     "Category": "CampusWorld",
     "Date": "2022-02-07T00:00:00Z",
     "Additives": {
