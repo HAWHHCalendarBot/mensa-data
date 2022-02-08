@@ -71,18 +71,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gnocchi mit Fenchel, Artischocken und Ricotta (La)",
-    "Category": "CampusWorld",
-    "Date": "2022-02-17T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 3.9,
-    "PriceGuest": 5.1,
-    "PriceStudent": 2.6,
-    "Vegetarian": true
-  },
-  {
     "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-02-17T00:00:00Z",
@@ -99,6 +87,21 @@
     "Beef": true,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Spaghetti (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-02-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw,Lu), Pommes Frites (Sf)",
