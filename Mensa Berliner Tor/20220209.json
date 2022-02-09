@@ -1,5 +1,57 @@
 [
   {
+    "Name": "Gröstl mit Putenschnitzel (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "hausgemachtes Rucola Pesto (La)",
+    "Category": "Pastabar",
+    "Date": "2022-02-09T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Broccoli natur, vegan, Buttererbsen (La), Asiagemüse (So), Zuckerschoten (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-02-09T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-02-09T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-02-09T00:00:00Z",
@@ -16,12 +68,11 @@
     "Pig": true
   },
   {
-    "Name": "#OneYumYumPot..., Tofu / Chinanudeln / Gemüse / Kokosmilch / Aromaten (2,Gl,Ei,So,Sl,Sw)",
+    "Name": "#OneYumYumPot..Vegan.., Tofu / Reisnudeln / Gemüse / Kokosmilch / Aromaten (2,Gl,So,Sl,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-02-09T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
@@ -30,16 +81,15 @@
     "PriceAttendant": 4.4,
     "PriceGuest": 5.6,
     "PriceStudent": 3.1,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "#OneYumYumPot..., Hähnchen / Chinanudeln / Gemüse / Kokosmilch / Aromaten (2,Gl,Ei,So,Sl,Sw)",
+    "Name": "#OneYumYumPot..., Hähnchen / Reisnudeln / Gemüse / Kokosmilch / Aromaten (2,Gl,So,Sl,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-02-09T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
