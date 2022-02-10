@@ -1,9 +1,13 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander und Limettenblättern (2,Gl,So), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-02-10T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +15,66 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander und Limettenblättern (2,Gl,So), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-02-10T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Zucchini in Sojacreamsoße mit Basilikum (So,Sl), Schwarzwurzeln und Fingermöhren, gerösteter Blumenkohl mit Süßkartoffeln, Tomaten- Spinatgemüse, Süßkartoffel Gnocchi (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-02-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Sahne-Käsesoße mit Hähnchenstreifen, Paprika und Champignion (1,Gl,So,La,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-10T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
+  },
+  {
+    "Name": "Sahne-Käsesoße mit Hähnchenstreifen, Paprika und Champignion (1,Gl,So,La,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-10T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
   },
   {
     "Name": "Kartoffel-Gemüse-Gulasch mit Taco Chips (2,Gl,So,Sl)",
