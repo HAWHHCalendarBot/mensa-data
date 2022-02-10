@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kürbisgemüse, Süßkartoffeln, gebratene Champignons (Sw), Gartengemüse",
     "Category": "Gemüsebar",
     "Date": "2022-02-10T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +13,21 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Eiernudeln mit Chinakohl und Sprossen (2,Gl,Ei,So,Se)",
     "Category": "Pastabar",
     "Date": "2022-02-10T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -38,18 +44,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kartoffel-Gemüse-Gulasch mit Taco Chips (2,Gl,So,Sl)",
-    "Category": "CampusVital",
+    "Name": "asiatische Soja - Bolognese mit Basmatireis (2,Gl,So,Sl,Se)",
+    "Category": "CampusWorld",
     "Date": "2022-02-10T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.9,
-    "PriceGuest": 5.1,
-    "PriceStudent": 2.6,
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
     "LactoseFree": true,
     "Vegan": true
   },
