@@ -54,11 +54,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gemüse Pilzeintopf (3,Gl,La,Sl,Sw)",
+    "Name": "Kokos Milchreis Vegan (3,So), Kirschgrütze (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-02-11T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
       "3": "Antioxidationsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pilzeintopf mit Gemüse und Speck (2,3,8,Gl,La,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-02-11T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
@@ -67,7 +84,7 @@
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "Pig": true
   },
   {
     "Name": "Sojagulasch mit Paprika und Champignons (So,Sl,Sw), Penne (Gl)",
@@ -101,6 +118,24 @@
     "PriceStudent": 3.3,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Currybratwurst (2,3,8), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-02-11T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Gebackene Seelachsfiletwürfel (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Salzkartoffeln",

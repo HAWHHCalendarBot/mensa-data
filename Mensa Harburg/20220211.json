@@ -1,9 +1,30 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Pasta Amatriciana mit Speck (2,3,8,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-11T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Sommergemüse natur,   Gemüsecouscous (Gl,Sl),   Kartoffel-Gemüse-Gulasch (2,Gl,So,Sl),   Reis",
     "Category": "Gemüsebar",
     "Date": "2022-02-11T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +32,23 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Griechische Gemüsepfanne (6,Gl,La,Sw), Asiatische Gemüsepfanne in Sojasoße mit Curry (2,Gl,Ei,So,La,Sl,Sw), Soja Bolognese mit Gemüse (So,Sl), Nudeln (Gl)",
     "Category": "Pastabar",
     "Date": "2022-02-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "6": "Geschwärzt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
     "Name": "rote-Linsen-Medaillons (Gl,Sl), grüne Bohnen mit Knoblauch und Ingwer, Minz-Joghurt-Soße (La), Fladenbrot (Gl,Ei,So,Se)",
@@ -73,25 +100,27 @@
     "Vegan": true
   },
   {
-    "Name": "Hot Dog Tex Mex Kojote (2,3,8,Gl,Sf)",
+    "Name": "Hot Dog Tex Mex Kojote (2,3,8,Gl,Sf), Wedges (4,Gl,Ei,La,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-02-11T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
       "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 5.5,
     "PriceGuest": 6.7,
     "PriceStudent": 4.2,
     "Beef": true,
-    "LactoseFree": true,
     "Pig": true
   },
   {
-    "Name": "Hot Dog Bayern (1,2,3,4,5,8,Gl,La,Sf,Sw)",
+    "Name": "Hot Dog Bayern (1,2,3,4,5,8,Gl,La,Sf,Sw), Wedges (4,Gl,Ei,La,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-02-11T00:00:00Z",
     "Additives": {
@@ -101,6 +130,7 @@
       "4": "Geschmacksverstärker",
       "5": "Geschwefelt",
       "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
