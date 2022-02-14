@@ -1,16 +1,17 @@
 [
   {
-    "Name": "Pasta Broccoli-Gorgonzola (La), Conchiglie (Gl)",
+    "Name": "Pasta Primavera mit Auberginen und Tomaten (Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2022-02-14T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi (Gl)",
@@ -25,6 +26,20 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "vegane Kartoffelcremesuppe (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-02-14T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "veganes Rosenkohl-Edamame-Curry mit Reisnudeln (So,Sl)",
