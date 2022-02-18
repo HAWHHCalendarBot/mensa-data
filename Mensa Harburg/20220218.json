@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gebratenes Kürbisgemüse, gerösteter Blumenkohl mit Karotten und Mandelsplitter (Nu), gebackene Aubergine (Sw), Schwarzwurzeln, Rosmarinkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-02-18T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,15 +14,46 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Vegane Tomaten-Artischokensoße mit Fenchel (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-02-18T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Helle Gemüsesoße mit Speck und Blattspinat (2,3,8,Gl,La,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-18T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
+    "Name": "Vegane Linsensuppe (Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-02-18T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegan": true
   },
