@@ -45,7 +45,7 @@
     "Fish": true
   },
   {
-    "Name": "Kartoffel-Blumenkohl Suppe (La,Sl)",
+    "Name": "Kartoffel-Wirsingkohleintopf (La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-02-18T00:00:00Z",
     "Additives": {
@@ -76,22 +76,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Indischer Dal mit Linsen und gebratenen Gemüse (So,Sf), Veganer Korianderdip (3,So), Ciabatta (Gl)",
-    "Category": "CampusVital",
-    "Date": "2022-02-18T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-02-18T00:00:00Z",
@@ -105,5 +89,34 @@
     "PriceGuest": 5.9,
     "PriceStudent": 3.4,
     "Pig": true
+  },
+  {
+    "Name": "Indischer Dal mit Linsen und gebratenen Gemüse (So,Sf), Veganer Korianderdip (3,So), Krusti Navette Brötchen (Gl,Se)",
+    "Category": "CampusVital",
+    "Date": "2022-02-18T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika (La), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-02-18T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true
   }
 ]
