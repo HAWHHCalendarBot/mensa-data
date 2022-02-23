@@ -1,18 +1,37 @@
 [
   {
-    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Bulgur (Gl,Sl)",
     "Category": "CampusWorld",
     "Date": "2022-02-25T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 3.5,
-    "PriceGuest": 4.5,
-    "PriceStudent": 2.3,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Cordon Bleu vom Schweinerücken (2,3,Gl,La), Brechbohnen, Pfefferrahmsoße (Gl,La,Sl), Kroketten (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-02-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "Pig": true
   }
 ]
