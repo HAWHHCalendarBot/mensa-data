@@ -1,16 +1,29 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
-    "Category": "Pastabar",
+    "Name": "Gebratene Champignions mit Knoblauch und Rosmarin, Karotten, Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Röstiecken",
+    "Category": "Gemüsebar",
     "Date": "2022-02-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße, Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-23T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
@@ -25,20 +38,6 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Beef": true
-  },
-  {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2022-02-23T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
   },
   {
     "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
@@ -75,7 +74,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Sojacurry mit Früchten (Ei), Reis oder Mi-Nudeln",
+    "Name": "Sojacurry mit Früchten (Ei,So), Reis oder Mi-Nudeln (Gl,So)",
     "Category": "CampusWorld",
     "Date": "2022-02-23T00:00:00Z",
     "Additives": {
