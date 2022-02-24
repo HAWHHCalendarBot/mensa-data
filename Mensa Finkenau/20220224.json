@@ -1,14 +1,16 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Rahmwirsing (La,Sl), Süßkartoffeln, Kräuterkartoffeln, Gartengemüse",
     "Category": "Gemüsebar",
     "Date": "2022-02-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Gemüselasagne mit Tomatensauce und Käse (Gl,So,La,Sl)",

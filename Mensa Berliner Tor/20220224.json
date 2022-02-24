@@ -1,5 +1,60 @@
 [
   {
+    "Name": "Broccolirahmsoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Currysoße (Gl,La,Sf)",
+    "Category": "Pastabar",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "buntes Gemüse natur, vegan, Blattspinat in Rahm (Gl,La), Broccoli mit Hirtenkäse (La), Frühlingsgemüse ala creme (Gl,La,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Apfelkompott (3)",
+    "Category": "Pottkieker",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-02-24T00:00:00Z",
@@ -69,5 +124,24 @@
     "PriceStudent": 3.5,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Gebratenes Zanderfilet (Gl,Fi), Meerettich Dip (3,5,La,Sw), Bouillonkartoffeln (Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Beef": true,
+    "Fish": true
   }
 ]
