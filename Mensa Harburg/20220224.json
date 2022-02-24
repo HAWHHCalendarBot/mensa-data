@@ -1,21 +1,10 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Maisgemüse, gebratener grüner Spargel mit Cherrytomaten, Blumenkohl mit Mandelsplitter (Nu), Karotten Pastinakenmix, gebratene Kartoffel-Gnocchi",
     "Category": "Gemüsebar",
     "Date": "2022-02-24T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-02-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,13 +13,57 @@
     "Vegan": true
   },
   {
-    "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Basmatireis",
+    "Name": "Vegane Grünkern-Bolognese (Gl,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vegane Grünkern-Bolognese (Gl,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vegane Maultaschen (Gl), Kräutersoße (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Buntes Soja-Gemüseragout (1,So,Sl,Sf), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-02-24T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.0,
     "PriceGuest": 5.2,
