@@ -1,7 +1,49 @@
 [
   {
-    "Name": "Räucher Tofu Teriyaki mit Pak Choi (2,Gl,So,Se), Basmatireis",
+    "Name": "Pasta mit Hähnchenstreifen al arrabiata in Tomatensauce mit Zucchini (Gl)",
     "Category": "Pastabar",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Rhabarberkompott",
+    "Category": "Pottkieker",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hühner-Kokos-Topf mit Gemüse und Baguette (Gl,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Räucher Tofu Teriyaki mit Pak Choi (2,Gl,So,Se), Basmatireis",
+    "Category": "CampusWorld",
     "Date": "2022-02-24T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
@@ -9,27 +51,10 @@
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.4,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 5.8,
+    "PriceGuest": 9.0,
+    "PriceStudent": 4.5,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Grünkohl (Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
-    "Category": "CampusVital",
-    "Date": "2022-02-24T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 6.8,
-    "PriceStudent": 3.4,
-    "LactoseFree": true,
-    "Pig": true
   }
 ]
