@@ -42,18 +42,35 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Baguette (Gl)",
+    "Name": "Veganes Kichererbsencurry (So), pikantes Möhrengemüse (Sl), Baguette (Gl)",
     "Category": "CampusVital",
     "Date": "2022-02-25T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Nudel- Hähnchen -Auflauf in der Kokotte mit Käse überbacken (Gl,Fi,So,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-02-25T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Fish": true,
+    "Poultry": true
   },
   {
     "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (La,Sl), Spicy Wedges (Gl)",
