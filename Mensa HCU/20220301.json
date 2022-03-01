@@ -1,19 +1,56 @@
 [
   {
-    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Couscous (Gl,Sl)",
+    "Name": "Pasta Saporita, Rindfleisch in Sahnesoße (La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-03-01T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
+  },
+  {
+    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Couscous (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-01T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Milchreis (La), Beerenkompott (1,9,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-03-01T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Grünkohl (2,3,8,Sf)",
+    "Category": "Pottkieker",
+    "Date": "2022-03-01T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
