@@ -1,32 +1,22 @@
 [
   {
-    "Name": "Pasta Saporita, Rindfleisch in Sahnesoße (La,Sl)",
+    "Name": "Pasta Saporita mit Rinderhack in Sahnesauce (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-03-01T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true
   },
   {
-    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Couscous (Gl,Sl)",
-    "Category": "Pastabar",
-    "Date": "2022-03-01T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.4,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Milchreis (La), Beerenkompott (1,9,La)",
+    "Name": "Milchreis (La), Rhabarberkompott (9)",
     "Category": "Pottkieker",
     "Date": "2022-03-01T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "9": "Süßungsmittel",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -36,7 +26,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Grünkohl (2,3,8,Sf)",
+    "Name": "Grünkohl-Eintopf mit Kochwurst (2,3,8,Sf)",
     "Category": "Pottkieker",
     "Date": "2022-03-01T00:00:00Z",
     "Additives": {
@@ -53,20 +43,23 @@
     "Pig": true
   },
   {
-    "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
+    "Name": "Veganer Cous-Cous One Pot mit getrockneten Tomaten, Erbsen, Erdnüssen und Soja-Bärlauch-Dip (1,2,5,Gl,En,Sl,Sf,Sw)",
     "Category": "CampusVital",
     "Date": "2022-03-01T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.7,
     "PriceGuest": 4.8,
     "PriceStudent": 2.4,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]

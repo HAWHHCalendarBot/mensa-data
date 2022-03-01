@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Kräuterkartoffeln, Gartengemüse, Broccoli",
     "Category": "Gemüsebar",
     "Date": "2022-03-01T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,30 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Spinat in Sahnesauce (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-03-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "EXTRA!!! Hähnchenbrust zum cremigen Kräuter-Risotto",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-01T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 1.9,
+    "PriceGuest": 1.9,
+    "PriceStudent": 1.9,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
     "Name": "Germknödel mit Schokoladenfüllung (Gl,So,La,Nu), kalte Vanillesoße (La)",
