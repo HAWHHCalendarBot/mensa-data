@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, gerösteter Blumenkohl, Karotten, Gartengemüse",
     "Category": "Gemüsebar",
     "Date": "2022-03-07T00:00:00Z",
     "Additives": {},
@@ -11,24 +11,25 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Tomaten und Hirtenkäse (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-03-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "2 Quarkkeulchen (Gl,Ei,La), Kompott (9)",
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Kompott",
     "Category": "Pottkieker",
     "Date": "2022-03-07T00:00:00Z",
     "Additives": {
-      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -39,10 +40,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kokosnuss-Kichererbsen Curry mit knusprigem Spitzkohl, Reis",
+    "Name": "Kichererbsen-Kartoffel Curry mit Taco Chips (2,Gl,So,Sl)",
     "Category": "CampusVital",
     "Date": "2022-03-07T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 4.0,
     "PriceGuest": 5.2,
     "PriceStudent": 2.7,
