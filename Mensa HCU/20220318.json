@@ -1,16 +1,40 @@
 [
   {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-03-18T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
+    "Name": "All in one Pot - Bulgur/ Soja/Weißkohl/ Cranberries/ Ananas/ Baby Leaf/ Asia Remoulade/Cashews (1,2,3,9,Gl,Ei,So,Nu,Sl,Sf)",
+    "Category": "CampusVital",
+    "Date": "2022-03-18T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 8.8,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
     "Vegetarian": true
   }
 ]
