@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, Süßkartoffeln, Gartengemüse, gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2022-03-08T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Gemüse und Basilikumpesto (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2022-03-08T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Milchreis (La), Beerenkompott (1,9,La)",
@@ -51,19 +52,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
+    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut (2,3,8,Sl), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-03-08T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "8": "Phosphat",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.5,
     "PriceGuest": 5.7,
     "PriceStudent": 3.2,
+    "LactoseFree": true,
     "Pig": true
   }
 ]
