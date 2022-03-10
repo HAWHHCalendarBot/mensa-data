@@ -1,6 +1,20 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
+    "Name": "Cremige Soße mit grünen Bohnen, (So),  Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenstreifen in Rucola-Soße, (La),  Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-03-10T00:00:00Z",
     "Additives": {
@@ -13,33 +27,22 @@
     "Poultry": true
   },
   {
-    "Name": "Cremige Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-03-10T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
+    "Name": "gerösteter Broccoli mit Mandeln, (Nu),  Steckrüben-Möhren Gemüse,,  Spitzkohl,,  Tomaten Mango Linsenragout mit Kokosmilch, (Sl),  gebratene Gnocchi Pfanne mit Oliven, Artischocken und Tomaten (2,5,6,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-03-10T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "6": "Geschwärzt",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Spätzle mit Linsen (5,Gl,Ei,Sl,Sw), Apfel Karotten Salat (3,Sw)",
@@ -61,17 +64,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Mexican Soße (2,9,Sl,Sf), Belgische Pommes",
+    "Name": "Currybratwurst (3,4,8,Sf), Mango Currysoße (3), Belgische Pommes",
     "Category": "CampusKlassiker",
     "Date": "2022-03-10T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
-      "9": "Süßungsmittel",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 4.9,
     "PriceGuest": 6.1,
@@ -80,7 +80,7 @@
     "Pig": true
   },
   {
-    "Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), veganes Tzatziki (1,3,So,Sf), Gemüsecouscous (Gl,Sl), Rotkohlsalat (3)",
+    "Name": "Ägyptische Falafel (Gl,So,Sl,Se), veganes Tzatziki (1,3,So,Sf), Gemüsecouscous (Gl,Sl), Rotkohlsalat (3)",
     "Category": "CampusWorld",
     "Date": "2022-03-10T00:00:00Z",
     "Additives": {
