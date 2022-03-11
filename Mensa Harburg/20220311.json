@@ -1,11 +1,12 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
+    "Name": "Vegane Soja-Chunks mit Kokosmilch, Weißkohl und Paprika; (So,Se),  Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-03-11T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -14,27 +15,11 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
-    "Date": "2022-03-11T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Farfalle (Gl)",
+    "Name": "Pasta Pollo mit Hähnchen, Tomaten und Erbsen; (La,Sl),  Pasta nach Wahl, (Gl),  Spätzle (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2022-03-11T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -42,7 +27,24 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Fish": true
+    "Poultry": true
+  },
+  {
+    "Name": "gebratener Broccoli-Blumenkohl mit Mandeln und Curry, (Nu),  Spitzkohl,,  Kürbis Paprika pinkant mit Minze, (En,Sf),  Falafel, (Gl,Sl),  Schwarzwurzeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-03-11T00:00:00Z",
+    "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",

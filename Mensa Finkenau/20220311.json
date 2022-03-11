@@ -1,27 +1,32 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Amaranth Burger (3,Gl), Gartengemüse, Broccoli (La), gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2022-03-11T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-03-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Tomaten,Champignons und Paprika (Gl,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-11T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Grießspeise (Gl,La), Kirschgrütze (1,La)",
@@ -38,13 +43,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Nashville Chicken (2,9,La), gebackene Süßkartoffel, Kräuterquark (La)",
+    "Name": "Nashville Chicken (2,9,Gl,So,La), gebackene Süßkartoffel, Kräuterquark (La)",
     "Category": "CampusSpezial",
     "Date": "2022-03-11T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "9": "Süßungsmittel",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.6,
     "PriceGuest": 5.8,
