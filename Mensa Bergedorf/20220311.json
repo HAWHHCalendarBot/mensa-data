@@ -16,20 +16,34 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (5,Gl,La,Sf,Sw)",
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Florentiner Weißweinsoße (Gl,La), Spätzle (Gl,Ei)",
     "Category": "CampusKlassiker",
     "Date": "2022-03-11T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 5.35,
-    "PriceGuest": 6.45,
-    "PriceStudent": 4.1,
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
     "Fish": true
+  },
+  {
+    "Name": "Schweinefilet mit Bacon in Curry-Sahne (1,2,8,La,Sf), Zuckerschoten, Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-03-11T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Pig": true
   }
 ]
