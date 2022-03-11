@@ -45,10 +45,12 @@
     "Fish": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "Gemüseeintopf (Sl)",
     "Category": "Pottkieker",
     "Date": "2022-03-11T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
@@ -70,6 +72,19 @@
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-11T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Beef": true
   },
   {
     "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Vollkornreis",
