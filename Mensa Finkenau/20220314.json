@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Gemüse in Tomatensoße (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-03-14T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +13,12 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Prinzessbohnen, gebackene Aubergine (Gl,Sw), gebratene Zucchini, gebackene Süßkartoffel",
+    "Category": "Gemüsebar",
     "Date": "2022-03-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -37,7 +40,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Vegetarische Bratwurst (Ei), mit verschiedenen Grillsoßen (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Name": "Vegetarische Bratwurst (Ei), mit Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-03-14T00:00:00Z",
     "Additives": {
@@ -54,7 +57,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), mit verschiedenen Grillsoßen (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Name": "Currybratwurst (3,4,8,Sf), mit Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-03-14T00:00:00Z",
     "Additives": {
