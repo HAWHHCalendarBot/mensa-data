@@ -1,5 +1,93 @@
 [
   {
+    "Name": "Hähnchenstreifen al arrabiata, bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei)",
+    "Category": "Gemüsebar",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Milchreis (La), Kirschgrütze (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Curry Gemüseeintopf (3,Sl,Sf)",
+    "Category": "Pottkieker",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Category": "CampusWorld",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
     "Name": "#frischgeGRILLt..., Holzfällersteak, bunter Kartoffelsalat (2,9,Gl,Ei,Sf,Sw), BBQ Soße (2,9,Sl,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-03-22T00:00:00Z",
@@ -17,5 +105,36 @@
     "PriceStudent": 3.9,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Matjestatar auf Kräuterrösti (2,9,Fi,Sw), Schnittlauchdip (La)",
+    "Category": "CampusWorld",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.0,
+    "PriceGuest": 7.2,
+    "PriceStudent": 4.7,
+    "Fish": true
+  },
+  {
+    "Name": "Auberginen Tatar auf Kräuterrösti (3,5,Sw), Schnittlauchdip (La)",
+    "Category": "CampusWorld",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.25,
+    "PriceGuest": 7.45,
+    "PriceStudent": 4.95,
+    "Vegetarian": true
   }
 ]
