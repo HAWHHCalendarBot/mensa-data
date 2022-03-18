@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Zuckerschoten, Prinzessbohnen, pikantes Mexiko-Gemüse, Kartoffel- Gemüsepfanne (Sf), gebratenes Gemüse, Kräuterreis mit Mandeln (Nu)",
     "Category": "Gemüsebar",
     "Date": "2022-03-18T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +14,28 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Vegane Carbonara mit Soja (Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-03-18T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vegane Sojarahm-Bolognese mit bunten Gemüse (So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-18T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
