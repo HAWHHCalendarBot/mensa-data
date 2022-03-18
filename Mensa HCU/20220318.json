@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
+    "Name": "Pasta Carbonara mit Speck und Hartkäse (2,3,8,Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-03-18T00:00:00Z",
     "Additives": {
@@ -16,18 +16,42 @@
     "Pig": true
   },
   {
-    "Name": "All in one Pot - Bulgur/ Soja/Weißkohl/ Cranberries/ Ananas/ Baby Leaf/ Asia Remoulade/Cashews (1,2,3,9,Gl,Ei,So,Nu,Sl,Sf)",
-    "Category": "CampusVital",
+    "Name": "Vegane Minestrone mit Tomate und Gemüse und Baguette (Gl,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-03-18T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Heidelbeerkompott (1,La)",
+    "Category": "Pottkieker",
     "Date": "2022-03-18T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Veganer All in one Pot - Zartweizen/ Soja/Weißkohl/ Cranberries/Cashews/Soja-Dip (2,Gl,So,Nu,Sl)",
+    "Category": "CampusVital",
+    "Date": "2022-03-18T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -35,6 +59,6 @@
     "PriceGuest": 8.8,
     "PriceStudent": 4.4,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   }
 ]
