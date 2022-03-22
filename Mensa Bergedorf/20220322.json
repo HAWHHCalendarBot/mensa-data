@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-03-22T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Poultry": true
-  },
-  {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-03-22T00:00:00Z",
     "Additives": {
@@ -27,7 +14,22 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
+    "Name": "Pasta Hühnchen in Kokos Soße (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Karotten (La)",
     "Category": "Gemüsebar",
     "Date": "2022-03-22T00:00:00Z",
     "Additives": {
@@ -101,5 +103,22 @@
     "PriceGuest": 7.45,
     "PriceStudent": 4.95,
     "Vegetarian": true
+  },
+  {
+    "Name": "Rinderroulade mit Rotweinsoße (Sf,Sw), Apfelrotkohl (3,5,Sw), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-22T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Alcohol": true,
+    "Beef": true,
+    "LactoseFree": true
   }
 ]
