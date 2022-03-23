@@ -39,5 +39,45 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gnocchi mit Fenchel, Artischocken und Ricotta (La)",
+    "Category": "CampusWorld",
+    "Date": "2022-03-31T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-31T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.35,
+    "PriceGuest": 5.45,
+    "PriceStudent": 3.1,
+    "Poultry": true
+  },
+  {
+    "Name": "Feldsalat mit Süßkartoffel- Linsenpürree, geröstetem Blumenkohl, Mandeln und Limetten-Senf-Dressing (3,Nu,Sf)",
+    "Category": "CampusVital",
+    "Date": "2022-03-31T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]

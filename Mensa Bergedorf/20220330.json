@@ -46,5 +46,55 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Pig": true
+  },
+  {
+    "Name": "Crepe mit Gemüse- Hummusfüllung (Gl,Ei,La,Sl,Se), Salsa Dip (1,2,3,4,9,Ei,La,Sf)",
+    "Category": "CampusVital",
+    "Date": "2022-03-30T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.95,
+    "PriceGuest": 5.05,
+    "PriceStudent": 2.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), frisches Gemüse (2,Sw), rote Currysoße (Sl)",
+    "Category": "CampusWorld",
+    "Date": "2022-03-30T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-30T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.35,
+    "PriceGuest": 6.45,
+    "PriceStudent": 4.1,
+    "Beef": true
   }
 ]
