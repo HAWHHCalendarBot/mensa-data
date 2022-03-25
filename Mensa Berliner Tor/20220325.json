@@ -1,5 +1,61 @@
 [
   {
+    "Name": "Soße Arrabiata",
+    "Category": "Pastabar",
+    "Date": "2022-03-25T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Bunte Gemüsepfanne, vegan, Gratinierter Blumenkohl (La), Prinzessbohnen, Gemüsecouscous (Gl,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-03-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta-Auflauf \"della nonna\" mit Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2022-03-25T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nudelauflauf mit knusprigen Speck und Tomaten (2,3,8,Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-03-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
     "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-03-25T00:00:00Z",
@@ -48,20 +104,6 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Pig": true
-  },
-  {
-    "Name": "Steckrübeneintopf (Sl), Geflügelbratwurst (La,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-03-25T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.1,
-    "PriceGuest": 5.3,
-    "PriceStudent": 2.8,
-    "Beef": true,
-    "Poultry": true
   },
   {
     "Name": "Steckrübeneintopf (Sl), Geflügelbratwurst (La,Sl)",
