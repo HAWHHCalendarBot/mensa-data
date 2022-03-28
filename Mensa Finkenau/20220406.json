@@ -24,14 +24,63 @@
     "Vegan": true
   },
   {
-    "Name": "Veganer Milchreis mit Kokosmilch, Heidelbeerkompott",
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-04-06T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Basmatireis",
+    "Category": "CampusVital",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hamburger Schmorkohl mit Rinderhack (Sl), Salzkartoffeln, Sour Cream (4,Ei,La,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "4": "Geschmacksverstärker",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Beef": true
+  },
+  {
+    "Name": "Cremiges Kräuter-Risotto mit frischen Champignons vom Grill und einem Kürbis - Espuma (2,La,Sl,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Alcohol": true,
+    "Vegetarian": true
   }
 ]

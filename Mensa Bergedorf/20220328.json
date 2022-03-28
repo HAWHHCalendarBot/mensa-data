@@ -1,6 +1,33 @@
 [
   {
-    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Rahm (Gl,La)",
+    "Name": "Pasta Broccoli-Gorgonzola (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-03-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-03-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Karotten, Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Rahm (Gl,La), Kräuterrösti",
     "Category": "Gemüsebar",
     "Date": "2022-03-28T00:00:00Z",
     "Additives": {
@@ -14,25 +41,45 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
-    "Category": "Pastabar",
+    "Name": "Vegetarisch gefüllte Kohlroulade (Gl,Ei,So), Kümmelsoße (Sl), Röstkartoffeln",
+    "Category": "CampusKlassiker",
     "Date": "2022-03-28T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegetarian": true
   },
   {
-    "Name": "Putengyros, Tzatziki (La)",
+    "Name": "Kohlroulade (Ei,La,Sf), Kümmelsoße (Sl), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-28T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Pig": true
+  },
+  {
+    "Name": "Putengyros, Tzatziki (La), Krautsalat (3,5,Sw)",
     "Category": "CampusWorld",
     "Date": "2022-03-28T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.3,
     "PriceGuest": 6.3,

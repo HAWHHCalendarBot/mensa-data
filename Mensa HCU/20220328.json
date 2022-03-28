@@ -1,23 +1,40 @@
 [
   {
-    "Name": "Vegane Maultaschen auf Blattsalaten mit Italiandressing und Tomatenwürfeln (1,3,5,Gl,Ei,So,La,Sf,Se,Sw)",
+    "Name": "Vegane Maultaschen mit Tomaten-Brokkoli-Sauce (Gl)",
     "Category": "Pastabar",
     "Date": "2022-03-28T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Dummy",
+    "Category": "Pottkieker",
+    "Date": "2022-03-28T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Birnenkompott",
+    "Category": "Pottkieker",
+    "Date": "2022-03-28T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "Vegetarian": true
   },
   {
