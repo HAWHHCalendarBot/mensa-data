@@ -1,14 +1,17 @@
 [
   {
-    "Name": "Kräuterkartoffeln, Kürbisgemüse, Süßkartoffeln, gerösteter Blumenkohl",
+    "Name": "Kräuterkartoffeln, Süßkartoffeln, gerösteter Blumenkohl, Vegetarisches Moussaka (Gl,La,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-03-29T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pasta in Spinat-Tomatensahnesauce (Gl,La,Sl)",
