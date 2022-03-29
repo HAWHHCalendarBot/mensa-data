@@ -31,16 +31,17 @@
     "Vegan": true
   },
   {
-    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
+    "Name": "Pasta nach Chorizo Art (2,3,4,8,Gl,La,Sf)",
     "Category": "Pastabar",
     "Date": "2022-03-30T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
       "8": "Phosphat",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -48,34 +49,13 @@
     "Pig": true
   },
   {
-    "Name": "Crepe mit Gemüse- Hummusfüllung (Gl,Ei,La,Sl,Se), Salsa Dip (1,2,3,4,9,Ei,La,Sf)",
-    "Category": "CampusVital",
-    "Date": "2022-03-30T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.95,
-    "PriceGuest": 5.05,
-    "PriceStudent": 2.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), frisches Gemüse (2,Sw), rote Currysoße (Sl)",
+    "Name": "Bratnudeln mit Ei und Frühlingszwiebeln (Gl,Ei), frisches Gemüse (2,Sw), rote Currysoße (Sl)",
     "Category": "CampusWorld",
     "Date": "2022-03-30T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
@@ -95,6 +75,20 @@
     "PriceAttendant": 5.35,
     "PriceGuest": 6.45,
     "PriceStudent": 4.1,
+    "Beef": true
+  },
+  {
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-30T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
     "Beef": true
   }
 ]
