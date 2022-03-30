@@ -44,5 +44,36 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
+    "Category": "CampusWorld",
+    "Date": "2022-04-08T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.6,
+    "PriceGuest": 4.6,
+    "PriceStudent": 2.4,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-08T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.2,
+    "Beef": true
   }
 ]

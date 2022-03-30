@@ -30,5 +30,50 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Pig": true
+  },
+  {
+    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Maccaroni (Gl)",
+    "Category": "CampusVital",
+    "Date": "2022-04-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.3,
+    "PriceGuest": 4.5,
+    "PriceStudent": 2.0,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-04-04T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.9,
+    "Poultry": true
+  },
+  {
+    "Name": "Bauernfrühstück mit Katenschinken (2,3,8,9,Ei)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-04T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
