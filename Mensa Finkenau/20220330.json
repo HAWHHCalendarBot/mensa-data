@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, Ägyptische Falafel (Gl,Sl), Karotten, Ratatouille (Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-03-30T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -55,12 +58,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Broccoli (La), Reis",
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (2,Gl,En,So), Broccoli (La), Reis",
     "Category": "CampusSpezial",
     "Date": "2022-03-30T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "En": "Erdnüsse und Erdnusserzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.9,
     "PriceGuest": 7.1,

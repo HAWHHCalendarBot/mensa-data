@@ -1,12 +1,12 @@
 [
   {
-    "Name": "Weiße Bohnen meditteraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Mexiko mit Soja (2,Gl,So)",
+    "Category": "Pastabar",
     "Date": "2022-03-30T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -15,20 +15,23 @@
     "Vegan": true
   },
   {
-    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
-    "Category": "Pastabar",
+    "Name": "Bratreis mit Ei und Frühlingszwiebeln (Gl,Ei,So), Orientalisches Kichererbsengemüse (2,5,Sw), Auberginen-Zucchini-Gemüse (Sw), Grünkern mediteran (Gl,Sl)",
+    "Category": "Gemüsebar",
     "Date": "2022-03-30T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pasta nach Chorizo Art (2,3,4,8,Gl,La,Sf)",
@@ -66,17 +69,22 @@
     "Vegetarian": true
   },
   {
-    "Name": "Rindergulasch mit Paprika (La)",
+    "Name": "Kochwurst (2,3,4,8,Sf), Sauerkraut mit Speck (2,3,8,Sl), hausgemachtes Kartoffelstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-03-30T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.35,
-    "PriceGuest": 6.45,
-    "PriceStudent": 4.1,
-    "Beef": true
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Pig": true
   },
   {
     "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl)",
@@ -90,6 +98,19 @@
     "PriceAttendant": 5.8,
     "PriceGuest": 7.0,
     "PriceStudent": 4.5,
+    "Beef": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika (La), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-30T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
     "Beef": true
   }
 ]

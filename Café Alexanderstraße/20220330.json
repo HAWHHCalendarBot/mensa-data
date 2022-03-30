@@ -1,16 +1,31 @@
 [
   {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl)",
-    "Category": "Pastabar",
+    "Name": "Spaghetti (Gl), Soja Bolognese mit Gemüse (So,Sl)",
+    "Category": "CampusKlassiker",
     "Date": "2022-03-30T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 4.0,
+    "PriceGuest": 5.2,
+    "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-03-30T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Beef": true
   }
 ]
