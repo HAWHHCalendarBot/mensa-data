@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-01T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Hackbällchen, (Gl,Ei), Tomatensoße,, Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-01T00:00:00Z",
@@ -40,6 +29,21 @@
     "Vegan": true
   },
   {
+    "Name": "Blumenkohl,, Broccoli, (La), Kürbis-Paprika, (En,Sf), Vegetarische Köttbullar (Ei)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-01T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Fischfrikadellen (3,Gl,Fi,La), rote Beete Zwiebel Quark (9,La), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-04-01T00:00:00Z",
@@ -56,21 +60,6 @@
     "Fish": true
   },
   {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl), Spaghetti (Gl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-04-01T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.9,
-    "PriceGuest": 5.1,
-    "PriceStudent": 2.6,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Vegetarisches Schnitzel in Knusperpanade (Gl,Ei,La), Kräutersoße mit Tomatenwürfel (Gl,La,Sl), bunte Fusilli (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-01T00:00:00Z",
@@ -84,5 +73,32 @@
     "PriceGuest": 5.7,
     "PriceStudent": 3.2,
     "Vegetarian": true
+  },
+  {
+    "Name": "Rindergulasch mit Paprika, (La), Nudeln (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
+    "Beef": true
+  },
+  {
+    "Name": "Tomaten-Sojaragout \"Griechische Art\", (So,Sl), Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-01T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
