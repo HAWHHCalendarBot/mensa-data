@@ -1,47 +1,40 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Hähnchenstreifen al arrabiata",
     "Category": "Pastabar",
     "Date": "2022-04-01T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), gebratene Paprika (5,Sw)",
+    "Name": "Blattspinat mit Tomatenwürfel, Glacierte Pastinaken mit Honig, Kartoffelgratin (Ei,La), Gnocchi mit Fenchel, Artischocken und Ricotta (La)",
     "Category": "Gemüsebar",
     "Date": "2022-04-01T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
+    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-01T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Fish": true
+    "Vegetarian": true
   },
   {
     "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl)",
@@ -56,19 +49,6 @@
     "PriceGuest": 5.05,
     "PriceStudent": 2.7,
     "Pig": true
-  },
-  {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En)",
-    "Category": "CampusSpezial",
-    "Date": "2022-04-01T00:00:00Z",
-    "Additives": {
-      "En": "Erdnüsse und Erdnusserzeugnisse"
-    },
-    "PriceAttendant": 4.15,
-    "PriceGuest": 5.25,
-    "PriceStudent": 2.9,
-    "LactoseFree": true,
-    "Poultry": true
   },
   {
     "Name": "Wrap mit Quorn-Tomaten- Kokos-Füllung, Rotkohlsalat, Rucola, Gurken und Koriander-Joghurt (2,3,5,Gl,Ei,La,Sw)",
@@ -87,5 +67,18 @@
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-04-01T00:00:00Z",
+    "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
