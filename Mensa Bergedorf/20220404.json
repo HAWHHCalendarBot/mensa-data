@@ -1,16 +1,29 @@
 [
   {
-    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
+    "Name": "Blattspinat mit Hirtenkäse (La), Fingermöhrchen, Rosenkohl, Glacierte Pastinaken mit Honig",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-04T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Schupfnudeln mit Quorn in Tomatensoße (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2022-04-04T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
@@ -46,17 +59,34 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La)",
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Hollandaise (Ei,La,Sl,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-04-04T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.1,
     "PriceGuest": 5.1,
     "PriceStudent": 2.9,
+    "Alcohol": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-04-04T00:00:00Z",
+    "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
     "Poultry": true
   },
   {
