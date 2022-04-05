@@ -1,11 +1,82 @@
 [
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
-    "Category": "Pottkieker",
+    "Name": "Pasta natur (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hausgemachte Käsesoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Blumenkohlgemüse, vegan, Sesam Broccoli (Se), Cremespinat (Gl,La,Sl), Karotten (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nudelauflauf mit Hähnchenstreifen und Gemüse (1,Gl,La,Sw)",
+    "Category": "Pastabar",
     "Date": "2022-04-05T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
+  },
+  {
+    "Name": "Gebratene Mie-Nudeln mit Wok Gemüse (1,Gl,Ei,Sf,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"

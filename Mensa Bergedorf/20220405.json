@@ -1,32 +1,6 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Süßkartoffelwürfel gebacken, gerösteter Brokkoli",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-05T00:00:00Z",
-    "Additives": {
-      "6": "Geschwärzt"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-05T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Farfalle (Gl)",
+    "Name": "vegane Pasta mit Räuchertofu und Linsen (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-05T00:00:00Z",
     "Additives": {
@@ -39,6 +13,41 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Zucchinigemüse (6), Bratkartoffeln (2,3,8), gerösteter Brokkoli",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "6": "Geschwärzt",
+      "8": "Phosphat"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
   },
   {
     "Name": "4 Röstiecken, Kräuterquark (La)",
@@ -78,6 +87,26 @@
     "PriceGuest": 5.65,
     "PriceStudent": 3.3,
     "Poultry": true
+  },
+  {
+    "Name": "gebackenes Rotbarschfilet (Gl,Fi,La), Soße Tartar (1,3,9,Ei,La,Sf,Sw), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-05T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.75,
+    "PriceGuest": 6.85,
+    "PriceStudent": 4.5,
+    "Fish": true
   },
   {
     "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
