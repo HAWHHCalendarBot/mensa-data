@@ -1,19 +1,30 @@
 [
   {
-    "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu)",
+    "Name": "Pasta mit Basilikpesto und Hartkäse (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-04-06T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -30,7 +41,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Spicy Wedges (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-06T00:00:00Z",
     "Additives": {
@@ -39,6 +50,7 @@
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
       "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
@@ -49,7 +61,7 @@
     "Pig": true
   },
   {
-    "Name": "Salat von schwarzen Bohnen mit veganen Gemüse Nuggets (3,Gl,Sl,Sw), Tomaten Sonnenblumen Kern- Salsa",
+    "Name": "Veganen Gemüse Nuggets mit schwarzen Bohnen-Gemüse (3,Gl,Sl,Sw), Tomaten Sonnenblumen Kern- Salsa",
     "Category": "CampusSpezial",
     "Date": "2022-04-06T00:00:00Z",
     "Additives": {
