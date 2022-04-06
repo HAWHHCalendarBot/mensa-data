@@ -1,5 +1,17 @@
 [
   {
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La)",
+    "Category": "Pastabar",
+    "Date": "2022-04-07T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pasta Boscaiola mit Mischpilzen und Speck (2,3,8)",
     "Category": "Pastabar",
     "Date": "2022-04-07T00:00:00Z",
@@ -62,6 +74,20 @@
     "Pig": true
   },
   {
+    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Beef": true
+  },
+  {
     "Name": "Räucher Tofu Teriyaki mit Pak Choi (2,Gl,So,Se)",
     "Category": "CampusWorld",
     "Date": "2022-04-07T00:00:00Z",
@@ -76,5 +102,20 @@
     "PriceStudent": 3.9,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-04-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "Vegetarian": true
   }
 ]
