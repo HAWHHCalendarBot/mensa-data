@@ -1,33 +1,6 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-06T00:00:00Z",
-    "Additives": {
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Pasta Ragout Bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-06T00:00:00Z",
     "Additives": {
@@ -39,6 +12,36 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Beef": true
+  },
+  {
+    "Name": "gebratene Zucchini, Röstkartoffeln, Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Pizza Spinaci mit Hirtenkäse (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",
@@ -60,6 +63,23 @@
     "Pig": true
   },
   {
+    "Name": "vegetarische Bratwurst (Ei), BBQ Soße (2,9,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.25,
+    "PriceGuest": 5.35,
+    "PriceStudent": 3.0,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
     "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw)",
     "Category": "CampusWorld",
     "Date": "2022-04-06T00:00:00Z",
@@ -74,12 +94,35 @@
     "Poultry": true
   },
   {
-    "Name": "Salat von schwarzen Bohnen mit veganen Gemüse Nuggets (3,Gl,Sl,Sw), Tomaten Sonnenblumen Kern- Salsa",
+    "Name": "gebackenes Rotbarschfilet (Gl,Fi,La), Soße Tartar (1,3,9,Ei,La,Sf,Sw), Bratkartoffeln (2,3,8)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.75,
+    "PriceGuest": 6.85,
+    "PriceStudent": 4.5,
+    "Fish": true,
+    "Pig": true
+  },
+  {
+    "Name": "Salat von weißen Bohnen mit Gemüse Nuggets (3,Ei,Sl,Sw), Tomaten Sonnenblumen Kern- Salsa",
     "Category": "CampusSpezial",
     "Date": "2022-04-06T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Ei": "Ei und Eierzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
@@ -87,6 +130,6 @@
     "PriceGuest": 7.5,
     "PriceStudent": 5.0,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
