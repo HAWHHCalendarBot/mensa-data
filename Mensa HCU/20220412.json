@@ -1,38 +1,59 @@
 [
   {
-    "Name": "Rindfleischfrikadelle (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffel Möhrenstampf (La)",
-    "Category": "CampusKlassiker",
+    "Name": "Vegane Carbonara mit Tofuwürfel (1,2,Gl,So,Sl,Sf), Conchiglie (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Jubiläumsburger mit Crispy Chicken, Chipotlemajo, Cheddar und karamelisierte Zwiebeln (1,3,5,Gl,Ei,La,Sw), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-04-12T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 6.6,
-    "PriceStudent": 3.3,
-    "Beef": true
+    "PriceAttendant": 6.4,
+    "PriceGuest": 10.2,
+    "PriceStudent": 5.1,
+    "Poultry": true
   },
   {
-    "Name": "Kichererbsen Curry Bowl, Basmatireis, Karotten, Edamame Bohnen, Spicy Gurke, Erbsen Minz Hummus (2,3,5,So,Nu,Sl,Sf,Se,Sw)",
-    "Category": "CampusWorld",
+    "Name": "Veggie Jubiläumsburger mit Crispy Patty, Chipotlemajo, Cheddar und karamelisierte Zwiebeln (1,3,5,Gl,Ei,So,La,Sw), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "1": "Farbstoff",
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 6.0,
-    "PriceGuest": 9.4,
-    "PriceStudent": 4.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 6.4,
+    "PriceGuest": 10.2,
+    "PriceStudent": 5.1,
+    "Vegetarian": true
   }
 ]
