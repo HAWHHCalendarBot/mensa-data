@@ -30,14 +30,13 @@
     "Vegan": true
   },
   {
-    "Name": "Chinagemüse (2,Gl,So), gebratene Champignons (La,Sw), Spitzkohl in Rahm (La), Ratatouille (Sl), Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), Süßkartoffel Rucolaschnitte (Gl)",
+    "Name": "Chinagemüse (2,Gl,So), gebratene Champignons (La,Sw), Spitzkohl in Rahm (La), Ratatouille (Sl), Gartengemüse, Rosenkohl (La)",
     "Category": "Gemüsebar",
     "Date": "2022-04-07T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -92,6 +91,42 @@
     "PriceAttendant": 4.5,
     "PriceGuest": 5.7,
     "PriceStudent": 3.2,
+    "Pig": true
+  },
+  {
+    "Name": "vegetarische Bratwurst (Ei), Grillsoße (2,9,Sl,Sf), Amazing Fries",
+    "Category": "CampusWorld",
+    "Date": "2022-04-07T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Amazing Fries",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-07T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
     "Pig": true
   }
 ]

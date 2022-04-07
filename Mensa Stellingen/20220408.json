@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
     "Category": "Pottkieker",
     "Date": "2022-04-08T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -13,17 +15,40 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Reis",
+    "Name": "Chili mit Kichererbsen, Grünkern &amp; Pulled Tofu im Weizenflan (2,Gl,So,Sl)",
     "Category": "CampusVital",
     "Date": "2022-04-08T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ-Soße (2,9,Sl,Sf), Pommes Frites (Sf), Cole-Slaw-Salat (1,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-08T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Geschmorte Entenkeule, Orangen-Pfeffer-Soße (3), buntes Gemüse, Kartoffelkroketten (Gl)",
