@@ -1,27 +1,34 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Graupenrisotto (Gl,La,Sl), Kräuterkartoffeln, Weißes Bohnenragout (La,Sl), Karotten",
     "Category": "Gemüsebar",
     "Date": "2022-04-07T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Cherrytomaten und Pesto von getrockneten Tomaten (2,5,Gl,La,Nu,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-04-07T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel mit Schokoladenfüllung (Gl,So,La,Nu), kalte Vanillesoße (La)",
@@ -39,12 +46,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (La)",
+    "Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (La,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-07T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.4,
     "PriceGuest": 5.6,
@@ -52,7 +60,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenbrust in Kardamommarinade (So), Joghurt-Limetten-Dip (3,La), Karotten (La), Basmatireis",
+    "Name": "Hähnchenbrust in Kardamommarinade (So), Joghurt-Limetten-Dip (3,La), Karotten (La), Erbsenreis",
     "Category": "CampusVital",
     "Date": "2022-04-07T00:00:00Z",
     "Additives": {

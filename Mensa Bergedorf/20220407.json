@@ -12,44 +12,46 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Boscaiola mit Mischpilzen und Speck (2,3,8)",
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-07T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Pig": true
+    "Beef": true
   },
   {
-    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
+    "Name": "Pasta Pollo Mexiko (4,Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-07T00:00:00Z",
     "Additives": {
+      "4": "Geschmacksverstärker",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Frühlingsgemüse (La), Kohlrabigemüse (La), Spitzkohl in Rahm (La)",
+    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Frühlingsgemüse (La), Spitzkohl in Rahm (La), vegetarische Currywurst (2,9,Ei,Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-04-07T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
@@ -74,7 +76,7 @@
     "Pig": true
   },
   {
-    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
+    "Name": "Nudeln (Gl), Bolognese (Sl), Hartkäse (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-07T00:00:00Z",
     "Additives": {
@@ -86,22 +88,6 @@
     "PriceGuest": 5.7,
     "PriceStudent": 3.2,
     "Beef": true
-  },
-  {
-    "Name": "Räucher Tofu Teriyaki mit Pak Choi (2,Gl,So,Se)",
-    "Category": "CampusWorld",
-    "Date": "2022-04-07T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 5.15,
-    "PriceGuest": 6.25,
-    "PriceStudent": 3.9,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
@@ -117,5 +103,21 @@
     "PriceGuest": 6.6,
     "PriceStudent": 4.1,
     "Vegetarian": true
+  },
+  {
+    "Name": "Räucher Tofu Teriyaki mit Pak Choi (2,Gl,So,Se), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-04-07T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
