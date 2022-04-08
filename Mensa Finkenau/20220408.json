@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "veganes Kichererbsencurry (Sl), Süßkartoffeln, gebratene Champignons, gerösteter Blumenkohl",
     "Category": "Gemüsebar",
     "Date": "2022-04-08T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,17 +13,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Spinat-Sahnesauce (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-08T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
