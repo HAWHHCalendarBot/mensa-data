@@ -1,24 +1,12 @@
 [
   {
-    "Name": "Kräuterkartoffeln, Prinzessbohnen (Sl), Gartengemüse (Sl), Flageolets Bohnen (Sl)",
+    "Name": "Brechbohnen, Gartengemüse, Blumenkohl, Pastinake mit Honig, gebratener Pak Choi (2,Gl,So), Ofenkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta mit Champignons,Zwiebeln,Kapern und Basilikum (Gl,Sl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-12T00:00:00Z",
-    "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -27,48 +15,58 @@
     "Vegan": true
   },
   {
-    "Name": "Milchreis (La), Rhabarberkompott (1,La)",
+    "Name": "Erbsenrahmsuppe mit Chedda und Sahne (Sl)",
     "Category": "Pottkieker",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Hähnchen Tika Masala mit Gurken-Joghurtdip (So,La,Sf), Basmatireis",
+    "Name": "Indische Tomaten Linsensuppe (Sf)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-12T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hausgemachte Pasta (Gl), Tapenade von schwarzen Oliven mit Kräutern und Olivenöl (6), Orangen Gremolata",
     "Category": "CampusSpezial",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 4.3,
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
-    "Poultry": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
+    "Name": "Shakshuka mit Hirtenkäse (La), grünem Hummus (Se), Baguette (Gl)",
     "Category": "CampusWorld",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
     },
-    "PriceAttendant": 4.9,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.6,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "Vegetarian": true
   },
   {
     "Name": "Kichererbsen Curry Bowl, Basmatireis, Karotten, Edamame Bohnen, Spicy Gurke, Erbsen Minz Hummus (2,3,5,So,Nu,Sl,Sf,Se,Sw)",
