@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, Prinzessbohnen (Sl), Gartengemüse (Sl), Flageolets Bohnen (Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-04-12T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +13,12 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Champignons,Zwiebeln,Kapern und Basilikum (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -68,7 +71,7 @@
   },
   {
     "Name": "Kichererbsen Curry Bowl, Basmatireis, Karotten, Edamame Bohnen, Spicy Gurke, Erbsen Minz Hummus (2,3,5,So,Nu,Sl,Sf,Se,Sw)",
-    "Category": "CampusWorld",
+    "Category": "Highlight",
     "Date": "2022-04-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
