@@ -1,6 +1,19 @@
 [
   {
-    "Name": "Tomatensuppe mit Kichererbsen (So,Sl)",
+    "Name": "Milchreis (La), Pflaumenkompott (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tomatensuppe mit Linsen (So,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
@@ -14,11 +27,10 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchen-Nuggets in Panko-Panade (3,Gl), BBQ-Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Name": "Hähnchen-Nuggets in Panko-Panade (3,Gl), Texicana-Salsa (9,Sl), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "9": "Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
@@ -32,15 +44,35 @@
     "Poultry": true
   },
   {
-    "Name": "Vegetarischer Bratling mit Kräuterkruste auf Paprika Tomatengemüse (5,Gl,La,Sw), pikantes Grillgemüse (Sl,Sf), Bohnen- Kartoffelstampf (La)",
+    "Name": "Veganer Bratling mit Kräuter-Hummus überbacken (3,Gl,So,Se), Gemüsepfanne Hot Spice (2,Sl,Sw), kleine Ofenkartoffeln",
     "Category": "Highlight",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.4,
+    "PriceGuest": 7.6,
+    "PriceStudent": 5.1,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Veganer Bratling mit Tomaten &amp; Käse überbacken (1,3,So,La), Gemüsepfanne Hot Spice (2,Sl,Sw), kleine Ofenkartoffeln",
+    "Category": "Highlight",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.4,
