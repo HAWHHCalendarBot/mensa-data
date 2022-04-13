@@ -1,10 +1,9 @@
 [
   {
-    "Name": "Pasta mit Sojastreifen Arrabiatta (So,Sl), Maccaroni (Gl)",
+    "Name": "Tomatensoße Arrabiatta mit Sojastreifen (So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -15,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pilzsoße mit Räucherknoblauch und Basilikum (Gl,La,Sw), Maccaroni (Gl)",
+    "Name": "Pilzsoße mit Räucherknoblauch und Basilikum (Gl,La,Sw)",
     "Category": "Pastabar",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
@@ -29,26 +28,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pilzsoße mit Räucherknoblauch und Basilikum (Gl,La,Sw), Maccaroni (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-13T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Schupfnudeln (Gl,Ei)",
+    "Name": "gerösteter Blumenkohl, frisches Gemüse, Bohnen (2,Sw), Schupfnudeln (Gl,Ei)",
     "Category": "Gemüsebar",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -60,7 +44,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Karottensuppe mit Kerbel (Sl,Sw)",
+    "Name": "pikante Paprikasuppe mit Sahne und Käse (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-13T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Karotteneintopf mit Kerbel (Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
