@@ -1,19 +1,17 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, Buttererbsen (La), Bunter Rübenmix (Sl), Süßkartoffelwürfel gebacken",
+    "Name": "gerösteter Blumenkohl, Zuckerschoten, Süßkartoffelwürfel gebacken",
     "Category": "Gemüsebar",
     "Date": "2022-04-13T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Maccaroni (Gl)",
+    "Name": "Pilzrahmoße mit Waldpilzen (Gl,La,Sw), Maccaroni (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
@@ -25,6 +23,21 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "veganer Kichererbsen-Curry-Eintopf (5,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-13T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Canneloni mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
