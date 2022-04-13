@@ -1,33 +1,47 @@
 [
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Maccaroni (Gl)",
+    "Name": "Rindfleisch-Bolognese, (Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Pilzrahmsoße mit Waldpilzen und Basilikumöl, (So,Sw), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-04-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis, Bunter Rübenmix (Sl), Buttererbsen (La)",
+    "Name": "gerösteter Blumenkohl,, orientalische Kichererbsen mit Mangold und Paprika, (So,Sl), griechisches Gemüse, (6), Süßkartoffelwürfel gebacken,, Basmatireis",
     "Category": "Gemüsebar",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "6": "Geschwärzt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Grießspeise (Gl,La), Beerenkompott (9)",
@@ -44,7 +58,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Canneloni mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
+    "Name": "Teigtaschen mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
     "Category": "CampusWorld",
     "Date": "2022-04-13T00:00:00Z",
     "Additives": {
