@@ -1,21 +1,26 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Hähnchenstreifen in Soja-Pilzsoße (So), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-04-14T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,10 +29,47 @@
     "Vegan": true
   },
   {
-    "Name": "Frischer Linseneintopf mit Gemüse und Kräutern (Sl,Sw)",
+    "Name": "Gemüse Zartweizen (Gl,Sl), Belugalinsenragout mit Kokosmilch (Sl), gebratenes Gemüse, Ofengemüse mit Kartoffeln (3,5,Sw), Mexikanisches Kichererbsengemüse",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gemüse Zartweizen (Gl,Sl), Belugalinsenragout mit Kokosmilch (Sl), gebratenes Gemüse, Ofengemüse mit Kartoffeln (3,5,Sw), Mexikanisches Kichererbsengemüse",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Frischer Linseneintopf mit Gemüse (3,5,Sl,Sf,Sw)",
     "Category": "Pottkieker",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
@@ -36,6 +78,21 @@
     "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Wedges (Gl)",
+    "Category": "CampusVital",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Hähnchen Crossies in Panko Panade (3,Gl), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
