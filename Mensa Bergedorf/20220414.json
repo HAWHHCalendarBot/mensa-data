@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Hähnchenstreifen al arrabiata",
     "Category": "Pastabar",
     "Date": "2022-04-14T00:00:00Z",
-    "Additives": {
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -13,12 +11,24 @@
     "Poultry": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
+    "Name": "Ofengemüse mit Kartoffeln, Kartoffeln Provencial, gerösteter Blumenkohl, gebratenes Gemüse (griechisch)",
     "Category": "Gemüsebar",
     "Date": "2022-04-14T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vollkornnudeln Funghi mit Tofu (Gl,So,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-04-14T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -27,18 +37,52 @@
     "Vegan": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Canneloni mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
     "Category": "Pastabar",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Beef": true
+  },
+  {
+    "Name": "Ramen Nudeln mit  Champignons und Pak Choi (1,2,Gl,So,Sl,Sw)",
+    "Category": "Highlight",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Chili sin carne (So,Sl), Reis und Nudeln (Gl)",
+    "Category": "CampusVital",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.5,
+    "PriceGuest": 4.7,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hähnchen Crossies in Panko Panade (3,Gl), BBQ Soße (2,9,Sl,Sf)",
