@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "Beef": true
+  },
+  {
     "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La,48)",
     "Category": "CampusWorld",
     "Date": "2022-04-19T00:00:00Z",
@@ -13,21 +27,5 @@
     "PriceGuest": 5.3,
     "PriceStudent": 2.8,
     "Vegetarian": true
-  },
-  {
-    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-04-19T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.2,
-    "Pig": true
   }
 ]
