@@ -1,11 +1,10 @@
 [
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), buntem Gemüse",
-    "Category": "Gemüsebar",
+    "Name": "Penne mit hausgemachtem veganem Basilikumpesto (Gl), Mediterrane Gemüse- Tomatensoße",
+    "Category": "Pastabar",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -14,13 +13,13 @@
     "Vegan": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
-    "Category": "Pastabar",
+    "Name": "Blattspinat (La,Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
+    "Category": "Gemüsebar",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -28,7 +27,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Chili sin carne (So,Sl), Reis",
+    "Name": "vegetarische Kartoffel-Lauchsuppe (La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-14T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "veganes Chili sin carne (So,Sl), Reis",
     "Category": "CampusVital",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
@@ -42,21 +54,21 @@
     "Vegan": true
   },
   {
-    "Name": "Süßkartoffel Rucolaschnitte (Gl), Soja- Joghurt-Zitronen-Dip (1,3,So,Sf), Gurkensalat",
+    "Name": "Süßkartoffel Rucolaschnitte (Gl), Gebratene Mie-Nudeln mit Wok Gemüse (Gl,Ei,Sw),  Asia-Dip (1,Sf)",
     "Category": "CampusWorld",
     "Date": "2022-04-14T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.8,
     "PriceGuest": 6.0,
     "PriceStudent": 3.5,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Hähnchen Crossies in Panko Panade (3,Gl), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
