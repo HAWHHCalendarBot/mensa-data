@@ -1,14 +1,33 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Pilze in Sojarahm (So), buntem Gemüse, Schwarzwurzeln, Cous Cous-Gemüse mit Perlgraupen (Gl), gebratene Gnocchi",
     "Category": "Gemüsebar",
     "Date": "2022-04-19T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pikante Tomatensoße mit Speck (2,3,8), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-04-19T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Vegane Carbonara mit Soja (1,2,Gl,So,Sl), Pasta (Gl)",
