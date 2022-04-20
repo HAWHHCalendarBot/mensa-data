@@ -14,25 +14,30 @@
     "Vegan": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
-    "Category": "Pottkieker",
+    "Name": "Ägyptische Falafeln (Gl,Sl), Tomatenbulgur (Gl), Krautsalat (3,5,Sw), veganes Tzatziki (1,3,So,Sf)",
+    "Category": "CampusWorld",
     "Date": "2022-04-21T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Gebackene Seelachs-Nuggets (Gl,Fi,La), Rote-Beete-Zwiebel-Quark (9,La), kleine Kartoffeln",
+    "Name": "Gebackene Seelachs-Nuggets (Gl,Fi,La), Paprika-Zwiebel-Schmand (La), kleine Kartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-04-21T00:00:00Z",
     "Additives": {
-      "9": "Süßungsmittel",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -43,41 +48,21 @@
     "Fish": true
   },
   {
-    "Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), Tomatenbulgur (Gl), Krautsalat (3,5,Sw), veganes Tzatziki (1,3,So,Sf)",
-    "Category": "CampusWorld",
-    "Date": "2022-04-21T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.6,
-    "PriceGuest": 6.8,
-    "PriceStudent": 4.3,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Spicy Chicken-Burger mit Baby-Spinat und Erdnüssen (1,3,Gl,En,Sf), Pommes Frites (Sf)",
+    "Name": "Chicken-Burger mit Curry-Majo, Baby-Spinat und Erdnüssen (1,3,Gl,Ei,En,La,Sf), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-04-21T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 6.7,
     "PriceGuest": 7.9,
     "PriceStudent": 5.4,
-    "LactoseFree": true,
     "Poultry": true
   }
 ]
