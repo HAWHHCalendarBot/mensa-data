@@ -1,21 +1,25 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kürbisgemüse, glasiertes Wurzelgemüse (Sl,Sf), Gartengemüse, Kräuterkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-04-20T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Tomaten-Kürbisgemüse und Babyspinat (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -84,15 +88,17 @@
     "Poultry": true
   },
   {
-    "Name": "Olympusteller (Gl,Ei,Sf), Tzatziki (La), Kartoffeltwister (Gl), Krautsalat (3)",
+    "Name": "Olympusteller (3,5,Gl,Ei,Sf,Sw), Tzatziki (La), Kartoffeltwister (Gl), Krautsalat (3)",
     "Category": "CampusSpezial",
     "Date": "2022-04-20T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.8,
     "PriceGuest": 8.0,
