@@ -1,21 +1,31 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
+    "Name": "gebratene Eiernudeln mit Tofu,Chinakohl und Kürbis (Gl,Ei,So,Sl,Se)",
+    "Category": "Pastabar",
     "Date": "2022-04-21T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "gerösteter Blumenkohl, Süßkartoffeln, Curry-Linsengemüse (3,5,Sl,Sw), Bohnen-Cassoulet (So)",
+    "Category": "Gemüsebar",
     "Date": "2022-04-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -54,11 +64,12 @@
     "Poultry": true
   },
   {
-    "Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (3,So,Sf), Basmatireis",
+    "Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (3,So,Sf,Se), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-04-21T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
