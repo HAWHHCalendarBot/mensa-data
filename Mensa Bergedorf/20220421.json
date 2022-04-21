@@ -1,22 +1,10 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Poultry": true
-  },
-  {
-    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-21T00:00:00Z",
-    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -24,7 +12,23 @@
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Fish": true
+  },
+  {
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-04-21T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "gebratene Zucchini, Steckrüben-Möhren Gemüse (La), Spitzkohl, Gebackene Blattspinat-Quiche (2,3,5,Gl,Ei,La,Sw)",
