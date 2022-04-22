@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
+    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9), Spitzkohl, Hokaidokürbis",
     "Category": "Gemüsebar",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
@@ -47,23 +47,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "Gemüseeintopf (La,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2022-04-22T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Maccaroni (Gl)",
+    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So,Sl,Sw), Maccaroni (Gl)",
     "Category": "CampusVital",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.3,
     "PriceGuest": 4.5,

@@ -11,19 +11,6 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-22T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Tomatensuppe (La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-04-22T00:00:00Z",
@@ -52,6 +39,19 @@
     "Vegan": true
   },
   {
+    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-22T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Beef": true
+  },
+  {
     "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Reis",
     "Category": "CampusWorld",
     "Date": "2022-04-22T00:00:00Z",
@@ -71,14 +71,16 @@
     "Vegan": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Kräuterkartoffeln",
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße mit frischem Dill (Gl,La,Sf), Salzkartoffeln, Apfel Karotten Salat (3,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.0,
     "PriceGuest": 7.2,

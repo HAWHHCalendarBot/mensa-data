@@ -1,11 +1,10 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
+    "Name": "Tomatensoße, Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -14,7 +13,7 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Auberginen mit Tomaten (La,Nu,Sw), Cajun Gemüse (Sl), spanisches Kartoffelgemüse",
+    "Name": "Auberginen mit Pesto (La,Nu,Sw), Tomaten Mango Belugalinsenragout (Sl), Spitzkohl, Steckrüben-Möhren Gemüse (La)",
     "Category": "Gemüsebar",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
@@ -44,17 +43,18 @@
     "Fish": true
   },
   {
-    "Name": "Tomatensuppe (La,Sl)",
+    "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
