@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Tomatensoße, Farfalle (Gl)",
+    "Name": "Tomatensoße, Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
@@ -13,22 +13,7 @@
     "Vegan": true
   },
   {
-    "Name": "Auberginen mit Pesto (La,Nu,Sw), Tomaten Mango Belugalinsenragout (Sl), Spitzkohl, Steckrüben-Möhren Gemüse (La)",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-22T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Farfalle (Gl)",
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
@@ -43,7 +28,23 @@
     "Fish": true
   },
   {
-    "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
+    "Name": "Auberginen mit Pesto (5,La,Nu,Sw), Tomaten Mango Belugalinsenragout (Sl), Spitzkohl, Steckrüben-Möhren Gemüse (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-22T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gulaschsuppe mit Putenfleisch (Gl,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-04-22T00:00:00Z",
     "Additives": {
@@ -53,8 +54,8 @@
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
