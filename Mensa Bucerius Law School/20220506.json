@@ -1,39 +1,11 @@
 [
   {
-    "Name": "Tomatensoße, Strozzapreti (Gl)",
+    "Name": "Tapenade von schwarzen Oliven mit Kräutern und Olivenöl (6), Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-06T00:00:00Z",
     "Additives": {
+      "6": "Geschwärzt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Tomatensoße, Strozzapreti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-05-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Strozzapreti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-05-06T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -60,36 +32,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "2 Stück Apfelküchlein (Gl,La), Vanillesoße (La)",
-    "Category": "Pottkieker",
-    "Date": "2022-05-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Alcohol": true,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Gemüse Pilzeintopf (3,Gl,La,Sl,Sw)",
-    "Category": "Pottkieker",
-    "Date": "2022-05-06T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Fladenbrot (Gl,Ei,So,Se)",
     "Category": "CampusWorld",
     "Date": "2022-05-06T00:00:00Z",
@@ -107,5 +49,42 @@
     "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Hausgemachte Spinatknödel auf gebratenen Champigons mit Salat (5,Gl,Ei,La,Sl,Sw)",
+    "Category": "CampusVital",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "gebackenes Rotbarschfilet (Gl,Fi,La), Soße Tartar (1,3,9,Ei,La,Sf,Sw), Schnittlauchkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Fish": true
   }
 ]

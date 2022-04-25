@@ -1,15 +1,84 @@
 [
   {
-    "Name": "Milchreis (La), Apfelkompott (3)",
-    "Category": "Pottkieker",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei)",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-03T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Category": "CampusWorld",
+    "Date": "2022-05-03T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Soja Medaillons in Erdnusssoße (2,Gl,En,So,Sl), Zuckerschoten, Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-03T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Putenbraten (Sw), Koriandersalsa, Gurkensalat mit Chilli und schwarzem Sesam (3,5,Se,Sw), CousCous (Gl,Sl)",
+    "Category": "CampusSpezial",
     "Date": "2022-05-03T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Alcohol": true,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
