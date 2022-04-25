@@ -1,16 +1,32 @@
 [
   {
-    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
-    "Category": "Pastabar",
+    "Name": "dicke Bohnen, Blattspinat mit Hirtenkäse (La), Asiagemüse (So), Nusskartoffeln",
+    "Category": "Gemüsebar",
     "Date": "2022-04-25T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
+    "Category": "Pastabar",
+    "Date": "2022-04-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Fusilli (Gl)",
@@ -44,7 +60,7 @@
     "Vegan": true
   },
   {
-    "Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Karotten Rustica, Petersiliensoße (Gl,La)",
+    "Name": "Gefüllte Teigtaschen mit Kartoffel-Quarkfüllung (Gl,Ei,La), Karotten Rustica, Petersiliensoße (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2022-04-25T00:00:00Z",
     "Additives": {
@@ -56,6 +72,20 @@
     "PriceGuest": 6.1,
     "PriceStudent": 3.6,
     "Vegetarian": true
+  },
+  {
+    "Name": "Putengulasch (Gl,La,Sl), Nudeln (Gl)",
+    "Category": "CampusVital",
+    "Date": "2022-04-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Poultry": true
   },
   {
     "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
