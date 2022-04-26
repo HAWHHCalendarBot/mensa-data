@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Karotten Rustica, gerösteter Brokkoli",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-26T00:00:00Z",
-    "Additives": {
-      "6": "Geschwärzt",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-26T00:00:00Z",
@@ -42,6 +28,21 @@
     "Vegetarian": true
   },
   {
+    "Name": "Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Karotten Rustica, Blumenkohl Korma, dicke Bohnen (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-26T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-26T00:00:00Z",
@@ -54,11 +55,29 @@
     "Vegetarian": true
   },
   {
-    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
+    "Name": "Wok Pfanne mit  Ingwer Ananas (2,Gl,So,Sl,Sw), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-04-26T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Conchiglie (Gl)",
     "Category": "CampusVital",
     "Date": "2022-04-26T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 5.2,
@@ -67,7 +86,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Wok Pfanne mit Putenfleisch Ingwer Ananas (2,Gl,So,Sl,Sw), Basmatireis",
+    "Name": "Wok Pfanne mit Putenfleisch Ingwer Ananas (2,Gl,So,Sl,Sw), Reis",
     "Category": "CampusWorld",
     "Date": "2022-04-26T00:00:00Z",
     "Additives": {

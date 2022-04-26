@@ -28,10 +28,12 @@
     "Vegetarian": true
   },
   {
-    "Name": "Würziges Blumenkohl-Curry, Reis",
+    "Name": "Würziges Blumenkohl-Curry mit Edamame (So), Reis",
     "Category": "Highlight",
     "Date": "2022-04-27T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 3.3,
     "PriceGuest": 4.5,
     "PriceStudent": 2.0,
@@ -39,16 +41,16 @@
     "Vegan": true
   },
   {
-    "Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl), Brechbohnen, Kartoffelstampf (La)",
+    "Name": "Susländer grobe Bratwurst (8), Zwiebelsoße, zweierlei Bohnengemüse, kleine Ofenkartoffeln",
     "Category": "CampusWorld",
     "Date": "2022-04-27T00:00:00Z",
     "Additives": {
-      "8": "Phosphat",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "8": "Phosphat"
     },
     "PriceAttendant": 5.1,
     "PriceGuest": 6.3,
     "PriceStudent": 3.8,
+    "LactoseFree": true,
     "Pig": true
   },
   {
