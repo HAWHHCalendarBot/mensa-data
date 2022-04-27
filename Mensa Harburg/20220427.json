@@ -1,21 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-27T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Helle Gemüsesoße mit Kirschtomaten (Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,7 +15,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Nerone mit Schweinefleisch und Gemüse (La,Sl)",
+    "Name": "Pasta Nerone mit Schweinefleisch in pikanter Tomaten-Sahnesoße (La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-27T00:00:00Z",
     "Additives": {
@@ -36,6 +27,23 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Pig": true
+  },
+  {
+    "Name": "Grüne Bohnen mit Tomate (Sl), gebratener Paprika, Fingermöhren (La), Blattspinat Asia Style mit Quron (Gl,Ei,So,La,Nu,Sl), Gebratene Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-27T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Grießspeise (Gl,La), Apfelkompott (3)",
@@ -67,12 +75,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Reis mit Wok Gemüse und Tofuwürfeln (1,So,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
+    "Name": "Reis mit Wok Gemüse und Tofu (1,So,Sf,Sw), Rote Kokos-Currysoße scharf (Sl)",
     "Category": "CampusWorld",
     "Date": "2022-04-27T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
