@@ -40,40 +40,52 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hausgemachte Spinatknödel auf gebratenen Champigons mit Salat (5,Gl,Ei,La,Sl,Sw)",
-    "Category": "CampusVital",
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Fladenbrot (Gl,Ei,So,Se)",
+    "Category": "CampusWorld",
     "Date": "2022-05-06T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Frische Wok-Gemüsepfanne mit Karotten, Champignons, Paprika, Poree und Zwiebeln in süß saurer Soße (Sl,Sf,Sw), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Spicy Kartoffelspalten (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.9,
     "PriceGuest": 6.1,
     "PriceStudent": 3.6,
-    "Vegetarian": true
-  },
-  {
-    "Name": "gebackenes Rotbarschfilet (Gl,Fi,La), Soße Tartar (1,3,9,Ei,La,Sf,Sw), Schnittlauchkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-05-06T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
-    "Fish": true
+    "Beef": true
   }
 ]

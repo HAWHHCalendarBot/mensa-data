@@ -39,5 +39,67 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pikantes Rührei mit Libanesischen Kartoffeln (Ei,Se)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-02T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
+    "PriceAttendant": 3.6,
+    "PriceGuest": 4.8,
+    "PriceStudent": 2.3,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf)",
+    "Category": "CampusVital",
+    "Date": "2022-05-02T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.85,
+    "PriceGuest": 4.95,
+    "PriceStudent": 2.6,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hühnchen in Kokos Soße (So,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2022-05-02T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.2,
+    "PriceStudent": 3.0,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Pulled Pork Burger (3,Gl,Ei,La,Sf,Lu), mit Cole slaw (1,3,9,Ei,La,Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-02T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.35,
+    "PriceStudent": 4.0,
+    "Poultry": true
   }
 ]

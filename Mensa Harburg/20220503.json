@@ -44,48 +44,68 @@
     "Vegetarian": true
   },
   {
-    "Name": "Milchreis (La), Apfelkompott (3)",
+    "Name": "Curry-Gemüseeintopf (3,Sl,Sf)",
     "Category": "Pottkieker",
     "Date": "2022-05-03T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
-    "Category": "CampusWorld",
+    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "Beef": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
     "Date": "2022-05-03T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.2,
-    "PriceGuest": 5.4,
-    "PriceStudent": 2.9,
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Pig": true
   },
   {
-    "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), BBQ-Bohnen-Pfanne, Kräuterquark (La), Salzkartoffeln",
-    "Category": "CampusVital",
+    "Name": "Soja Medaillons in Erdnusssoße (2,Gl,En,So,Sl), Zuckerschoten, Reis",
+    "Category": "CampusKlassiker",
     "Date": "2022-05-03T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
+      "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
-    "Vegetarian": true
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
