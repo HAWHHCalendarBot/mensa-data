@@ -15,17 +15,6 @@
     "Fish": true
   },
   {
-    "Name": "Dummy",
-    "Category": "Pottkieker",
-    "Date": "2022-04-27T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-04-27T00:00:00Z",
@@ -40,7 +29,39 @@
     "Vegetarian": true
   },
   {
-    "Name": "All in one Pot - Bulgur/ Soja/Weißkohl/ Cranberries/ Ananas/ Baby Leaf/ Asia Remoulade/Cashews (1,2,Gl,So,Nu,Sl,Sf)",
+    "Name": "Mexicanische Bohnen-Tomatensuppe mit Rindfleisch und Brötchen (1,3,Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-27T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Rindfleischfrikadelle (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffel Selleriestampf (La,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-27T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 3.5,
+    "Beef": true
+  },
+  {
+    "Name": "All in one Pot - Bulgur/ Soja/Weißkohl/ Cranberries/ Ananas/ Leafmix/ Asia Remoulade/Erdnüsse (1,2,Gl,En,So,Sl,Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-04-27T00:00:00Z",
     "Additives": {
