@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, Spitzkohl, Chili con soja (So,Sl), Süßkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-04-28T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +14,12 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Paprika-Tomatensauce (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-28T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -39,14 +43,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchengeschnetzeltes Züricher Art (La,Sw), Spätzle (Gl,Ei)",
+    "Name": "Hähnchengeschnetzeltes Züricher Art (Gl,La,Sl), Spätzle (Gl,Ei)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-28T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.2,
     "PriceGuest": 6.4,
@@ -70,7 +74,7 @@
     "Vegan": true
   },
   {
-    "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Basmatireis",
+    "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Quinoa-Basmatireis",
     "Category": "CampusSpezial",
     "Date": "2022-04-28T00:00:00Z",
     "Additives": {
