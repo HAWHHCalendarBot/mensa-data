@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
-    "Date": "2022-04-29T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-04-29T00:00:00Z",
@@ -26,11 +15,27 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Reis",
+    "Name": "Rahmsuppe von weißen Bohnen mit Röstzwiebeln (Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Veganes Kichererbsencurry mit Soja (So), pikantes Möhrengemüse (Sl), Reis-Mix",
     "Category": "CampusVital",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.6,
@@ -53,7 +58,7 @@
     "Beef": true
   },
   {
-    "Name": "Hähnchenstreifen mit Wok-Gemüse Ingwer-Ananas (2,Gl,So,Sl,Sw), Reis-Mix",
+    "Name": "Schweinefiletstreifen mit Wok-Gemüse Ingwer Ananas (2,Gl,So,Sl,Sw), Reis-Mix",
     "Category": "CampusWorld",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
@@ -67,6 +72,6 @@
     "PriceGuest": 7.35,
     "PriceStudent": 4.85,
     "LactoseFree": true,
-    "Poultry": true
+    "Pig": true
   }
 ]
