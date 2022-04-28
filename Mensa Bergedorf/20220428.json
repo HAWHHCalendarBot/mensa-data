@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Pasta Boscaiola mit Mischpilzen (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-28T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Soja-Lauch-Soße (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-28T00:00:00Z",
@@ -28,7 +15,21 @@
     "Vegan": true
   },
   {
-    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw)",
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-04-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Karotten mit Koriander (La), Spitzkohl in Rahm (La), Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
     "Category": "Gemüsebar",
     "Date": "2022-04-28T00:00:00Z",
     "Additives": {
@@ -48,7 +49,23 @@
     "Vegetarian": true
   },
   {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl), Spaghetti (Gl)",
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck (2,3,8,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-28T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.5,
+    "PriceStudent": 2.15,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Chili sin carne mit Gemüse (So,Sl), Spaghetti (Gl)",
     "Category": "CampusVital",
     "Date": "2022-04-28T00:00:00Z",
     "Additives": {
@@ -63,7 +80,37 @@
     "Vegan": true
   },
   {
+    "Name": "Schweineschnitzel (1,Gl), Pilzsoße (3,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-04-28T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.2,
+    "Pig": true
+  },
+  {
     "Name": "Gebackener Camembert (Gl,La), Kartoffel- Gemüsepfanne (Sl,Sw), Schnittlauch-Schmand Dip (La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-04-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.6,
+    "PriceGuest": 7.8,
+    "PriceStudent": 5.3,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Kartoffel- Gemüsepfanne (Sl,Sw), Schnittlauch-Schmand Dip (La)",
     "Category": "CampusSpezial",
     "Date": "2022-04-28T00:00:00Z",
     "Additives": {
