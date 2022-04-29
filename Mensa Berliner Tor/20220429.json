@@ -37,17 +37,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Nudel-Rindhack-Auflauf (Gl,La)",
+    "Name": "Nudel-Hack-Auflauf (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true
+    "Beef": true,
+    "Pig": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Vanillesoße (La)",
@@ -62,6 +64,20 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Gemüsebällchen (Gl,Sl), Penne (Gl), Soße Arrabiata, Rucola",
+    "Category": "CampusVital",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Wir kochen was Sie lieben..., Rindfleischfrikadelle (Gl,Ei), Brechbohnen in Rahm (La), Salzkartoffeln",

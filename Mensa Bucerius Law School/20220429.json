@@ -1,6 +1,6 @@
 [
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli",
+    "Name": "Schwarzwurzeln (La), Erbsen, Broccoli, glasierte rote Beete",
     "Category": "Gemüsebar",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
@@ -12,21 +12,36 @@
     "Vegetarian": true
   },
   {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "vegane Spinatcremesoße (So,Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
+    "Name": "vegane Süßkartoffelrahmsuppe (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Schwedische Köttbullar oder vegetarische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren,  Salzkartoffeln",
     "Category": "CampusWorld",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
@@ -56,7 +71,7 @@
     "Poultry": true
   },
   {
-    "Name": "Wrap mit gegrillten Halloumi, Grillgemüse, Avacadodip und Rucola (Gl,La)",
+    "Name": "Wrap mit Mozzarella, Grillgemüse, Avacadocreme und Rucola gefüllt (Gl,La)",
     "Category": "CampusVital",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
