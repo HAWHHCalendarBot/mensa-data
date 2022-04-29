@@ -1,33 +1,5 @@
 [
   {
-    "Name": "Pasta \"Al Forno\" mit Paprika, Kidneybohnen und Sahne (Gl,La,Sl)",
-    "Category": "Pastabar",
-    "Date": "2022-04-29T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "buntem Gemüse in Sauce Hollandaise (Ei,La,Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-29T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
     "Name": "Asiatische Gemüsesoße mit Kokosmilch und Sojasahne (2,Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-29T00:00:00Z",
@@ -42,6 +14,37 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta \"Al Forno\" mit Paprika, Sojabohnen und Sahne (Gl,So,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "buntem Gemüse in Sauce Hollandaise (Ei,La,Sl), Kartoffel-Gemüsepfanne, gerösteter Blumenkohl mit Sesam (Se), Couscous-Gemüse in Tomatensoße (Sl), Zartweizen mit Kräutern (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Milchreis (La), Apfelkompott (3)",
@@ -87,7 +90,7 @@
     "Poultry": true
   },
   {
-    "Name": "Wrap mit gegrillten Halloumi, Grillgemüse, Avacadodip und Rucola (Gl,La)",
+    "Name": "Wrap mit gegrillten Halloumi, Grillgemüse, Avacadocreme und Blattsalatbeilage (Gl,La), Joghurt-Zitronen-Dip (La)",
     "Category": "CampusVital",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
