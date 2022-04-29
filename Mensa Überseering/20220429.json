@@ -1,11 +1,24 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
+    "Name": "glasierte rote Beete, Spitzkohl in Rahm (La), Kohlrabigemüse (La), Gemüsepfanne mit Käse (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Soja-Lauch-Soße (So,Sl), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -14,47 +27,24 @@
     "Vegan": true
   },
   {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Farfalle (Gl)",
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Gemüsepfanne Texas (Gl), Sesammöhrchen (Se)",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-29T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Germknödel (Gl,Ei,La), Beerenkompott (9)",
-    "Category": "Pottkieker",
-    "Date": "2022-04-29T00:00:00Z",
-    "Additives": {
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
+    "Pig": true
   },
   {
     "Name": "Kürbis-Ingwer-Suppe (5,La,Sl,Sw)",
@@ -72,26 +62,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Vollkornreis",
-    "Category": "CampusVital",
+    "Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
+    "Category": "CampusWorld",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.6,
-    "PriceStudent": 2.1,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "Beef": true,
+    "Pig": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Vollkornreis",
     "Category": "CampusKlassiker",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 5.6,
     "PriceGuest": 6.8,

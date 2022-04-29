@@ -1,21 +1,41 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-04-29T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta \"Al Forno\" mit Paprika, Kidneybohnen und Sahne (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "buntem Gemüse in Sauce Hollandaise (Ei,La,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Asiatische Gemüsesoße mit Kokosmilch und Sojasahne (2,Gl,So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-04-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,14 +44,12 @@
     "Vegan": true
   },
   {
-    "Name": "Kürbis-Ingwer-Suppe (5,La,Sl,Sw)",
+    "Name": "Milchreis (La), Apfelkompott (3)",
     "Category": "Pottkieker",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "3": "Antioxidationsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
@@ -55,7 +73,7 @@
     "Pig": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüsereis (Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-04-29T00:00:00Z",
     "Additives": {
