@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen, Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-    "Category": "Gemüsebar",
-    "Date": "2022-05-02T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegetarian": true
-  },
-  {
     "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-02T00:00:00Z",
@@ -27,15 +14,13 @@
     "Pig": true
   },
   {
-    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,Gl,So,Sw), Pasta (Gl)",
+    "Name": "Soja Bolognese mit Zucchini (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-02T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -44,7 +29,23 @@
     "Vegan": true
   },
   {
-    "Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
+    "Name": "Bunter Gemüsemix mit gelben Karotten, Erbsen, Pastinaken in Soja-Currysoße (Gl,So,Sf), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pastinaken-Süßkartoffelsuppe (Sl,Sf)",
     "Category": "Pottkieker",
     "Date": "2022-05-02T00:00:00Z",
     "Additives": {
