@@ -1,5 +1,18 @@
 [
   {
+    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-10T00:00:00Z",
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-10T00:00:00Z",
@@ -12,19 +25,6 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2022-05-10T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
   },
   {
     "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
@@ -40,19 +40,6 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Beef": true
-  },
-  {
-    "Name": "Lauchcreme Suppe (La,Sl)",
-    "Category": "Pottkieker",
-    "Date": "2022-05-10T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
   },
   {
     "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chillimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
@@ -92,17 +79,43 @@
     "Beef": true
   },
   {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En,So), Reis",
-    "Category": "CampusSpezial",
+    "Name": "Asia-Reis-Pot, Hähnchenstreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chillimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
+    "Category": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chillimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
     "Date": "2022-05-10T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.9,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.6,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "gebackener Hirtenkäse mit Sesamkruste (Gl,La,Se), Salat mit Babyspinat, Gemüse und Cranberries (3,5,Sw)",
+    "Category": "CampusVital",
+    "Date": "2022-05-10T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.7,
+    "PriceGuest": 7.9,
+    "PriceStudent": 5.4,
+    "Vegetarian": true
   }
 ]

@@ -1,10 +1,12 @@
 [
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La)",
+    "Name": "Bunter Gemüsemix mit gelben Karotten, Kohlrabi in Rahm (Gl,So), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La)",
     "Category": "Gemüsebar",
     "Date": "2022-05-02T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -12,27 +14,44 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Name": "Pasta Pesto Rosso mit Cherrytomaten (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2022-05-02T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Pommodori mit Hackklößchen (Gl,Ei,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-02T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "Beef": true,
     "LactoseFree": true,
     "Pig": true
   },
   {
-    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi",
+    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-05-02T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -70,16 +89,16 @@
     "Vegan": true
   },
   {
-    "Name": "Hühnchen in Kokos Soße (So,Sl)",
+    "Name": "Hühnchen in Kokos Soße (So,Sl), Reis",
     "Category": "CampusWorld",
     "Date": "2022-05-02T00:00:00Z",
     "Additives": {
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.2,
-    "PriceGuest": 5.2,
-    "PriceStudent": 3.0,
+    "PriceAttendant": 4.95,
+    "PriceGuest": 6.05,
+    "PriceStudent": 3.7,
     "LactoseFree": true,
     "Poultry": true
   },
