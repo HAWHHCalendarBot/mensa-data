@@ -1,18 +1,16 @@
 [
   {
-    "Name": "Pasta Broccoli-Gorgonzola (La,48), Conchiglie (Gl)",
+    "Name": "Spaghetti Aglio Olio mit Garnelen und Chili (Gl,Kr)",
     "Category": "Pastabar",
     "Date": "2022-05-09T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Kr": "Krebstiere und Krebstiererzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true
   },
   {
     "Name": "Schweinenackensteak, Ofengemüse mit Kartoffeln und Feta (La,48)",
@@ -27,5 +25,22 @@
     "PriceGuest": 8.0,
     "PriceStudent": 4.0,
     "Pig": true
+  },
+  {
+    "Name": "vegetarische Bratwurst (Ei), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
+    "Category": "vegetarische Bratwurst (Ei), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
+    "Date": "2022-05-09T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 13.2,
+    "PriceStudent": 4.1,
+    "LactoseFree": true,
+    "Vegetarian": true
   }
 ]
