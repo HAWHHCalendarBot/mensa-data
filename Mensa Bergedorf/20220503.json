@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-05-03T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Poultry": true
-  },
-  {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Vollkorn Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-05-03T00:00:00Z",
     "Additives": {
@@ -27,35 +14,49 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So), Gartengemüse",
+    "Name": "Pasta Mexico mit Mais, Kidneybohnen und Käse überbacken (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Kohlrabi in Rahm (Gl,So), Erbsen- Karotten Gemüse (La), gebratener Pak Choi (2,Gl,So)",
     "Category": "Gemüsebar",
     "Date": "2022-05-03T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Kartoffel-Gemüse-Gulasch (2,Gl,So,Sl)",
-    "Category": "CampusVital",
+    "Name": "Pasta Pommodori mit Hackklößchen und Käse überbacken (Gl,Ei,La,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-05-03T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.0,
-    "PriceGuest": 5.2,
-    "PriceStudent": 2.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "Pig": true
   },
   {
     "Name": "Capeletti mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
@@ -84,6 +85,19 @@
     "PriceGuest": 5.45,
     "PriceStudent": 3.1,
     "Vegetarian": true
+  },
+  {
+    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-03T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Beef": true
   },
   {
     "Name": "Veggie Burger mit Crispy Patty, Chipotlemajo, Römersalat und karamelisierte Zwiebeln (3,Gl,Ei,La)",
