@@ -14,21 +14,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-    "Category": "Gemüsebar",
-    "Date": "2022-05-04T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Maccaroni (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-04T00:00:00Z",
@@ -43,6 +28,22 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Pig": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Kartoffelgratin (Ei,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-04T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "6": "Geschwärzt",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Kürbis Mango Suppe (Sl)",
@@ -85,6 +86,21 @@
     "Vegetarian": true
   },
   {
+    "Name": "Hühnchen in Kokos Soße (So,Sl), Penne (Gl)",
+    "Category": "CampusWorld",
+    "Date": "2022-05-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
     "Name": "bockaufWOK..., doppelt gebackenes Schweinefleisch auf WOK-Gemüse Hunan (1,2,Gl,So), Curcumareis",
     "Category": "CampusSpezial",
     "Date": "2022-05-04T00:00:00Z",
@@ -101,12 +117,11 @@
     "Pig": true
   },
   {
-    "Name": "Putengeschnetzeltes Züricher Art (La), Spätzle (Gl,Ei), Apfel Karotten Salat (3,Sw)",
+    "Name": "Putengeschnetzeltes Züricher Art (La), Penne (Gl), Apfel Karotten Salat (3,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2022-05-04T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
