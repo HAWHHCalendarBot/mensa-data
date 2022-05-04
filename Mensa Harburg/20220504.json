@@ -1,20 +1,6 @@
 [
   {
-    "Name": "Bolognese (Sl), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-05-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,So,Sw), Vollkorn Penne (Gl)",
+    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,So,Sw), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-04T00:00:00Z",
     "Additives": {
@@ -29,12 +15,13 @@
     "Vegan": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Kohlrabigemüse, Basmatireis",
+    "Name": "gerösteter Blumenkohl mit Kokosmilch und Sesam (Se), frisches Gemüsepfanne mit Kidneybohnen (2,Sw), griechisches Gemüse (6), Kohlrabigemüse, Basmatireis",
     "Category": "Gemüsebar",
     "Date": "2022-05-04T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "6": "Geschwärzt",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -44,17 +31,18 @@
     "Vegan": true
   },
   {
-    "Name": "Kürbis Mango Suppe (Sl)",
+    "Name": "Mexicanischer Rindfleischeintopf \"Chilli con carne Art\" (2,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-05-04T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Geschmorter Fenchel mit gebackenen Zwiebeln (3,5,Sw), Knoblauch-Polenta",
