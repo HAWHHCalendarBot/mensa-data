@@ -1,24 +1,27 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Tortellini mit Käsefüllung (Gl,La), Basilikum Soja Pesto (So)",
     "Category": "Pastabar",
     "Date": "2022-05-05T00:00:00Z",
     "Additives": {
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
+    "Vegetarian": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
+    "Name": "Asiagemüse (So), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Auberginen-Zucchini-Gemüse (Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-05-05T00:00:00Z",
     "Additives": {
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -27,18 +30,33 @@
     "Vegan": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Capeletti mit Hackfleischfüllung (Gl,Ei,La,Sl), hausgemachte Tomatensoße",
     "Category": "Pastabar",
     "Date": "2022-05-05T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Beef": true
+  },
+  {
+    "Name": "Pasta Frutti di mare mit Spinat (Gl,Kr,La,Wt)",
+    "Category": "Pastabar",
+    "Date": "2022-05-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Kr": "Krebstiere und Krebstiererzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -85,5 +103,21 @@
     "PriceGuest": 6.8,
     "PriceStudent": 4.3,
     "Beef": true
+  },
+  {
+    "Name": "Deutscher Spargel, Hollandaise oder Butter (Ei,La,Sl,Sw), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-05T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Alcohol": true,
+    "Vegetarian": true
   }
 ]
