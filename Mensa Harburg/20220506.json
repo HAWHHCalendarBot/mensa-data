@@ -1,9 +1,29 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Polpette mit Rindfleisch und Gemüsen (Gl,Ei,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-05-06T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "helle Gemüsesoße mit Sojasahne (Gl,So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,11 +31,14 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Zucchinigemüse in Soja-Bärlauchsoße (Gl,So,Sl), Gartenbohnen mit Pfifferlingen, Sommergemüse, Artischoken-Oliven-Ragout mit Zucchini und Paprika (6), Pikantes Süßkartoffelragout in Tomtensojasoße mit Weiße Bohnen und Paprika (So,Sl)",
+    "Category": "Gemüsebar",
     "Date": "2022-05-06T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -68,6 +91,20 @@
     "PriceStudent": 3.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Putengeschnetzeltes Züricher Art (La), Teigwaren (Gl,Ei)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Poultry": true
   },
   {
     "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Spicy Kartoffelspalten (Gl)",

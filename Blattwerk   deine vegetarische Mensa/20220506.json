@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Pasta Broccoli-Tomate, Maccaroni (Gl)",
+    "Name": "Pasta Sauce Arabiata mit Tomate und Chili",
     "Category": "Pastabar",
     "Date": "2022-05-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -13,7 +11,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta in pikanter Pesto-Sahne-Soße (Gl,La,Nu,Sl), Maccaroni (Gl)",
+    "Name": "Pasta Sauce Pesto-Sahnesoße mit Sahne und Basilikum (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-05-06T00:00:00Z",
     "Additives": {
@@ -46,6 +44,19 @@
     "Vegetarian": true
   },
   {
+    "Name": "Vegane Paprikasuppe mit Kokosmilch und geräucherten Paprika (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), frisches Gemüse (2,Sw), rote Currysoße (Sl)",
     "Category": "CampusVital",
     "Date": "2022-05-06T00:00:00Z",
@@ -62,6 +73,39 @@
     "Vegetarian": true
   },
   {
+    "Name": "Salat von schwarzen Bohnen (3,Sl,Sw), Polentaschnitte mit Käse überbacken (La), Tomaten-Sonnenblumen-Kern-Salsa",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Salat von schwarzen Bohnen (3,Sl,Sw), Broccoli Nuggets (Gl,Ei,So,La,Sl), Tomaten-Sonnenblumen-Kern-Salsa",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Maultaschen auf Spinat, Bärlauch Frischkäsecreme (Gl,La)",
     "Category": "CampusKlassiker",
     "Date": "2022-05-06T00:00:00Z",
@@ -73,21 +117,5 @@
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Salat von schwarzen Bohnen mit veganen Gemüse-Nuggets (3,Gl,Sl,Sw), Tomaten-Sonnenblumen-Kern-Salsa",
-    "Category": "CampusSpezial",
-    "Date": "2022-05-06T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.3,
-    "PriceGuest": 7.5,
-    "PriceStudent": 5.0,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]
