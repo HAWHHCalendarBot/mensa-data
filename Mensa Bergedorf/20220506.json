@@ -1,18 +1,53 @@
 [
   {
-    "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Kartoffelgratin (Ei,La)",
+    "Name": "Prinzessbohnen, gebratene Zucchini, Sommergemüse (La), gebratene Spätzle mit Sauerkraut (2,3,8,Gl,Ei)",
     "Category": "Gemüsebar",
     "Date": "2022-05-06T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
+    "Name": "Asia Gemüse Mi Nudeln (2,Gl,Ei,So,La,Sl,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf)",
+    "Category": "CampusVital",
+    "Date": "2022-05-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hühnerfrikassee (Gl,La,Sw), Reis",
@@ -46,7 +81,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Kabeljaufiletin Eihülle auf Gemüse der Provence (Gl,Ei,Fi)",
+    "Name": "Gebratenes Kabeljaufiletin Eihülle auf Tomaten-Linsensoße (Gl,Ei,Fi)",
     "Category": "CampusSpezial",
     "Date": "2022-05-06T00:00:00Z",
     "Additives": {
