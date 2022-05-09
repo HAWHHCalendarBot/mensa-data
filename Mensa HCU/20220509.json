@@ -1,16 +1,45 @@
 [
   {
-    "Name": "Spaghetti Aglio Olio mit Garnelen und Chili (Gl,Kr)",
+    "Name": "Vegane Pasta Aglio Olio mit Tomate, Knoblauch und Chili (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Kr": "Krebstiere und Krebstiererzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Waldpilzcremesuppe mit Brot (1,3,Gl,So,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-09T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Schweinenackensteak, Ofengemüse mit Kartoffeln und Feta (La,48)",
