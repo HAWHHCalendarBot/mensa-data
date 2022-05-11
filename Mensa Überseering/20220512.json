@@ -97,17 +97,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kürbis-Koriander-Suppe (La,Sl)",
+    "Name": "Süßkartoffel-Erdnusssuppe (3,Gl,En,So,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-05-12T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "3": "Antioxidationsmittel",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Wrap mit Quorn-Tomaten- Kokos-Füllung, Rotkohlsalat, Rucola, Gurken und Koriander-Joghurt (2,3,5,Gl,Ei,La,Sw)",
@@ -128,8 +132,8 @@
     "Vegetarian": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
-    "Category": "Highlight",
+    "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Amazing Fries",
+    "Category": "CampusKlassiker",
     "Date": "2022-05-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
@@ -140,9 +144,9 @@
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
     "LactoseFree": true,
     "Pig": true
   },

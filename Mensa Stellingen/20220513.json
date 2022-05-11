@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
-    "Date": "2022-05-13T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Veganer Kokosmilchreis (So), Beerenkompott",
     "Category": "Pottkieker",
     "Date": "2022-05-13T00:00:00Z",
@@ -22,6 +11,35 @@
     "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Indischer Dal mit Linsen und Gemüse (So,Sf), Langkorn-Wildreis, Korianderdip (3,So)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-13T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Fusilli (Gl), Sauce Bolognese (Sl), geriebener Käse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Beef": true
   },
   {
     "Name": "Schweinenackensteak, Ofengemüse mit Kartoffeln und Feta (La,48)",
@@ -38,7 +56,7 @@
     "Pig": true
   },
   {
-    "Name": "Vegetarisches Schnitzel in Knusperpanade (Gl,Ei,La), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
+    "Name": "Vegetarische Schnitzel in Knusperpanade (Gl,Ei,La), Pilzrahmsoße (Gl,La,Sl), Pommes Frites (Sf), In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
     "Category": "Highlight",
     "Date": "2022-05-13T00:00:00Z",
     "Additives": {
@@ -54,7 +72,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Deutscher Spargel, Hollandaise (Ei,La,Sl,Sw), Salzkartoffeln",
+    "Name": "Deutscher Stangenspargel, Sauce Hollandaise (Ei,La,Sl,Sw), Petersilienkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2022-05-13T00:00:00Z",
     "Additives": {

@@ -1,13 +1,32 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
+    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Naanbrot (2,Gl,La)",
+    "Category": "CampusVital",
     "Date": "2022-05-20T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Kartoffelspalten (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Beef": true
   }
 ]

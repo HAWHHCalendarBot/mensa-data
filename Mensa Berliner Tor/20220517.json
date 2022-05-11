@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pommes Frites mit (Sf), Chili con Carne und Chedarkäse überbacken (1,2,La)",
+    "Name": "Pommes (Sf), Chili con Queso (1,2,La)",
     "Category": "Pastabar",
     "Date": "2022-05-17T00:00:00Z",
     "Additives": {
@@ -28,5 +28,36 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Gemüse Bulgur (Gl,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]

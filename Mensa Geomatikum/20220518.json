@@ -1,16 +1,19 @@
 [
   {
-    "Name": "Veganer Milchreis mit Kokosmilch, Rhabarberkompott (1,La)",
+    "Name": "Kartoffelsuppe (2,3,8,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf)",
@@ -28,7 +31,7 @@
     "Vegan": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Spicy Wedges (Gl)",
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
@@ -37,7 +40,6 @@
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
       "9": "Süßungsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },

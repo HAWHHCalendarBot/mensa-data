@@ -41,17 +41,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganer Milchreis mit Kokosmilch, Rhabarberkompott (1,La)",
+    "Name": "Kartoffelsuppe (2,3,8,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu,48)",
@@ -72,12 +75,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Gl,Ei,La,Sf,Se,Sw,48), Kartoffeltwister (Gl)",
+    "Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,3,9,Gl,Ei,La,Sf,Se,Sw,48), Kartoffeltwister (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
@@ -95,7 +97,7 @@
     "Beef": true
   },
   {
-    "Name": "Deutscher Spargel, Hollandaise (Ei,La,Sl,Sw), Drillinge",
+    "Name": "Deutscher Spargel, Hollandaise (Ei,La,Sl,Sw), Salzkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {

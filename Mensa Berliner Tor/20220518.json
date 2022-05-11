@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Pommes (Sf), Chili con Queso (1,2,La)",
+    "Category": "Pastabar",
+    "Date": "2022-05-18T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
     "Name": "Veganer Milchreis mit Kokosmilch, Rhabarberkompott (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-05-18T00:00:00Z",
@@ -11,5 +26,37 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu,48)",
+    "Category": "CampusVital",
+    "Date": "2022-05-18T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "#allinONEPOT..., Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-05-18T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]

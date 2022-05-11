@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Tagessuppe",
+    "Name": "Tomatensuppe mit Linsen (So,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-05-17T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
@@ -22,19 +25,6 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
-  },
-  {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
-    "Category": "CampusSpezial",
-    "Date": "2022-05-17T00:00:00Z",
-    "Additives": {
-      "En": "Erdnüsse und Erdnusserzeugnisse"
-    },
-    "PriceAttendant": 4.9,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.6,
-    "LactoseFree": true,
-    "Poultry": true
   },
   {
     "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Gemüse Bulgur (Gl,Sl)",
@@ -56,7 +46,20 @@
     "Vegan": true
   },
   {
-    "Name": "Deutscher Spargel, Hollandaise (Ei,La,Sl,Sw), Salzkartoffeln",
+    "Name": "Putenstreifen in pikanter Erdnuss-Curry-Soße (En), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Deutscher Stangenspargel, Sauce Hollandaise (Ei,La,Sl,Sw), Petersilienkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2022-05-17T00:00:00Z",
     "Additives": {

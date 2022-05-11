@@ -1,27 +1,34 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-05-11T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit tomatisiertem Gemüse und Hirtenkäse (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-05-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gemüsereis (2,Gl,So,Sl), Vegetarische Linsen-Moussaka (Gl,La,Sl,Sw), Ratatouille (Sl,Sw), Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-11T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -54,6 +61,26 @@
     "Vegetarian": true
   },
   {
+    "Name": "Matjesfilets (2,Fi,La), Matjessoße Hausfrauen Art (1,3,9,Ei,La,Sf,Sw), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-11T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "Fish": true
+  },
+  {
     "Name": "Hamburger Schmorkohl mit Rinderhack (Sl), Salzkartoffeln, Sour Cream (4,Ei,La,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-05-11T00:00:00Z",
@@ -84,6 +111,23 @@
     "PriceAttendant": 5.9,
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
+    "Alcohol": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Deutscher Spargel, Hollandaise (Gl,Ei,La,Sl,Sw), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-11T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
     "Alcohol": true,
     "Vegetarian": true
   }

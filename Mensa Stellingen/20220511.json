@@ -28,7 +28,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Chili sin carne (So,Sl), Reis, In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
+    "Name": "Chili mit Soja (So,Sl), Reis, In diesem Essenspreis sind 0,50  Social Lunch Spende enthalten",
     "Category": "Highlight",
     "Date": "2022-05-11T00:00:00Z",
     "Additives": {
@@ -42,28 +42,29 @@
     "Vegan": true
   },
   {
-    "Name": "Putensteak, Tomaten-Sonnenblumenkern-Salsa, grüne Bohnen, Röstkartoffeln",
+    "Name": "Putensteak, Kräuterquark (La), grüne Bohnen, Röstkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2022-05-11T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 5.9,
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
-    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Rindergulasch mit Paprika (La), Spätzle (Gl,Ei)",
+    "Name": "Rindergulasch mit Paprika, Spätzle (Gl,Ei)",
     "Category": "CampusKlassiker",
     "Date": "2022-05-11T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 6.1,
     "PriceGuest": 7.3,
     "PriceStudent": 4.8,
-    "Beef": true
+    "Beef": true,
+    "LactoseFree": true
   }
 ]
