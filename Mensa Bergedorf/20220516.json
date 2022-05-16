@@ -1,16 +1,31 @@
 [
   {
-    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
+    "Name": "Pasta in Tomaten-Sahnesoße und vegetarischem Geschnetzelten (Ei,La)",
     "Category": "Pastabar",
     "Date": "2022-05-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl,La), Bunter Rübenmix (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-16T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Fusilli (Gl)",
@@ -60,6 +75,20 @@
     "Vegan": true
   },
   {
+    "Name": "Kartoffel-Gemüseauflauf (Ei), Kräutersoße (Gl,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-16T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Pfefferrahmsoße (Gl,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2022-05-16T00:00:00Z",
@@ -75,16 +104,17 @@
     "Poultry": true
   },
   {
-    "Name": "Bauernfrühstück mit Katenschinken (2,3,Ei)",
-    "Category": "CampusKlassiker",
+    "Name": "Mini Frühlingsrollen (Gl,So), Asiagemüse (So)",
+    "Category": "CampusWorld",
     "Date": "2022-05-16T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.2,
-    "PriceGuest": 6.4,
-    "PriceStudent": 3.9,
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   }
 ]
