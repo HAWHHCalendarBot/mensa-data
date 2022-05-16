@@ -12,11 +12,10 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), Penne (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw)",
     "Category": "Pastabar",
     "Date": "2022-05-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -40,7 +39,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Indischer Dal mit roten Linsen, Kartoffeln und Spinat (So,Sf)",
+    "Name": "Spargelrahmsuppe mit Sahne (La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-16T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Indischer Dal mit Linsen, Kartoffeln und Spinat (So,Sf)",
     "Category": "CampusWorld",
     "Date": "2022-05-16T00:00:00Z",
     "Additives": {
@@ -86,6 +98,22 @@
     "PriceAttendant": 5.8,
     "PriceGuest": 7.0,
     "PriceStudent": 4.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Deutscher Spargel, Hollandaise (Ei,La,Sl,Sw), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-16T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Alcohol": true,
     "Vegetarian": true
   }
 ]

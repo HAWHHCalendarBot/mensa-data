@@ -1,17 +1,34 @@
 [
   {
-    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Maccaroni (Gl)",
+    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-05-16T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-16T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Mini Frühlingsrollen (Gl,So), Bratnudeln mit Gemüsestreifen (2,Gl,So,Se), scharfer Asia-Dip (1,Sf)",
@@ -30,5 +47,25 @@
     "PriceStudent": 3.6,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Spicy Wedges (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 7.2,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
