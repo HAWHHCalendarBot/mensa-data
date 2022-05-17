@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
-    "Category": "Pastabar",
-    "Date": "2022-05-17T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), gerösteter Brokkoli",
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Röstkartoffeln Provencial",
     "Category": "Gemüsebar",
     "Date": "2022-05-17T00:00:00Z",
     "Additives": {
@@ -27,7 +14,20 @@
     "Vegan": true
   },
   {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Farfalle (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-05-17T00:00:00Z",
     "Additives": {
@@ -42,6 +42,40 @@
     "Vegan": true
   },
   {
+    "Name": "Vollkornpasta in Tomaten-Sahnesoße und vegetarischem Geschnetzelten (Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,Gl,La,Sl,Sw,48)",
+    "Category": "Pastabar",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
     "Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat",
     "Category": "CampusKlassiker",
     "Date": "2022-05-17T00:00:00Z",
@@ -54,7 +88,45 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße",
+    "Name": "Hähnchenbrust in Kokos-Zitronengrassoße (2,Gl,So,Sl), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Fladenbrot (Gl,Ei,So,Se)",
+    "Category": "CampusWorld",
+    "Date": "2022-05-17T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2022-05-17T00:00:00Z",
     "Additives": {
