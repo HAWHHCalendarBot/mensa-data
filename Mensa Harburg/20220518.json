@@ -1,19 +1,19 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße mit Paprika,, Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern, (La,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
@@ -27,18 +27,19 @@
     "Beef": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "Spinat in Tomaten-Soja-Rahm, (So), Karotten,, Mangold mit gerösteten Walnüssen, (Nu), Prinzessbohnen,, gebratenes Gemüse aus dem Wok, (Sw), Gnocchi",
     "Category": "Gemüsebar",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Indische Kartoffel Suppe mit Räuchertofu (Gl,So,Sf)",
