@@ -53,25 +53,6 @@
     "Beef": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-05-18T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "9": "Süßungsmittel",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.15,
-    "PriceGuest": 5.25,
-    "PriceStudent": 2.9,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
     "Name": "Pennette mit Haselnuss Pesto und Rucola (2,Gl,Ei,La,Nu,48)",
     "Category": "CampusVital",
     "Date": "2022-05-18T00:00:00Z",
@@ -104,6 +85,25 @@
     "Beef": true
   },
   {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-18T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw)",
     "Category": "CampusWorld",
     "Date": "2022-05-18T00:00:00Z",
@@ -134,19 +134,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Salat von schwarzen Bohnen mit veganen Gemüse-Nuggets (3,Gl,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
+    "Name": "Salat von schwarzen Bohnen mit Gemüse-Nuggets (3,Gl,Ei,So,La,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
     "Category": "CampusSpezial",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.3,
     "PriceGuest": 7.5,
     "PriceStudent": 5.0,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
