@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Ratatouille (Sl), Gemüsemix Eskorial, glacierte rote Beete, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl)",
+    "Name": "Ratatouille (Sl), glacierte rote Beete, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl), Fenchelgemüse (Sl), Röstkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
@@ -26,20 +26,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Penne (Gl)",
+    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-18T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Pig": true
   },
   {
     "Name": "Spargelsuppe (Gl,La)",
@@ -77,6 +77,34 @@
     "PriceAttendant": 3.9,
     "PriceGuest": 5.1,
     "PriceStudent": 2.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Deutscher Spargel, zerlassene Butter (La), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-18T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Deutscher Spargel, Hollandaise (Ei,La,Sl,Sw), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-18T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Alcohol": true,
     "Vegetarian": true
   },
   {
