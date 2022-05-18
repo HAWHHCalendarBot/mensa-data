@@ -1,5 +1,29 @@
 [
   {
+    "Name": "Gemüsebar des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-25T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Grießspeise (Gl,La), Pflaumenkompott (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-05-25T00:00:00Z",
@@ -14,18 +38,34 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ofengemüse mit Kartoffeln und Feta (La,48), Tomaten-Sonnenblumenkern-Salsa",
-    "Category": "CampusKlassiker",
+    "Name": "Canneloni mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
+    "Category": "CampusWorld",
     "Date": "2022-05-25T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.2,
-    "Vegetarian": true
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Beef": true
+  },
+  {
+    "Name": "Wok Pfanne mit Schweinefleisch und Kokos-Teriyaki-Sauce (2,Gl,So), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-05-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Grillgemüse Burger (3,Gl,Se,Sw), Pommes Frites (Sf)",
@@ -43,20 +83,5 @@
     "PriceStudent": 4.3,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Frisches Wokgemüse mit Hähnchenstreifen, Soße Süss&amp;Sauer,Ananas und Basmaitreis (2,Gl,So)",
-    "Category": "CampusWorld",
-    "Date": "2022-05-25T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
-    "LactoseFree": true,
-    "Poultry": true
   }
 ]
