@@ -1,10 +1,9 @@
 [
   {
-    "Name": "Pasta Provencial (Sw), Eliche (Gl)",
+    "Name": "Pasta Provencial (Sw)",
     "Category": "Pastabar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -14,7 +13,7 @@
     "Vegan": true
   },
   {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Eliche (Gl)",
+    "Name": "Spinatsahnesoße (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
@@ -28,21 +27,38 @@
     "Vegetarian": true
   },
   {
-    "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La)",
-    "Category": "Gemüsebar",
+    "Name": "Vegane Karottensuppe mit Kokosmilch und Tandoorigewürz (Sl)",
+    "Category": "Pottkieker",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Asiatischer Reisnudelsalat mit Tofu, Wasabi Dip, Erdnüssen und Röstzwiebel (1,2,3,5,Gl,Ei,En,So,Sf,Sw)",
+    "Category": "CampusVital",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {

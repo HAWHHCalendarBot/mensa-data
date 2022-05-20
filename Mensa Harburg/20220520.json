@@ -1,21 +1,11 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-05-20T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Belugalinsenragout mit Kokosmilch, (So), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,11 +14,41 @@
     "Vegan": true
   },
   {
-    "Name": "Beerenkaltschale mit Grießschnitte (9,Gl,La)",
+    "Name": "Ragout Bianco mit Rindfleisch und Edamebohnen, (La,Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Spargel in Butter, (La), frisches Gemüse aus dem Wok, (2,Sw), Kichererbsenragout mit Kokosmilch, Ananas, Chili und Nüssen, (Nu,Sl), Reis-Tomaten-Gemüsepfanne, (Sl), Salzkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Grießspeise (Gl,La), Heidelbeersauce (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "9": "Süßungsmittel",
+      "1": "Farbstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -38,18 +58,34 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Naanbrot (2,Gl,La)",
+    "Name": "Veganes Kichererbsencurry,, pikantes Möhrengemüse, (Sl), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pennette mit Haselnuss Pesto (2,Gl,Ei,La,Nu,48)",
+    "Category": "CampusVital",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
     "Vegetarian": true
   },
   {
@@ -68,19 +104,18 @@
     "Beef": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",
+    "Name": "Vegetarisches Schnitzel in Knusperpanade (Gl,Ei,La), Wirsing in Chilicreme (Gl,La,Sl), gebratene Drillinge",
     "Category": "CampusSpezial",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 6.6,
-    "PriceGuest": 7.8,
-    "PriceStudent": 5.3,
-    "Fish": true,
-    "LactoseFree": true
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.45,
+    "PriceStudent": 3.95,
+    "Vegetarian": true
   }
 ]

@@ -1,26 +1,40 @@
 [
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
+    "Name": "Fussili mit weißem Spargel (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Soja-Lauch-Soße (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
-    "Category": "Gemüsebar",
+    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -29,8 +43,8 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Strozzapreti (Gl)",
-    "Category": "Pastabar",
+    "Name": "glasierte rote Beete, Spitzkohl in Rahm (La), Spanisches Pfannengemüse, Pizza Schinken Champignon (2,3,8,Gl,La)",
+    "Category": "Gemüsebar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
@@ -45,17 +59,54 @@
     "Pig": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl)",
+    "Name": "Asiatisches Gemüse mit Mi-Nudeln (2,Gl,Ei,So,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Reis",
     "Category": "CampusVital",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.05,
-    "PriceGuest": 4.15,
-    "PriceStudent": 1.8,
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.15,
+    "PriceGuest": 5.25,
+    "PriceStudent": 2.9,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl)",
@@ -71,20 +122,6 @@
     "PriceGuest": 5.55,
     "PriceStudent": 3.2,
     "Beef": true
-  },
-  {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi)",
-    "Category": "CampusSpezial",
-    "Date": "2022-05-20T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 5.1,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.9,
-    "Fish": true,
-    "LactoseFree": true
   },
   {
     "Name": "Shakshuka mit Hirtenkäse (La), grünem Hummus (Se), Baguette (Gl)",

@@ -26,11 +26,31 @@
     "Vegan": true
   },
   {
-    "Name": "Zuckerschoten (La), Broccoli, Spanisches Pfannengemüse",
+    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Vollkorn Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spitzkohl in Rahm (La), Champignon-Zwiebel Gemüse (La,Nu,Sw), Kohlrabi-Karotten Gemüse (2,Gl,So), Gemüse Bulgur mit Falafel (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -55,18 +75,35 @@
     "Vegan": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Naanbrot (2,Gl,La)",
+    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Kaiserbrötchen (Gl)",
     "Category": "CampusVital",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Thüringer Bratwurst (8,Sl,Sf,35), Sauerkraut mit Speck (2,3,8,Sl), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "Pig": true
   }
 ]

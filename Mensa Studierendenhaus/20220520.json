@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
+    "Name": "Kokos-Zitronengras-Soße mit Zucchini, Mie-Nudeln (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
@@ -46,15 +46,22 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "Kartoffel (2,3,8,Sl), Kürbis-Ingwer-Suppe (5,La,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2022-05-20T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
     "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Naanbrot (2,Gl,La)",
@@ -85,6 +92,34 @@
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
     "Beef": true
+  },
+  {
+    "Name": "Deutscher Spargel, zerlassene Butter (La), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Deutscher Spargel, Hollandaise (Ei,La,Sl,Sw), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Alcohol": true,
+    "Vegetarian": true
   },
   {
     "Name": "Gebratenes Seelachsfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",

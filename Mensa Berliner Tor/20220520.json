@@ -1,17 +1,90 @@
 [
   {
-    "Name": "Beerenkaltschale mit Grießschnitte (9,Gl,La)",
+    "Name": "Tomaten-Sahnesoße (La)",
+    "Category": "Pastabar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Broccoli-Gemüse, vegan, Blumenkohl, gebratene Zucchini mit Lauch und Sellerie (Sl,Sw), buntem Gemüse",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Bratnudeln mit Gemüsestreifen und Tofu (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Nudelauflauf mit Geflügel und Käsesauce gratiniert (1,Gl,La,48)",
+    "Category": "Pastabar",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
+  },
+  {
+    "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-05-20T00:00:00Z",
     "Additives": {
-      "9": "Süßungsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
+    "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Hähnchenkeule (Sf), Zwiebelsoße (Sl), Gemüse Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-20T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Naanbrot (2,Gl,La)",
