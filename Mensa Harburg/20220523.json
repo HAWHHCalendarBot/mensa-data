@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini, (Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-05-23T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -13,34 +14,35 @@
     "Pig": true
   },
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La), Perlgraupen (Gl)",
+    "Name": "Bunter Gemüsemix,, Südländisches Linsengemüse in Tomatensauce, (Sl), Chili-Kartoffeln aus dem Ofen,, Gemüsepfanne aus dem Wok, (Sf), Perlgraupen mit Gemüse (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-05-23T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi",
+    "Name": "Vegane Sahnesoße mit getrockneten Tomaten und Basilikum, (2,5,So,Sw), Gnocchi",
     "Category": "Pastabar",
     "Date": "2022-05-23T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (9)",
