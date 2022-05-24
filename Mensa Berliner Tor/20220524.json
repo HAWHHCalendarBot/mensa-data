@@ -1,10 +1,79 @@
 [
   {
-    "Name": "Süßer Quarkauflauf (Gl,Ei,La), Vanillesoße (La)",
+    "Name": "Bratreis",
+    "Category": "Pastabar",
+    "Date": "2022-05-24T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Anti Pasti Gemüse, vegan, Blumenkohl in Rahm (Gl,La), Broccoli, Karotten (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Penne mit Kräuterrahmsauce (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-05-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nudelauflauf mit Geflügel und Käsesauce gratiniert (1,Gl,La,48)",
+    "Category": "Pastabar",
+    "Date": "2022-05-24T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
+  },
+  {
+    "Name": "Couscousbällchen mit Käsehaube (1,Gl,La,Sl,48)",
+    "Category": "Pastabar",
+    "Date": "2022-05-24T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-05-24T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -30,7 +99,7 @@
     "Vegan": true
   },
   {
-    "Name": "#specialBURGER..., Alpen Cheese Burger VEGGIE... (Kürbis-Patty / Rösti / Gouda / Weißkraut / Zwiebeln) (1,2,3,9,Gl,Ei,La,Sf,Se,48), Beilage (Sf)",
+    "Name": "#specialBURGER..., Alpen Cheese Burger VEGGIE... (Kürbis-Patty / Rösti / Gouda / Weißkraut / Zwiebeln) (1,2,3,9,Gl,Ei,La,Sf,Se,48), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-05-24T00:00:00Z",
     "Additives": {
@@ -68,7 +137,7 @@
     "Pig": true
   },
   {
-    "Name": "#specialBURGER..., Alpen Cheese Burger (100%Rind / Rösti / Gouda / Weißkraut / Zwiebeln) (1,2,3,9,Gl,Ei,La,Sf,Se,48), Beilage (Sf)",
+    "Name": "#specialBURGER..., Alpen Cheese Burger (100%Rind / Rösti / Gouda / Weißkraut / Zwiebeln) (1,2,3,9,Gl,Ei,La,Sf,Se,48), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-05-24T00:00:00Z",
     "Additives": {
