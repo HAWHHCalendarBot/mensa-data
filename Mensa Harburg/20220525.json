@@ -1,21 +1,40 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini, (La), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
+    "Name": "Vegane Champignon Lauchpfanne, (So,Sw), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "gebratene Paprika, (5,Sw), Blumenkohl gebraten,, Broccoli,, Belugalinsen mit Pak Choi, Ananas und Mandeln, (Nu), Gemüsepfanne mit Spargel, Bohnen und Paprika;, Reis",
     "Category": "Gemüsebar",
     "Date": "2022-05-25T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-05-25T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "5": "Geschwefelt",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,24 +43,11 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-05-25T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Grießspeise (Gl,La), Pflaumenkompott (1,La)",
+    "Name": "Grießspeise (Gl,La), Beerenkompott (9)",
     "Category": "Pottkieker",
     "Date": "2022-05-25T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
+      "9": "Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -51,19 +57,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Canneloni mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
-    "Category": "CampusWorld",
+    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Couscous (Gl,Sl)",
+    "Category": "CampusVital",
     "Date": "2022-05-25T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.3,
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
-    "Beef": true
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Wok Pfanne mit Schweinefleisch und Kokos-Teriyaki-Sauce (2,Gl,So), Reis",
