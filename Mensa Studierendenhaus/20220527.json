@@ -34,15 +34,16 @@
     "Pig": true
   },
   {
-    "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La)",
+    "Name": "Grillgemüse mit Kartoffeln und Feta (La,48), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La)",
     "Category": "Gemüsebar",
     "Date": "2022-05-27T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
@@ -55,15 +56,31 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "mediterane Tomaten-Gemüse-Suppe (Sw)",
     "Category": "Pottkieker",
     "Date": "2022-05-27T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Grießspeise (Gl,La), Pflaumenkompott (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-27T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisnudeln (2,Gl,So,Sl)",
