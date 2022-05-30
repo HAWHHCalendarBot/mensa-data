@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
-    "Date": "2022-05-31T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Milchreis (La), Rote Grütze",
     "Category": "Pottkieker",
     "Date": "2022-05-31T00:00:00Z",
@@ -21,6 +10,22 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pikante Asia-Gemüse-Suppe Thai Red (2,Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-05-31T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Thüringer Bratwurst (8,Sl,Sf,35), Karotten mit Kräuterrahm (Gl,La), Stampfkartoffeln (La)",
@@ -68,19 +73,17 @@
     "Poultry": true
   },
   {
-    "Name": "Deutscher Stangenspargel, Sauce Hollandaise (Ei,La,Sl,Sw), Petersilienkartoffeln",
+    "Name": "Deutscher Stangenspargel, Sauce Hollandaise (Ei,La,Sl), Petersilienkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2022-05-31T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 6.2,
     "PriceGuest": 7.4,
     "PriceStudent": 4.9,
-    "Alcohol": true,
     "Vegetarian": true
   }
 ]
