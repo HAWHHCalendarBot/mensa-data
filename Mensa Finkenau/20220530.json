@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kürbisgemüse, Kohlrabigemüse, Karotten, Kräuterkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-05-30T00:00:00Z",
     "Additives": {},
@@ -11,11 +11,15 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Spinat,Tomaten,Knoblauch und Basilikum (2,5,Gl,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-05-30T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -39,10 +43,12 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl, Reis",
+    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl (Sl), Reis",
     "Category": "CampusVital",
     "Date": "2022-05-30T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 4.0,
     "PriceGuest": 5.2,
     "PriceStudent": 2.7,
