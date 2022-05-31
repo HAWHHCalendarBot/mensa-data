@@ -1,5 +1,16 @@
 [
   {
+    "Name": "Prinzessbohnen, gebratene Zucchini, Blumenkohl, Gemüsemix Balance",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-31T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Pasta Provencial (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-05-31T00:00:00Z",
@@ -12,6 +23,20 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta Saporita mit Rindfleisch und Paprika (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-05-31T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
   },
   {
     "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
@@ -29,22 +54,6 @@
     "Beef": true
   },
   {
-    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-05-31T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.75,
-    "PriceGuest": 4.85,
-    "PriceStudent": 2.5,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
     "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La,48)",
     "Category": "CampusWorld",
     "Date": "2022-05-31T00:00:00Z",
@@ -58,6 +67,22 @@
     "PriceGuest": 5.3,
     "PriceStudent": 2.8,
     "Vegetarian": true
+  },
+  {
+    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-05-31T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Gebackene Blattspinat-Quiche mit frischem Blattsalat (2,3,5,Gl,Ei,La,Sw), Joghurt-Limetten-Dip (3,La)",
@@ -78,7 +103,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Spicy Chicken Burger mit Wakame-Algensalat und Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf,Se)",
+    "Name": "Spicy Chicken Burger mit Wakame-Algensalat und Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf,Se), Kroketten (Gl)",
     "Category": "CampusSpezial",
     "Date": "2022-05-31T00:00:00Z",
     "Additives": {
@@ -93,9 +118,9 @@
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.55,
-    "PriceGuest": 6.65,
-    "PriceStudent": 4.3,
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
     "LactoseFree": true,
     "Poultry": true
   }

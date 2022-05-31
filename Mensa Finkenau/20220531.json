@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Broccoli, gerösteter Blumenkohl",
-    "Category": "Gemüsebar",
-    "Date": "2022-05-31T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta mit Auberginen-Tomatensauce (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-05-31T00:00:00Z",
@@ -23,6 +12,23 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Broccoli, gerösteter Blumenkohl, gebratene Champignons (Sw), Veganes Kichererbsencurry (2,Gl,So,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-05-31T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Milchreis (La), Rhabarberkompott (1,La)",
