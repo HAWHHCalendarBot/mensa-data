@@ -1,19 +1,48 @@
 [
   {
-    "Name": "Pasta All`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (Gl)",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2022-06-01T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Broccoli (La), spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-01T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta All`Amatriciana mit Putensalami Tomaten (1,2,3,Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-01T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Pig": true
+    "Poultry": true
   },
   {
     "Name": "Spaghetti mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La,48)",
