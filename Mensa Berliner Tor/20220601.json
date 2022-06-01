@@ -1,5 +1,45 @@
 [
   {
+    "Name": "Gemüse Reis mit Tofu (So)",
+    "Category": "Pastabar",
+    "Date": "2022-06-01T00:00:00Z",
+    "Additives": {
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Penne mit Tomatenrahmsauce (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-06-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Karotten, vegan, Mexikanisches Gemüse (Sl), Gemüsecouscous (Gl,Sl), Blattspinat in Rahm (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pommes (Sf), Chili con Queso (1,2,La)",
     "Category": "Pastabar",
     "Date": "2022-06-01T00:00:00Z",
@@ -15,19 +55,20 @@
     "Beef": true
   },
   {
-    "Name": "Mohn Schupfnudeln (Gl,Ei,La), Pflaumenkompott (1,La)",
-    "Category": "Pottkieker",
+    "Name": "Nudelauflauf mit Rind und Käsesauce gratiniert (1,Gl,La,48)",
+    "Category": "Pastabar",
     "Date": "2022-06-01T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "Ei": "Ei und Eierzeugnisse",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "Vegetarian": true
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
   },
   {
     "Name": "Spätzle mit Linsen (5,Gl,Ei,Sl,Sw), Apfel Karotten Salat (3,Sw)",
@@ -62,6 +103,19 @@
     "PriceAttendant": 4.5,
     "PriceGuest": 5.7,
     "PriceStudent": 3.2,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pizza Margherita (Gl,La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-06-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "Vegetarian": true
   },
   {
