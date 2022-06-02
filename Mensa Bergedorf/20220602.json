@@ -1,9 +1,23 @@
 [
   {
-    "Name": "gerösteter Broccoli, Spitzkohl",
+    "Name": "Kohlrabi-Karotten Gemüse (La), Spinat natur, Spitzkohl",
     "Category": "Gemüsebar",
     "Date": "2022-06-02T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vollkornnudeln mit veganem Pesto und Cherrytomaten (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
@@ -11,7 +25,7 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
+    "Name": "Vollkornpasta Pollo (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-06-02T00:00:00Z",
     "Additives": {
@@ -24,18 +38,34 @@
     "Poultry": true
   },
   {
-    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2022-06-02T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pasta All`Amatriciana mit Putensalami Tomaten (1,2,3,Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-02T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
@@ -51,6 +81,68 @@
     "PriceAttendant": 4.2,
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Tzatziki (1,3,So,Sf), Krautsalat (3,5,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2022-06-02T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenbrust Hawaii (Gl,La,Sf), Currysoße (Gl,La,Sf), Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-06-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Poultry": true
+  },
+  {
+    "Name": "Putengulasch (Gl,La,Sl), Reis",
+    "Category": "CampusVital",
+    "Date": "2022-06-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.85,
+    "PriceGuest": 6.05,
+    "PriceStudent": 3.55,
+    "Poultry": true
+  },
+  {
+    "Name": "Vegetarische Nuggets  Hawaii (Gl,La,Sf), Currysoße (Gl,La,Sf), Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-06-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
     "Vegetarian": true
   }
 ]
