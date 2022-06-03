@@ -13,20 +13,6 @@
     "Vegan": true
   },
   {
-    "Name": "Cajun Gemüse (Sl), buntem Gemüse, Blattspinat in Rahm (Gl,La)",
-    "Category": "Gemüsebar",
-    "Date": "2022-06-03T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
     "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-03T00:00:00Z",
@@ -41,6 +27,24 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Orientalisches Kichererbsengemüse (2,5,Sw), Blattspinat in Sojarahm (So), Paprikagemüse mit Mango und Kokosmilch, Gemüsecouscous (Gl,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-03T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegetarian": true
   },
   {
     "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
