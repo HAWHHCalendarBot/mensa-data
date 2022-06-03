@@ -1,21 +1,26 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-06-03T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta Nerone mit Schweinefleisch, (La,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-03T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
+  },
+  {
+    "Name": "Süßkartoffelragout in Tomatensoße mit Gemüse, (So,Sl), Ofengemüse mit Sesam,, Schwarzwurzeln asiatischer Style,, Couscous mit Tomatenstückchen, (Gl,Sl), Mais natur",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,11 +29,27 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Zucchinigemüse in Soja-Rahm mit Basilikum, Minze und Mandeln, (So,Nu), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-03T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Zucchinigemüse in Soja-Rahm mit Basilikum, Minze und Mandeln, (So,Nu), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -69,7 +90,7 @@
     "Pig": true
   },
   {
-    "Name": "Linsenbolognese in pikanter Soße (Sl,Sw), Penne (Gl)",
+    "Name": "Linsenbolognese in pikanter Soße, (Sl,Sw), Nudeln nach Auswahl (Gl)",
     "Category": "CampusVital",
     "Date": "2022-06-03T00:00:00Z",
     "Additives": {
