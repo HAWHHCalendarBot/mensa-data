@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
-    "Date": "2022-06-08T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-06-08T00:00:00Z",
@@ -24,7 +13,22 @@
     "Vegetarian": true
   },
   {
-    "Name": "Würziges Blumenkohl-Curry mit Edamame (So), Reis",
+    "Name": "Rahmsuppe von weißen Bohnen mit Räuchertofu (Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Würziges Blumenkohl-Ragout mit Edamame (So), Reis",
     "Category": "Highlight",
     "Date": "2022-06-08T00:00:00Z",
     "Additives": {

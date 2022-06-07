@@ -1,21 +1,13 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Bratkartoffeln, Süßkartoffeln, Linsengemüse (3,5,Sl,Sw), Broccoli",
     "Category": "Gemüsebar",
     "Date": "2022-06-07T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,12 +16,25 @@
     "Vegan": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
+    "Name": "Pasta mit Cherrytomaten und Mozarella (Gl,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2. Stück Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La), kalte Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-06-07T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -40,7 +45,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Spaghetti mit Ratatouillegemüse und Hirtenkäse (Gl,La,Sw)",
+    "Name": "Pasta mit Ratatouillegemüse und Hirtenkäse (Gl,La,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-06-07T00:00:00Z",
     "Additives": {

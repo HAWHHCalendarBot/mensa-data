@@ -1,10 +1,9 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), gerösteter Brokkoli",
+    "Name": "Gelbe und Grüne Zucchini mit Tomaten, Fenchelgemüse (Sl), gerösteter Brokkoli",
     "Category": "Gemüsebar",
     "Date": "2022-06-07T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -14,33 +13,33 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Spinat- Sahnesoße (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-06-07T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
+    "Vegetarian": true
   },
   {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Canneloni mit Hackfleischfüllung in Tomatensoße (Gl,Ei,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-06-07T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true
   },
   {
     "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
@@ -53,6 +52,21 @@
     "PriceGuest": 5.3,
     "PriceStudent": 2.8,
     "Vegetarian": true
+  },
+  {
+    "Name": "Coq au vin - Huhn in Rotwein gegart (Sw), Penne (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-06-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.2,
+    "Alcohol": true,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
