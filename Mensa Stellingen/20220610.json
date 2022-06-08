@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
-    "Date": "2022-06-10T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Veganer Milchreis mit Kokosmilch (So), Rote Grütze",
     "Category": "Pottkieker",
     "Date": "2022-06-10T00:00:00Z",
@@ -24,7 +13,22 @@
     "Vegan": true
   },
   {
-    "Name": "Penne-Nudeln mit Haselnuss-Pesto und Rucola (2,Gl,Ei,La,Nu,48)",
+    "Name": "Spargelcremesuppe (Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Penne-Nudeln mit Karotten, Haselnuss-Pesto und Rucola (2,Gl,Ei,La,Nu,48)",
     "Category": "CampusVital",
     "Date": "2022-06-10T00:00:00Z",
     "Additives": {
