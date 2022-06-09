@@ -1,5 +1,36 @@
 [
   {
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffel-Gemüse-Gulasch mit Taco Chips (2,Gl,So,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Pizza Margherita (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2022-06-13T00:00:00Z",
@@ -11,6 +42,37 @@
     "PriceGuest": 6.7,
     "PriceStudent": 4.2,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pizza Salami (1,2,3,Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Pig": true
+  },
+  {
+    "Name": "Pizza Dhaka (1,Gl,Nu)",
+    "Category": "CampusWorld",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse (2,Gl,Ei,La,48)",
