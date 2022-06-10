@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Pommes (Sf), Chili con Cheese (1,2,La)",
+    "Category": "Pastabar",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
     "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-06-13T00:00:00Z",
@@ -29,6 +44,36 @@
     "PriceStudent": 2.8,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "#rocktheWOK..,, Tofu Geschnetzeltes aus dem WOK mit frischen Gemüse, Ananas und Soja Soße (2,Gl,So,Sw), Basmatireis",
+    "Category": "CampusVital",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.35,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.05,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Putenbrust im Ganzen gebraten, Champignonrahmsoße (Gl,La,Sl), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Poultry": true
   },
   {
     "Name": "Pizza Margherita (Gl,La)",
