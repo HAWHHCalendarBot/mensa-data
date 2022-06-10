@@ -1,27 +1,29 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse, Kräuterrösti, Buttererbsen (La), Karotten (La)",
     "Category": "Gemüsebar",
     "Date": "2022-06-10T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-10T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Spinat-Sahnesauce (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
@@ -51,21 +53,6 @@
     "PriceGuest": 5.3,
     "PriceStudent": 2.8,
     "Vegetarian": true
-  },
-  {
-    "Name": "Spanische Paella mit gebackener Hähnchenkeule , Meeresfrüchten und Gemüse (Kr,Sl,Wt)",
-    "Category": "CampusWorld",
-    "Date": "2022-06-10T00:00:00Z",
-    "Additives": {
-      "Kr": "Krebstiere und Krebstiererzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
-    },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "LactoseFree": true,
-    "Poultry": true
   },
   {
     "Name": "Würziger Spießbraten mit Schmorzwiebeln (Sf), Bratensoße (Sl), Kartoffel - Selleriestampf (La,Sl,Sw)",
