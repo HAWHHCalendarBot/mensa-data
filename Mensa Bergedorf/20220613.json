@@ -1,45 +1,44 @@
 [
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
-    "Category": "Pastabar",
+    "Name": "Bunter Gemüsemix mit gelben Karotten, Prinzessbohnen, Chili-Kartoffeln aus dem Ofen, Gemüse Bulgur (Gl,Sl)",
+    "Category": "Gemüsebar",
     "Date": "2022-06-13T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
   },
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La)",
-    "Category": "Gemüsebar",
+    "Name": "Indisches Buttercurry mit Nudeln (Ei,La)",
+    "Category": "Pastabar",
     "Date": "2022-06-13T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Contadino mit Rindfleisch (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi",
-    "Category": "Pastabar",
-    "Date": "2022-06-13T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Beef": true
   },
   {
     "Name": "Gemüsepfanne Thai Red (2,Gl,So,Sl,Sw)",
