@@ -24,21 +24,48 @@
     "Vegan": true
   },
   {
-    "Name": "Fish and Chips mit Pommes und Remoulade (2,3,Gl,Ei,Fi,La,Sf)",
-    "Category": "CampusWorld",
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
+    "Category": "Pottkieker",
     "Date": "2022-06-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "Ei": "Ei und Eierzeugnisse",
-      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 6.3,
-    "PriceGuest": 7.5,
-    "PriceStudent": 5.0,
-    "Fish": true
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Meins - Kashke-Bademjan Persischer Auberginen Dip (3,So,Nu), Gemüse Bulgur (Gl,Sl), Weizenfladen (Gl)",
+    "Category": "Highlight",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.05,
+    "PriceGuest": 6.15,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Poultry": true
   }
 ]
