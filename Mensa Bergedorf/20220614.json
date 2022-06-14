@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-14T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Poultry": true
-  },
-  {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-06-14T00:00:00Z",
     "Additives": {
@@ -27,12 +14,13 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Gartengemüse, gebratener Pak Choi (2,Gl,So)",
+    "Name": "Cremespinat (So,Sl), Gartengemüse, gebratener Pak Choi (2,Gl,So), Asiagemüse (So)",
     "Category": "Gemüsebar",
     "Date": "2022-06-14T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -40,6 +28,22 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Cannelotimit Hackfleischfüllung (Gl,Ei,La,Sl), Waldpilzsoße (3,Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-14T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
   },
   {
     "Name": "Geschmorter Fenchel mit gebackenen Zwiebeln (3,5,Sw), Knoblauch-Polenta",
