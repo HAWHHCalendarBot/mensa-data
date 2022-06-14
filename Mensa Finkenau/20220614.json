@@ -1,10 +1,12 @@
 [
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Kräuterkartoffeln, Spitzkohl mit Cranberrys, gebratene Champignons (Sw), gebratene Paprika-Aprikosengemüse (3,5,Sw)",
+    "Category": "Gemüsebar",
     "Date": "2022-06-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -13,16 +15,21 @@
     "Vegan": true
   },
   {
-    "Name": "gebratene Champignons (Sw), Broccoli (La)",
-    "Category": "Gemüsebar",
+    "Name": "gebratene Eiernudeln mit Sprossen,Kurkuma,Ingwer und Gemüse (2,Gl,Ei,So,Sl,Se)",
+    "Category": "Pastabar",
     "Date": "2022-06-14T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -50,13 +57,14 @@
     "Vegan": true
   },
   {
-    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
+    "Name": "Ägyptische Falafel (Gl,Sl), Sesam-Knoblauchdip (1,Sf,Se), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
     "Category": "CampusWorld",
     "Date": "2022-06-14T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
