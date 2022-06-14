@@ -46,10 +46,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl, Reis",
+    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl (2,Gl,So,Sl,Se), Reis",
     "Category": "CampusVital",
     "Date": "2022-06-14T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 4.0,
     "PriceGuest": 5.2,
     "PriceStudent": 2.7,
