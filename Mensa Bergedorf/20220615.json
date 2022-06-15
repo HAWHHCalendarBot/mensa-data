@@ -1,26 +1,38 @@
 [
   {
-    "Name": "Bolognese (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw)",
     "Category": "Pastabar",
     "Date": "2022-06-15T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Vollkorn Penne (Gl)",
+    "Name": "Pasta Funghi e carne (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-06-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, Mais-Polenta (La,Sl), griechisches Gemüse (6), Fenchelgemüse (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-15T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -28,12 +40,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken",
-    "Category": "Gemüsebar",
+    "Name": "Gemüsepfanne Thai Red mit Mie Nudeln (2,Gl,So,Sw)",
+    "Category": "Pastabar",
     "Date": "2022-06-15T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -56,19 +69,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchen Tika Masala mit Joghurt (La,Sf)",
-    "Category": "CampusWorld",
-    "Date": "2022-06-15T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 3.85,
-    "PriceGuest": 4.95,
-    "PriceStudent": 2.6,
-    "Poultry": true
-  },
-  {
     "Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl)",
     "Category": "CampusVital",
     "Date": "2022-06-15T00:00:00Z",
@@ -82,6 +82,19 @@
     "PriceStudent": 2.8,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hähnchen Tika Masala mit Joghurt (La,Sf), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2022-06-15T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Poultry": true
   },
   {
     "Name": "Sommersalat mit Balsamicodressing, Kapern, Staudensellerie und gebratenem Halloumi (Gl,La,Sl,Sw)",
