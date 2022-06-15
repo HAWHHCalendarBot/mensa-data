@@ -46,6 +46,21 @@
     "Vegetarian": true
   },
   {
+    "Name": "Süßkartoffelsuppe mit Karotte und Sojasahne (So,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-15T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "bunter Pastasalat mit getrockneten Tomaten, Kapern, Paprika, Sellerie, Champignons und Grana Padano (2,3,5,Gl,Ei,La,Sl,Sw,48)",
     "Category": "CampusSpezial",
     "Date": "2022-06-15T00:00:00Z",
@@ -81,11 +96,10 @@
     "Vegan": true
   },
   {
-    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Mandelreis (Nu)",
+    "Name": "Indisches Buttercurry mit Soja (La), Mandelreis (Nu)",
     "Category": "CampusWorld",
     "Date": "2022-06-15T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
@@ -95,11 +109,12 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisudeln (2,Gl,So,Sl)",
+    "Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Quorn, frischem Gemüse und Reisudeln (2,Gl,Ei,So,Sl)",
     "Category": "CampusVital",
     "Date": "2022-06-15T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
@@ -108,6 +123,6 @@
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
