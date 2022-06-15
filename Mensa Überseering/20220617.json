@@ -1,16 +1,17 @@
 [
   {
-    "Name": "Pasta Napoli, hausgemachte Tomatensauce, Conchiglie (Gl)",
+    "Name": "Bolognese (Sl), Spaghetti (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-17T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La,Sl), Schwarzwurzeln (La), pikante Zucchiniwürfel",
@@ -24,19 +25,6 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
-  },
-  {
-    "Name": "Vegane Linsensuppe (Sl)",
-    "Category": "Pottkieker",
-    "Date": "2022-06-17T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Tofu Curry mit Mango (2,3,Gl,So), Tomatenbulgur (Gl)",
