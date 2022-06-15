@@ -1,18 +1,64 @@
 [
   {
-    "Name": "Pommes (Sf), Chili con Cheese (1,2,La)",
-    "Category": "Pastabar",
+    "Name": "Broccoli, vegan, buntem Gemüse, vegan, Prinzessbohnen, frisches Gemüse (2,Sw)",
+    "Category": "Gemüsebar",
     "Date": "2022-06-15T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Bärlauchsoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-06-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bratnudeln mit Gemüsestreifen (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-06-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gebratene Mie-Nudeln mit Wok Gemüse und Hähnchenstreifen (1,Gl,Ei,So,La,Sf,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-06-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
