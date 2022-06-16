@@ -1,44 +1,50 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
-    "Category": "Pastabar",
-    "Date": "2022-06-16T00:00:00Z",
-    "Additives": {
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), buntem Gemüse",
+    "Name": "Broccoli (La), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-06-16T00:00:00Z",
     "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
     "Category": "Pastabar",
     "Date": "2022-06-16T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Schupfnudeln mit gebratenen Sauerkraut (2,3,8,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2022-06-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Pig": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -87,7 +93,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl), Tomatensoße",
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-06-16T00:00:00Z",
     "Additives": {
