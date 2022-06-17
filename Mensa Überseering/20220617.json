@@ -1,26 +1,38 @@
 [
   {
-    "Name": "Bolognese (Sl), Spaghetti (Gl)",
+    "Name": "Spaghetti (Gl), Käsesoße (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-06-17T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
+    "Vegetarian": true
   },
   {
-    "Name": "Auberginen mit Tomaten (La,Nu,Sw), Schwarzwurzeln in Rahm (Gl,La), pikante Zucchiniwürfel",
-    "Category": "Gemüsebar",
+    "Name": "Spaghetti (Gl), Käsesoße (Gl,La)",
+    "Category": "Pastabar",
     "Date": "2022-06-17T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Mandelbroccoli (La,Nu), Sesam Blumenkohl (Se), Paprikagemüse mit Mango und Kokosmilch, Auberginen-Zucchini-Gemüse (Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-17T00:00:00Z",
+    "Additives": {
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -29,13 +41,43 @@
     "Vegetarian": true
   },
   {
-    "Name": "Auberginen mit Tomaten (La,Nu,Sw), Schwarzwurzeln in Rahm (Gl,La), pikante Zucchiniwürfel",
+    "Name": "Mandelbroccoli (La,Nu), Sesam Blumenkohl (Se), Paprikagemüse mit Mango und Kokosmilch, Auberginen-Zucchini-Gemüse (Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-06-17T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Mandelbroccoli (La,Nu), Sesam Blumenkohl (Se), Paprikagemüse mit Mango und Kokosmilch, Auberginen-Zucchini-Gemüse (Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-17T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Mandelbroccoli (La,Nu), Sesam Blumenkohl (Se), Paprikagemüse mit Mango und Kokosmilch, Auberginen-Zucchini-Gemüse (Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-17T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -60,12 +102,13 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Spicy Wedges (Gl)",
+    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-06-17T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 5.1,
     "PriceGuest": 6.3,
