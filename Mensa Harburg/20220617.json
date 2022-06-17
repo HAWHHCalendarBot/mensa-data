@@ -1,40 +1,64 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Pasta Polpetta mit Fleischbällchen in Perperontasoße (Gl,Ei), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-17T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Pasta Polpetta mit Hähnchenstreifen in Perperontasoße (So), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Vegane Amatricianasoße mit Sojagranulat (So), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Tricolore Gemüse (La,Sl), Waldpilzragout in Sojarahm (Gl,So,Sw), Spanisches Pfannengemüse mit Bohnen und Oliven (3), Schupfnudeln (Gl,Ei), Kartoffelgratin (Ei,La)",
     "Category": "Gemüsebar",
     "Date": "2022-06-17T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-17T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-17T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",

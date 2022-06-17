@@ -1,14 +1,16 @@
 [
   {
-    "Name": "Tagessuppe",
+    "Name": "Tomaten-Gemüsesuppe (La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-06-17T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Fladenbrot (Gl,Ei,So,Se)",
