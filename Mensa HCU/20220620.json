@@ -1,5 +1,46 @@
 [
   {
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Fish": true
+  },
+  {
+    "Name": "Dummy",
+    "Category": "Pottkieker",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kaiserschmarrn (Gl,Ei,La), Kirschgrütze (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
     "Name": "Meins - Kashke-Bademjan Persischer Auberginen Dip (3,So,Nu), Gemüse Bulgur (Gl,Sl), Weizenfladen (Gl)",
     "Category": "Highlight",
     "Date": "2022-06-20T00:00:00Z",
@@ -10,8 +51,8 @@
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.05,
-    "PriceGuest": 6.15,
+    "PriceAttendant": 5.1,
+    "PriceGuest": 7.6,
     "PriceStudent": 3.8,
     "LactoseFree": true,
     "Vegan": true

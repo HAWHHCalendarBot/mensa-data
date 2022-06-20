@@ -1,20 +1,65 @@
 [
   {
-    "Name": "Broccoli, vegan, Anti Pasti, warm, Blumenkohl, frisches Gemüse (2,Sw)",
+    "Name": "Broccoli, vegan, Karotten Pastinakenmix mit frischer Petersilie, Erbsen- Karotten Gemüse (La), Prinzessbohnen",
     "Category": "Gemüsebar",
     "Date": "2022-06-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Rahmsoße mit Spinat (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta-Auflauf \"della nonna\" mit Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nudelauflauf mit Geflügel und Käse überbacken (1,Gl,So,La,Sw,48)",
+    "Category": "Pastabar",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "2 Stück Apfelküchlein (Gl,La), Vanillesoße (La)",
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-06-20T00:00:00Z",
     "Additives": {
@@ -24,7 +69,6 @@
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Alcohol": true,
     "Vegetarian": true
   },
   {
@@ -39,23 +83,6 @@
     "PriceGuest": 6.1,
     "PriceStudent": 3.6,
     "Vegetarian": true
-  },
-  {
-    "Name": "Meins - Kashke-Bademjan Persischer Auberginen Dip (3,So,Nu), Gemüse Bulgur (Gl,Sl), Weizenfladen (Gl)",
-    "Category": "Highlight",
-    "Date": "2022-06-20T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 5.05,
-    "PriceGuest": 6.15,
-    "PriceStudent": 3.8,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "#tarteFLAMbée..., Flammkuchen mit Speck und Zwiebeln \"Elsässer Style\" (2,3,8,Gl,La)",
