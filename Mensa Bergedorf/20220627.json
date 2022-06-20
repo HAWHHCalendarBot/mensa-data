@@ -13,20 +13,6 @@
     "Vegan": true
   },
   {
-    "Name": "Mais (La), Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl,La), Bunter Rübenmix (Sl), Nusskartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2022-06-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
     "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-27T00:00:00Z",
@@ -60,34 +46,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Maccaroni (Gl)",
-    "Category": "CampusVital",
-    "Date": "2022-06-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.5,
-    "PriceGuest": 4.7,
-    "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Mini Frühlingsrollen (Gl,So)",
-    "Category": "CampusWorld",
-    "Date": "2022-06-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.6,
-    "PriceGuest": 4.6,
-    "PriceStudent": 2.4,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La)",
     "Category": "CampusSpezial",
     "Date": "2022-06-27T00:00:00Z",
@@ -100,5 +58,22 @@
     "PriceGuest": 5.6,
     "PriceStudent": 3.4,
     "Poultry": true
+  },
+  {
+    "Name": "vegetarisches Bauernfrühstück (2,3,8,9,Ei)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-06-27T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
