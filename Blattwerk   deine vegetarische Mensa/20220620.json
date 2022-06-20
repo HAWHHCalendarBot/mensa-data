@@ -1,10 +1,9 @@
 [
   {
-    "Name": "Pasta Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl), Spaghetti (Gl)",
+    "Name": "Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl)",
     "Category": "Pastabar",
     "Date": "2022-06-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -14,17 +13,30 @@
     "Vegan": true
   },
   {
-    "Name": "Soja-Lauch-Soße (So,Sl), Spaghetti (Gl)",
+    "Name": "Soja-Lauch-Soße (So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-06-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kokosnusssuppe mit rotem Curry (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegan": true
   },
@@ -63,11 +75,42 @@
     "Vegan": true
   },
   {
-    "Name": "Räuchertofu Teriyaki mit Pak Choi (2,Gl,So,Se), Basmatireis",
+    "Name": "schwarzen Bohnensalat mit veganen Gemüse-Nuggets, gerösteten Blumenkohl (Gl,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
+    "Category": "CampusSpezial",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "schwarzen Bohnensalat mit veganen Gemüse-Nuggets, gerösteten Blumenkohl (Gl,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
+    "Category": "CampusSpezial",
+    "Date": "2022-06-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Quorn Teriyaki mit Pak Choi (2,Gl,Ei,So,Se), Basmatireis",
     "Category": "CampusSpezial",
     "Date": "2022-06-20T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
@@ -76,6 +119,6 @@
     "PriceGuest": 7.2,
     "PriceStudent": 4.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
