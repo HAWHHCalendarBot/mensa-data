@@ -1,21 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, Süßkartoffeln, gerösteter Blumenkohl, gebackene Aubergine (Gl,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-06-21T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -24,11 +14,26 @@
     "Vegan": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
+    "Name": "Pasta mit Mischgemüse in Kräutersauce (Gl,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-21T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Rhabarberkompott (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-06-21T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
+      "1": "Farbstoff",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
