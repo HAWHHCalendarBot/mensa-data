@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Pikante Rinderhacksuppe mit Tomaten",
+    "Name": "Pikante Rinderhacksuppe mit Gemüse (Sf)",
     "Category": "Pottkieker",
     "Date": "2022-06-23T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
@@ -24,7 +26,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Grünkern-Chili mit Kichererbsen, Edamame und Mais (Gl,So,Sl), Reis-Mix",
+    "Name": "Grünkern-Chili mit Kichererbsen, Paprika und Mais (Gl,So,Sl), , Reis-Mix",
     "Category": "CampusVital",
     "Date": "2022-06-23T00:00:00Z",
     "Additives": {
@@ -50,20 +52,5 @@
     "PriceStudent": 3.9,
     "LactoseFree": true,
     "Poultry": true
-  },
-  {
-    "Name": "Schweinenackensteak, Gorgonzolasoße (Gl,La,48), Blumenkohl, kleine Kartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-06-23T00:00:00Z",
-    "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
-    "Pig": true
   }
 ]
