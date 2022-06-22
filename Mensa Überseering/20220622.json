@@ -1,20 +1,6 @@
 [
   {
-    "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), bunte Fusilli (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-22T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true
-  },
-  {
-    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), bunte Fusilli (Gl)",
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Vollkorn Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-22T00:00:00Z",
     "Additives": {
@@ -30,19 +16,36 @@
     "Vegan": true
   },
   {
-    "Name": "gebratene Zucchini, Blattspinat in Rahm (Gl,La), Gemüsemix Eskorial, Auberginen mit Tomaten (La,Nu,Sw)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Vollkorn Penne (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-06-22T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "gebratene Zucchini, Blattspinat in Sojarahm (So), Auberginen mit Tomaten (La,Nu,Sw), Indischer Biryani mit Hähnchen (3,So), Erbsen-Champignon Gemüse (La,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-22T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
   },
   {
     "Name": "Geflügelsuppe mit Gemüse (Gl,La,Sl)",
