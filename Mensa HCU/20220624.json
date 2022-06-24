@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pasta Nerone mit Schweinefleisch und Gemüse (La,Sl), Hartkäse (La), Farfalle (Gl)",
+    "Name": "Pasta Nerone mit Rindfleisch und Gemüse (La,Sl), Penne (Gl), Hartkäse (La)",
     "Category": "Pastabar",
     "Date": "2022-06-24T00:00:00Z",
     "Additives": {
@@ -14,15 +14,46 @@
     "Beef": true
   },
   {
-    "Name": "Dummy",
+    "Name": "Pasta Nerone mit Rindfleisch und Gemüse (La,Sl), Penne (Gl), Hartkäse (La)",
+    "Category": "Pastabar",
+    "Date": "2022-06-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Spargelsuppe (Gl,La)",
     "Category": "Pottkieker",
     "Date": "2022-06-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-24T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
