@@ -1,16 +1,5 @@
 [
   {
-    "Name": "pikante Zucchiniwürfel",
-    "Category": "Gemüsebar",
-    "Date": "2022-06-27T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-27T00:00:00Z",
@@ -22,6 +11,21 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "pikante Zucchiniwürfel, Staudensellerie und Tomate (La,Nu,Sl,Sw), Fingermöhrchen (La), Brechbohnen in Rahm (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-27T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Fusilli (Gl)",
