@@ -45,15 +45,18 @@
     "Fish": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "Geflügelrahmsuppe (Gl,La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-06-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
     "Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Fusilli (Gl)",
