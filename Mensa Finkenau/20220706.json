@@ -1,0 +1,91 @@
+[
+  {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spätzle mit Linsen (5,Gl,Ei,Sl,Sw), Apfel Karotten Salat (3,Sw)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "Alcohol": true,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spanische Paella mit gebackener Hähnchenkeule , Meeresfrüchten und Gemüse (Kr,Sl,Wt)",
+    "Category": "CampusWorld",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {
+      "Kr": "Krebstiere und Krebstiererzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Olympusteller (Gl,Ei,Sf), Tzatziki (La), Kartoffeltwister (Gl), Krautsalat (3)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Beef": true,
+    "Pig": true,
+    "Poultry": true
+  }
+]
