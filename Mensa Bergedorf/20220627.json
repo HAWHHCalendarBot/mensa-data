@@ -1,10 +1,26 @@
 [
   {
-    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
+    "Name": "Broccoli (La), gebackene Aubergine (Gl,Sw), Nusskartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-06-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Linsen und Gemüse (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-06-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -13,23 +29,22 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Fusilli (Gl)",
+    "Name": "Pasta mit Rindfleisch (2,3,8,Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-06-27T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
       "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
+    "Alcohol": true,
+    "Beef": true,
+    "LactoseFree": true,
     "Pig": true
   },
   {
@@ -44,6 +59,22 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Mini Frühlingsrollen (Gl,So), Bratnudeln mit Gemüsestreifen (2,Gl,So,Se)",
+    "Category": "CampusWorld",
+    "Date": "2022-06-27T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.2,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Pfefferrahmsoße (Gl,La,Sl)",
@@ -61,12 +92,10 @@
     "Poultry": true
   },
   {
-    "Name": "vegetarisches Bauernfrühstück (2,9,Ei)",
+    "Name": "vegetarisches Bauernfrühstück (Ei)",
     "Category": "CampusKlassiker",
     "Date": "2022-06-27T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse"
     },
     "PriceAttendant": 5.4,
