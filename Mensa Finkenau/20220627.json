@@ -1,27 +1,30 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse, Karotten (La), Broccoli (La), Kräuterkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-06-27T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Gartengemüse und Pesto (Gl,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-06-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -81,6 +84,21 @@
     "PriceGuest": 7.3,
     "PriceStudent": 4.8,
     "Pig": true
+  },
+  {
+    "Name": "Meins - Boeuf Bourguignon geschmortes Rindfleisch in Rotweinsoße (Gl,Sw), Pasta (Gl)",
+    "Category": "Highlight",
+    "Date": "2022-06-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Alcohol": true,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Gebratene Hähnchenstreifen mit frischem Wokgemüse, Erdnusssoße und Basmaitreis (2,Gl,En,So,Sl,Sw)",
