@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
-    "Date": "2022-06-29T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-06-29T00:00:00Z",
@@ -23,6 +12,22 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pikante Asia-Gemüse-Suppe (2,Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Süßkartoffelcurry mit Kokos &amp; Tofu (Gl,So,Sl,Sf), Nudeln (Gl)",
@@ -41,25 +46,7 @@
     "Vegan": true
   },
   {
-    "Name": "Rinderhacksteak Texas (Gl,Ei), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-06-29T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ-Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-06-29T00:00:00Z",
     "Additives": {
@@ -76,5 +63,25 @@
     "PriceStudent": 4.0,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Köfte (Gl), Sour Cream (4,Ei,La,Sf), Ofenkartoffeln mit Sesam (Se), bunter Salat (3,5,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Beef": true
   }
 ]

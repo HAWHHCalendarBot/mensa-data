@@ -1,34 +1,40 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Maisgemüse (La), Kräuterkartoffeln, Gartengemüse, gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2022-06-28T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Eiernudeln mit Zucchini, Pilzen,Zwiebeln und Tofu (2,Gl,Ei,En,So,Se)",
     "Category": "Pastabar",
     "Date": "2022-06-28T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (9)",
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Rhabarberkompott (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-06-28T00:00:00Z",
     "Additives": {
-      "9": "Süßungsmittel",
+      "1": "Farbstoff",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
