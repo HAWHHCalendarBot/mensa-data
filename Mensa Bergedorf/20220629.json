@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-06-29T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Pasta Ragout Bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-06-29T00:00:00Z",
     "Additives": {
@@ -27,10 +14,25 @@
     "Beef": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu)",
+    "Name": "Ravioli mit Käsefüllung (Gl,Ei,La), Tomatensoße",
+    "Category": "Pastabar",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ratatouille (Sl), Kartoffelgratin (Ei,La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
     "Category": "Gemüsebar",
     "Date": "2022-06-29T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -78,6 +80,22 @@
     "Pig": true
   },
   {
+    "Name": "Salat von schwarzen Bohnen mit veganen Sojamedaillons (3,So,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
+    "Category": "CampusSpezial",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw)",
     "Category": "CampusWorld",
     "Date": "2022-06-29T00:00:00Z",
@@ -90,21 +108,5 @@
     "PriceStudent": 4.4,
     "LactoseFree": true,
     "Poultry": true
-  },
-  {
-    "Name": "Salat von schwarzen Bohnen mit veganen Gemüse-Nuggets (3,Gl,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
-    "Category": "CampusSpezial",
-    "Date": "2022-06-29T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.3,
-    "PriceGuest": 7.5,
-    "PriceStudent": 5.0,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]

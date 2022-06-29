@@ -13,7 +13,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Fusilli (Gl)",
+    "Name": "Pasta mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-06-29T00:00:00Z",
     "Additives": {
@@ -44,10 +44,37 @@
     "Vegetarian": true
   },
   {
-    "Name": "Möhren-Edamame-Curry mit Reisnudeln (So,Sl)",
+    "Name": "Mediterraner Gemüseeintopf (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kürbiscremesuppe (La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Möhren-Edamame-Curry mit Mie - Nudeln (Gl,So,Sl)",
     "Category": "CampusVital",
     "Date": "2022-06-29T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -56,6 +83,41 @@
     "PriceStudent": 2.6,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "bunter Nudelsalat italienische Art mit Babyspinat und Sojastreifen (2,3,5,Gl,So,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "vegetarische Currywurst (Ei), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-06-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Vegetarian": true
   },
   {
     "Name": "Soja-Medaillons in Erdnusssoße (2,Gl,En,So,Sl), Sommergemüse (La), Reis",
