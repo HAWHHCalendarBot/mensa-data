@@ -1,20 +1,6 @@
 [
   {
-    "Name": "Pasta Provencial (Sw), Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-07-01T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Eliche (Gl)",
+    "Name": "Pasta Spinatsahnesoße (Gl,La,Sl), Eliche (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-01T00:00:00Z",
     "Additives": {
@@ -46,12 +32,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tofu Curry mit Mango (2,3,Gl,So), Vollkornreis",
+    "Name": "Tofu Quorn mit Mango (2,3,Gl,Ei,So), Vollkornreis",
     "Category": "CampusVital",
     "Date": "2022-07-01T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -59,6 +46,23 @@
     "PriceGuest": 6.9,
     "PriceStudent": 4.4,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Soja-Medaillons in Erdnusssoße (2,Gl,En,So,Sl), Sommergemüse (La), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-01T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Vegetarian": true
   }
 ]
