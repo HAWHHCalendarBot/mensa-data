@@ -1,17 +1,17 @@
 [
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Pasta (Gl,Ei)",
-    "Category": "Pastabar",
+    "Name": "glasierte rote Beete, Erbsen, Broccoli, Fingermöhrchen, Gebratene Champignons (Sw), Sesamreis (Se)",
+    "Category": "Gemüsebar",
     "Date": "2022-07-01T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
     "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Pasta (Gl)",
@@ -30,20 +30,21 @@
     "Pig": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se), Fingermöhrchen (La)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Funghi mit Pilzen in Sojasahnesoße (3,Gl,So,Sl,Sw), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-07-01T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Heidelbeerkaltschale (La)",
@@ -88,19 +89,18 @@
     "Beef": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), gebratene Drillinge",
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Wirsing in Chilicreme (Gl,La,Sl), gebratene Drillinge",
     "Category": "CampusSpezial",
     "Date": "2022-07-01T00:00:00Z",
     "Additives": {
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 6.7,
     "PriceGuest": 7.9,
     "PriceStudent": 5.4,
-    "Fish": true,
-    "LactoseFree": true
+    "Fish": true
   }
 ]
