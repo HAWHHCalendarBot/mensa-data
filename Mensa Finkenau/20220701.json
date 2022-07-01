@@ -1,27 +1,32 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Chilli-Cheese Kartoffeln (2,La), Karotten (La), Gartengemüse",
     "Category": "Gemüsebar",
     "Date": "2022-07-01T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-07-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Steinpilzen,Babyspinat und Tomatenpesto (Gl,La,Nu,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-07-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel mit Schokoladenfüllung (Gl,So,La,Nu), kalte Vanillesoße (La)",
