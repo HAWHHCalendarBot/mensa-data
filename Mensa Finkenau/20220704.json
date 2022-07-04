@@ -1,10 +1,11 @@
 [
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Tomaten und Basilikum (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-07-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -46,10 +47,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blumenkohl Korma, Basmatireis",
+    "Name": "Blumenkohl Korma (So,Sl,Se), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-07-04T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 3.5,
     "PriceGuest": 4.7,
     "PriceStudent": 2.2,

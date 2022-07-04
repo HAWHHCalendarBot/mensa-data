@@ -28,10 +28,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Chili sin carne (So,Sl), Reis",
+    "Name": "Vegane Asiatische Gemüsesuppe mit Soja und Chili (2,Gl,So,Sl,Sf)",
+    "Category": "Pottkieker",
+    "Date": "2022-07-04T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Veganes Chili sin carne (So,Sl), mit Baguette (Gl)",
     "Category": "CampusVital",
     "Date": "2022-07-04T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -42,17 +60,32 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Zuckerschoten (La), Basmatireis",
+    "Name": "Veganes Chili sin carne (So,Sl), mit Baguette (Gl)",
+    "Category": "CampusVital",
+    "Date": "2022-07-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.7,
+    "PriceGuest": 4.8,
+    "PriceStudent": 2.4,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Erbsen, Reis",
     "Category": "CampusWorld",
     "Date": "2022-07-04T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.4,
     "PriceGuest": 8.2,
     "PriceStudent": 4.1,
+    "LactoseFree": true,
     "Poultry": true
   }
 ]
