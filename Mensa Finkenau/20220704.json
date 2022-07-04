@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-07-04T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-04T00:00:00Z",
@@ -24,15 +13,16 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta mit Steinpilzen,Babyspinat und Tomatenpesto (Gl,La,Nu,Sl,Sw)",
-    "Category": "Pastabar",
+    "Name": "gebratene Zucchini mit Limetten-Koriandersalsa (2,Gl,So,Se), Tandoori Broccoli (La,Sl,Se), Süßkartoffeln, Gartengemüse",
+    "Category": "Gemüsebar",
     "Date": "2022-07-04T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -67,7 +57,7 @@
     "Vegan": true
   },
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Hollandaise (Ei,La,Sl,Sw), Erbsen, Kroketten (Gl)",
+    "Name": "Paniertes Schweineschnitzel (Gl), Hollandaise (Gl,Ei,La,Sl,Sw), Erbsen, Kroketten (Gl)",
     "Category": "CampusVital",
     "Date": "2022-07-04T00:00:00Z",
     "Additives": {
