@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Tagessuppe",
+    "Name": "Veganer Kokosmilchreis, Beerenkompott",
     "Category": "Pottkieker",
     "Date": "2022-07-06T00:00:00Z",
     "Additives": {},
@@ -11,10 +11,15 @@
     "Vegan": true
   },
   {
-    "Name": "Veganer Kokosmilchreis, Beerenkompott",
+    "Name": "Pikante Asia-Gemüse-Suppe mit Soja (2,Gl,So,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-07-06T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
@@ -66,11 +71,12 @@
     "Beef": true
   },
   {
-    "Name": "Schweinefilet, tomatisierte Hollandaise (Ei,La,Sl), Blumenkohl, Rosmarinkartoffeln",
+    "Name": "Schweinefilet, tomatisierte Hollandaise (Ei,La,Sl), Blumenkohl, Kartoffelkroketten (Gl)",
     "Category": "CampusWorld",
     "Date": "2022-07-06T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
