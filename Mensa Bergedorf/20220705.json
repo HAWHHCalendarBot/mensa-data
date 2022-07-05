@@ -1,23 +1,26 @@
 [
   {
-    "Name": "Hähnchenstreifen al arrabiata, Eliche (Gl)",
+    "Name": "Pasta Rinderstreifen al arrabiata (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2022-07-05T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Poultry": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
-    "Category": "Pastabar",
+    "Name": "Auberginen-Zucchini-Gemüse (Sw), gebratener Pak Choi (2,Gl,So), Röstkartoffeln",
+    "Category": "Gemüsebar",
     "Date": "2022-07-05T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
@@ -27,22 +30,53 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So), Gartengemüse",
-    "Category": "Gemüsebar",
+    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw)",
+    "Category": "CampusVital",
     "Date": "2022-07-05T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
+      "5": "Geschwefelt",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 4.15,
+    "PriceGuest": 5.15,
+    "PriceStudent": 2.95,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Rote Beete Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,La,Sw)",
+    "Name": "Broccoli Nuggets (Gl,Ei,So,La,Sl), Paprikadip mit Walnüssen (La,Nu)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-05T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.95,
+    "PriceGuest": 6.05,
+    "PriceStudent": 3.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Boeuf Bourguignon geschmortes Rindfleisch in Rotweinsoße (Gl,Sw), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Alcohol": true,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Gnocchi mit Grillgemüse und körnigem Hüttenkäse (1,3,5,La,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-07-05T00:00:00Z",
     "Additives": {
