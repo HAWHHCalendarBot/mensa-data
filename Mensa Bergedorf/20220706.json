@@ -1,20 +1,5 @@
 [
   {
-    "Name": "Boeuf Bourguignon geschmortes Rindfleisch in Rotweinsoße (Gl,Sw), Reis",
-    "Category": "Pastabar",
-    "Date": "2022-07-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Alcohol": true,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
     "Name": "Pasta Rinderstreifen al arrabiata (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2022-07-06T00:00:00Z",
@@ -29,18 +14,33 @@
     "LactoseFree": true
   },
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Maccaroni (Gl)",
+    "Name": "Vollkornnudeln mit Kichererbsengemüse (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-07-06T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vollkornnudeln mit geschmorten Rindfleisch (Gl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Vegetarian": true
+    "Alcohol": true,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6)",
