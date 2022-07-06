@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Bolognese (Sl), Kartoffel-Gnocchi",
+    "Name": "Bolognese (Sl), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-06T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
@@ -13,29 +14,28 @@
     "LactoseFree": true
   },
   {
-    "Name": "Sommergemüse (La), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La,Sl), Gemüsepfanne Texas (Gl), Erbsen-Champignon Gemüse (La,Sw)",
+    "Name": "Chili sin carne (So,Sl), bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Sommergemüse (La), Gemüsepfanne Texas (Gl), Erbsen-Champignon Gemüse (La,Sw), Porreegemüse in Rahm (Gl,La), Bulgur mit Rosinen und Mandeln (Gl,Nu)",
     "Category": "Gemüsebar",
     "Date": "2022-07-06T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Kartoffel-Gnocchi",
-    "Category": "Pastabar",
-    "Date": "2022-07-06T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
