@@ -1,10 +1,11 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Blumenkohl in Soja-Rahm, (So), Karotten natur,, Wok-Gemüsepfanne mit Paprika, Zucchini und Kohlrabi,, veganes Kichererbsen mit Tofu und Gemüse (So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-07-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -13,11 +14,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Vegane Walnuss-Soße, (So,Nu), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -26,17 +29,21 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta Carbonara mit Speck in Gorgonzolasoße, (2,3,8,Gl,La,48), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
+    "Pig": true
   },
   {
     "Name": "Vanille-Mangokaltschale (La)",
