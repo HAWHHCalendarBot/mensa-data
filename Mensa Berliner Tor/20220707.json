@@ -46,7 +46,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Rindfleischfrikadelle (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffel Möhrenstampf (La)",
+    "Name": "Frikadelle (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffel Möhrenstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-07-07T00:00:00Z",
     "Additives": {
@@ -55,10 +55,11 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.0,
-    "PriceGuest": 6.2,
-    "PriceStudent": 3.7,
-    "Beef": true
+    "PriceAttendant": 4.75,
+    "PriceGuest": 5.95,
+    "PriceStudent": 3.45,
+    "Beef": true,
+    "Pig": true
   },
   {
     "Name": "#ofenfrisch..,Pizza Margherita (Gl,La)",
@@ -86,6 +87,22 @@
     "PriceStudent": 4.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "#frischgeGRILLt..., Seelachsfilet (1,Gl,Fi,Sf), Röstiecken, Kräuterbutter (La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-07T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Fish": true
   },
   {
     "Name": "#ofenfrisch..,Pizza Funghi (Gl,La)",
