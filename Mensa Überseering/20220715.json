@@ -13,18 +13,17 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, gebratene Paprika (5,Sw)",
+    "Name": "Blattspinat in Rahm (Gl,La), Broccoli",
     "Category": "Gemüsebar",
     "Date": "2022-07-15T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Vegane Paella (3,Sl)",
@@ -39,5 +38,19 @@
     "PriceStudent": 2.1,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Kartoffelspalten (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "Pig": true
   }
 ]

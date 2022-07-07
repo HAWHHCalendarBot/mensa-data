@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Sesammöhrchen (Se)",
-    "Category": "Gemüsebar",
-    "Date": "2022-07-12T00:00:00Z",
-    "Additives": {
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Provencial (Sw), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-12T00:00:00Z",
@@ -25,6 +12,20 @@
     "PriceStudent": 0.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Sesammöhrchen (Se), Kräuterrösti, Gemüsepfanne Texas (Gl), Erbsen-Mais Gemüse (La), Kohlrabi in Rahm (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Penne (Gl)",
@@ -67,6 +68,57 @@
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "vegetarische Bratwurst (Ei), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusWorld",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Gemüselasagne (Gl,Ei,La,Sl), Tomatensoße Napoli",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
     "Vegetarian": true
   }
 ]
