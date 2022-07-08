@@ -1,5 +1,33 @@
 [
   {
+    "Name": "Tortellini mit Käsefüllung (Gl,La), Hausgemachte Käsesoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-07-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Soja Arrabiatta (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Fish´n chips (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-07-08T00:00:00Z",
@@ -14,26 +42,26 @@
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.45,
-    "PriceGuest": 5.55,
-    "PriceStudent": 3.2,
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
     "Fish": true
   },
   {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En)",
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Minzreis",
     "Category": "CampusSpezial",
     "Date": "2022-07-08T00:00:00Z",
     "Additives": {
       "En": "Erdnüsse und Erdnusserzeugnisse"
     },
-    "PriceAttendant": 4.75,
-    "PriceGuest": 5.85,
-    "PriceStudent": 3.5,
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Tofu Curry mit Mango (2,3,Gl,So)",
+    "Name": "Tofu Curry mit Mango (2,3,Gl,So), Reis",
     "Category": "CampusVital",
     "Date": "2022-07-08T00:00:00Z",
     "Additives": {
@@ -42,9 +70,9 @@
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.85,
-    "PriceGuest": 5.95,
-    "PriceStudent": 3.6,
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
     "LactoseFree": true,
     "Vegan": true
   }

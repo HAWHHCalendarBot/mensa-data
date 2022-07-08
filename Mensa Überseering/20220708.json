@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Auberginen-Zucchini-Gemüse (Sw), Karotten Rustica, Champignon Lauchpfanne (Sw)",
-    "Category": "Gemüsebar",
-    "Date": "2022-07-08T00:00:00Z",
-    "Additives": {
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Napoli, hausgemachte Tomatensauce, Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-08T00:00:00Z",
@@ -26,7 +13,22 @@
     "Vegan": true
   },
   {
-    "Name": "Tofu Curry mit Mango (2,3,Gl,So), Vollkornreis",
+    "Name": "Auberginen-Zucchini-Gemüse (Sw), Karotten Rustica, Champignon Lauchpfanne (Sw), Röstkartoffeln, Gemüsecouscous (Gl,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-07-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Tofu Curry mit Mango (2,3,Gl,So), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-07-08T00:00:00Z",
     "Additives": {
@@ -40,5 +42,18 @@
     "PriceStudent": 4.4,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Köfte (Gl), Joghurt-Zitronen-Dip (La), gerösteter Blumenkohl, gebratene Kartoffeln mit Minze",
+    "Category": "CampusWorld",
+    "Date": "2022-07-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Beef": true
   }
 ]
