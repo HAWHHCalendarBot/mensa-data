@@ -2,7 +2,7 @@
   {
     "Name": "Tagessuppe",
     "Category": "Pottkieker",
-    "Date": "2022-07-21T00:00:00Z",
+    "Date": "2022-07-18T00:00:00Z",
     "Additives": {},
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
@@ -11,9 +11,9 @@
     "Vegan": true
   },
   {
-    "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
     "Category": "Pottkieker",
-    "Date": "2022-07-21T00:00:00Z",
+    "Date": "2022-07-18T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
@@ -25,11 +25,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
-    "Category": "CampusVital",
-    "Date": "2022-07-21T00:00:00Z",
+    "Name": "Vegane Carbonara mit Tofuwürfel (1,2,Gl,So,Sl,Sf), Vollkorn-Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-18T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -40,17 +43,17 @@
     "Vegan": true
   },
   {
-    "Name": "Rinderhacksteak (Gl,Ei), Pfefferrahmsoße (La), Drillinge aus dem Ofen",
+    "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
     "Category": "CampusKlassiker",
-    "Date": "2022-07-21T00:00:00Z",
+    "Date": "2022-07-18T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.2,
-    "PriceGuest": 6.4,
-    "PriceStudent": 3.9,
-    "Beef": true
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
