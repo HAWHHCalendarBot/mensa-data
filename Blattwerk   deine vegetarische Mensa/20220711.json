@@ -1,11 +1,24 @@
 [
   {
-    "Name": "Pasta Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl), Spaghetti (Gl)",
+    "Name": "Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl)",
     "Category": "Pastabar",
     "Date": "2022-07-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Soja-Lauch-Soße (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-11T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -28,19 +41,32 @@
     "Vegetarian": true
   },
   {
-    "Name": "Soja-Lauch-Soße (So,Sl), Spaghetti (Gl)",
-    "Category": "Pastabar",
+    "Name": "pikante Linsensuppe aus Belugalinsen mit Gemüse (Sl,Sw)",
+    "Category": "Pottkieker",
     "Date": "2022-07-11T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Karottenrahmsuppe mit Süßkartoffel, Sahne und Estragon (La,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-07-11T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
   },
   {
     "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
@@ -75,16 +101,35 @@
     "Vegan": true
   },
   {
-    "Name": "Ofenkartoffel mit Ratatouille gratiniert (1,Sw)",
-    "Category": "CampusKlassiker",
+    "Name": "Chili sin carne mit Bohnen, Mais, Schokolade und Kaffee (So,Sl), Reis, Sour Cream und Chester Käse (1,La)",
+    "Category": "CampusWorld",
     "Date": "2022-07-11T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.65,
+    "PriceStudent": 3.15,
+    "Vegetarian": true
+  },
+  {
+    "Name": "bunter Nudelsalat mit Bohnen, Paprika, Zucchini und Soja (2,3,5,Gl,So,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2022-07-11T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.8,
-    "PriceStudent": 3.3,
+    "PriceAttendant": 4.55,
+    "PriceGuest": 5.75,
+    "PriceStudent": 3.25,
     "LactoseFree": true,
     "Vegan": true
   }
