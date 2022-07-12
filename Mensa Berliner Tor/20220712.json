@@ -1,5 +1,43 @@
 [
   {
+    "Name": "Paprikareis",
+    "Category": "Pastabar",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Auberginen-Tomatensoße (Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Tricolore, vegan, buntem Gemüse, vegan, Blattspinat in Rahm (Gl,La), Tomaten-Kartoffel-Ragout (6)",
+    "Category": "Gemüsebar",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
     "Category": "Pastabar",
     "Date": "2022-07-12T00:00:00Z",
@@ -15,11 +53,28 @@
     "Beef": true
   },
   {
-    "Name": "Milchreis (La), Rhabarberkompott (1,La)",
-    "Category": "Pottkieker",
+    "Name": "Nudelauflauf mit Hähnchen (1,Gl,La,Sw,48)",
+    "Category": "Pastabar",
     "Date": "2022-07-12T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 2.7,
@@ -40,6 +95,36 @@
     "PriceAttendant": 4.1,
     "PriceGuest": 5.3,
     "PriceStudent": 2.8,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Schwedische Köttbullar (Gl,Ei), Bratenrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "Beef": true,
+    "Pig": true
+  },
+  {
+    "Name": "#ofenfrisch..Pizza Margherita (Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "Vegetarian": true
   },
   {
