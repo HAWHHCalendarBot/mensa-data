@@ -13,6 +13,22 @@
     "Vegetarian": true
   },
   {
+    "Name": "Kartoffelrahmsuppe mit Schweinefleisch (2,3,8,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-07-14T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Pig": true
+  },
+  {
     "Name": "Putengulasch mit Champignon &amp; Paprika (Sl,Sw), Spätzle (Gl,Ei)",
     "Category": "CampusKlassiker",
     "Date": "2022-07-14T00:00:00Z",
@@ -29,23 +45,24 @@
     "Poultry": true
   },
   {
-    "Name": "Seelachs-Knusperecken (Gl,Ei,Fi,Sf), Paprika-Zwiebel-Schmand (La), kleine Ofenkartoffeln",
+    "Name": "Seelachs-Knusperecken (Gl,Ei,Fi,Sf), Ofengemüse in Tomatensoße (Sl), kleine Kartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-07-14T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.2,
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
-    "Fish": true
+    "Fish": true,
+    "LactoseFree": true
   },
   {
-    "Name": "Ägyptische Falafeln (Gl,Sl), Harissa-Zitronen-Dip (1,3,So,Sf), Krautsalat (3,5,Sw), Tomaten-Bulgur (Gl)",
+    "Name": "Falafelbällchen (Gl,Sl), Harissa-Zitronen-Dip (1,3,So,Sf), Mix-Salat mit Bulgur (3,5,Sw)",
     "Category": "CampusWorld",
     "Date": "2022-07-14T00:00:00Z",
     "Additives": {
