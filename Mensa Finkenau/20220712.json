@@ -1,27 +1,31 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Sauerkraut (Sl), gerösteter Blumenkohl, Kartoffel-Butterstampf (La), gebratene Champignons",
     "Category": "Gemüsebar",
     "Date": "2022-07-12T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-07-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit Zucchini und rotem Pesto (Gl,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
   },
   {
     "Name": "Milchreis (La), Rhabarberkompott (1,La)",
@@ -35,6 +39,48 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pulled Beef Burger mit Cole slaw (1,2,3,9,Gl,Ei,So,La,Sf,Lu), Kartoffeltwister (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "Beef": true
+  },
+  {
+    "Name": "Pulled Pork Burger mit Cole slaw (1,2,3,9,Gl,Ei,So,La,Sf,Lu), Kartoffeltwister (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-12T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "Pig": true
   },
   {
     "Name": "Kartoffel-Gemüse-Gulasch mit Taco Chips (2,Gl,So,Sl)",
@@ -67,69 +113,6 @@
     "PriceStudent": 5.5,
     "Fish": true,
     "LactoseFree": true
-  },
-  {
-    "Name": "Caesar's Crispy Chickenburger (1,2,3,9,Gl,Ei,La,Sf,48), Kartoffelspalten (Gl)",
-    "Category": "CampusSpezial",
-    "Date": "2022-07-12T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Poultry": true
-  },
-  {
-    "Name": "Pulled Beef Burger mit Cole slaw (1,2,3,9,Gl,Ei,So,La,Sf,Lu), Kartoffeltwister (Gl)",
-    "Category": "CampusSpezial",
-    "Date": "2022-07-12T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Lu": "Lupine und - erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Beef": true
-  },
-  {
-    "Name": "Pulled Pork Burger mit Cole slaw (1,2,3,9,Gl,Ei,So,La,Sf,Lu), Kartoffeltwister (Gl)",
-    "Category": "CampusSpezial",
-    "Date": "2022-07-12T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Lu": "Lupine und - erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Pig": true
   },
   {
     "Name": "Blumenkohl-Bratling-Burger mit Cole slaw (1,2,3,9,Gl,Ei,So,La,Sl,Sf,Lu), Kartoffeltwister (Gl)",
