@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchinisoße mit Walnüssen (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2022-07-13T00:00:00Z",
     "Additives": {
@@ -12,6 +12,17 @@
     "PriceGuest": 1.4,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Asiatische Hühnersuppe mit Kokosmilch und Brötchen",
+    "Category": "Pottkieker",
+    "Date": "2022-07-13T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelkompott (3)",
@@ -45,19 +56,19 @@
     "Vegan": true
   },
   {
-    "Name": "Honey Garlic Chicken mit Sesam Brokkoli und gebackenen Ofenkartoffel (2,Gl,So,Se)",
+    "Name": "Honey Garlic Chicken mit Sesam-Dip Brokkoli und gebackenen Ofenkartoffel (2,Gl,So,La,Se)",
     "Category": "CampusSpezial",
     "Date": "2022-07-13T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.4,
     "PriceGuest": 8.2,
     "PriceStudent": 4.1,
-    "LactoseFree": true,
     "Poultry": true
   }
 ]

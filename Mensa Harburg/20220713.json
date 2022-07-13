@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Belugalinsensoße mit Tomaten in Kokosmilch,, Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-13T00:00:00Z",
     "Additives": {
@@ -13,30 +13,33 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Käsesauce, (Gl,La), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-13T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Sojageschnetzeltes mit Gemüse, (Gl,So,Sl), Blumenkohl aus dem Ofen,, gebratener Spitzkohl mit grünen Oliven, (3), Chili-Kartoffeln,, Maiskolben, (La), Nudelgericht mit Erbsen, Schafskäse und Pinienkernen (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-07-13T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
+    "Vegetarian": true
   },
   {
     "Name": "Mohn Schupfnudeln (Gl,Ei,La), Pflaumenkompott (1,La)",
@@ -54,7 +57,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ofenkartoffel mit Spinat und Cherrytomaten überbacken (La)",
+    "Name": "Ofenkartoffel mit Spinat und Cherrytomaten überbacken (La), Ajvar Dip",
     "Category": "CampusKlassiker",
     "Date": "2022-07-13T00:00:00Z",
     "Additives": {
@@ -81,19 +84,22 @@
     "Vegan": true
   },
   {
-    "Name": "Gebratene Champignons, auf Linsensalat (3,5,Sw), Süßkartoffelpommes (1)",
+    "Name": "Gebratene Champignons, auf Linsensalat (3,5,Sw), Süßkartoffelpommes (1), Pommes-Soße (1,3,9,Ei,La,Sf)",
     "Category": "CampusVital",
     "Date": "2022-07-13T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.2,
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
