@@ -29,5 +29,48 @@
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
     "Vegetarian": true
+  },
+  {
+    "Name": "Rührei mit Gremolata und (Ei,La), Bratkartoffeln mit Zwiebeln",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-15T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Vegetarian": true
+  },
+  {
+    "Name": "pikantes Sojageschnetzeltes mit Paprika und (So), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-07-15T00:00:00Z",
+    "Additives": {
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.85,
+    "PriceGuest": 6.05,
+    "PriceStudent": 3.55,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vegetarisches Schnitzel in Knusperpanade (1,Gl,Ei,La), Penne (Gl), Tomatensoße mit geschmorten Pilzen und Haselnusspesto (Nu,Sw)",
+    "Category": "CampusVital",
+    "Date": "2022-07-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Vegetarian": true
   }
 ]
