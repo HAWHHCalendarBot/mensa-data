@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
+    "Category": "Pastabar",
+    "Date": "2022-07-21T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
     "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-07-21T00:00:00Z",
@@ -28,5 +43,37 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-21T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "Poultry": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Tzatziki (La), Krautsalat (3,5,Sw), Naanbrot (2,Gl,La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-21T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "Vegetarian": true
   }
 ]
