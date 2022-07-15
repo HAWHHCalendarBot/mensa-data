@@ -45,13 +45,32 @@
     "Fish": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "Tomaten- Gemüpsesuppe mit Speck (2,3,8,La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-07-15T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
+    "Pig": true
+  },
+  {
+    "Name": "Indischer Dal mit Linsen (So,Sf), Basmatireis",
+    "Category": "CampusVital",
+    "Date": "2022-07-15T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.7,
+    "PriceGuest": 4.9,
+    "PriceStudent": 2.4,
     "LactoseFree": true,
     "Vegan": true
   },
@@ -71,7 +90,7 @@
     "Vegan": true
   },
   {
-    "Name": "Wurstgulasch (2,3,4,8,So,Sf), bunte Fusilli (Gl)",
+    "Name": "Wurstgulasch (2,3,4,8,So,Sl,Sf), bunte Fusilli (Gl)",
     "Category": "CampusSpezial",
     "Date": "2022-07-15T00:00:00Z",
     "Additives": {
@@ -81,6 +100,7 @@
       "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.95,
@@ -90,7 +110,7 @@
     "Pig": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Bratkartoffeln",
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Senfsoße (Gl,La,Sf), Bratkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-07-15T00:00:00Z",
     "Additives": {
