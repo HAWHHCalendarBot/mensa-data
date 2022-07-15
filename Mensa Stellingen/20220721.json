@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
-    "Date": "2022-07-21T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 2.7,
-    "PriceGuest": 3.4,
-    "PriceStudent": 1.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
     "Category": "Pottkieker",
     "Date": "2022-07-21T00:00:00Z",
@@ -25,7 +14,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
+    "Name": "Gemüse-Soja-Bolognese (So,Sl), Nudeln (Gl)",
     "Category": "CampusVital",
     "Date": "2022-07-21T00:00:00Z",
     "Additives": {
@@ -40,17 +29,21 @@
     "Vegan": true
   },
   {
-    "Name": "Rinderhacksteak (Gl,Ei), Pfefferrahmsoße (La), Drillinge aus dem Ofen",
+    "Name": "Rinderhacksteak (Gl,Ei), BBQ-Mexican-Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-07-21T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.2,
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
-    "Beef": true
+    "Beef": true,
+    "LactoseFree": true
   }
 ]
