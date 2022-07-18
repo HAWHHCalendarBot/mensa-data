@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Kräuterkartoffeln, gebratene Paprika, Kohlrabigemüse",
     "Category": "Gemüsebar",
     "Date": "2022-07-18T00:00:00Z",
     "Additives": {},
@@ -11,20 +11,22 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Cherrytomaten und Pesto (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-07-18T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Milchreis (La), Pflaumenkompott (1,La)",
+    "Name": "Milchreis (La), Kirschgrütze (1,La)",
     "Category": "Pottkieker",
     "Date": "2022-07-18T00:00:00Z",
     "Additives": {
@@ -37,10 +39,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blumenkohl Korma, Reis",
+    "Name": "Blumenkohl Korma (2,Gl,So,Sl,Se), Reis",
     "Category": "Highlight",
     "Date": "2022-07-18T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.6,
     "PriceStudent": 2.1,
