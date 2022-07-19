@@ -1,5 +1,42 @@
 [
   {
+    "Name": "Tomaten-Basilikumsoße",
+    "Category": "Pastabar",
+    "Date": "2022-07-19T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Curryreis mit Ananas (Sf)",
+    "Category": "Pastabar",
+    "Date": "2022-07-19T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Princessbohnen, vegan, buntem Gemüse, vegan, geschmolzene Kirschtomaten, Blattspinat in Rahm (Gl,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-07-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
     "Category": "Pastabar",
     "Date": "2022-07-19T00:00:00Z",
@@ -15,11 +52,27 @@
     "Beef": true
   },
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Name": "Nudelauflauf mit Rinderstreifen und Paprika (1,Gl,La,Sw,48)",
+    "Category": "Pastabar",
+    "Date": "2022-07-19T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Milchreis (La), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-07-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 2.7,
@@ -38,6 +91,20 @@
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Putengulasch (Gl,La,Sl), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-07-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "Poultry": true
   },
   {
     "Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Gl,Ei,La,Sf,Se,Sw,48), Pommes Frites (Sf)",
