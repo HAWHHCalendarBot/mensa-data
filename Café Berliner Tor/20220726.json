@@ -1,20 +1,33 @@
 [
   {
-    "Name": "Putensteak, Farmersalat (1,2,Ei,La,Sl,Sf), Kräuterbaguette (Gl,La)",
-    "Category": "CampusVital",
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Category": "CampusWorld",
     "Date": "2022-07-26T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 6.6,
-    "PriceGuest": 7.8,
-    "PriceStudent": 5.3,
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2022-07-26T00:00:00Z",
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
     "Poultry": true
   }
 ]

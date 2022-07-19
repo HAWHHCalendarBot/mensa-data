@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Gartengemüse, Kohlrabigemüse, gerösteter Blumenkohl",
     "Category": "Gemüsebar",
     "Date": "2022-07-19T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Gemüse und Basilikumpesto (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-07-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -56,16 +58,21 @@
     "Pig": true
   },
   {
-    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
+    "Name": "Indisches Buttercurry (2,Gl,So,Sl,Se), mariniertes Quorn (Ei), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-07-19T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.4,
     "PriceGuest": 6.6,
     "PriceStudent": 4.1,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
