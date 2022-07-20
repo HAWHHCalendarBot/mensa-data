@@ -1,5 +1,43 @@
 [
   {
+    "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
+    "Category": "Pastabar",
+    "Date": "2022-07-20T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "mediterrane Tomaten-Gemüsesoße (Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-07-20T00:00:00Z",
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Wok-Gemüse, vegan (So), Prinzessbohnen, Karotten (La), Erbsen-Mais Gemüse (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-07-20T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
     "Category": "Pastabar",
     "Date": "2022-07-20T00:00:00Z",
@@ -15,11 +53,43 @@
     "Beef": true
   },
   {
-    "Name": "Grießspeise (Gl,La), Apfelkompott (3)",
+    "Name": "Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
+    "Category": "Pastabar",
+    "Date": "2022-07-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nudelauflauf mit Spinat und Rindfleisch (1,Gl,La,Sw,48)",
+    "Category": "Pastabar",
+    "Date": "2022-07-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Beef": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-07-20T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -45,41 +115,39 @@
     "Pig": true
   },
   {
-    "Name": "#allinONEPOT..VEGGIE..,, Soja \"Tandoori\" / Vollkornreis / Avocado / Linsen / Cranberries / Chia Samen / Baby Salad / Mango (1,2,3,Gl,So,La,Sl,Sf)",
+    "Name": "#allinONEPOT..VEGGIE..,, Soja \"Tandoori\" / Vollkornreis / Linsen / Cranberries / Chia Samen / Baby Salad / Mango (1,2,Gl,So,La,Sl,Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-07-20T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
     "Vegetarian": true
   },
   {
-    "Name": "#allinONEPOT..,, Tandoori Chicken / Vollkornreis / Avocado / Linsen / Cranberries / Chia Samen / Baby Salad / Mango (1,2,3,Gl,So,La,Sl,Sf)",
+    "Name": "#allinONEPOT..,, Tandoori Chicken / Vollkornreis / Linsen / Cranberries / Chia Samen / Baby Salad / Mango (1,2,Gl,So,La,Sl,Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-07-20T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.85,
-    "PriceGuest": 7.05,
-    "PriceStudent": 4.55,
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.45,
+    "PriceStudent": 3.95,
     "Poultry": true
   },
   {

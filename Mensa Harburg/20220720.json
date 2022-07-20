@@ -1,9 +1,23 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Hähnchenwürfel in Knoblauch-Sahnecreme, (La), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-20T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Poultry": true
+  },
+  {
+    "Name": "Tomaten-Oliven-Sauce, (3), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-20T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.9,
@@ -13,30 +27,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "braune Champignons frisch aus dem Wok, (Sw), Auberginen-Ragout, (Sl,Sw), Blumenkohl Korma in Currycreme, (Sf), Canneloni mit Gemüsefüllung, (La), Schwarzwurzeln glasiert",
     "Category": "Pastabar",
     "Date": "2022-07-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-07-20T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Grießspeise (Gl,La), Apfelkompott (3,Sw)",
@@ -54,7 +57,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
+    "Name": "Ofenfrischer Leberkäse (2,3,8), Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-07-20T00:00:00Z",
     "Additives": {
@@ -70,7 +73,7 @@
     "Pig": true
   },
   {
-    "Name": "Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
+    "Name": "Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), Curry-Soße, scharf",
     "Category": "CampusWorld",
     "Date": "2022-07-20T00:00:00Z",
     "Additives": {
