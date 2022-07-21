@@ -2,7 +2,7 @@
   {
     "Name": "Gemüsebar des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-07-22T00:00:00Z",
+    "Date": "2022-07-27T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -15,7 +15,7 @@
   {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-07-22T00:00:00Z",
+    "Date": "2022-07-27T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -28,7 +28,7 @@
   {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-07-22T00:00:00Z",
+    "Date": "2022-07-27T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -39,60 +39,62 @@
     "LactoseFree": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße und Klecks roter Grütze (La)",
+    "Name": "Kürbis Mango Suppe (Sl)",
     "Category": "Pottkieker",
-    "Date": "2022-07-22T00:00:00Z",
+    "Date": "2022-07-27T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 2.7,
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Fleischbällchen (Gl,Ei), hausgemachte Tomatensoße (Sl), Penne (Gl)",
-    "Category": "CampusWorld",
-    "Date": "2022-07-22T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.0,
-    "PriceGuest": 5.2,
-    "PriceStudent": 2.7,
-    "Beef": true,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-07-22T00:00:00Z",
+    "Name": "Hähnchen Tika Masala mit Joghurt (La,Sf), Kräuterreis",
+    "Category": "CampusWorld",
+    "Date": "2022-07-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
     "Poultry": true
   },
   {
-    "Name": "Wrap mit gegrillten Halloumi, Grillgemüse, Avacadodip und Rucola (Gl,La)",
-    "Category": "CampusVital",
-    "Date": "2022-07-22T00:00:00Z",
+    "Name": "4 Cevapcici (Gl,Ei,Sf), Kräuterquark (La), Krautsalat (3), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-27T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 6.1,
-    "PriceGuest": 7.3,
-    "PriceStudent": 4.8,
+    "PriceAttendant": 6.15,
+    "PriceGuest": 7.35,
+    "PriceStudent": 4.85,
+    "Beef": true
+  },
+  {
+    "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), Schnittlauchdip (La), Mediterrane Kartoffel Gemüsepfanne (Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-27T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.4,
+    "PriceGuest": 7.6,
+    "PriceStudent": 5.1,
     "Vegetarian": true
   }
 ]

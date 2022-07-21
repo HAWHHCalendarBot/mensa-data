@@ -2,7 +2,7 @@
   {
     "Name": "Gemüsebar des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-07-22T00:00:00Z",
+    "Date": "2022-07-28T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -15,20 +15,7 @@
   {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-07-22T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-07-22T00:00:00Z",
+    "Date": "2022-07-28T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -39,9 +26,22 @@
     "LactoseFree": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße und Klecks roter Grütze (La)",
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
     "Category": "Pottkieker",
-    "Date": "2022-07-22T00:00:00Z",
+    "Date": "2022-07-28T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
@@ -53,46 +53,52 @@
     "Vegetarian": true
   },
   {
-    "Name": "Fleischbällchen (Gl,Ei), hausgemachte Tomatensoße (Sl), Penne (Gl)",
-    "Category": "CampusWorld",
-    "Date": "2022-07-22T00:00:00Z",
+    "Name": "Vegane Maultaschen (Gl), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-28T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "9": "Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.0,
-    "PriceGuest": 5.2,
-    "PriceStudent": 2.7,
-    "Beef": true,
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.45,
+    "PriceStudent": 3.95,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-07-22T00:00:00Z",
+    "Name": "Hähnchen Crossies (Gl), Ananas-Chilisoße (2,Sl,Sf), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-28T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Wrap mit gegrillten Halloumi, Grillgemüse, Avacadodip und Rucola (Gl,La)",
-    "Category": "CampusVital",
-    "Date": "2022-07-22T00:00:00Z",
+    "Name": "Putensteak frisch gegrillt, Ofengemüse mit Kartoffeln und Feta (La,48)",
+    "Category": "CampusWorld",
+    "Date": "2022-07-28T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 6.1,
-    "PriceGuest": 7.3,
-    "PriceStudent": 4.8,
-    "Vegetarian": true
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Poultry": true
   }
 ]
