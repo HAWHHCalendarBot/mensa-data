@@ -1,42 +1,48 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Indisches Buttercurry, (La,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pulled Pork in Sahnesoße, (La,Sl,Sf), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Kartoffel-Spinat-Auflauf, (Gl,La,Sl), gebratene Aubergine, (Gl,Sw), Erbsen-, Mais-Karotten Gemüse,, Gartengemüse,, Räuchertofu-Ragout mit Soja und Kokosmilch, (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-07-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
     "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße und Klecks roter Grütze (La)",
@@ -53,7 +59,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Fleischbällchen (Gl,Ei), hausgemachte Tomatensoße (Sl), Penne (Gl)",
+    "Name": "Fleischbällchen (Gl,Ei), hausgemachte Tomatensoße (Sl), Nudeln (Gl)",
     "Category": "CampusWorld",
     "Date": "2022-07-22T00:00:00Z",
     "Additives": {
@@ -83,10 +89,11 @@
     "Poultry": true
   },
   {
-    "Name": "Wrap mit gegrillten Halloumi, Grillgemüse, Avacadodip und Rucola (Gl,La)",
+    "Name": "Wrap mit Sojageschnetzeltes, Grillgemüse, Avacadodip und Rucola (Gl,Ei,La)",
     "Category": "CampusVital",
     "Date": "2022-07-22T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
