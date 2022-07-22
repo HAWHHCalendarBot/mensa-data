@@ -30,7 +30,7 @@
     "Pig": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
+    "Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
     "Category": "Gemüsebar",
     "Date": "2022-07-22T00:00:00Z",
     "Additives": {
@@ -46,20 +46,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
-    "Category": "CampusWorld",
+    "Name": "Käse-Lauchsuppe mit Rinderhack (1,La,Sl,48)",
+    "Category": "Pottkieker",
     "Date": "2022-07-22T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.3,
-    "PriceGuest": 5.5,
-    "PriceStudent": 3.0,
-    "Beef": true,
-    "Pig": true
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Beef": true
   },
   {
     "Name": "Gebackene Seelachsfiletwürfel (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
@@ -94,5 +94,22 @@
     "PriceGuest": 6.5,
     "PriceStudent": 4.0,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gebratene Mie-Nudeln mit Wok Gemüse und Pute (1,Gl,Ei,Sf,Sw), Sauce von rotem und grünem Curry mir Kokos",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-22T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
