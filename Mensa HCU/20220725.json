@@ -1,6 +1,22 @@
 [
   {
-    "Name": "Kartoffel-Gemüse-Gulasch mit Taco Chips (2,Gl,So,Sl)",
+    "Name": "Kartoffel-Gemüse-Gulasch (2,Gl,So,Sl), mit Nudeln (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.4,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kartoffel-Gemüse-Gulasch (2,Gl,So,Sl), mit Nudeln (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-25T00:00:00Z",
     "Additives": {
@@ -29,5 +45,41 @@
     "PriceGuest": 3.4,
     "PriceStudent": 1.5,
     "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffelsuppe mit Gemüse und Brötchen (1,3,Gl,So,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-07-25T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 2.7,
+    "PriceGuest": 3.4,
+    "PriceStudent": 1.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Asiatische Mais-Pute (2,3,5,Gl,So,Se,Sw), bunter Sesam Glasnudel Salat (2,Gl,So,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2022-07-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.7,
+    "PriceGuest": 10.8,
+    "PriceStudent": 5.4,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
