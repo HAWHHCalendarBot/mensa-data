@@ -1,5 +1,44 @@
 [
   {
+    "Name": "Gemüsebar des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-08-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-08-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-08-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
     "Name": "Beerenkaltschale (La)",
     "Category": "Pottkieker",
     "Date": "2022-08-05T00:00:00Z",
@@ -12,14 +51,36 @@
     "Vegetarian": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), BBQ Mexican Soße (2,9,Sl,Sf), Belgische Pommes",
-    "Category": "CampusKlassiker",
+    "Name": "Karibisches Linsencurry (Sl,Sf), Basmatireis",
+    "Category": "CampusVital",
     "Date": "2022-08-05T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 5.2,
-    "PriceGuest": 6.4,
-    "PriceStudent": 3.9,
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-08-05T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
