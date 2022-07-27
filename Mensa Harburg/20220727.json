@@ -1,10 +1,38 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Käsesoße, (Gl,La), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-07-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Contadino mit Schweinefleisch, (Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.9,
+    "PriceGuest": 1.1,
+    "PriceStudent": 0.7,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Vegane Linsenbolognese, (Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-07-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -13,24 +41,15 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Kartoffel-Gemüse-Gulasch, (2,Gl,So,Sl), gebratene Champignons und bunte Paprika, (Sw), Mais aus dem Ofen,, glacierte rote Beete;, vegane Gemüsepfanne mit Paprika, Karotten und Lauchzwiebeln (Sw)",
     "Category": "Pastabar",
     "Date": "2022-07-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.9,
-    "PriceGuest": 1.1,
-    "PriceStudent": 0.7,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-07-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.9,
     "PriceGuest": 1.1,
@@ -81,7 +100,7 @@
     "Beef": true
   },
   {
-    "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), Schnittlauchdip (La), Mediterrane Kartoffel Gemüsepfanne (Sw)",
+    "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), Kräuterdip (La), Mediterrane Kartoffel Gemüsepfanne (Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-07-27T00:00:00Z",
     "Additives": {
