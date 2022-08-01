@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gebackene Aubergine, gebratene Zucchini, gerösteter Blumenkohl, gebratene Paprika",
     "Category": "Gemüsebar",
     "Date": "2022-08-01T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Champignons und Pesto (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2022-08-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -37,10 +38,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Möhren-Edamame-Curry mit Reisnudeln (So,Sl)",
+    "Name": "Möhren-Edamame-Curry mit Reisnudeln (So,Sl,Se)",
     "Category": "CampusVital",
     "Date": "2022-08-01T00:00:00Z",
     "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
