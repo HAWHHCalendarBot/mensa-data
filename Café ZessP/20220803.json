@@ -99,17 +99,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta nach Wahl mit Pomodoro Soße (Gl,Ei)",
-    "Category": "Food Angebot im Café ZessP",
-    "Date": "2022-08-03T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.2,
-    "PriceStudent": 3.9,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta nach Wahl mit Bolognese Soße (Gl,Ei,So,Sl)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2022-08-03T00:00:00Z",
@@ -123,6 +112,20 @@
     "PriceStudent": 3.9,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Pesto Genovese (La,Nu)  Pasta nach Wahl (Gl,Ei)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2022-08-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.2,
+    "PriceStudent": 3.9,
+    "Vegetarian": true
   },
   {
     "Name": "Melon Mint Salat, Blattsalat, Wassermelone, Edamame,Karotte,Minze&amp;Koriander,Erdnüsse,Mango-Dressing (En,So)",
