@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-08-03T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2022-08-03T00:00:00Z",
@@ -22,6 +11,21 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Broccoli (La), gebratene Paprika (5,Sw), Maultaschen (Gl), Süßkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-08-03T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -37,30 +41,38 @@
     "Vegetarian": true
   },
   {
-    "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), frisches Gemüse (2,Sw), rote Currysoße (Sl)",
+    "Name": "Bratreis mit Ei und Frühlingszwiebeln (2,Gl,Ei,So,Se), frisches Gemüse (2,Sl,Se,Sw), rote Currysoße (Gl,La,Sl)",
     "Category": "CampusWorld",
     "Date": "2022-08-03T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.4,
     "PriceGuest": 5.6,
     "PriceStudent": 3.1,
-    "LactoseFree": true,
     "Vegetarian": true
   },
   {
-    "Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Salzkartoffeln",
+    "Name": "Geflügelcurry mit Mandeln (2,Gl,En,So,La,Nu,Sl,Sf,Se), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-08-03T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.5,
     "PriceGuest": 5.7,
