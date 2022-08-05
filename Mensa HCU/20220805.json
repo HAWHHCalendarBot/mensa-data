@@ -1,17 +1,31 @@
 [
   {
-    "Name": "Karibisches Linsencurry mit Gemüse und Süßkartoffel (Sl,Sf)",
+    "Name": "Vegane Pasta mit roten Linsen, Zucchini und geräuchertem Paprika (Gl,Sf)",
     "Category": "Pastabar",
     "Date": "2022-08-05T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pastinakencremesuppe mit Baguette (Gl,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-08-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "Vegetarian": true
   },
   {
     "Name": "Schweinerückensteak, Ofengemüse mit Kartoffeln und Feta (La,48)",
@@ -22,9 +36,9 @@
       "8": "Phosphat",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 6.8,
-    "PriceStudent": 3.4,
+    "PriceAttendant": 5.45,
+    "PriceGuest": 8.3,
+    "PriceStudent": 4.15,
     "Pig": true
   }
 ]
