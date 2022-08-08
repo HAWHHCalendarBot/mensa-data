@@ -1,23 +1,11 @@
 [
   {
-    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl)",
-    "Category": "Pottkieker",
-    "Date": "2022-08-08T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La)",
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Pilzsoße (3,La)",
     "Category": "CampusSpezial",
     "Date": "2022-08-08T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -25,5 +13,31 @@
     "PriceGuest": 4.4,
     "PriceStudent": 2.2,
     "Poultry": true
+  },
+  {
+    "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl), Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-08-08T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.5,
+    "PriceGuest": 4.7,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kräuterrührei (Ei,La), Bratkartoffeln, Kräuterquark (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-08-08T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.35,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.05,
+    "Vegetarian": true
   }
 ]
