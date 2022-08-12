@@ -1,10 +1,26 @@
 [
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Penne (Gl)",
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-08-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-08-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,36 +29,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-08-12T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Pig": true
-  },
-  {
-    "Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
+    "Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So), Frühlingsgemüse",
     "Category": "Gemüsebar",
     "Date": "2022-08-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Käse-Lauchsuppe mit Zucchini (1,La,Sl)",
