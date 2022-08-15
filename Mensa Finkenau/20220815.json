@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Tomaten Mango Belugalinsenragout (Sl), Kräuterkartoffeln, gebratene Champignons, Karotten",
     "Category": "Gemüsebar",
     "Date": "2022-08-15T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +13,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Gemüse und Pesto (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2022-08-15T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -55,17 +58,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Broccoli (La), Basmatireis",
+    "Name": "Hähnchenbrust mit Kokos Currysoße (2,Gl,So,Se), Broccoli, Basmatireis",
     "Category": "CampusWorld",
     "Date": "2022-08-15T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.4,
     "PriceGuest": 6.6,
     "PriceStudent": 4.1,
+    "LactoseFree": true,
     "Poultry": true
   }
 ]
