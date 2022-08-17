@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Blattspinat in Rahm, (So), Pasta nach Wahl (Gl)",
+    "Name": "Blattspinat in veganen Rahm, (So), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-08-17T00:00:00Z",
     "Additives": {
@@ -74,12 +74,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Grillgemüse Burger (3,Gl,Se,Sw), Pommes Frites (Sf)",
+    "Name": "Chili con Carne (2), Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-08-17T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Grillgemüse Burger (3,Gl,Ei,La,Se,Sw,Lu), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-08-17T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -87,7 +103,6 @@
     "PriceAttendant": 5.9,
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
