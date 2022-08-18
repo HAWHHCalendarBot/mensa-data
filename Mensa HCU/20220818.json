@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Dummy",
+    "Name": "Vegane Sojabolognese mit Aubergine (So)",
     "Category": "Pastabar",
     "Date": "2022-08-18T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
@@ -11,7 +13,7 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), Eliche (Gl)",
+    "Name": "Hähnchenstreifen in Zucchini-Sahne-Sauce (Gl,La), Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2022-08-18T00:00:00Z",
     "Additives": {
@@ -24,40 +26,34 @@
     "Poultry": true
   },
   {
-    "Name": "Vegane mexikanische Gemüsesuppe (2,3,8,Sl), Baguette (Gl)",
+    "Name": "Vegane mexikanische Gemüsesuppe (2,Sl), Baguette (Gl)",
     "Category": "Pottkieker",
     "Date": "2022-08-18T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 1.4,
     "PriceGuest": 1.55,
     "PriceStudent": 1.3,
-    "Beef": true,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
   },
   {
-    "Name": "Vegane mexikanische Gemüsesuppe (2,3,8,Sl), Baguette (Gl)",
+    "Name": "Vegane mexikanische Gemüsesuppe (2,Sl), Baguette (Gl)",
     "Category": "Pottkieker",
     "Date": "2022-08-18T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 1.4,
     "PriceGuest": 1.55,
     "PriceStudent": 1.3,
-    "Beef": true,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
