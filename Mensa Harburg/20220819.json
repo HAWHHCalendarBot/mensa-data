@@ -1,10 +1,25 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Kürbis Schupfnudeln mit Mais (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2022-08-19T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ratatouille Tomatengemüse, (Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-08-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,24 +28,28 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "scharfe Tomatensoße, (Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-08-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Champignons, (Sw), gebratene Paprika, (5,Sw), Kichererbsengemüse, (2,5,Sw), Rote Beete Kartoffelpfanne, (9), Vollkornreis",
     "Category": "Pastabar",
     "Date": "2022-08-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "9": "Süßungsmittel",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,

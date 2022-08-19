@@ -1,23 +1,27 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Blumenkohl mit Sauce Hollandaise (Ei,La,Sl), Erbsen, Karotten",
     "Category": "Gemüsebar",
     "Date": "2022-08-19T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Ravioli mit Gemüsefüllung und Tomatensauce (Gl,Ei,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-08-19T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
