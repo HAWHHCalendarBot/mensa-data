@@ -48,22 +48,6 @@
     "Vegan": true
   },
   {
-    "Name": "Gemüsebratling mit Sourcreme oder veganen Dip (3,4,Gl,Ei,So,La,Sf), kleiner Salat",
-    "Category": "Food Angebot im Café ZessP",
-    "Date": "2022-08-26T00:00:00Z",
-    "Additives": {
-      "4": "Geschmacksverstärker",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 3.5,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.8,
-    "Vegetarian": true
-  },
-  {
     "Name": "Baked Potato \"Green Garden\" mit Karotte, Gurke, Rote Beete, Blattsalat, Sourcreme (3,4,Ei,So,La,Sf)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2022-08-26T00:00:00Z",
@@ -78,6 +62,23 @@
     "PriceAttendant": 3.65,
     "PriceGuest": 4.25,
     "PriceStudent": 2.95,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Schwarzwurzel Sesam Rösti mit Sourcreme oder veganer Dip (3,4,Gl,Ei,So,La,Sf,Se), kleiner Salat",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2022-08-26T00:00:00Z",
+    "Additives": {
+      "4": "Geschmacksverstärker",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 4.8,
+    "PriceStudent": 3.5,
     "Vegetarian": true
   },
   {
@@ -102,18 +103,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pesto Genovese (La,Nu)  Pasta nach Wahl (Gl,Ei)",
+    "Name": "Pasta nach Wahl mit Bolognese Soße (Gl,Ei,So,Sl)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2022-08-26T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.6,
     "PriceGuest": 5.2,
     "PriceStudent": 3.9,
-    "Vegetarian": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (2,Gl,Ei,La,Sl,Sf,48)",
