@@ -2,7 +2,7 @@
   {
     "Name": "Gemüsebar des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-08-26T00:00:00Z",
+    "Date": "2022-08-31T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -15,7 +15,7 @@
   {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-08-26T00:00:00Z",
+    "Date": "2022-08-31T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -28,7 +28,7 @@
   {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-08-26T00:00:00Z",
+    "Date": "2022-08-31T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -39,51 +39,48 @@
     "LactoseFree": true
   },
   {
-    "Name": "Gemüsegulasch (Sl), Penne (Gl)",
+    "Name": "Tomaten Kokos Suppe mit Huhn (Sl)",
     "Category": "Pottkieker",
-    "Date": "2022-08-26T00:00:00Z",
+    "Date": "2022-08-31T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Kurkumareis",
-    "Category": "CampusWorld",
-    "Date": "2022-08-26T00:00:00Z",
+    "Name": "Hühnerfrikassee (Gl,La,Sw), Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-08-31T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Poultry": true
+  },
+  {
+    "Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
+    "Category": "CampusWorld",
+    "Date": "2022-08-31T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.4,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Salzkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-08-26T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 6.6,
-    "PriceGuest": 7.8,
-    "PriceStudent": 5.3,
-    "Fish": true
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "Vegetarian": true
   }
 ]
