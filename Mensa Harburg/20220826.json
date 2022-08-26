@@ -1,6 +1,18 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Ofenkartoffel mit Spinat und Cherrytomaten überbacken (La)",
+    "Category": "Pastabar",
+    "Date": "2022-08-26T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tomatensoße Napoli,, Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-08-26T00:00:00Z",
     "Additives": {
@@ -13,24 +25,30 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Putengulasch, (Gl,So,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-08-26T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Gemüsebar des Tages (Gl), gerösteter Brokkoli-Blumenkohl mit Erdnüssen, (En), Schwarzwurzeln mit Fingermöhrchen pikant,, Ägyptische Falafel, (Gl,Sl), Gemüsecouscous, (Gl,Sl), gebratene Paprika (5,Sw)",
     "Category": "Pastabar",
     "Date": "2022-08-26T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "5": "Geschwefelt",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -53,7 +71,23 @@
     "Vegan": true
   },
   {
-    "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Kurkumareis",
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck oder Rotkohlsalat (2,3,8,Sl), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-08-26T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Indisches Gemüsecurry Garam Masala mit Tofu (2,3,Gl,So,Sl,Se,Sw), Reis",
     "Category": "CampusWorld",
     "Date": "2022-08-26T00:00:00Z",
     "Additives": {
@@ -70,20 +104,5 @@
     "PriceStudent": 4.4,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Salzkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-08-26T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 6.6,
-    "PriceGuest": 7.8,
-    "PriceStudent": 5.3,
-    "Fish": true
   }
 ]
