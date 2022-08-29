@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Broccoli, gerösteter Blumenkohl, Kräuterkartoffeln, Süßkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-08-29T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Ravioli mit Frischkäsefüllung und Tomatensauce (Gl,Ei,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-08-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
@@ -39,7 +41,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Gurkensalat (La), Hirtenkäse Quark Dip (La)",
+    "Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Gurkensalat (La), Kräuterdip (La)",
     "Category": "CampusWorld",
     "Date": "2022-08-29T00:00:00Z",
     "Additives": {

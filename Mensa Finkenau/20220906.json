@@ -2,7 +2,7 @@
   {
     "Name": "Gemüse des Tages",
     "Category": "Gemüsebar",
-    "Date": "2022-09-07T00:00:00Z",
+    "Date": "2022-09-06T00:00:00Z",
     "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,7 +13,7 @@
   {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-09-07T00:00:00Z",
+    "Date": "2022-09-06T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -24,11 +24,10 @@
     "Vegan": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
-    "Date": "2022-09-07T00:00:00Z",
+    "Date": "2022-09-06T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -38,34 +37,37 @@
     "Vegetarian": true
   },
   {
-    "Name": "Frisches Wokgemüse mit Teriyaki - Soße, Koriander und Basmaitreis (2,Gl,So,Sw)",
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
     "Category": "CampusWorld",
-    "Date": "2022-09-07T00:00:00Z",
+    "Date": "2022-09-06T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 7.1,
-    "PriceStudent": 4.6,
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Gebratene Hähnchenstreifen mit frischem Wokgemüse, Teriyakisoße, Koriander und Basmaitreis (2,Gl,So,Sw)",
-    "Category": "CampusWorld",
-    "Date": "2022-09-07T00:00:00Z",
+    "Name": "Asiatische Mais-Pute (2,3,5,Gl,So,Se,Sw), bunter Sesam Glasnudel Salat (2,Gl,So,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-06T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 6.9,
-    "PriceGuest": 8.1,
-    "PriceStudent": 5.6,
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
     "LactoseFree": true,
     "Poultry": true
   }
