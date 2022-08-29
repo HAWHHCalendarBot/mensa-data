@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Tomaten-Gemüse-Suppe mit Kichererbsen (Sl)",
-    "Category": "Pottkieker",
-    "Date": "2022-08-30T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 1.4,
-    "PriceGuest": 1.55,
-    "PriceStudent": 1.3,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-08-30T00:00:00Z",
@@ -40,20 +27,39 @@
     "Vegan": true
   },
   {
-    "Name": "Hamburger mit Rindfleisch-Patty, pikanter Soße, Tomate und Gurke (1,3,Gl,Sf,Se), Pommes Frites (Sf)",
+    "Name": "Hamburger mit Rindfleisch-Patty, pikanter Soße, Tomate und Gurke (3,Gl,Ei,La,Se), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-08-30T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 6.5,
     "PriceGuest": 7.7,
     "PriceStudent": 5.2,
-    "Beef": true,
-    "LactoseFree": true
+    "Beef": true
+  },
+  {
+    "Name": "Hamburger mit Tomate-Mozzarella-Patty, pikanter Soße, Tomate und Gurke (2,3,Gl,Ei,La,Sf,Se,Sw), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-08-30T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.5,
+    "PriceGuest": 7.7,
+    "PriceStudent": 5.2,
+    "Vegetarian": true
   }
 ]
