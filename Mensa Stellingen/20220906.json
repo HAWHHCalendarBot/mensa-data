@@ -14,12 +14,25 @@
     "Vegetarian": true
   },
   {
-    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Name": "Geflügelsuppe mit Gemüse (Gl,La,Sl), Reis",
+    "Category": "Pottkieker",
+    "Date": "2022-09-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "Poultry": true
+  },
+  {
+    "Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,So)",
     "Category": "CampusWorld",
     "Date": "2022-09-06T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -27,6 +40,25 @@
     "PriceGuest": 5.8,
     "PriceStudent": 3.3,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
+  },
+  {
+    "Name": "Gebackenes Rotbarschfilet (Gl,Fi,La), pikante Majo mit Ei und Kräutern (1,Ei,So,Sf), Kartoffelsalat mit Tomate, Gurke und Zwiebeln (2,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-09-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Fish": true
   }
 ]
