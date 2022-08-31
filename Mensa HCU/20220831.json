@@ -1,13 +1,11 @@
 [
   {
-    "Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
+    "Name": "Vegane Mie-Nudeln mit Gemüse (1,Gl,So,Sf,Sw), mit Tofu in grüner Kokos-Curry-Soße, scharf (So)",
     "Category": "Pastabar",
     "Date": "2022-08-31T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -15,10 +13,37 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Dummy",
+    "Category": "Pottkieker",
+    "Date": "2022-08-31T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kaiserschmarrn (Gl,Ei,La), Kirschgrütze (1,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-08-31T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
     "Vegetarian": true
   },
   {
-    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), oder 5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-08-31T00:00:00Z",
     "Additives": {
