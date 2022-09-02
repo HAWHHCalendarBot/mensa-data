@@ -24,18 +24,31 @@
     "Vegan": true
   },
   {
-    "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
+    "Name": "Nudelauflauf mit Ei (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2022-09-02T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-09-02T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 3.1,
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
-    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -55,7 +68,24 @@
     "Pig": true
   },
   {
-    "Name": "Wrap mit gegrillten Halloumi, Grillgemüse, Avacadodip und Rucola (Gl,La)",
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Buttererbsen (La), Rahmsoße (Gl,La,Sl), Salzkartoffeln",
+    "Category": "CampusWorld",
+    "Date": "2022-09-02T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Pig": true
+  },
+  {
+    "Name": "Gebackener Halloumi, Grillgemüse, Avacadodip, Rucola und Tortilla (Gl,La)",
     "Category": "CampusVital",
     "Date": "2022-09-02T00:00:00Z",
     "Additives": {
