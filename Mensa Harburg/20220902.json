@@ -1,10 +1,28 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Hackbällchen in Tomaten-Knoblauchsoße (Gl,Ei,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-02T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-09-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,24 +31,14 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "gebratene Champignons (Sw), Blattspinat in Sojarahm (Gl,So), Karotten mit Ingwer und Lauchzwiebeln, gebratenes Gemüse, Curryreis mit Gemüsen (Sf)",
+    "Category": "Gemüsebar",
     "Date": "2022-09-02T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-09-02T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -53,7 +61,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
+    "Name": "Vegetarisches Schnitzel in Knusperpanade (Gl,Ei,La), Kräutersoße (Gl,La), Salzkartoffeln",
+    "Category": "CampusVital",
+    "Date": "2022-09-02T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gebratene Hähnchenbrust (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-09-02T00:00:00Z",
     "Additives": {
