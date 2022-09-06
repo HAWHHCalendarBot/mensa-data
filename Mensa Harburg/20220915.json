@@ -56,30 +56,58 @@
     "Vegan": true
   },
   {
-    "Name": "Orientalisches Gemüsecurry (La,Sl,Sw)",
-    "Category": "Pottkieker",
-    "Date": "2022-09-15T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
-    "Category": "CampusKlassiker",
+    "Name": "Grünkern-Bolognese (Gl,Sl), Bunte Nudeln (Gl)",
+    "Category": "CampusVital",
     "Date": "2022-09-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 7.1,
-    "PriceStudent": 4.6,
-    "Poultry": true
+    "PriceAttendant": 3.2,
+    "PriceGuest": 4.4,
+    "PriceStudent": 1.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kartoffel-Spinat-Auflauf (Gl,Ei,La,Sl), Tomatensoße",
+    "Category": "CampusKlassiker",
+    "Date": "2022-09-15T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw,Lu), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.9,
+    "PriceGuest": 8.1,
+    "PriceStudent": 5.6,
+    "Alcohol": true,
+    "Beef": true,
+    "Pig": true
   }
 ]

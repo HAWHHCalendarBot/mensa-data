@@ -1,11 +1,10 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Gemüsebar des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -14,14 +13,11 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-09-16T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -30,19 +26,17 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-16T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Fish": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
@@ -88,18 +82,18 @@
     "Vegan": true
   },
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
+    "Name": "Gebackenes Alaska Seelachsfilet (Gl,Fi), rote Beete Zwiebel Quark (9,La), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-09-16T00:00:00Z",
     "Additives": {
+      "9": "Süßungsmittel",
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "Pig": true
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "Fish": true
   }
 ]
