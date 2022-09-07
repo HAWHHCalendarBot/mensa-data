@@ -11,11 +11,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Soja und Gemüse (2,Gl,So)",
     "Category": "Pastabar",
     "Date": "2022-09-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -52,6 +54,25 @@
     "PriceStudent": 4.6,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Asiatische Mais-Pute (2,3,5,Gl,So,Se,Sw), bunter Sesam Glasnudel Salat (2,Gl,So,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-07T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Gebratene Hähnchenstreifen mit frischem Wokgemüse, Teriyakisoße, Koriander und Basmaitreis (2,Gl,So,Sw)",
