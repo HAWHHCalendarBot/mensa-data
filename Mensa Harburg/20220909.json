@@ -1,10 +1,11 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
-    "Category": "Pasta des Tages (Gl)",
+    "Name": "Dicke Bohnen in Peperonatasoße (Gl), Kohlrabi mit Estragon und Koriander, buntem Gemüse, gebratenes Gemüse, Gemüsecouscous (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-09-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,24 +14,40 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pasta des Tages (Gl)",
+    "Name": "Putenfleischstreifen und Champignions in Sahnesoße (Gl,La), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-09-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "Poultry": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pasta des Tages (Gl)",
+    "Name": "Pasta Nerone mit Schweinefleisch und Erbsen (La,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-09-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
+  },
+  {
+    "Name": "Soja Bolognese mit Gemüse und Sojasahne (So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-09-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -39,8 +56,8 @@
     "Vegan": true
   },
   {
-    "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
-    "Category": "Pasta des Tages (Gl)",
+    "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Vollkornreis",
+    "Category": "Pottkieker",
     "Date": "2022-09-09T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
@@ -56,8 +73,24 @@
     "Vegan": true
   },
   {
+    "Name": "Frikadelle (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Wedges (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-09-09T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "Beef": true,
+    "Pig": true
+  },
+  {
     "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Wedges (Gl)",
-    "Category": "Pasta des Tages (Gl)",
+    "Category": "CampusKlassiker",
     "Date": "2022-09-09T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
@@ -71,8 +104,8 @@
     "Beef": true
   },
   {
-    "Name": "Seelachsfilet natur gebraten (1,Gl,Fi,Sf), Senfsoße mit Dill (Gl,La,Sf), Blattspinat, Drillinge",
-    "Category": "Pasta des Tages (Gl)",
+    "Name": "Seelachsfilet natur gebraten (1,Gl,Fi,Sf), Blattspinat in Rahm (Gl,La), Drillinge",
+    "Category": "CampusKlassiker",
     "Date": "2022-09-09T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
