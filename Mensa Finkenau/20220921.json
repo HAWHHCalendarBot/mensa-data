@@ -1,8 +1,19 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2022-09-21T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-09-16T00:00:00Z",
+    "Date": "2022-09-21T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -13,38 +24,10 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-09-16T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-09-16T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
-    "Date": "2022-09-16T00:00:00Z",
+    "Date": "2022-09-21T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -54,46 +37,51 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gemüsegulasch (Sl), Penne (Gl)",
-    "Category": "Pottkieker",
-    "Date": "2022-09-16T00:00:00Z",
+    "Name": "Linsenbolognese in pikanter Soße (Sl), Spaghetti (Gl)",
+    "Category": "CampusVital",
+    "Date": "2022-09-21T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
+    "PriceAttendant": 3.5,
+    "PriceGuest": 4.7,
     "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Karibisches Linsencurry (Sl,Sf), Basmatireis",
-    "Category": "CampusVital",
-    "Date": "2022-09-16T00:00:00Z",
-    "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.0,
-    "PriceGuest": 5.2,
-    "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
   },
   {
     "Name": "Gebackenes Alaska Seelachsfilet (Gl,Fi), rote Beete Zwiebel Quark (9,La), Salzkartoffeln",
     "Category": "CampusKlassiker",
-    "Date": "2022-09-16T00:00:00Z",
+    "Date": "2022-09-21T00:00:00Z",
     "Additives": {
       "9": "Süßungsmittel",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
     "Fish": true
+  },
+  {
+    "Name": "Schinken Krustenbraten, Biersoße (Gl,Sl), Sauerkraut mit Speck (2,3,8,Sl), Semmelklöße (Gl,Ei)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-21T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
+    "Alcohol": true,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]

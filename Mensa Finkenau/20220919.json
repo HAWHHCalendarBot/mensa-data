@@ -2,7 +2,7 @@
   {
     "Name": "Gemüse des Tages",
     "Category": "Gemüsebar",
-    "Date": "2022-09-14T00:00:00Z",
+    "Date": "2022-09-19T00:00:00Z",
     "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,7 +13,7 @@
   {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2022-09-14T00:00:00Z",
+    "Date": "2022-09-19T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -24,10 +24,12 @@
     "Vegan": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
     "Category": "Pottkieker",
-    "Date": "2022-09-14T00:00:00Z",
+    "Date": "2022-09-19T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -38,34 +40,33 @@
     "Vegetarian": true
   },
   {
-    "Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Basmatireis",
-    "Category": "CampusKlassiker",
-    "Date": "2022-09-14T00:00:00Z",
+    "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La,48)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-19T00:00:00Z",
     "Additives": {
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.2,
-    "Poultry": true
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Vegetarian": true
   },
   {
-    "Name": "Gnocchi Mac and Cheese (1,Gl,La,Sl,Sf)",
+    "Name": "Paniertes Schweineschnitzel (Gl), Bratensoße (Sl), gebratene Champignons (Sw), Kroketten (Gl)",
     "Category": "CampusKlassiker",
-    "Date": "2022-09-14T00:00:00Z",
+    "Date": "2022-09-19T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.0,
-    "PriceGuest": 6.2,
-    "PriceStudent": 3.7,
-    "Vegetarian": true
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
