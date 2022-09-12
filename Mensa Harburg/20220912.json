@@ -1,20 +1,21 @@
 [
   {
-    "Name": "Karotten (La), Auberginen-Zucchini-Gemüse (Sw), karamellisierte Schwarzwurzeln (La), Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi (Gl)",
+    "Name": "Karotten, Auberginen-Zucchini-Gemüse (Sw), karamellisierte Schwarzwurzeln, Kohlrabi in Sojarahm (So), Süßkartoffel Gnocchi (Gl)",
     "Category": "Gemüsebar",
     "Date": "2022-09-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
+    "Name": "Pasta Saporita mit Rindfleisch und Paprika (La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-12T00:00:00Z",
     "Additives": {
@@ -26,21 +27,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
-  },
-  {
-    "Name": "Pasta Broccoli-Gorgonzola (La,48), Conchiglie (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-09-12T00:00:00Z",
-    "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
   },
   {
     "Name": "Asiatische Gemüsesuppe süß-sauer mit Hühnchenfleisch (2,Gl,So,Sl,Sf)",
