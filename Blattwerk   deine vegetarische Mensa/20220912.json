@@ -1,11 +1,24 @@
 [
   {
-    "Name": "Pasta Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl), Spaghetti (Gl)",
+    "Name": "Gärtnerin Sugo mit Gemüse und Tomaten (Sl)",
     "Category": "Pastabar",
     "Date": "2022-09-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "VEgane Soja-Lauch-Soße (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-09-12T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -26,21 +39,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
-  },
-  {
-    "Name": "Soja-Lauch-Soße (So,Sl), Spaghetti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-09-12T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Joghurt Koriander Dip (1,3,9,Ei,La,Sf)",
@@ -79,7 +77,7 @@
     "Vegan": true
   },
   {
-    "Name": "Räuchertofu Teriyaki mit Pak Choi (2,Gl,So,Se), Basmatireis",
+    "Name": "Sojageschnetzeltes mit gebratenen Pak Choi und Teriyaki (2,Gl,So,Se), Basmatireis",
     "Category": "CampusSpezial",
     "Date": "2022-09-12T00:00:00Z",
     "Additives": {
