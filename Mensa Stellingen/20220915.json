@@ -1,5 +1,18 @@
 [
   {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-09-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
     "Name": "Ofengemüse in BBQ-Sauce mit Kartoffeln (So,Sf,Se)",
     "Category": "Pottkieker",
     "Date": "2022-09-15T00:00:00Z",
@@ -15,19 +28,17 @@
     "Vegan": true
   },
   {
-    "Name": "Canneloni mit Hackfleischfüllung (Gl,Ei,La,Sl), Tomatensoße",
-    "Category": "CampusWorld",
+    "Name": "Chili con Carne mit Rindfleisch, Bohnen, Paprika &amp; Mais (2), Reis",
+    "Category": "CampusKlassiker",
     "Date": "2022-09-15T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "2": "Konservierungsstoff"
     },
-    "PriceAttendant": 4.25,
-    "PriceGuest": 5.45,
-    "PriceStudent": 2.95,
-    "Beef": true
+    "PriceAttendant": 5.05,
+    "PriceGuest": 6.25,
+    "PriceStudent": 3.75,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Hamburger mit Amaranth-Süßkartoffel-Patty, Tomate, Gurke &amp; Balsamico-Zwiebeln (1,5,Gl,Sl,Sf,Se,Sw), Pommes Frites (Sf)",
@@ -47,27 +58,5 @@
     "PriceStudent": 4.9,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Bacon-Bomb-Burger mit Rindfleisch, Speck, Tomaten, Gurken &amp; Balsamico-Zwiebeln (1,2,5,8,Gl,La,Sl,Sf,Se,Sw), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2022-09-15T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.9,
-    "PriceGuest": 8.1,
-    "PriceStudent": 5.6,
-    "Beef": true,
-    "Pig": true
   }
 ]
