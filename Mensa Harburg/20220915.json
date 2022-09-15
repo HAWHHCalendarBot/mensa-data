@@ -1,11 +1,12 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), Eliche (Gl)",
+    "Name": "Putencurry mit Früchten und Gemüsen (Gl,La,Sf), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,33 +14,34 @@
     "Poultry": true
   },
   {
-    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "gerösteter Broccoli mit Mandeln (Nu), Steckrüben-Möhren Gemüse, gebratener Spitzkohl mit Paprikasreifen, Belugalinsenragout mit Tomaten und Kokosmilch (So,Sl), Vollkornreis",
+    "Category": "Gemüsebar",
+    "Date": "2022-09-15T00:00:00Z",
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
-    "Category": "Gemüsebar",
-    "Date": "2022-09-15T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kokos Milchreis Vegan (3,So)",
