@@ -1,11 +1,11 @@
 [
   {
-    "Name": "Karibisches Linsencurry (Sl,Sf), Basmatireis",
+    "Name": "Chili sin carne (So,Sl), Gemüsereis (Sl)",
     "Category": "Pastabar",
     "Date": "2022-09-16T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
@@ -14,15 +14,57 @@
     "Vegan": true
   },
   {
+    "Name": "Chili sin carne (So,Sl), Gemüsereis (Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-09-16T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kartoffelsuppe mit Baguette (Gl,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-09-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-09-16T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
     "Name": "Paniertes Schweineschnitzel (Gl), Bratkartoffeln, Gurkensalat",
     "Category": "CampusKlassiker",
     "Date": "2022-09-16T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 6.8,
-    "PriceStudent": 3.4,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 8.0,
+    "PriceStudent": 4.0,
     "LactoseFree": true,
     "Pig": true
   },
@@ -33,9 +75,9 @@
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 6.8,
-    "PriceStudent": 3.4,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 8.0,
+    "PriceStudent": 4.0,
     "LactoseFree": true,
     "Pig": true
   }
