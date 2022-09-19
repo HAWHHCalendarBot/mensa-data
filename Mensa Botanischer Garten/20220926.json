@@ -1,5 +1,18 @@
 [
   {
+    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Category": "Pastabar",
+    "Date": "2022-09-26T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "Grießspeise (Gl,La), Apfelkompott (3)",
     "Category": "Pottkieker",
     "Date": "2022-09-26T00:00:00Z",
@@ -12,5 +25,33 @@
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Chili sin carne (So,Sl), Reis",
+    "Category": "CampusVital",
+    "Date": "2022-09-26T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Zuckerschoten (La), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2022-09-26T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "Poultry": true
   }
 ]
