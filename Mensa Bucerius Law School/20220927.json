@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Hähnchenstreifen al arrabiata, Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-09-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
     "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-27T00:00:00Z",
@@ -27,12 +14,11 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei)",
+    "Name": "Brechbohnen, Gemüse Zartweizen (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse",
     "Category": "Gemüsebar",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
@@ -41,10 +27,10 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
-    "Name": "Gemüsefrikadelle (Gl,Sl), Kresserahmsoße (Gl,La)",
+    "Name": "Gemüsefrikadelle (Gl,Sl), Kresserahmsoße (Gl,La), Kartoffel Möhrenstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
@@ -52,40 +38,40 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.15,
-    "PriceGuest": 5.25,
-    "PriceStudent": 2.9,
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
     "Vegetarian": true
   },
   {
-    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße",
+    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Couscous (Gl,Sl)",
     "Category": "CampusVital",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.05,
-    "PriceGuest": 6.15,
-    "PriceStudent": 3.8,
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
     "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse (2,Gl,Ei,La,48)",
-    "Category": "CampusWorld",
+    "Name": "Champignon im Backteig (Gl,Ei), Ajvar Dip (La), Pommes Frites (Sf), Tomaten-Gurken-Topping",
+    "Category": "CampusSpezial",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 6.6,
-    "PriceGuest": 7.8,
-    "PriceStudent": 5.3,
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
     "Vegetarian": true
   }
 ]
