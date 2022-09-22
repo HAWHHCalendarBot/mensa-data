@@ -1,26 +1,10 @@
 [
   {
-    "Name": "Pasta Boscaiola mit Mischpilzen und Speck (2,3,8)",
-    "Category": "Pastabar",
-    "Date": "2022-09-22T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
+    "Name": "Pasta Boscaiola mit Mischpilzen (Gl,So)",
     "Category": "Pastabar",
     "Date": "2022-09-22T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -30,7 +14,21 @@
     "Vegan": true
   },
   {
-    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Frühlingsgemüse (La), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
+    "Name": "Pasta mit Rindfleisch, Zucchini und Tomaten (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-09-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Frühlingsgemüse (La), Spitzkohl in Rahm (Gl,La), Petersilienkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-09-22T00:00:00Z",
     "Additives": {
@@ -64,6 +62,20 @@
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "Vegetarian": true
+  },
+  {
+    "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-09-22T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Olympusteller mit Putensteak und Cevapcici (Gl,Ei,Sf), Tzatziki (La), Krautsalat (3,5,Sw)",
