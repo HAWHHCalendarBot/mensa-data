@@ -13,7 +13,23 @@
     "Poultry": true
   },
   {
-    "Name": "glasierte rote Beete, Hausgemachte Gemüselasagne (Gl,So,La,Sl), Ägyptische Falafel (Gl,Sl)",
+    "Name": "Pasta mit Kokos Currygemüse (2,Gl,Sl,Sf)",
+    "Category": "Pastabar",
+    "Date": "2022-09-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "glasierte rote Beete, Hausgemachte Gemüselasagne (Gl,So,La,Sl), Ägyptische Falafel (Gl,Sl), Stufato di Lenticche mit Räuchertofu (Gl,So)",
     "Category": "Gemüsebar",
     "Date": "2022-09-23T00:00:00Z",
     "Additives": {
@@ -57,22 +73,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl)",
-    "Category": "CampusSpezial",
-    "Date": "2022-09-23T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 6.25,
-    "PriceGuest": 7.35,
-    "PriceStudent": 5.0,
-    "Fish": true,
-    "LactoseFree": true
-  },
-  {
     "Name": "Olympusteller mit Putensteak und Cevapcici (Gl,Ei,Sf), Tzatziki (La), Krautsalat (3,5,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-09-23T00:00:00Z",
@@ -90,5 +90,21 @@
     "PriceStudent": 5.2,
     "Beef": true,
     "Poultry": true
+  },
+  {
+    "Name": "Gebratenes Kabeljaufilet (Gl,Fi), Wirsing in Chilicreme (Gl,So,Sl), Kartoffelpüree (La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-23T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 7.0,
+    "PriceGuest": 8.2,
+    "PriceStudent": 5.7,
+    "Fish": true
   }
 ]

@@ -1,10 +1,25 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße, (Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "dicke Bohnen mit Tomatensauce, (Sl), weiße Bohnen in veganer Broccoli-Sauce (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-09-23T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,24 +28,44 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta Nerone mit Schweinefleisch, (La,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "Pig": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Asiatischer Sojagulasch mit Gemüse, (2,Gl,So,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Räuchertofu Teriyaki mit Pak Choi, (2,Gl,So,Se), Bratnudeln mit Gemüsestreifen (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-09-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -59,14 +94,17 @@
     "Fish": true
   },
   {
-    "Name": "Hähnchen Crossies (Gl), Ananas-Chilisoße (2,Sl,Sf), Reis",
+    "Name": "Hähnchen Crossies, (Gl), Ananas-Chilisoße, (2,Sl,Sf), Krautsalat, (3,5,Sw), Reis",
     "Category": "CampusSpezial",
     "Date": "2022-09-23T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.3,
     "PriceGuest": 6.5,
