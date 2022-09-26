@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Wir kochen was Sie lieben..., Hähnchenkeule Texicana (9,Sf), Bratensoße (Sl), pikanter Vollkornreis mit Erbsen",
+    "Category": "CampusKlassiker",
+    "Date": "2022-09-27T00:00:00Z",
+    "Additives": {
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
     "Name": "Gemüsefrikadelle (Gl,Sl), Kresserahmsoße (Gl,La), Kartoffel Möhrenstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2022-09-27T00:00:00Z",
@@ -27,17 +42,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Couscous (Gl,Sl)",
-    "Category": "CampusVital",
-    "Date": "2022-09-27T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "#ofenfrisch..Pizza Margeritha vegan (1,Gl)",
     "Category": "CampusWorld",
     "Date": "2022-09-27T00:00:00Z",
@@ -48,23 +52,6 @@
     "PriceAttendant": 5.8,
     "PriceGuest": 7.0,
     "PriceStudent": 4.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Wir kochen was Sie lieben..., Döner Teller mit Falafel (3,5,Gl,Sl,Sw), Kartoffeltwister (Gl)",
-    "Category": "CampusSpezial",
-    "Date": "2022-09-27T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.85,
-    "PriceGuest": 7.05,
-    "PriceStudent": 4.55,
     "LactoseFree": true,
     "Vegan": true
   },
@@ -83,6 +70,23 @@
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
     "Pig": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Döner Teller mit Falafel (3,5,Gl,Sl,Sw), Kartoffeltwister (Gl), Tzatziki (La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-27T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.45,
+    "PriceGuest": 7.65,
+    "PriceStudent": 5.15,
+    "Vegetarian": true
   },
   {
     "Name": "#ofenfrisch..Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse (2,Gl,Ei,La,48)",
