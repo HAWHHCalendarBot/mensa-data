@@ -14,47 +14,17 @@
     "Vegan": true
   },
   {
-    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Broccoli, Süßkartoffel Gnocchi (Gl)",
+    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La)",
     "Category": "Gemüsebar",
     "Date": "2022-10-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-10-04T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true
-  },
-  {
-    "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
-    "Category": "Pottkieker",
-    "Date": "2022-10-04T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Conchiglie mit Joghurt, Fetakäse, Erbsen und Chili (Gl,La,48)",
@@ -86,5 +56,27 @@
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
     "Pig": true
+  },
+  {
+    "Name": "Spicy Chicken Burger mit Wakame-Algensalat und Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf,Se), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-10-04T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.9,
+    "PriceGuest": 8.1,
+    "PriceStudent": 5.6,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
