@@ -14,17 +14,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Geflügelsuppe mit Gemüse (Gl,La,Sl), Reis",
+    "Name": "Geflügelsuppe mit Gemüse (Sl), Reis",
     "Category": "Pottkieker",
     "Date": "2022-09-28T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "LactoseFree": true,
     "Poultry": true
   },
   {
@@ -57,5 +56,19 @@
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
     "Fish": true
+  },
+  {
+    "Name": "Cordon Bleu vom Schweinerücken, Champignonrahmsoße (La,Sw), Gemüse-Mix, Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-09-28T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.5,
+    "PriceGuest": 7.7,
+    "PriceStudent": 5.2,
+    "Pig": true
   }
 ]
