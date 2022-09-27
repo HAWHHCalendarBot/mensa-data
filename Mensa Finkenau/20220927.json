@@ -1,9 +1,12 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, Kürbisgemüse, Erbsen, Süßkartoffeln",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Zucchini und Basilikumpesto (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-09-27T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,12 +14,14 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta mit Zucchini und Basilikumpesto (Gl,Sl)",
-    "Category": "Pastabar",
+    "Name": "Blumenkohl Korma (2,Gl,So,Sl), Kürbisgemüse, Erbsen, Süßkartoffeln",
+    "Category": "Gemüsebar",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
