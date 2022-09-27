@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gerösteter Blumenkohl, Kürbisgemüse, Erbsen, Süßkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {},
@@ -11,11 +11,12 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Zucchini und Basilikumpesto (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -24,11 +25,13 @@
     "Vegan": true
   },
   {
-    "Name": "Milchreis (La), Rhabarberkompott (1,La)",
+    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 3.1,
@@ -37,13 +40,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Indischer Biryani mit mariniertem gebratenen Tofu (2,3,Gl,So)",
+    "Name": "Indischer Biryani mit mariniertem gebratenen Tofu (2,3,Gl,So,Nu,Sl)",
     "Category": "CampusWorld",
     "Date": "2022-09-27T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.3,
