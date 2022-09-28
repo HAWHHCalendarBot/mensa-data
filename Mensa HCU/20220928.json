@@ -1,17 +1,43 @@
 [
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchinisoße (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-09-28T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-09-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-09-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.4,
+    "PriceStudent": 2.2,
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Gemüsepfanne in süß saurer Soße (Sl,Sf,Sw), Reis",
