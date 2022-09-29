@@ -1,20 +1,20 @@
 [
   {
-    "Name": "Pasta Hähnchen mit Aubergine (Gl,Sw)",
+    "Name": "Pasta Hähnchen mit Aubergine (Gl,La,Sw)",
     "Category": "Pastabar",
     "Date": "2022-09-29T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Tortellini mit Spinat Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2022-09-29T00:00:00Z",
     "Additives": {
@@ -104,5 +104,21 @@
     "PriceGuest": 6.95,
     "PriceStudent": 4.6,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pizza Salame di pollo e Funghi (1,2,3,Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2022-09-29T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Poultry": true
   }
 ]
