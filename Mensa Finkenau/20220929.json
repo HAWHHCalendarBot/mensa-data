@@ -1,27 +1,35 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Pasta mit Kürbis und Tomatenpesto (2,5,La,Nu,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-09-29T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-09-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spätzle mit Käse (Gl,Ei,La), glasiertes Wurzelgemüse (Sl,Sf), Kräuterkartoffeln, Kürbisgemüse",
+    "Category": "Pastabar",
+    "Date": "2022-09-29T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Extra: Kartoffelspalten (Gl)",
@@ -65,10 +73,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl, Reis",
+    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl (2,Gl,So,Sl), Reis",
     "Category": "CampusVital",
     "Date": "2022-09-29T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 4.2,
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
