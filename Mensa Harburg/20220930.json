@@ -1,10 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Pasta Gärtnerin Sugo mit Gemüse-Sojasoße (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-30T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,30 +15,34 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Tomaten-Sahnesoße mit Rindfleisch und bunten Gemüsen (La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-09-30T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "Beef": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Maisgemüse, Tricolore Gemüse (Sl), Wirsingkohl in Sojarahm mit Waldpilzen (3,Gl,So,La,Sl), Veganes Kichererbsencurry, Salzkartoffeln",
     "Category": "Pastabar",
     "Date": "2022-09-30T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Kokos Milchreis Vegan",

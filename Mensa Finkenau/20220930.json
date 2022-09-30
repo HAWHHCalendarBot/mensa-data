@@ -1,27 +1,36 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Blumenkohl-Käse-Bratling (Gl,Ei,La,Sl), gebratene Champignons, Spätzle mit Käse (Gl,Ei,La)",
     "Category": "Gemüsebar",
     "Date": "2022-09-30T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Gebratene Eiernudeln mit Zucchini,Weißkohl und Karotten (2,Gl,Ei,So,Sl,Se)",
     "Category": "Pastabar",
     "Date": "2022-09-30T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
@@ -38,7 +47,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "veganes Fingermöhrchen-Edamame-Curry mit Reisnudeln (So,Sl)",
+    "Name": "veganes Fingermöhrchen-Edamame-Curry mit Reis (So,Sl)",
     "Category": "CampusVital",
     "Date": "2022-09-30T00:00:00Z",
     "Additives": {
@@ -52,12 +61,14 @@
     "Vegan": true
   },
   {
-    "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
+    "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (2,Gl,So,Sl), Rosmarinkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-09-30T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.9,
     "PriceGuest": 7.1,
