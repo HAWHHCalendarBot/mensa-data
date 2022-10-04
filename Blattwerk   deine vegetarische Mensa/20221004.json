@@ -14,12 +14,10 @@
     "Vegan": true
   },
   {
-    "Name": "Kürbis-Koriander-Suppe (La,Sl), Naanbrot (2,Gl,La)",
+    "Name": "Kürbis-Koriander-Suppe und Brot (La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-10-04T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
@@ -41,6 +39,24 @@
     "PriceAttendant": 5.2,
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Frühlingsrolle (Gl,Ei,So), Pflaumensoße (2,5,Gl,So,Sw), Mie-Nudeln (Gl,Ei)",
+    "Category": "CampusSpezial",
+    "Date": "2022-10-04T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
