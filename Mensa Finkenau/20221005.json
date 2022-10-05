@@ -11,17 +11,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Eiernudeln mit Sojachili (Gl,Ei,So)",
     "Category": "Pastabar",
     "Date": "2022-10-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -35,6 +37,41 @@
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Vegetarische Schöpf-Currywurst (9,Ei,Sl), Baguette (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-05T00:00:00Z",
+    "Additives": {
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Schöpf-Currywurst (3,4,8,9,Sl,Sf), Baguette (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-05T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Vegetarisch gefüllte Kohlroulade (Gl,Ei,So), Kümmelsoße (Sl), Salzkartoffeln",
