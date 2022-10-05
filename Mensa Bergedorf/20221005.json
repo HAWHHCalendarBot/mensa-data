@@ -1,34 +1,16 @@
 [
   {
-    "Name": "Weiße Bohnen meditteraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
-    "Category": "Gemüsebar",
-    "Date": "2022-10-05T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta All`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (Gl)",
+    "Name": "Pasta All`Amatriciana mit Hähnchen und Tomaten (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-05T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Pig": true
+    "Poultry": true
   },
   {
     "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
@@ -45,6 +27,23 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Fingermöhrchen (La), spanisches Kartoffelgemüse, Prinzessbohnen, gebratene Zucchini, Zwiebel-Gemüse Quiche (2,Gl,Ei,La,48), gebratenem Wirsing",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-05T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl)",
@@ -91,7 +90,7 @@
     "Vegan": true
   },
   {
-    "Name": "Honey Garlic Chicken mit Sesam Brokkoli und gebackenen Ofenkartoffel (2,Gl,So,Se)",
+    "Name": "Honey Garlic Chicken mit Sesam Broccoli und gebackenen Ofenkartoffel (2,Gl,So,Se)",
     "Category": "CampusSpezial",
     "Date": "2022-10-05T00:00:00Z",
     "Additives": {
