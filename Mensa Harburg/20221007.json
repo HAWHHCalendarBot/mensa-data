@@ -1,10 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Soja Bolognese mit Gemüsen und Linsen (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,24 +15,30 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Vegane Knoblauchsoße mit Gartenkräuter (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Champignons (Sw), gebratenes  Auberginen - Zucchinigemüse (Sw), pikantes Bohnen-Ragout in Sojasahne (Gl,So,Se), Bunter Rübenmix (Sl), Gemüse Bulgur (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -68,6 +76,20 @@
     "PriceStudent": 3.8,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Putenrahmgulasch mit bunten Gemüsen (Gl,La,Sl), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Poultry": true
   },
   {
     "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Wedges (Gl)",
