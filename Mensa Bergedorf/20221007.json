@@ -1,24 +1,21 @@
 [
   {
-    "Name": "gebratenem Wirsing, Ägyptische Falafel (Gl,Sl)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Pesto mit Cherrytomaten (La)",
+    "Category": "Pastabar",
     "Date": "2022-10-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Farfalle (Gl)",
+    "Name": "Spinat Nudelgratin (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-07T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -26,7 +23,37 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Fish": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vollkorn Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-10-07T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "gebratenem Wirsing, Ägyptische Falafel (Gl,Sl), Orientalisches Gemüsecurry (La,Sl,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Vegetarische Paella mit Quorn (Ei,Sl)",
@@ -66,18 +93,17 @@
     "Poultry": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Sommergemüse (La), Geflügelrahmsoße (La), Kartoffelgratin (Ei,La)",
+    "Category": "CampusSpezial",
     "Date": "2022-10-07T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 6.15,
-    "PriceGuest": 7.25,
-    "PriceStudent": 4.9,
-    "Fish": true
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
+    "Poultry": true
   }
 ]
