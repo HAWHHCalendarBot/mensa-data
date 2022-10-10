@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Bolognese (Sl), Vollkorn Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-10-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
     "Name": "Grießspeise (Gl,La), Apfelkompott (3)",
     "Category": "Pottkieker",
     "Date": "2022-10-19T00:00:00Z",
@@ -12,5 +26,36 @@
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl)",
+    "Category": "CampusVital",
+    "Date": "2022-10-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-19T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Pig": true
   }
 ]
