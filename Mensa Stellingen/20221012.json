@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Kokos-Kürbis-Curry (Sf,Se), Tortilla Chips",
-    "Category": "Pottkieker",
-    "Date": "2022-10-12T00:00:00Z",
-    "Additives": {
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Vegane Kokosmilch-Reissüßspeise (So,La), Apfelkompott (3)",
     "Category": "Pottkieker",
     "Date": "2022-10-12T00:00:00Z",
@@ -28,7 +14,23 @@
     "Vegetarian": true
   },
   {
-    "Name": "Cappeletti Rosso - Nudeln mit Ricottafüllung (Gl,La), Gemüse-Tomaten-Ragout",
+    "Name": "Paprika-Pfanne mit Tofu (Gl,So,Sf,Se), Tortilla Chips",
+    "Category": "Pottkieker",
+    "Date": "2022-10-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Cappeletti Rosso - Nudeln mit Ricottafüllung (Gl,La), Kirschtomaten-Ragout &amp; Rucola",
     "Category": "CampusWorld",
     "Date": "2022-10-12T00:00:00Z",
     "Additives": {
@@ -41,17 +43,40 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenkeule mit Paprika &amp; Kichererbsen in Tomatensoße (5,Sw), Rosmarinkartoffeln",
-    "Category": "CampusVital",
+    "Name": "Rinderhacksteak (Gl,Ei), BBQ-Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
     "Date": "2022-10-12T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ-Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-12T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "LactoseFree": true,
-    "Poultry": true
+    "Pig": true
   }
 ]

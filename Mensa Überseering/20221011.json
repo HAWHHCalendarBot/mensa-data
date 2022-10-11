@@ -1,20 +1,33 @@
 [
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Kartoffelgratin (Ei,La)",
-    "Category": "Pastabar",
+    "Name": "Karotten Rustica, buntem Gemüse, Ratatouille (Sl), Blattspinat (Sl)",
+    "Category": "Gemüsebar",
     "Date": "2022-10-11T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Süßkartoffel Gnocchi (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-10-11T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Conchiglie (Gl)",
+    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-11T00:00:00Z",
     "Additives": {
@@ -29,22 +42,7 @@
     "Vegan": true
   },
   {
-    "Name": "Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La,Sl), Gemüsemix Eskorial, gebratene Paprika (5,Sw), Champignon Lauchpfanne (Sw)",
-    "Category": "Gemüsebar",
-    "Date": "2022-10-11T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl), Fusilli (Gl)",
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
     "Category": "CampusWorld",
     "Date": "2022-10-11T00:00:00Z",
     "Additives": {
