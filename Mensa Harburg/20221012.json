@@ -1,19 +1,49 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta in pikanter Zucchini-Tomaten Sojasahnesoße (So), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Ratatouille (Sl), Karotten, gebratenes Mangoldgemüse (Nu), Prinzessbohnen, Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-12T00:00:00Z",
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Helle Sojasahnesoße mit bunten Gemüsen (Gl,So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-10-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-12T00:00:00Z",
     "Additives": {
@@ -25,20 +55,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
-  },
-  {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2022-10-12T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
   },
   {
     "Name": "Kürbis Schupfnudeln (Gl,Ei)",
@@ -67,6 +83,27 @@
     "PriceAttendant": 4.9,
     "PriceGuest": 6.1,
     "PriceStudent": 3.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Penne mit frischem Gemüse, Walnusspesto und Parmesan (1,2,3,5,Gl,La,Nu,Sw,48)",
+    "Category": "CampusSpezial",
+    "Date": "2022-10-12T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
     "Vegetarian": true
   },
   {
