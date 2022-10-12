@@ -1,32 +1,41 @@
 [
   {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Pasta (Gl)",
+    "Name": "Basmatireis, Indisches Buttercurry (La)",
     "Category": "Pastabar",
     "Date": "2022-10-14T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Pig": true
+    "Vegetarian": true
   },
   {
-    "Name": "Milchreis (La), Apfelkompott (3)",
+    "Name": "Kartoffel Kürbis Ragout (Sl)",
     "Category": "Pottkieker",
     "Date": "2022-10-14T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.1,
-    "PriceGuest": 3.8,
-    "PriceStudent": 1.9,
-    "Vegetarian": true
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Tomaten Kokos Suppe mit Huhn (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-10-14T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
@@ -58,5 +67,23 @@
     "PriceStudent": 3.0,
     "Beef": true,
     "Pig": true
+  },
+  {
+    "Name": "4 Cevapcici (Gl,Ei,Sf), Tzatziki (La), Basmatireis, Krautsalat (3,5,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2022-10-14T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.0,
+    "PriceGuest": 7.2,
+    "PriceStudent": 4.7,
+    "Beef": true
   }
 ]
