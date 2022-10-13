@@ -12,6 +12,18 @@
     "Vegetarian": true
   },
   {
+    "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
+    "Category": "Pastabar",
+    "Date": "2022-10-14T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kartoffel Kürbis Ragout (Sl)",
     "Category": "Pottkieker",
     "Date": "2022-10-14T00:00:00Z",
@@ -38,21 +50,6 @@
     "Poultry": true
   },
   {
-    "Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
-    "Category": "CampusWorld",
-    "Date": "2022-10-14T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.2,
-    "PriceGuest": 5.4,
-    "PriceStudent": 2.9,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
     "Category": "CampusWorld",
     "Date": "2022-10-14T00:00:00Z",
@@ -67,6 +64,19 @@
     "PriceStudent": 3.0,
     "Beef": true,
     "Pig": true
+  },
+  {
+    "Name": "Gemüsefrittata (Ei,La), Tomaten - Sahne Soße (La)",
+    "Category": "CampusVital",
+    "Date": "2022-10-14T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Vegetarian": true
   },
   {
     "Name": "4 Cevapcici (Gl,Ei,Sf), Tzatziki (La), Basmatireis, Krautsalat (3,5,Sw)",
