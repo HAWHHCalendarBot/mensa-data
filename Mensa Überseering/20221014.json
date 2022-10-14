@@ -1,11 +1,12 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
+    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-14T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -14,13 +15,13 @@
     "Vegan": true
   },
   {
-    "Name": "Zuckerschoten (La), Broccoli, Buntes Chinagemüse (2,Gl,So), buntem Gemüse",
+    "Name": "Zucchinigemüse mit Basilikum, Gemüse Bulgur mit Sojawürfel (Gl,So,Sl), Spitzkohl in Rahm (La), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La,Sl), Romanesco (Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-10-14T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -29,7 +30,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Farfalle (Gl)",
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-14T00:00:00Z",
     "Additives": {
@@ -47,20 +48,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Pig": true
-  },
-  {
-    "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
-    "Category": "Pottkieker",
-    "Date": "2022-10-14T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "Beef": true,
-    "LactoseFree": true
   },
   {
     "Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
