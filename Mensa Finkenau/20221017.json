@@ -1,35 +1,37 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Blumenkohl, Süßkartoffeln, Gartengemüse, Tandoori-Karotten (1,La,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-10-17T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-10-17T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "1": "Farbstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Beerenkompott (1,9,La)",
+    "Name": "Pasta mit Tomatensauce und Zucchini (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-10-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), kalte Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2022-10-17T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -56,13 +58,12 @@
     "Vegan": true
   },
   {
-    "Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), Pfefferminz Joghurt Dip (La), Krautsalat (3), Gemüsecouscous (Gl,Sl)",
+    "Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), Pfefferminz Joghurt Dip (3,So), Krautsalat (3), Gemüsecouscous (Gl,Sl)",
     "Category": "CampusWorld",
     "Date": "2022-10-17T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
@@ -70,7 +71,8 @@
     "PriceAttendant": 5.7,
     "PriceGuest": 6.9,
     "PriceStudent": 4.4,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Frisch gebackener Flammkuchen mit Schmand. Speck, Zwiebeln und Frühlingslauch (2,3,8,Gl,La)",
