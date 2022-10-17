@@ -1,9 +1,26 @@
 [
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Name": "Brechbohnen, Erbsen, Glacierte Pastinaken, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-17T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Martriciana mit Speck (2,3,8,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-17T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -13,20 +30,24 @@
     "Pig": true
   },
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Martriciana mit Speck (2,3,8,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-10-17T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Pig": true
   },
   {
-    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi",
+    "Name": "Sojasahnesoße mit getrockneten Tomaten (2,5,Gl,La,Sw), Gnocchi",
     "Category": "Pastabar",
     "Date": "2022-10-17T00:00:00Z",
     "Additives": {
@@ -40,6 +61,23 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Erbseneintopf mit Speckwürfel und Schnippelwurst (2,3,8,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-10-17T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Kartoffel-Gemüse-Gulasch mit Taco Chips (2,Gl,So,Sl)",
@@ -73,5 +111,24 @@
     "PriceStudent": 3.3,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-17T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
