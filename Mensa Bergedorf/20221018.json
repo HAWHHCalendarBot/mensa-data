@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl)",
+    "Name": "Pasta Contadino mit Putenfleisch und Zucchini (Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-18T00:00:00Z",
     "Additives": {
@@ -10,7 +10,7 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Pig": true
+    "Poultry": true
   },
   {
     "Name": "Pasta Hähnchenstreifen mit Gemüse in Kokossoße (Gl)",
@@ -26,7 +26,7 @@
     "Poultry": true
   },
   {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-10-18T00:00:00Z",
     "Additives": {
@@ -55,33 +55,16 @@
     "Vegan": true
   },
   {
-    "Name": "Kokos-Kürbis-Curry (La,Sf,Se)",
+    "Name": "Kokos-Kürbis-Curry (Sf,Se)",
     "Category": "Pottkieker",
     "Date": "2022-10-18T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-10-18T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.4,
-    "PriceGuest": 5.4,
-    "PriceStudent": 3.2,
     "LactoseFree": true,
     "Vegan": true
   },
@@ -97,6 +80,23 @@
     "PriceAttendant": 4.6,
     "PriceGuest": 5.8,
     "PriceStudent": 3.3,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl), Nudeln (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-18T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
     "LactoseFree": true,
     "Vegan": true
   },
