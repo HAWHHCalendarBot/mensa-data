@@ -1,12 +1,14 @@
 [
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Ravioli mit Käsefüllung (Gl,Ei,La), mit Gorgonzolasoße und Brokkoli (Gl,La,48)",
     "Category": "Pastabar",
     "Date": "2022-10-19T00:00:00Z",
     "Additives": {
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
@@ -14,13 +16,45 @@
     "Vegetarian": true
   },
   {
-    "Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl)",
+    "Name": "Kürbiscremesuppe mit Brötchen (1,3,5,Gl,So,La,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-10-19T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Germknödel mit Mohnzucker (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-10-19T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Pasta mit hausgemachten Linsenbällchen und Tomatensauce (Gl,Sl)",
     "Category": "CampusVital",
     "Date": "2022-10-19T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.2,
     "PriceGuest": 5.8,
