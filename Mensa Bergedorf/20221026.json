@@ -1,5 +1,38 @@
 [
   {
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
+    "Category": "Pastabar",
+    "Date": "2022-10-26T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
+    "Category": "Pastabar",
+    "Date": "2022-10-26T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
+  },
+  {
     "Name": "Blumenkohl Broccoli Mix mit Sesam und Tomatenragout (Sl,Sf,Se), Kurkuma Reis mit schwarzen Bohnen",
     "Category": "CampusVital",
     "Date": "2022-10-26T00:00:00Z",
@@ -33,6 +66,20 @@
     "Pig": true
   },
   {
+    "Name": "Putensteak, Spätzle (Gl,Ei,La)",
+    "Category": "CampusSpezial",
+    "Date": "2022-10-26T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.45,
+    "PriceGuest": 6.65,
+    "PriceStudent": 4.15,
+    "Poultry": true
+  },
+  {
     "Name": "Grünkohl vegan (2,Gl,So,Sl,Sf), Röstkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-10-26T00:00:00Z",
@@ -48,19 +95,5 @@
     "PriceStudent": 4.2,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Putensteak, Spätzle (Gl,Ei,La)",
-    "Category": "CampusSpezial",
-    "Date": "2022-10-26T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 6.35,
-    "PriceGuest": 7.45,
-    "PriceStudent": 5.1,
-    "Poultry": true
   }
 ]
