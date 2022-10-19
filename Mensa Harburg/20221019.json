@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Bolognese (Sl), Vollkorn Penne (Gl)",
+    "Name": "Pasta Bolognese (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-19T00:00:00Z",
     "Additives": {
@@ -14,26 +14,28 @@
     "LactoseFree": true
   },
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Vollkorn Penne (Gl)",
+    "Name": "Pasta mit Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,So,Sw)",
     "Category": "Pastabar",
     "Date": "2022-10-19T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
+    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Zartweizen (Gl)",
     "Category": "Gemüsebar",
     "Date": "2022-10-19T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -53,6 +55,19 @@
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Chili con Carne (2), Reis",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-19T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
     "Beef": true,
     "LactoseFree": true
   },

@@ -1,17 +1,16 @@
 [
   {
-    "Name": "Bolognese (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw)",
     "Category": "Pastabar",
     "Date": "2022-10-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
@@ -28,19 +27,36 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Pollo mit Geflügelbrust e funghi (Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
     "Date": "2022-10-19T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6,La), Karotten Rustica, Schwarzwurzeln in Rahm (Gl,So)",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-19T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Kürbis Schupfnudeln (Gl,Ei)",
