@@ -1,25 +1,12 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Schupfnudeln mit gebratenem Sauerkraut (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2022-10-20T00:00:00Z",
     "Additives": {
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
-    "Category": "Pastabar",
-    "Date": "2022-10-20T00:00:00Z",
-    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,13 +14,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur (Gl,Sl), buntem Gemüse",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Lachs-Spinatsahnesoße (Gl,Fi,La,Sl)",
+    "Category": "Pastabar",
     "Date": "2022-10-20T00:00:00Z",
     "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Fish": true
+  },
+  {
+    "Name": "bunter Sesam Glasnudel mit Räuchertofu (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-10-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -43,7 +45,37 @@
     "Vegan": true
   },
   {
-    "Name": "Holsteiner Kartoffeltopf (2,3,8,Sl,Sw)",
+    "Name": "pikantes Grillgemüse (Sl,Sf), Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl), glasierte Fingermöhrchen mit Schnittlauch (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Holsteiner Kartoffeltopf vegetarisch (Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-10-20T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Holsteiner Kartoffeltopf mit Wursteinlage (2,3,8,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2022-10-20T00:00:00Z",
     "Additives": {
@@ -59,6 +91,21 @@
     "Beef": true,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Mediteraner Hackbraten (Gl,Ei,La), gerösteter Blumenkohl, Bratensoße (Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-20T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.55,
+    "PriceGuest": 5.65,
+    "PriceStudent": 3.3,
+    "Beef": true
   },
   {
     "Name": "All in one Pot - Reisnudeln, Tofuwürfel, Eisbergsalat, Koriander, Gurke, Erdnüsse, Äpfel,  Röstzwieb (2,Gl,En,So,Sw)",
@@ -78,7 +125,7 @@
     "Vegan": true
   },
   {
-    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl), Tomatensoße",
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-10-20T00:00:00Z",
     "Additives": {
