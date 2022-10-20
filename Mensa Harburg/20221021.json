@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Gemüsebar des Tages (Gl)",
+    "Name": "Sommergemüse, gebratenes Gemüse, Erbsen-Mais Gemüse, Gartenbohnen mit Tomate, Chili-Kartoffeln",
     "Category": "Pastabar",
     "Date": "2022-10-21T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -13,11 +11,12 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta Bolognese (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -26,17 +25,36 @@
     "LactoseFree": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta Florentin mit Blattspinat (Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta Martriciana mit Speck (2,3,8,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-10-21T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
