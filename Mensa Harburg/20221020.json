@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Pasta mit Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-10-20T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -13,12 +14,12 @@
     "Poultry": true
   },
   {
-    "Name": "Pasta Florentin mit Blattspinat (Gl,So,Sl), Pasta (Gl)",
+    "Name": "Thai-Soja-Bolognese mit Gemüse (2,Gl,So)",
     "Category": "Pastabar",
     "Date": "2022-10-20T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -28,14 +29,15 @@
     "Vegan": true
   },
   {
-    "Name": "Porreegemüse in Sojarahm (Gl,So), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur (Gl,Sl)",
+    "Name": "Couscous, (Gl,Sl), Currygemüse, (2,Gl,So,Sl), Porreegemüse in Sojarahm, (Gl,So), mediterrane Kartoffel Gemüsepfanne, (Sw), Bulgur (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-10-20T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -55,6 +57,23 @@
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Erbseneintopf mit Speckwürfel und Schnippelwurst (2,3,8,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-10-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Gl,Ei,La,Sf,Se,Sw,48), Wedges (Gl)",
