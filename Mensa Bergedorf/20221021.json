@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Pasta Hähnchen mit Aubergine in Tomatensoße (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -13,27 +14,13 @@
     "Poultry": true
   },
   {
-    "Name": "Tapenade von schwarzen Oliven mit Kräutern und Olivenöl (6), Vollkorn Penne (Gl)",
+    "Name": "vegetarisch gefüllte Ravioli (Gl,Ei,La), Zucchini Walnusssoße (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
-    "Category": "Pastabar",
-    "Date": "2022-10-21T00:00:00Z",
-    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -41,61 +28,35 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pikantes Wurstragout mit Belugalinsen und Räucherpaprika (2,3,8,So,La,Sl,Sf), Fusilli (Gl)",
+    "Name": "Pasta mit Lachs-Spinatsahnesoße (Gl,Fi,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
+      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "Pig": true
+    "Fish": true
   },
   {
-    "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se)",
+    "Name": "glasierte Fingermöhrchen (Se), gerösteter Blumenkohl, Kürbis Schupfnudeln (Gl,Ei), Cremespinat (Gl,La,Sl), Hausgemachte Lasagne Bolognese (Gl,La,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
-    "Category": "Pottkieker",
-    "Date": "2022-10-21T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true
   },
   {
     "Name": "Hirtenkäse mit mediterranem Gemüse (6,La,Sw)",
