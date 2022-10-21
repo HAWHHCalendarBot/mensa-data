@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse, gerösteter Blumenkohl, Erbsen, Broccoli",
     "Category": "Gemüsebar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {},
@@ -11,20 +11,22 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Babyspinat,Hirtenkäse und fruchtiger Tomatensauce (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
+    "Name": "2. Stück Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
     "Category": "Pottkieker",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
@@ -38,12 +40,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (3,So,Sf), Basmatireis",
+    "Name": "Süßkartoffelcurry mit Kichererbsen und Spinat (3,So,Sl,Sf), Basmatireis",
     "Category": "CampusKlassiker",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
       "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.5,
@@ -53,12 +56,13 @@
     "Vegan": true
   },
   {
-    "Name": "Hausgemachte Rindfleisch - Lasagne (Gl,La)",
+    "Name": "Hausgemachte Rindfleisch - Lasagne (Gl,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2022-10-21T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 6.2,
     "PriceGuest": 7.4,
