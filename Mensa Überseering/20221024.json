@@ -1,11 +1,12 @@
 [
   {
-    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (La), Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi (Gl)",
+    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Romanesco (Sl), gebratene Paprika (5,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-10-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "5": "Geschwefelt",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -14,36 +15,34 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Broccoli-Gorgonzola (La,48), Conchiglie (Gl)",
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-24T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Kochwurst (2,3,4,8,Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
     "Date": "2022-10-24T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 2.15,
-    "PriceGuest": 2.3,
-    "PriceStudent": 2.0,
-    "LactoseFree": true,
-    "Pig": true
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
   },
   {
     "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -72,56 +71,6 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-10-24T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-10-24T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-10-24T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
-    "LactoseFree": true,
-    "Vegetarian": true
   },
   {
     "Name": "Putengyros, Tzatziki (La), Krautsalat (3,5,Sw), Paprikareis",
