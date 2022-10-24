@@ -1,20 +1,5 @@
 [
   {
-    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Romanesco (Sl), gebratene Paprika (5,Sw)",
-    "Category": "Gemüsebar",
-    "Date": "2022-10-24T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
     "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-24T00:00:00Z",
@@ -29,6 +14,22 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Romanesco (Sl), gebratene Paprika (5,Sw), Zartweizen mit Gemüse (Gl,Sl), Röstkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-24T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -73,18 +74,16 @@
     "Vegan": true
   },
   {
-    "Name": "Putengyros, Tzatziki (La), Krautsalat (3,5,Sw), Paprikareis",
-    "Category": "CampusWorld",
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
+    "Category": "CampusSpezial",
     "Date": "2022-10-24T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "En": "Erdnüsse und Erdnusserzeugnisse"
     },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
     "Poultry": true
   }
 ]
