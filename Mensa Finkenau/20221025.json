@@ -1,16 +1,18 @@
 [
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Zucchini,Bohnen und rotem Pesto (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-25T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Gartengemüse, Broccoli, Kürbisgemüse, indisches Gemüsecurry mit Paneer (2,Gl,So,La,Sf,Se)",
@@ -30,11 +32,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Milchreis (La), Rhabarberkompott (1,La)",
+    "Name": "Milchreis (La), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-10-25T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 3.1,
@@ -109,28 +111,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebackener Nudelauflauf in einer Rahmsauce mit Hähnchenstreifen und Champignons (2,Gl,So,La,Sl)",
+    "Name": "überbackene Lasagne mit Rindfleisch und Tomatensauce (Gl,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2022-10-25T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 6.2,
     "PriceGuest": 7.4,
     "PriceStudent": 4.9,
-    "Poultry": true
+    "Beef": true
   },
   {
-    "Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,Gl,So)",
+    "Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,Gl,En,So,Se)",
     "Category": "CampusWorld",
     "Date": "2022-10-25T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 6.9,
