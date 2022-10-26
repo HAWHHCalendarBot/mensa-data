@@ -1,5 +1,46 @@
 [
   {
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Käse-Lauchsuppe mit Zucchini (1,La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-11-02T00:00:00Z",
@@ -14,22 +55,60 @@
     "Vegetarian": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Pasta mit Mangold-Tomaten Gemüse (Gl,La), Frischkäse-Senf Soße (3,5,Gl,La,Sf,Sw), Hartkäse (2,Ei,La,48)",
+    "Category": "CampusVital",
     "Date": "2022-11-02T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "4": "Geschmacksverstärker",
+      "5": "Geschwefelt",
       "8": "Phosphat",
-      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.6,
-    "PriceGuest": 6.8,
-    "PriceStudent": 4.3,
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "LactoseFree": true,
-    "Pig": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (1,2,3,9,Gl,So,Sl,Sf,Sw), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 7.1,
+    "PriceGuest": 8.3,
+    "PriceStudent": 5.8,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
