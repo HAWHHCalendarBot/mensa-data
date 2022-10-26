@@ -1,20 +1,22 @@
 [
   {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Strozzapreti (Gl)",
+    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-26T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "spanisches Kartoffelgemüse, gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,La,Nu,Sl)",
+    "Name": "spanisches Kartoffelgemüse, gebratene Zucchini, gebratenem Wirsing, Gemüsemix Eskorial, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Paprikareis, Couscous mit Mandeln, Rosinen und Chili (Gl,La,Nu,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-10-26T00:00:00Z",
     "Additives": {
@@ -27,6 +29,26 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Strozzapreti (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-10-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
   },
   {
     "Name": "Karibisches Linsencurry (Sl,Sf), Basmatireis",
