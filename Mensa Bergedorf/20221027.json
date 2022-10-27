@@ -1,38 +1,24 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), Eliche (Gl)",
+    "Name": "Maultaschen in Tomaten Basilikumsoße (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-27T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Poultry": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Steckrüben-Möhren Gemüse (La), Spitzkohl (Gl)",
-    "Category": "Gemüsebar",
-    "Date": "2022-10-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Maultaschen in cremiger Soße mit  Bohnen mit Gemüse und Basilikum (Gl,So,Sl)",
+    "Name": "Vollkornpasta Chili con Corn (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2022-10-27T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -53,6 +39,20 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
+  },
+  {
+    "Name": "Steckrüben-Möhren Gemüse, Spitzkohl (Gl), Vegetarisch, Schupfnudelpfanne (Gl,Ei,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-27T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Gemüsepfanne Thai Red (2,Gl,So,Sl,Sw), Reis",
