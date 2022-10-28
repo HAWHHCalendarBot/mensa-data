@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-02T00:00:00Z",
     "Additives": {
@@ -13,18 +13,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "Ratatouille (Sl), Prinzessbohnen, Gnocchi",
     "Category": "Gemüsebar",
     "Date": "2022-11-02T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta mit Mangold-Tomaten Gemüse (Gl,La), Frischkäse-Senf Soße (3,5,Gl,La,Sf,Sw), Hartkäse (2,Ei,La,48)",
