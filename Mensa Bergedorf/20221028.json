@@ -1,5 +1,17 @@
 [
   {
+    "Name": "gerösteter Blumenkohl, Steckrüben-Möhren Gemüse (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-10-28T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Bunte Tortellini in Gorgonzolasoße (Gl,Ei,La,48)",
     "Category": "Pastabar",
     "Date": "2022-10-28T00:00:00Z",
@@ -30,6 +42,20 @@
     "Vegan": true
   },
   {
+    "Name": "Gemüseauflauf Palermo (Gl,Ei,La), Basilikumsoße (Gl,La)",
+    "Category": "CampusVital",
+    "Date": "2022-10-28T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
+  },
+  {
     "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-10-28T00:00:00Z",
@@ -42,5 +68,19 @@
     "PriceGuest": 5.05,
     "PriceStudent": 2.7,
     "Pig": true
+  },
+  {
+    "Name": "Putengeschnetzeltes mit Kräutern (La), Spätzle (Gl,Ei)",
+    "Category": "CampusSpezial",
+    "Date": "2022-10-28T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.55,
+    "PriceGuest": 6.75,
+    "PriceStudent": 4.25,
+    "Poultry": true
   }
 ]
