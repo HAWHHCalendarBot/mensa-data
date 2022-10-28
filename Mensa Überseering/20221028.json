@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Brechbohne, spanisches Kartoffelgemüse, rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
-    "Date": "2022-10-28T00:00:00Z",
-    "Additives": {
-      "9": "Süßungsmittel"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2022-10-28T00:00:00Z",
     "Additives": {
@@ -27,17 +14,36 @@
     "Vegan": true
   },
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
-    "Category": "Pottkieker",
+    "Name": "Champignon Lauchpfanne in Sojarahm (So), Ofengemüse mit Kartoffeln und Feta (La,48), Gemüsemix Eskorial, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Basmatireis, Kräuter Kartoffeln",
+    "Category": "Gemüsebar",
     "Date": "2022-10-28T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.1,
-    "PriceGuest": 3.8,
-    "PriceStudent": 1.9,
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Kochwurst (2,3,4,8,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-28T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 2.15,
+    "PriceGuest": 2.3,
+    "PriceStudent": 2.0,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Gemüsepfanne Thai Red (2,Gl,So,Sl,Sw), Reis",
@@ -69,6 +75,24 @@
     "PriceAttendant": 4.7,
     "PriceGuest": 5.9,
     "PriceStudent": 3.4,
+    "Pig": true
+  },
+  {
+    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-10-28T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true,
+    "LactoseFree": true,
     "Pig": true
   }
 ]
