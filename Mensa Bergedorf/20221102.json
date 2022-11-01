@@ -27,20 +27,6 @@
     "Beef": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-02T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
     "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-11-02T00:00:00Z",
@@ -54,6 +40,22 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Ratatouille (Sl), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Backkartoffel, Blattspinat, Tomaten-Paprika-Salsa (4)",
