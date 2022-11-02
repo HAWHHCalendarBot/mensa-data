@@ -1,17 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-02T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Sahne-Maissauce und frischen Kräutern (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-11-02T00:00:00Z",
     "Additives": {
@@ -22,6 +11,20 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "veganes Buttercurry (So,Sl), Süßkartoffeln, Karotten, Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
