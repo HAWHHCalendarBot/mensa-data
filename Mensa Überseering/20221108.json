@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Hähnchenstreifen al arrabiata, bunte Fusilli (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-11-08T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
     "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-08T00:00:00Z",
@@ -27,32 +14,18 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-08T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Kokos Milchreis Vegan, Zimt und Zucker",
+    "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
     "Category": "Pottkieker",
     "Date": "2022-11-08T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
     "PriceAttendant": 3.1,
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Blumenkohl Korma, Reis",
@@ -66,7 +39,24 @@
     "Vegan": true
   },
   {
-    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+    "Name": "vegetarische Currywurst (2,9,Ei,Sl,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-08T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.6,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-08T00:00:00Z",
     "Additives": {
@@ -74,12 +64,13 @@
       "3": "Antioxidationsmittel",
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true,
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
     "LactoseFree": true,
     "Pig": true
   }
