@@ -1,6 +1,19 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta Pollo mit Gemüsestreifen (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta in pikanter Bohnen-Kichererbsen salsa (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-11-02T00:00:00Z",
     "Additives": {
@@ -13,18 +26,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Pasta Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-11-02T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
@@ -42,11 +56,12 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ratatouille (Sl), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+    "Name": "Ratatouille (Sl), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), Mangold mit gerösteten Walnüssen (Nu), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6)",
     "Category": "Gemüsebar",
     "Date": "2022-11-02T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
+      "6": "Geschwärzt",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -69,6 +84,23 @@
     "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "vegetarische Bratwurst (Ei), Grillsoße (2,9,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-02T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.85,
+    "PriceGuest": 5.95,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Vegetarian": true
   },
   {
     "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf)",
@@ -97,9 +129,9 @@
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.15,
-    "PriceGuest": 6.25,
-    "PriceStudent": 3.9,
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
     "LactoseFree": true,
     "Poultry": true
   },
