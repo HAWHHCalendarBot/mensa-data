@@ -1,7 +1,7 @@
 [
   {
     "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La), Salat (Sf,Sw)",
-    "Category": "CampusKlassiker",
+    "Category": "Pastabar",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
@@ -10,39 +10,43 @@
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.2,
-    "PriceGuest": 5.8,
-    "PriceStudent": 2.9,
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
     "Vegetarian": true
   },
   {
-    "Name": "Ofengemüse mit Kartoffeln und Feta (La,48), Tomaten-Sonnenblumenkern-Salsa",
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 6.6,
-    "PriceStudent": 3.3,
-    "Vegetarian": true
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.8,
+    "PriceStudent": 2.9,
+    "Poultry": true
   },
   {
-    "Name": "Grillgemüse Burger (3,Gl,Se,Sw), Pommes Frites (Sf)",
+    "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (1,2,3,9,Gl,So,Sl,Sf,Sw), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 9.2,
-    "PriceStudent": 4.6,
+    "PriceAttendant": 7.1,
+    "PriceGuest": 11.6,
+    "PriceStudent": 5.8,
     "LactoseFree": true,
     "Vegan": true
   }
