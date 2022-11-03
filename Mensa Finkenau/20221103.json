@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, gebratene Zucchini, Gartengemüse, gebackene Aubergine",
     "Category": "Gemüsebar",
     "Date": "2022-11-03T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Mangold,Knoblauch,Sellerie und Petersilienpesto (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-11-03T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "EXTRA: Pommes Frites (Sf)",
