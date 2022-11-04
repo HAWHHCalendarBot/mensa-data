@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse, Süßkartoffeln, Rosenkohl, Karotten",
     "Category": "Gemüsebar",
     "Date": "2022-11-04T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,22 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Mie-Nudeln mit Karotten,Champignons (2,Gl,Ei,So,Sl,Se)",
     "Category": "Pastabar",
     "Date": "2022-11-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -65,22 +70,5 @@
     "PriceStudent": 4.6,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,Gl,En,So,Se)",
-    "Category": "CampusWorld",
-    "Date": "2022-11-04T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 6.4,
-    "PriceGuest": 7.6,
-    "PriceStudent": 5.1,
-    "Beef": true,
-    "LactoseFree": true
   }
 ]
