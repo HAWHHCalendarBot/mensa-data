@@ -1,29 +1,16 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La)",
+    "Name": "Pasta mit Kokos-Linsen (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-04T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta Ragout Bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
-    "Category": "Pastabar",
-    "Date": "2022-11-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Nusspolenta mit Käsegratiniert (5,So,Nu,Sw)",
@@ -42,11 +29,30 @@
     "Vegan": true
   },
   {
-    "Name": "Rosenkohl-Champignonpfanne (So), Pfannengemüse Asia (Ei,So,La,Sl,Sw), Frühlingsgemüse (La), Spitzkohl in Rahm (La)",
+    "Name": "Rosenkohl-Champignonpfanne (So), Pfannengemüse Asia (Ei,So,La,Sl,Sw), Frühlingsgemüse (La), Spitzkohl in Rahm (La), Blattspinat (Gl)",
     "Category": "Gemüsebar",
     "Date": "2022-11-04T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Asiatische Gemüsepfanne in Sojasoße, Hähnchen und Nudeln (2,Gl,Ei,So,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-11-04T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
