@@ -42,10 +42,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kokos-Kürbis-Curry (La,Sf,Se)",
+    "Name": "Kokos-Kürbis-Curry (La,Sf,Se), Baguette (Gl)",
     "Category": "Pottkieker",
     "Date": "2022-11-07T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse"
@@ -54,6 +55,21 @@
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "Vegetarian": true
+  },
+  {
+    "Name": "Chili sin carne (So,Sl), Reis (Gl)",
+    "Category": "CampusVital",
+    "Date": "2022-11-07T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So)",
