@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Bolognese (Sl), Maccaroni (Gl)",
+    "Name": "Rindfleischbolognese, (Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
@@ -14,34 +14,37 @@
     "LactoseFree": true
   },
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Maccaroni (Gl)",
+    "Name": "Pilzrahmsoße mit Waldpilzen und Kräuter, (So,Sw), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis, Bunte Gemüsemischung mit Karotten (Sl), Buttererbsen (La)",
+    "Name": "gerösteter Blumenkohl,, frisches Gemüse aus dem Wok, (2,Sw), Süßkartoffelwürfel gebacken,, Basmatireis,, asiatisches Tofu-Ragout (2,Gl,So,Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kürbis Schupfnudeln (Gl,Ei)",
@@ -107,5 +110,20 @@
     "PriceGuest": 6.5,
     "PriceStudent": 4.0,
     "Vegetarian": true
+  },
+  {
+    "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Wedges (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.0,
+    "PriceGuest": 7.2,
+    "PriceStudent": 4.7,
+    "Beef": true
   }
 ]

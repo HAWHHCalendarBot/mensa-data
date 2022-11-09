@@ -1,27 +1,39 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, Buttererbsen (La), cremiges Kichererbsengemüse mit Garam Masala (2,5,So,Sl,Sw), Grünkohl (Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-11-09T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-11-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "gebratene Mie-Nudeln mit Chinakohl,Erbsen,Omlettstreifen (2,Gl,Ei,So,La,Sl,Se)",
+    "Category": "Pastabar",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
@@ -52,6 +64,25 @@
     "Vegan": true
   },
   {
+    "Name": "Schöpf-Currywurst (3,4,8,9,Sl,Sf), Baguette (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "Penne (Gl), geschmorter Hokkaido - Kürbis mit Gorgonzola,Kürbiskerne (La,48)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-09T00:00:00Z",
@@ -65,5 +96,21 @@
     "PriceGuest": 6.6,
     "PriceStudent": 4.1,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gebackener Nudelauflauf in einer Rahmsauce mit Schweinestreifen und Käse (2,Gl,So,La,Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Pig": true
   }
 ]

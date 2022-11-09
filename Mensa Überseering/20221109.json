@@ -1,44 +1,34 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, gebackener Kürbis, frisches Gemüse (2,Sw), Süßkartoffelwürfel gebacken, Basmatireis",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-09T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "gerösteter Blumenkohl, gebackener Kürbis, frisches Gemüse (2,Sw), Süßkartoffelwürfel gebacken, Basmatireis",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-09T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Maccaroni (Gl)",
+    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (So,Sw), Maccaroni (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, gebackener Kürbis, frisches Gemüse (2,Sw), Süßkartoffelwürfel gebacken, Schupfnudeln (Gl,Ei), Gemüse- Reis (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -57,7 +47,24 @@
     "Vegetarian": true
   },
   {
-    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La), Salat (Sf,Sw)",
+    "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
+    "Category": "CampusVital",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La), Käses Lauch Soße (Gl,La), Salat (Sf,Sw), Italian Dressing (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
@@ -71,22 +78,5 @@
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Grillgemüse Burger (3,Gl,Se,Sw), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2022-11-09T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 7.1,
-    "PriceStudent": 4.6,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]

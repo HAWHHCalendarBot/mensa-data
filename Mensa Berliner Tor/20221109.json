@@ -1,5 +1,36 @@
 [
   {
+    "Name": "Pasta-Auflauf mit Gemüse und Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Würzige Thai-Soja-Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Category": "Highlight",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
     "Name": "#ofenfrisch...bis 16:00 Uhr..,, Flammkuchen \"BIANCO\" mit Creme und Käse (Gl,La)",
     "Category": "CampusSpezial",
     "Date": "2022-11-09T00:00:00Z",
@@ -26,23 +57,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Indischer Dal mit Linsen und gebratenen Gemüse (So,Sf), Korianderdip (3,So), Wrap (Gl)",
-    "Category": "CampusVital",
-    "Date": "2022-11-09T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.9,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.6,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "#allinONEPOT..,VEGGIE.., Reispfanne \"Paella Art\" / Chia Samen / Baby Leaf Salat / Rotkohl / Räucher-Tofu (Gl,So)",
+    "Name": "#allinONEPOT..,VEGAN.., Reispfanne \"Paella Art\" / Chia Samen / Baby Leaf Salat / Rotkohl / Räucher-Tofu (Gl,So)",
     "Category": "CampusSpezial",
     "Date": "2022-11-09T00:00:00Z",
     "Additives": {
@@ -115,5 +130,21 @@
     "PriceStudent": 4.75,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "#ofenfrisch...bis 16:00 Uhr..,, Flammkuchen mit Sucuk, Zwiebeln und frischen Tomaten (2,3,4,Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2022-11-09T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.65,
+    "PriceGuest": 7.85,
+    "PriceStudent": 5.35,
+    "Beef": true
   }
 ]
