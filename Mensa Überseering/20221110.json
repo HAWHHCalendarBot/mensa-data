@@ -44,17 +44,32 @@
     "Vegetarian": true
   },
   {
-    "Name": "Milchreis (La), Himbeergrütze (1,La)",
+    "Name": "Grießspeise (Gl,La), Apfelkompott (3)",
     "Category": "Pottkieker",
     "Date": "2022-11-10T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 3.1,
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Erbsencremesuppe (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-11-10T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
@@ -100,9 +115,9 @@
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 6.4,
-    "PriceGuest": 7.6,
-    "PriceStudent": 5.1,
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
     "LactoseFree": true,
     "Vegan": true
   }
