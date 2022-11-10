@@ -1,34 +1,61 @@
 [
   {
-    "Name": "Chili con Corn (Gl,Sl), Basmatireis",
-    "Category": "CampusVital",
+    "Name": "Pasta Provencial (Sw), Strozzapreti (Gl)",
+    "Category": "Pastabar",
     "Date": "2022-11-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
   },
   {
-    "Name": "Gebackene Blattspinat-Quiche mit frischem Blattsalat (2,3,5,Gl,Ei,La,Sw), Joghurt-Limetten-Dip (3,La)",
-    "Category": "CampusVital",
+    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Paprika-Maisgemüse, Bratkartoffeln, Zartweizen mit Gemüse (Gl,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
     "Date": "2022-11-15T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "8": "Phosphat",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.6,
-    "PriceGuest": 6.8,
-    "PriceStudent": 4.3,
-    "Vegetarian": true
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Pig": true
   }
 ]
