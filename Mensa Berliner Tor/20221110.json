@@ -1,20 +1,28 @@
 [
   {
-    "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
+    "Name": "Blumenkohl Korma, Reis",
     "Category": "CampusVital",
     "Date": "2022-11-10T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Paniertes Schweineschnitzel (Gl,Ei)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-10T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
-    "PriceAttendant": 3.9,
-    "PriceGuest": 5.1,
-    "PriceStudent": 2.6,
-    "Vegetarian": true
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "#curryWURSTtag..., Geflügelbratwurst (La,Sl), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
@@ -64,20 +72,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Wir kochen was Sie lieben..., Gebackenes Alaska Seelachsfilet (Gl,Fi), Blumenkohl Korma, Reis",
-    "Category": "CampusSpezial",
-    "Date": "2022-11-10T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 5.65,
-    "PriceGuest": 6.85,
-    "PriceStudent": 4.35,
-    "Fish": true,
-    "LactoseFree": true
-  },
-  {
     "Name": "#curryWURSTtag..., Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-10T00:00:00Z",
@@ -109,6 +103,23 @@
     "PriceStudent": 4.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Gebackenes Alaska Seelachsfilet (Gl,Fi), Bratnudeln mit Gemüsestreifen (2,Gl,Ei,So)",
+    "Category": "CampusSpezial",
+    "Date": "2022-11-10T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Fish": true,
+    "LactoseFree": true
   },
   {
     "Name": "#ofenfrisch...bis 16:00 Uhr..,Pizza Funghi (Gl,La)",
