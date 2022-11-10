@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
+    "Name": "gerösteter Blumenkohl, Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Blumenkohl Korma",
     "Category": "Gemüsebar",
     "Date": "2022-11-10T00:00:00Z",
     "Additives": {
@@ -14,20 +14,37 @@
     "Vegan": true
   },
   {
-    "Name": "Geflügel Bratwurst gegrillt (9,La,Sl,Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La), Salat (Sf,Sw)",
+    "Category": "Pastabar",
     "Date": "2022-11-10T00:00:00Z",
     "Additives": {
-      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.4,
-    "PriceStudent": 2.2,
-    "Beef": true,
-    "Poultry": true
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Soja Bolognese mit Gemüse (So,La,Nu,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-10T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
@@ -56,5 +73,38 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Geflügel Bratwurst gegrillt (9,La,Sl,Sf), Brechbohnen in Rahm (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-10T00:00:00Z",
+    "Additives": {
+      "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.15,
+    "PriceGuest": 5.25,
+    "PriceStudent": 2.9,
+    "Beef": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-10T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
   }
 ]
