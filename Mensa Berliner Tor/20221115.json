@@ -1,5 +1,63 @@
 [
   {
+    "Name": "Tricolore-Gemüse, vegan, buntem Gemüse, vegan, Prinzessbohnen",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "VEGAN..,Pasta-Auflauf mit Gemüse (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Röstkartoffeln, Broccoli Nuggets (Gl,Ei,So,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nudelauflauf mit Rinderhackstreifen (1,Gl,Ei,La,Sw,48)",
+    "Category": "Pastabar",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
     "Name": "Chili con Corn (Gl,Sl), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-11-15T00:00:00Z",
@@ -12,6 +70,21 @@
     "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Dönerteller Falafel (Gl,Sl), Tzatziki (La), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "Vegetarian": true
   },
   {
     "Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
@@ -30,32 +103,6 @@
     "Pig": true
   },
   {
-    "Name": "Dönerteller Falafel (Gl,Sl,Sw), Tzatziki (La), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2022-11-15T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Dönerteller Falafel (Gl,Sl), Tzatziki (La), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2022-11-15T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
-    "Vegetarian": true
-  },
-  {
     "Name": "#ofenfrisch...bis 16:00 Uhr..,Pizza Margherita (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2022-11-15T00:00:00Z",
@@ -67,6 +114,19 @@
     "PriceGuest": 6.7,
     "PriceStudent": 4.2,
     "Vegetarian": true
+  },
+  {
+    "Name": "Dönerteller Geflügel, Tzatziki (La), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-11-15T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "Poultry": true
   },
   {
     "Name": "#ofenfrisch...bis 16:00 Uhr..,Pizza Margeritha vegan (1,Gl)",
@@ -156,32 +216,5 @@
     "PriceGuest": 7.8,
     "PriceStudent": 5.3,
     "Vegetarian": true
-  },
-  {
-    "Name": "Dönerteller Geflügel, Tzatziki (La), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2022-11-15T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Poultry": true
-  },
-  {
-    "Name": "Dönerteller Geflügel (Sw), Tzatziki (La), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2022-11-15T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Poultry": true
   }
 ]
