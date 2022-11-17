@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), bunte Fusilli (Gl)",
+    "Name": "Pasta Hähnchenstreifen in Gemüsesoße (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-11-17T00:00:00Z",
     "Additives": {
@@ -13,11 +13,10 @@
     "Poultry": true
   },
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Spätzle (Gl,Ei,La)",
+    "Name": "gebratene Zucchini, Spitzkohl in Rahm (Gl,La), Gemüsepfanne Zucchini,Paprika,Porree, gebratenem Wirsing",
     "Category": "Gemüsebar",
     "Date": "2022-11-17T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -27,18 +26,36 @@
     "Vegetarian": true
   },
   {
-    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "Pasta mit Broccoli und Käsesoße (Gl,La,48)",
     "Category": "Pastabar",
     "Date": "2022-11-17T00:00:00Z",
     "Additives": {
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Curry Geflügel Bratwurst (9,La,Sl,Sf), BBQ Soße (2,9,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-17T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.45,
+    "PriceGuest": 4.55,
+    "PriceStudent": 2.2,
+    "Beef": true,
+    "Poultry": true
   },
   {
     "Name": "Grünkohl Currytopf mit roten Linsen und Süßkartoffeln, Basmatireis (Sl)",
@@ -47,25 +64,11 @@
     "Additives": {
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.4,
-    "PriceGuest": 5.6,
-    "PriceStudent": 3.1,
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Putengulasch (Gl,La,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-11-17T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.55,
-    "PriceGuest": 5.65,
-    "PriceStudent": 3.3,
-    "Poultry": true
   },
   {
     "Name": "Gemüsepfanne Thai Red (2,Gl,So,Sl,Sw), Reis",
@@ -83,5 +86,19 @@
     "PriceStudent": 3.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Putengulasch (Gl,La,Sl), Nudeln (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Poultry": true
   }
 ]
