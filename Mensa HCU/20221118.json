@@ -1,5 +1,38 @@
 [
   {
+    "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-11-18T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Asiatische Gemüsesuppe mit Kokosmilch und Chili (2,Gl,So,Sl,Sf)",
+    "Category": "Pottkieker",
+    "Date": "2022-11-18T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "2 Quarkkeulchen (Gl,Ei,La), Pflaumenkompott",
     "Category": "Pottkieker",
     "Date": "2022-11-18T00:00:00Z",
@@ -14,19 +47,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Asia-Reis-Pot, Hähnchenstreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chillimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+    "Name": "Veganer Asia-Reis-Pot, Sojastreifen, Kimchi-Gurke,  Erdnüsse und Paprika-Ajvar (2,Gl,En,So,Sl,Se)",
     "Category": "CampusSpezial",
     "Date": "2022-11-18T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -34,30 +62,25 @@
     "PriceGuest": 7.8,
     "PriceStudent": 3.9,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
-    "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chillimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+    "Name": "Asia-Reis-Pot, Hähnchenstreifen, Kimchi-Gurke, Erdnüsse und Knoblauch-Dip (2,Gl,En,So,La,Sl,Se)",
     "Category": "CampusSpezial",
     "Date": "2022-11-18T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.2,
     "PriceGuest": 7.8,
     "PriceStudent": 3.9,
-    "LactoseFree": true,
-    "Vegetarian": true
+    "Poultry": true
   },
   {
     "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Weiße Soße (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
