@@ -1,26 +1,12 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
+    "Name": "Tofu-Ragout mit Gemüse und Mandeln in Sojarahm, (So,Nu,Sw), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-18T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-18T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -30,10 +16,11 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Farfalle (Gl)",
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat, (Gl,Fi,La,Sl), Parmesan-Spätzle (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2022-11-18T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
@@ -43,6 +30,23 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Fish": true
+  },
+  {
+    "Name": "spanisches Kartoffelgemüse mit Kichererbsen,, gebratene Paprika, (5,Sw), rote-Beete-Pilaw mit Gemüse, (9), Linsenragout in Sojarahm (So,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-18T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "9": "Süßungsmittel",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Mexikanische Bohnensuppe (2,3,8,Sl)",
