@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Broccoli, Gartengemüse, Kohlrabigemüse, Kräuterkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-11-21T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,20 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Tomatensauce,Zucchini und Schafskäse (Gl,La,Sl,48)",
     "Category": "Pastabar",
     "Date": "2022-11-21T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), kalte Vanillesoße (La)",
@@ -38,10 +41,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blumenkohl Korma, Basmatireis",
+    "Name": "Blumenkohl Korma (2,Gl,So,Sl,Se), Basmatireis",
     "Category": "CampusVital",
     "Date": "2022-11-21T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 3.6,
     "PriceGuest": 4.8,
     "PriceStudent": 2.3,
@@ -49,7 +58,7 @@
     "Vegan": true
   },
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Hollandaise (Ei,La,Sl,Sw), Erbsen, Kroketten (Gl)",
+    "Name": "Paniertes Schweineschnitzel (Gl), Hollandaise (Gl,Ei,La,Sl,Sw), Erbsen, Kroketten (Gl)",
     "Category": "CampusVital",
     "Date": "2022-11-21T00:00:00Z",
     "Additives": {
