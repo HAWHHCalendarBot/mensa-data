@@ -24,20 +24,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-11-23T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true
-  },
-  {
     "Name": "Kochwurst (2,3,4,8,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-23T00:00:00Z",
@@ -55,17 +41,34 @@
     "Pig": true
   },
   {
-    "Name": "Tomaten Kokos Suppe mit Huhn (Sl)",
+    "Name": "Süßer Quarkauflauf (Gl,Ei,La), vegane Vanillesoße (Gl)",
     "Category": "Pottkieker",
     "Date": "2022-11-23T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Süßkartoffelsuppe (3,Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-11-23T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
     "Name": "Backkartoffel, Blattspinat, Tomaten-Paprika-Salsa (4)",
