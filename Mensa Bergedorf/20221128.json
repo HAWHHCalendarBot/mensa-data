@@ -1,5 +1,46 @@
 [
   {
+    "Name": "Bunter Gemüsemix mit gelben Karotten, Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-28T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Category": "Pastabar",
+    "Date": "2022-11-28T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi",
+    "Category": "Pastabar",
+    "Date": "2022-11-28T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kokos-Kürbis-Curry (La,Sf,Se)",
     "Category": "Pottkieker",
     "Date": "2022-11-28T00:00:00Z",
@@ -24,39 +65,6 @@
     "PriceAttendant": 4.35,
     "PriceGuest": 5.45,
     "PriceStudent": 3.1,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-11-28T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2022-11-28T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
-    "LactoseFree": true,
     "Vegetarian": true
   }
 ]
