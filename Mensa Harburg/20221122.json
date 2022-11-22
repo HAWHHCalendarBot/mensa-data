@@ -1,17 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-22T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße und Erbsen (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-22T00:00:00Z",
     "Additives": {
@@ -25,7 +14,7 @@
     "Poultry": true
   },
   {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu und Gemüsen (Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-22T00:00:00Z",
     "Additives": {
@@ -38,6 +27,22 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Zuckerschoten, buntem Gemüse, gebratene Paprika (5,Sw), Pilzragout (Gl,La,Sl,Sw), Bunte Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-22T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Kokos Milchreis Vegan",
