@@ -1,5 +1,47 @@
 [
   {
+    "Name": "Hähnchenstreifen al arrabiata, bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), Blattspinat mit Hirtenkäse (La), Gartengemüse, Schupfnudeln (Gl,Ei)",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-29T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Milchreis (La), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-11-29T00:00:00Z",
@@ -10,6 +52,22 @@
     "PriceAttendant": 3.1,
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Würzige Thai-Soja-Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,Ei,So)",
+    "Category": "CampusWorld",
+    "Date": "2022-11-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -25,6 +83,25 @@
     "PriceAttendant": 5.9,
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
+    "Poultry": true
+  },
+  {
+    "Name": "Asiatische Mais-Pute (2,3,5,Gl,So,Se,Sw), bunter Sesam Glasnudel Salat (2,Gl,So,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2022-11-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.9,
+    "PriceGuest": 8.1,
+    "PriceStudent": 5.6,
+    "LactoseFree": true,
     "Poultry": true
   }
 ]
