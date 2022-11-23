@@ -1,20 +1,23 @@
 [
   {
-    "Name": "Prinzessbohnen, Gemüsemix Eskorial, glacierte rote Beete, Zuckerschoten, Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-23T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-23T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Prinzessbohnen, Gemüsemix Eskorial, glacierte rote Beete, Zuckerschoten, Langkorn-Wildreis, Serviettenknödel (Gl,Ei,La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-23T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
@@ -41,12 +44,10 @@
     "Pig": true
   },
   {
-    "Name": "Veganer Milchreis mit Kokosmilch, Beerenkompott (9)",
+    "Name": "Veganer Milchreis mit Kokosmilch, Heidelbeerkompott",
     "Category": "Pottkieker",
     "Date": "2022-11-23T00:00:00Z",
-    "Additives": {
-      "9": "Süßungsmittel"
-    },
+    "Additives": {},
     "PriceAttendant": 3.1,
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
