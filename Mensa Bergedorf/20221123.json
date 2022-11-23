@@ -1,44 +1,46 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Bunte Pasta mit Kichererbsen, Bohnen, Paprika, Zucchini und Auberginen (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-11-23T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "Mangold mit gerösteten Walnüssen (Nu), Zucchinigemüse in Rahm (So), pikantes Grillgemüse (Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-11-23T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Blumenkohl Broccoli Mix mit Sesam und Tomatenragout (Sl,Sf,Se), Kurkuma Reis mit schwarzen Bohnen",
@@ -49,14 +51,14 @@
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
     "LactoseFree": true,
     "Vegan": true
   },
   {
-    "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
+    "Name": "Pad Thai Asianudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
     "Category": "CampusVital",
     "Date": "2022-11-23T00:00:00Z",
     "Additives": {
@@ -66,26 +68,10 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.9,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.6,
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.65,
+    "PriceStudent": 3.15,
     "Vegetarian": true
-  },
-  {
-    "Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisnudeln (2,Gl,So,Sl)",
-    "Category": "CampusWorld",
-    "Date": "2022-11-23T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Honey Garlic Chicken mit Sesam Broccoli und gebackenen Ofenkartoffel (2,Gl,So,Se)",
@@ -97,10 +83,44 @@
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 7.1,
-    "PriceGuest": 8.3,
-    "PriceStudent": 5.8,
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Steckrübenmus mit Kochwurst und Röstkartoffel (2,3,4,8,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisnudeln (2,Gl,So,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2022-11-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
