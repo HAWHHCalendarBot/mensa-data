@@ -26,15 +26,17 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "Lauchcremesuppe mit Hackfleisch (La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-11-23T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true
   },
   {
     "Name": "Schupfnudeln mit gebratenem Sauerkraut (Gl,Ei,La), Röstzwiebeln (Gl)",
