@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-11-23T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
     "Name": "Bunte Pasta mit Kichererbsen, Bohnen, Paprika, Zucchini und Auberginen (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-11-23T00:00:00Z",
@@ -25,6 +12,19 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta mit gekochen Schinken in Sahnesoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-11-23T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Mangold mit gerösteten Walnüssen (Nu), Zucchinigemüse in Rahm (So), pikantes Grillgemüse (Sl,Sf)",
