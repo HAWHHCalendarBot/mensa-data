@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Maisgemüse, gebratenes Gemüse, Kohlrabi in Tomaten-Sojarahm (Gl,So)",
     "Category": "Gemüsebar",
     "Date": "2022-11-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,7 +14,20 @@
     "Vegan": true
   },
   {
-    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
+    "Name": "Weiße Bohnen mediterraneo mit Rindfleisch (La), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-24T00:00:00Z",
     "Additives": {
@@ -24,22 +40,6 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Pasta Boscaiola mit Mischpilzen und Speck (2,3,8), Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-11-24T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Pig": true
   },
   {
     "Name": "Grießspeise (Gl,La), Zimt und Zucker",
@@ -104,6 +104,6 @@
     "PriceGuest": 6.6,
     "PriceStudent": 4.1,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
