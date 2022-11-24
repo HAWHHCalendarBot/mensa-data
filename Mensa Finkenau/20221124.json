@@ -1,21 +1,27 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-11-24T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Spätzle in Käse-Sahnesauce (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-11-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "gerösteter Broccoli, Süßkartoffeln, Linsengemüse (3,5,Sl,Sw), Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-24T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -64,10 +70,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl, Reis",
-    "Category": "CampusVital",
+    "Name": "Pasta mit Linsen Bolognese (2,Gl,Sl)",
+    "Category": "CampusKlassiker",
     "Date": "2022-11-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 4.2,
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
@@ -75,13 +85,14 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta mit Linsen bolognese (2,Gl,Sl)",
-    "Category": "CampusKlassiker",
+    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl (2,Gl,So,Sl), Reis",
+    "Category": "CampusVital",
     "Date": "2022-11-24T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.2,
     "PriceGuest": 5.4,
@@ -106,9 +117,9 @@
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "Vegetarian": true
   },
   {
@@ -127,9 +138,9 @@
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 7.2,
-    "PriceGuest": 8.4,
-    "PriceStudent": 5.9,
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
     "Pig": true
   }
 ]

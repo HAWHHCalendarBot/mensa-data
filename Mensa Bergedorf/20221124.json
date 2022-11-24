@@ -1,12 +1,11 @@
 [
   {
-    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
-    "Category": "Pastabar",
+    "Name": "Knoblauch Champignons aus dem Ofen (Sw), Tricolore Gemüse (Sl), Kohlrabigemüse, Spitzkohl gebraten",
+    "Category": "Gemüsebar",
     "Date": "2022-11-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -15,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Boscaiola mit Mischpilzen und Speck (2,3,8), Eliche (Gl)",
+    "Name": "Pasta All`Amatriciana mit Speck und Tomaten (2,3,8,Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-24T00:00:00Z",
     "Additives": {
@@ -31,21 +30,33 @@
     "Pig": true
   },
   {
-    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Frühlingsgemüse (La), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Pilzragout (Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
     "Date": "2022-11-24T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Chili con Corn (Gl,Sl), Reis",
+    "Category": "CampusVital",
+    "Date": "2022-11-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
@@ -58,20 +69,6 @@
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Chili con Corn (Gl,Sl), Basmatireis",
-    "Category": "CampusVital",
-    "Date": "2022-11-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "All in one Pot - Bulgur/ Soja/Weißkohl/ Cranberries/ Ananas/ Baby Leaf/ Asia Remoulade/Cashews (1,2,Gl,So,Nu,Sl,Sf)",
