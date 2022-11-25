@@ -1,10 +1,21 @@
 [
   {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
     "Category": "Pastabar",
     "Date": "2022-11-25T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tricolore Gemüse (La,Sl), Kohlrabigemüse (La), Spitzkohl in Rahm (La), glacierte rote Beete mit Apfel, Röstkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-11-25T00:00:00Z",
+    "Additives": {
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
@@ -14,15 +25,30 @@
     "Vegetarian": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta All`Amatriciana mit Speck und Tomaten (2,3,8,Gl)",
+    "Category": "Pastabar",
     "Date": "2022-11-25T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Pasta mit Pilzragout (Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2022-11-25T00:00:00Z",
+    "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -30,7 +56,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagliatelle (Gl), Lauch- Sojasahne (So)",
+    "Name": "Chili con Corn (Gl,Sl), Reis",
+    "Category": "CampusVital",
+    "Date": "2022-11-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Strozzapreti (Gl), Lauch- Sojasahne (So)",
     "Category": "CampusVital",
     "Date": "2022-11-25T00:00:00Z",
     "Additives": {
@@ -44,16 +84,17 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La)",
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Pilzrahmoße mit Waldpilzen (La,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-25T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.6,
-    "PriceStudent": 3.4,
+    "PriceAttendant": 4.35,
+    "PriceGuest": 5.45,
+    "PriceStudent": 3.1,
     "Poultry": true
   },
   {
