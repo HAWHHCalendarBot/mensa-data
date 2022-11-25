@@ -14,19 +14,19 @@
     "Vegan": true
   },
   {
-    "Name": "Zartweizen mit Gemüse (Gl,Sl), Blattspinat, Gartengemüse, Erbsen-Champignon Gemüse (La,Sw)",
+    "Name": "Zartweizen mit Gemüse (Gl,Sl), Blattspinat, Gartengemüse, Erbsen-Champignon Gemüse (Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-11-29T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Mohn Schupfnudeln (Gl,Ei,La), Pflaumenkompott (1,La)",
@@ -58,5 +58,18 @@
     "PriceStudent": 3.3,
     "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Hähnchen Tika Masala mit Joghurt (La,Sf), Kräuterreis",
+    "Category": "CampusWorld",
+    "Date": "2022-11-29T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Poultry": true
   }
 ]
