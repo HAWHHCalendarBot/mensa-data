@@ -1,31 +1,45 @@
 [
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelmus (3)",
+    "Name": "Vegane Pasta mit Tomate-Paprika-Sugo, Knoblauch und Chili (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-11-28T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Veganes Kartoffelgulasch mit Pilzen und Paprika (Sw), Tortilla Chips",
+    "Category": "Pastabar",
+    "Date": "2022-11-28T00:00:00Z",
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vegane Waldpilzsuppe mit Sojasahne und Brot (1,3,Gl,So)",
     "Category": "Pottkieker",
     "Date": "2022-11-28T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
       "3": "Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.1,
-    "PriceGuest": 3.8,
-    "PriceStudent": 1.9,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Veganes Kartoffelgulasch mit Pilzen und Paprika (Sw), Tortilla Chips, Schnittlauch-Schmand (La)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-11-28T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.1,
-    "PriceGuest": 7.6,
-    "PriceStudent": 3.8,
-    "Vegetarian": true
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
