@@ -27,19 +27,19 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So)",
+    "Name": "Brechbohnen, Fingermöhrchen (La), gebratener Pak Choi (2,Gl,So), Kartoffel Steckrüben Auflauf (La)",
     "Category": "Gemüsebar",
     "Date": "2022-11-29T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Blumenkohl Korma, Reis",
@@ -53,7 +53,7 @@
     "Vegan": true
   },
   {
-    "Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl)",
+    "Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl), Nudeln (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2022-11-29T00:00:00Z",
     "Additives": {
@@ -70,7 +70,20 @@
     "Vegan": true
   },
   {
-    "Name": "Asiatische Mais-Pute (2,3,5,Gl,So,Se,Sw)",
+    "Name": "Kartoffel-Hack-Auflauf (Gl,La), Käsesoße (Gl,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Beef": true
+  },
+  {
+    "Name": "Asiatische Mais-Pute (2,3,5,Gl,So,Se,Sw), Reis",
     "Category": "CampusSpezial",
     "Date": "2022-11-29T00:00:00Z",
     "Additives": {
@@ -82,9 +95,9 @@
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 6.15,
-    "PriceGuest": 7.25,
-    "PriceStudent": 4.9,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
     "LactoseFree": true,
     "Poultry": true
   }
