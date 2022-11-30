@@ -1,5 +1,35 @@
 [
   {
+    "Name": "Hähnchen Tika Masala mit Joghurt (La,Sf), Kräuterreis",
+    "Category": "Pastabar",
+    "Date": "2022-11-30T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Vegane Pasta  Carbonara mit Tofuwürfel in Sojasahne (1,Gl,So,Sl,Sf)",
+    "Category": "Pastabar",
+    "Date": "2022-11-30T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2022-11-30T00:00:00Z",
@@ -13,19 +43,6 @@
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Hähnchen Tika Masala mit Joghurt (La,Sf), Kräuterreis",
-    "Category": "CampusWorld",
-    "Date": "2022-11-30T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 6.8,
-    "PriceStudent": 3.4,
-    "Poultry": true
   },
   {
     "Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), Schnittlauchdip (La), Mediterrane Kartoffel Gemüsepfanne (Sw)",
