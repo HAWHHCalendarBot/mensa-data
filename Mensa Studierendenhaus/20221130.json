@@ -28,12 +28,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken",
+    "Name": "Gartengemüse, frisches Gemüse (2,Sw), griechisches Gemüse (6), Zartweizen mit Gemüse (Gl,Sl), Brechbohnen",
     "Category": "Gemüsebar",
     "Date": "2022-11-30T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -70,6 +72,24 @@
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
     "Pig": true
+  },
+  {
+    "Name": "Bunter Sesam Glasnudel Salat (2,Gl,So,Se), Broccoli Nuggets (Gl,Ei,So,La,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2022-11-30T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Vegetarian": true
   },
   {
     "Name": "Kartoffelgulasch mit Pilzen (La,Sw), Schnittlauch-Schmand (La), Kräuterreis",
