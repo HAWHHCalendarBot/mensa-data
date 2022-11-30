@@ -1,5 +1,16 @@
 [
   {
+    "Name": "Gemüsebar des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-08T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Hähnchenstreifen in Rucola-Soße (La), Eliche (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-08T00:00:00Z",
@@ -27,21 +38,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
-    "Category": "Gemüsebar",
-    "Date": "2022-12-08T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
     "Name": "Orientalisches Gemüsecurry (La,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2022-12-08T00:00:00Z",
@@ -54,6 +50,19 @@
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "Vegetarian": true
+  },
+  {
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-08T00:00:00Z",
+    "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Kräuterrisotto mit gebratenen Pilzen und Trüffelinfusion (So,Sl,Sw)",

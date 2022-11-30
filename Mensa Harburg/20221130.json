@@ -1,31 +1,18 @@
 [
   {
-    "Name": "Bolognese (Sl), Vollkorn Penne (Gl)",
+    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (So,Sw), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-11-30T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
-  },
-  {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Vollkorn Penne (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-11-30T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
@@ -88,29 +75,35 @@
     "Pig": true
   },
   {
-    "Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw,Lu), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
+    "Name": "Vegetarisches Schnitzel in Knusperpanade (Gl,Ei,La), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
+    "Category": "CampusVital",
     "Date": "2022-11-30T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "8": "Phosphat",
-      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Lu": "Lupine und - erzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 6.9,
-    "PriceGuest": 8.1,
-    "PriceStudent": 5.6,
-    "Alcohol": true,
-    "Beef": true,
-    "Pig": true
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gebackenes Putenschnitzel (1,Gl), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-11-30T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "Poultry": true
   }
 ]
