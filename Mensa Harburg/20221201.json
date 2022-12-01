@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße, (Sw), Basmatireis",
     "Category": "Pastabar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {
@@ -13,24 +13,41 @@
     "Poultry": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
+    "Name": "Würzige Thai-Soja-Bolognese mit Ingwer, Koriander, Limettenblättern, (2,Gl,So), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl)",
+    "Name": "Zucchini Walnusssoße vegan, (So,Nu), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Edamame Sojabohnen, (So), Gemüsecouscous mit Zartweizen, (Gl,Sl), Grillgemüse mit Süßkartoffeln, (1,Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
