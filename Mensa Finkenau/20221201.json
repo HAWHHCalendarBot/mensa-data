@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gebratene Champignons, Süßkartoffeln, Gartengemüse, gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Cherrytomaten und Basilikum-Tomatensauce (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -52,6 +54,20 @@
     "PriceStudent": 3.5,
     "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "gebackene Rinder-Lasagne mit Käse (Gl,La,Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
+    "Beef": true
   },
   {
     "Name": "Hähnchengeschnetzeltes Züricher Art (La,Sw), Spätzle (Gl,Ei)",
