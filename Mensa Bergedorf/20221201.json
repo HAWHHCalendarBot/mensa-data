@@ -1,9 +1,10 @@
 [
   {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Pasta Hühnchen mit Mais (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -13,12 +14,14 @@
     "Poultry": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), buntem Gemüse",
-    "Category": "Gemüsebar",
+    "Name": "Pasta con verdure mit buntem Gemüse und Kartoffeln (6,Gl,Sl,Sw)",
+    "Category": "Pastabar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,13 +30,32 @@
     "Vegan": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
-    "Category": "Pastabar",
+    "Name": "pikantes Grillgemüse (Sl,Sf), gebackene Süßkartoffel, Grünkohl (Gl,So,Sf), gebratenes Gemüse (Sl)",
+    "Category": "Gemüsebar",
     "Date": "2022-12-01T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Käsespätzle (2,Gl,Ei,La,48)",
+    "Category": "Pastabar",
+    "Date": "2022-12-01T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -52,20 +74,6 @@
     "Vegan": true
   },
   {
-    "Name": "Rührei (Ei,La), Blattspinat in Rahm (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
-    "Category": "CampusVital",
-    "Date": "2022-12-01T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.2,
-    "Vegetarian": true
-  },
-  {
     "Name": "All in one Pot - Reisnudeln, Tofuwürfel, Eisbergsalat, Koriander, Gurke, Erdnüsse, Äpfel,  Röstzwieb (2,Gl,En,So,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-12-01T00:00:00Z",
@@ -81,6 +89,20 @@
     "PriceStudent": 3.4,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Rührei (Ei,La), Blattspinat in Rahm (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Category": "CampusVital",
+    "Date": "2022-12-01T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.85,
+    "PriceGuest": 6.05,
+    "PriceStudent": 3.55,
+    "Vegetarian": true
   },
   {
     "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
