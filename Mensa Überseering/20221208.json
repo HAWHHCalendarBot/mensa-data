@@ -1,17 +1,5 @@
 [
   {
-    "Name": "Steckrüben-Möhren Gemüse (La), Spitzkohl",
-    "Category": "Gemüsebar",
-    "Date": "2022-12-08T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
     "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-08T00:00:00Z",
@@ -24,6 +12,21 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Spitzkohl, Gemüsemix Eskorial, Austernpilzragout (Gl,La), Spanisches Pfannengemüse, Zartweizen mit Gemüse (Gl,Sl), Schupfnudeln (Gl,Ei)",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-08T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Kräuterrisotto mit gebratenen Pilzen und Trüffelinfusion (So,Sl,Sw)",
@@ -40,34 +43,6 @@
     "Alcohol": true,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Süßkartoffel-Linsenpürree mit Römersalat, Blumenkohl, Mandeln und Limetten-Senf-Dressing (3,Nu,Sf)",
-    "Category": "CampusVital",
-    "Date": "2022-12-08T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 5.1,
-    "PriceGuest": 6.3,
-    "PriceStudent": 3.8,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Kräutersoße (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-12-08T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 7.1,
-    "PriceStudent": 4.6,
-    "Poultry": true
   },
   {
     "Name": "Hirschkeule mit Rotweinsoße (Gl,La,Sl,Sf,Sw), Rahmwirsing (Gl,La,Sl), Kartoffel-Kürbis Stampf (La)",

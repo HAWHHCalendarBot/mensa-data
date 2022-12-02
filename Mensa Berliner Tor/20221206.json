@@ -1,5 +1,37 @@
 [
   {
+    "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
+    "Category": "Pastabar",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Kochwurst (2,3,4,8,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 2.15,
+    "PriceGuest": 2.3,
+    "PriceStudent": 2.0,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "Gemüsegulasch (Sl), Penne (Gl)",
     "Category": "Pottkieker",
     "Date": "2022-12-06T00:00:00Z",
@@ -12,5 +44,112 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "#ofenfrisch..bis 16:00 Uhr..,Pizza Margherita (Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "Vegetarian": true
+  },
+  {
+    "Name": "#ofenfrisch..bis 16:00 Uhr..,Pizza Margeritha vegan (1,Gl)",
+    "Category": "CampusWorld",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "#ofenfrisch..bis 16:00 Uhr..,Pizza Salami (1,2,3,Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Pig": true
+  },
+  {
+    "Name": "#ofenfrisch..bis 16:00 Uhr..,Pizza Sucuk (2,3,4,Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.5,
+    "PriceGuest": 7.7,
+    "PriceStudent": 5.2,
+    "Beef": true
   }
 ]
