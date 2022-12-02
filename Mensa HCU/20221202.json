@@ -1,21 +1,10 @@
 [
   {
-    "Name": "Gnocchi mit Pilzrahm (La)",
+    "Name": "VEAGAN Gnocchi oder Pasta mit Pilzen in Sojasahne (Gl,So)",
     "Category": "Pastabar",
     "Date": "2022-12-02T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.5,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Vegane Soja-Bolognese mit Gemüse und Nudeln (So)",
-    "Category": "Pastabar",
-    "Date": "2022-12-02T00:00:00Z",
-    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -23,6 +12,21 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Kohlroulade (Ei,La,Sf), Kümmelsoße (Sl), Salzkartoffeln",
+    "Category": "Pastabar",
+    "Date": "2022-12-02T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Pig": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
