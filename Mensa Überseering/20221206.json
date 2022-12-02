@@ -1,19 +1,19 @@
 [
   {
-    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
     "Category": "Gemüsebar",
     "Date": "2022-12-06T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl), Conchiglie (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-06T00:00:00Z",
     "Additives": {
@@ -26,6 +26,19 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
+  },
+  {
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
   },
   {
     "Name": "Chili con Corn (Gl,Sl), Basmatireis",
