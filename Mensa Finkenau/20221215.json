@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Fabi's Canadian Poutine mit Steakhousepommes, PulledPork, Cheddar cheese und pikanter Bratensoße (1,2,3,9,Ei,So,La,Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 7.1,
+    "PriceGuest": 8.3,
+    "PriceStudent": 5.8,
+    "Alcohol": true,
+    "Beef": true,
+    "Pig": true
+  },
+  {
+    "Name": "Hähnchenstreifen,gebratener Blumenkohl mit Kokosmilch, geröstete Sonnenblumenkerne und Basmatireis (Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 7.2,
+    "PriceGuest": 8.4,
+    "PriceStudent": 5.9,
+    "LactoseFree": true,
+    "Poultry": true
+  }
+]
