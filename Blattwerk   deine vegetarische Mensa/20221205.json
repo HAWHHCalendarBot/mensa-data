@@ -1,11 +1,24 @@
 [
   {
-    "Name": "Pasta Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl), Spaghetti (Gl)",
+    "Name": "Gärtnerin Sugo mit Gemüse-Tomatensoße (Sl)",
     "Category": "Pastabar",
     "Date": "2022-12-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Soja-Lauch-Soße (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-05T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -25,43 +38,6 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Soja-Lauch-Soße (So,Sl), Spaghetti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-12-05T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Crepe mit Gemüse-Hummusfüllung (Gl,Ei,La,Sl,Se), Salsa Dip (1,2,3,4,9,Ei,La,Sf)",
-    "Category": "CampusVital",
-    "Date": "2022-12-05T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.2,
     "Vegetarian": true
   },
   {
