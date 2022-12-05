@@ -1,25 +1,48 @@
 [
   {
-    "Name": "Pasta mit Broccoli-Gorgonzola-Sauce (Gl,La,48)",
+    "Name": "Vegane Sojabolognese mit Gemüse und Nudeln",
+    "Category": "Pastabar",
+    "Date": "2022-12-05T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Rosenkohl-Edamame-Curry mit Reis (So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-12-05T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "2 Quarkkeulchen (Gl,Ei,La), Apfelmus (3)",
+    "Name": "Kartoffelsuppe mit Baguette (Gl,La,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-12-05T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Category": "Pottkieker",
+    "Date": "2022-12-05T00:00:00Z",
+    "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -30,40 +53,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Rosenkohl-Edamame-Curry mit Reisnudeln (So,Sl)",
-    "Category": "CampusVital",
-    "Date": "2022-12-05T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.2,
-    "PriceGuest": 5.8,
-    "PriceStudent": 2.9,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La), Baguette (Gl)",
+    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La)",
     "Category": "CampusKlassiker",
     "Date": "2022-12-05T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 5.2,
-    "PriceGuest": 7.8,
-    "PriceStudent": 3.9,
-    "Beef": true
-  },
-  {
-    "Name": "Bauerntopf mit Hackfleisch, Paprika und Kartoffeln (2,La), Baguette (Gl)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-12-05T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 5.2,
