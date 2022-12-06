@@ -42,6 +42,18 @@
     "Vegan": true
   },
   {
+    "Name": "4 Röstiecken, Kräuterquark (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-13T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.45,
+    "PriceGuest": 4.55,
+    "PriceStudent": 2.2,
+    "Vegetarian": true
+  },
+  {
     "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf)",
     "Category": "CampusWorld",
     "Date": "2022-12-13T00:00:00Z",
@@ -58,18 +70,36 @@
     "Vegan": true
   },
   {
-    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße",
+    "Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Hausgemachte vegetarische Grünkohl-Lasagne (Gl,La,Sw), Salat",
     "Category": "CampusSpezial",
     "Date": "2022-12-13T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.8,
-    "PriceGuest": 7.0,
-    "PriceStudent": 4.5,
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Alcohol": true,
     "Vegetarian": true
   }
 ]
