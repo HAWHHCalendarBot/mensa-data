@@ -27,6 +27,20 @@
     "Vegan": true
   },
   {
+    "Name": "Pasta Saporita mit Rindfleisch und Paprika (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
     "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-12-06T00:00:00Z",
@@ -40,20 +54,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
-  },
-  {
-    "Name": "Panierte Hähnchenbrust (Gl), Pilzsoße (3,La)",
-    "Category": "CampusSpezial",
-    "Date": "2022-12-06T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 4.45,
-    "PriceGuest": 5.55,
-    "PriceStudent": 3.2,
-    "Poultry": true
   },
   {
     "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
@@ -99,5 +99,19 @@
     "PriceGuest": 6.3,
     "PriceStudent": 3.8,
     "Vegetarian": true
+  },
+  {
+    "Name": "Panierte Hähnchenbrust (Gl), Pilzsoße (3,La), Strozzapreti (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Poultry": true
   }
 ]
