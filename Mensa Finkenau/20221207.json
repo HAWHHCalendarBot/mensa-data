@@ -1,9 +1,14 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gebratene Champignons (Sw), Kräuterkartoffeln, Sauerkraut vegetarisch (Sl), Gemüsegulasch (Gl,So,Sl,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-12-07T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
