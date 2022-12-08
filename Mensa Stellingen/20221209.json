@@ -1,31 +1,39 @@
 [
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (La), Pommes Frites (Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Category": "Pottkieker",
     "Date": "2022-12-09T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "Pig": true
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
   },
   {
-    "Name": "Vegan gekochter Grünkohl (Gl,So,Sl,Sf), Räuchertofu mit Sonnenblumenkernen (Gl,So), Röstkartoffeln",
-    "Category": "CampusSpezial",
+    "Name": "Pikante Chili con Carne-Suppe mit Rindfleisch, Bohnen &amp; Mais",
+    "Category": "Pottkieker",
+    "Date": "2022-12-09T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Gemüse-Currry (Sl,Sf), Kurkumareis",
+    "Category": "CampusVital",
     "Date": "2022-12-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.5,
-    "PriceGuest": 6.7,
-    "PriceStudent": 4.2,
+    "PriceAttendant": 4.0,
+    "PriceGuest": 5.2,
+    "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
   }
