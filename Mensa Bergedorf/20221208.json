@@ -1,7 +1,7 @@
 [
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl",
-    "Category": "Gemüsebar",
+    "Name": "Gnocchi mit Austernpilzen, Erbsen und Paprika (La)",
+    "Category": "Pastabar",
     "Date": "2022-12-08T00:00:00Z",
     "Additives": {
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -12,7 +12,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), Eliche (Gl)",
+    "Name": "Pasta Hähnchenstreifen in Rucola-Soße (Gl,La)",
     "Category": "Pastabar",
     "Date": "2022-12-08T00:00:00Z",
     "Additives": {
@@ -25,18 +25,33 @@
     "Poultry": true
   },
   {
-    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2022-12-08T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "gerösteter Broccoli, gebratene Zucchini, Karotten-Sellerie-Gemüse (Sl,Sw), Gemüsepfanne Texas (2)",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-08T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kräuterrisotto mit gebratenen Pilzen und Trüffelinfusion (So,Sl,Sw)",
