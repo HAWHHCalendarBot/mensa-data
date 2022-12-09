@@ -56,7 +56,7 @@
     "Poultry": true
   },
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl)",
+    "Name": "Paniertes Hähnchenschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2022-12-09T00:00:00Z",
     "Additives": {
@@ -67,21 +67,22 @@
     "PriceAttendant": 3.95,
     "PriceGuest": 5.05,
     "PriceStudent": 2.7,
-    "Pig": true
+    "Poultry": true
   },
   {
-    "Name": "Karibisches Linsencurry (Sl,Sf), Reis (La,Sl)",
+    "Name": "Karibisches Linsencurry (Sl,Sf), Nudeln (Gl)",
     "Category": "CampusVital",
     "Date": "2022-12-09T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.0,
     "PriceGuest": 5.2,
     "PriceStudent": 2.7,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Gebratenes Zanderfilet (Gl,Fi), Lemon Hollandaise (Ei,La,Sl,Sw)",
