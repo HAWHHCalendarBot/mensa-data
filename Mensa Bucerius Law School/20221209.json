@@ -1,14 +1,23 @@
 [
   {
-    "Name": "Tagessuppe",
+    "Name": "Steckrübeneintopf mit Wurst (2,3,4,8,Gl,La,Sl,Sf,Sw)",
     "Category": "Pottkieker",
     "Date": "2022-12-09T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
     "Name": "Karibisches Linsencurry (Sl,Sf), Basmatireis",
@@ -39,17 +48,19 @@
     "Beef": true
   },
   {
-    "Name": "Putensteak, Ofengemüse mit Kartoffeln und Feta (La,48)",
+    "Name": "Texashacksteak (Gl,Ei), Ofengemüse mit Kartoffeln und Feta (La,48), Tzatziki (La)",
     "Category": "CampusSpezial",
     "Date": "2022-12-09T00:00:00Z",
     "Additives": {
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 7.1,
     "PriceGuest": 8.3,
     "PriceStudent": 5.8,
-    "Poultry": true
+    "Beef": true
   }
 ]
