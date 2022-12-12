@@ -1,5 +1,17 @@
 [
   {
+    "Name": "Gemüseauswahl (Sl) (La)",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-12T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-12T00:00:00Z",
@@ -14,29 +26,25 @@
     "Poultry": true
   },
   {
-    "Name": "Mais (La), Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl,La), Bunte Gemüsemischung mit Karotten (Sl), Nusskartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2022-12-12T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Tagessuppe",
+    "Name": "Mexikanischer Bohneintopf mit Rindfleisch (1,2,3,8,Gl,Ei,So,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-12-12T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "Beef": true,
     "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
     "Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
@@ -51,14 +59,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Erbsen, Pommes Frites (Sf)",
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Erbsen, Pommes Frites (Sf), Rahmsoße (Gl,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2022-12-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.9,
     "PriceGuest": 6.1,

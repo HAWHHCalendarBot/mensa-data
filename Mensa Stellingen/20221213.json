@@ -14,15 +14,31 @@
     "Vegetarian": true
   },
   {
-    "Name": "Veganes Kichererbsencurry, Tortilla-Chips",
+    "Name": "Veganes Kichererbsencurry mit Edamame und Tomaten (So), Tortilla-Chips",
     "Category": "Pottkieker",
     "Date": "2022-12-13T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Rindfleischfrikadelle (Gl,Ei), Rahmsoße (La), Möhren-Kartoffel-Stampf (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-13T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true
   },
   {
     "Name": "Hähnchenstreifen Teriyaki mit Sesam, Brokkoli-Mix und Reis (2,Gl,So,Se)",
@@ -59,19 +75,5 @@
     "PriceStudent": 4.2,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Rindfleischfrikadelle (Gl,Ei), Rahmsoße (La), Möhren-Kartoffel-Stampf (La)",
-    "Category": "CampusKlassiker",
-    "Date": "2022-12-13T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.4,
-    "Beef": true
   }
 ]

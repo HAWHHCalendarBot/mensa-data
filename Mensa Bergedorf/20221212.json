@@ -13,12 +13,14 @@
     "Vegan": true
   },
   {
-    "Name": "Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl,La), Nusskartoffeln",
+    "Name": "Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl), Nusskartoffeln, Rahmwirsing (Gl,So,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-12-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -26,7 +28,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw,48), Fusilli (Gl)",
+    "Name": "Pasta Arcobaleno mit geräucherter Putenbrust und Käse (1,2,3,8,Gl,La,Sl,Sw,48)",
     "Category": "Pastabar",
     "Date": "2022-12-12T00:00:00Z",
     "Additives": {
@@ -43,7 +45,7 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Pig": true
+    "Poultry": true
   },
   {
     "Name": "Veganes Kichererbsencurry, pikantes Möhrengemüse (Sl)",
@@ -59,17 +61,21 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La)",
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Hollandaise (Ei,La,Sl,Sw)",
     "Category": "CampusSpezial",
     "Date": "2022-12-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.4,
     "PriceStudent": 2.2,
+    "Alcohol": true,
     "Poultry": true
   },
   {
