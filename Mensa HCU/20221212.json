@@ -1,10 +1,11 @@
 [
   {
-    "Name": "Vegane Aglio Olio mit Tomate und Knoblauch, Fusilli (Gl)",
+    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Reis",
     "Category": "Pastabar",
     "Date": "2022-12-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
@@ -13,29 +14,58 @@
     "Vegan": true
   },
   {
-    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Maccaroni (Gl), Limetten Joghrt (3,La)",
-    "Category": "CampusVital",
+    "Name": "Stufato di Lenticche mit Räuchertofu (Gl,So), Reis",
+    "Category": "Pastabar",
     "Date": "2022-12-12T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.8,
-    "PriceGuest": 5.0,
-    "PriceStudent": 2.5,
-    "Vegetarian": true
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Erbsen, Pommes Frites (Sf)",
+    "Name": "Vegane Pasta Cremolata mit Paprika (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Vegane Curry-Linsensuppe  mit Gemüse und Brötchen (1,3,Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2022-12-12T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Erbsen in Rahm (La), Röstiecken",
     "Category": "CampusSpezial",
     "Date": "2022-12-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 4.9,
     "PriceGuest": 7.2,
