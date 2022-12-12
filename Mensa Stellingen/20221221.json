@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Ofengemüse mit Kartoffeln und Feta (La,48), Tomaten-Sonnenblumenkern-Salsa",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-21T00:00:00Z",
+    "Additives": {
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Vegetarian": true
+  },
+  {
     "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (La), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-12-21T00:00:00Z",
@@ -8,9 +22,41 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.8,
-    "PriceStudent": 3.3,
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
     "Pig": true
+  },
+  {
+    "Name": "Vegan gekochter Grünkohl (Gl,So,Sl,Sf), Räuchertofu mit Sonnenblumenkernen (Gl,So), Röstkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-21T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Dönerteller mit Geflügelfleisch, bunter Salat (Gl,Ei,Sf,Sw), Tzatziki (La), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-21T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "Beef": true
   }
 ]

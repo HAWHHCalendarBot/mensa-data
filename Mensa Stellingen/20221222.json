@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Kokosnuss-Kichererbsen-Curry mit knusprigem Spitzkohl, Reis",
+    "Name": "Kokosnuss-Kichererbsen-Curry mit Spitzkohl, Reis",
     "Category": "CampusVital",
     "Date": "2022-12-22T00:00:00Z",
     "Additives": {},
@@ -9,5 +9,45 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hähnchenstreifen al arrabiata in pikanter Tomatensoße, Fusilli (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Cappeletti Rosso - Nudeln mit Ricottafüllung (Gl,La), Tomaten-Ragout &amp; Rucola",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kohlroulade mit Schweinefleisch (Ei,La,Sf), körnige Senf-Sauce (La,Sf), Kartoffeln aus dem Ofen",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Pig": true
   }
 ]
