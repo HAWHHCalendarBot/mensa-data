@@ -1,5 +1,45 @@
 [
   {
+    "Name": "Vegane Bratreis mit Frühlingszwiebeln",
+    "Category": "Pastabar",
+    "Date": "2022-12-13T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli-Gemüse, vegan, Mais- Karotten Gemüse (La), gebratene Zucchini und Aubergine, Gemüsecouscous (Gl,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta-Auflauf mit Spinat und Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2022-12-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
     "Category": "Pastabar",
     "Date": "2022-12-13T00:00:00Z",
@@ -13,6 +53,22 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
+  },
+  {
+    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2022-12-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
   },
   {
     "Name": "#süßeSÜNDE..., Karamellisierter Kaiserschmarrn (Gl,Ei,La), Pflaumenkompott (1,La), Apfelmus (3), Zimt und Zucker",
