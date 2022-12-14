@@ -13,42 +13,60 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "dicke Bohnen (2,3,8,Gl,La), Gemüsemix, Orientalisches Kichererbsengemüse (2,5,Sw), Grünkohl (2,3,8,Sf)",
     "Category": "Gemüsebar",
     "Date": "2022-12-14T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "Beef": true,
+    "Pig": true
   },
   {
-    "Name": "Tagessuppe",
-    "Category": "Pottkieker",
+    "Name": "dicke Bohnen (2,3,8,Gl,La), Gemüsemix, Orientalisches Kichererbsengemüse (2,5,Sw), Grünkohl (2,3,8,Sf)",
+    "Category": "Gemüsebar",
     "Date": "2022-12-14T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "Pig": true
   },
   {
-    "Name": "Backkartoffel, Blattspinat, Tomaten-Paprika-Salsa (4)",
+    "Name": "Nudel-Gemüsepfanne sahne und Basilikumpesto (Gl,La,Sl,Sw), Tomaten-Paprika-Salsa (4,La)",
     "Category": "CampusVital",
     "Date": "2022-12-14T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker"
+      "4": "Geschmacksverstärker",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
@@ -70,7 +88,7 @@
     "Pig": true
   },
   {
-    "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (1,2,3,9,Gl,So,Sl,Sf,Sw), Pommes Frites (Sf)",
+    "Name": "Linsenburger mit gepickelten roten Zwiebeln und Jalapenos (1,2,3,9,Gl,So,Sl,Sf,Sw), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-12-14T00:00:00Z",
     "Additives": {
