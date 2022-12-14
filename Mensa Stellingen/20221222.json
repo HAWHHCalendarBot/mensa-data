@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
+    "Category": "Pottkieker",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kokosnuss-Kichererbsen-Curry mit Spitzkohl, Reis",
     "Category": "CampusVital",
     "Date": "2022-12-22T00:00:00Z",
@@ -9,6 +23,20 @@
     "PriceStudent": 2.7,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Kohlroulade mit Schweinefleisch (Ei,La,Sf), Zwiebel-Senf-Sauce (Sf), Kartoffeln aus dem Ofen",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "Pig": true
   },
   {
     "Name": "Geflügelstreifen al arrabiata in pikanter Tomatensoße, Fusilli (Gl)",
@@ -35,19 +63,5 @@
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Kohlroulade mit Schweinefleisch (Ei,La,Sf), Zwiebel-Senf-Sauce (Sf), Kartoffeln aus dem Ofen",
-    "Category": "CampusKlassiker",
-    "Date": "2022-12-22T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Pig": true
   }
 ]
