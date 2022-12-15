@@ -13,17 +13,38 @@
     "Vegan": true
   },
   {
-    "Name": "Frühlingsgemüse, gebratene Champignons (La,Sw), Kohlrabigemüse, Spitzkohl in Rahm (La), Petersilienkartoffeln",
+    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, überbackene Backkartoffel mit (La), Ratatouille (Sl), Auberginen mit Balsamico Bianco (3,5,Sw), Grünkohl (Sl,Sf), Gnocchi, Röstkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2022-12-15T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Kochwurst (2,3,4,8,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 2.15,
+    "PriceGuest": 2.3,
+    "PriceStudent": 2.0,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",

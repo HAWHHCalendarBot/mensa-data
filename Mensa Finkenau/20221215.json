@@ -1,27 +1,34 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-12-15T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit grünem Gemüse und Erbsenpesto (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2022-12-15T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Süßkartoffeln, dicke Bohnen (La), Asiagemüse (2,Gl,So,Se), Kräuterkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -52,7 +59,7 @@
     "Vegan": true
   },
   {
-    "Name": "Fabi's Canadian Poutine mit Steakhousepommes, PulledPork, Cheddar cheese und pikanter Bratensoße (1,2,3,9,Ei,So,La,Sf)",
+    "Name": "Fabi's Canadian Poutine mit Steakhousepommes, PulledPork, Cheddar cheese und pikanter Bratensoße (1,2,3,9,Gl,Ei,So,La,Sf)",
     "Category": "CampusSpezial",
     "Date": "2022-12-15T00:00:00Z",
     "Additives": {
@@ -61,6 +68,7 @@
       "3": "Antioxidationsmittel",
       "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
