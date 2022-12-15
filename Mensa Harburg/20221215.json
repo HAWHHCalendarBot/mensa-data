@@ -1,9 +1,28 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Pasta Saporita mit Rindfleisch, Paprika und Zucchini, (La,Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Schwarzwurzeln natur,, marinierte Brechbohnen mit Zwiebeln,, Gemüsecouscous mit Koriander, (Gl,Sl), Zucchinigemüse in Sojarahm, (So), Couscous mit Tofu und Mandeln (Gl,So,Nu,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-12-15T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,26 +30,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Boscaiola mit Mischpilzen und Speck (2,3,8)",
+    "Name": "Sojagulasch mit Gemüse, (3,Gl,So,Sl,Sf), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-15T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
-      "8": "Phosphat"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-12-15T00:00:00Z",
-    "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
