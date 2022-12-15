@@ -25,5 +25,48 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2022-12-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Bratwurst Thüringer Art (8,Sl,Sf), Bratensoße (Sl), Erbsen-Karotten Gemüse (La), Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2022-12-20T00:00:00Z",
+    "Additives": {
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "Pig": true
+  },
+  {
+    "Name": "Pizza mit Spinat und Ziegenkäse",
+    "Category": "CampusSpezial",
+    "Date": "2022-12-20T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
