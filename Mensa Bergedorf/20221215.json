@@ -1,20 +1,5 @@
 [
   {
-    "Name": "Hausgemachte vegetarische Grünkohl-Lasagne (Gl,La,Sw), Salat",
-    "Category": "Pastabar",
-    "Date": "2022-12-15T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Alcohol": true,
-    "Vegetarian": true
-  },
-  {
     "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2022-12-15T00:00:00Z",
@@ -81,6 +66,22 @@
     "Vegetarian": true
   },
   {
+    "Name": "Räuchertofu Teriyaki mit Pak Choi (2,Gl,So,Se), Reis",
+    "Category": "CampusWorld",
+    "Date": "2022-12-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.45,
+    "PriceGuest": 6.55,
+    "PriceStudent": 4.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Hähnchen Crossies in Panko Panade (3,Gl), BBQ Soße (2,9,Sl,Sf), Djuvecreis",
     "Category": "CampusKlassiker",
     "Date": "2022-12-15T00:00:00Z",
@@ -97,22 +98,6 @@
     "PriceStudent": 4.3,
     "LactoseFree": true,
     "Poultry": true
-  },
-  {
-    "Name": "Räuchertofu Teriyaki mit Pak Choi (2,Gl,So,Se), Reis",
-    "Category": "CampusWorld",
-    "Date": "2022-12-15T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 6.2,
-    "PriceGuest": 7.4,
-    "PriceStudent": 4.9,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Hirschgulasch (3,La), Prinzessbohnen, Salzkartoffeln",
