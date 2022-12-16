@@ -1,10 +1,10 @@
 [
   {
-    "Name": "Pasta Provencial (Sw), Eliche (Gl)",
+    "Name": "Currycremesoße mit Sojamilch und Edamame Bohnen (So,Sw)",
     "Category": "Pastabar",
     "Date": "2022-12-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -14,18 +14,18 @@
     "Vegan": true
   },
   {
-    "Name": "Spinatsahnesoße (Gl,La,Sl), Eliche (Gl)",
+    "Name": "Soja-Steinpilzsugo mit Tomaten (So,Sl)",
     "Category": "Pastabar",
     "Date": "2022-12-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Gnocchi Mac and Cheese (1,Gl,La,Sl,Sf)",
@@ -44,18 +44,18 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tofu Curry mit Mango (2,3,Gl,So), Vollkornreis",
-    "Category": "CampusVital",
+    "Name": "pikantes Soja-Geschnetzeltes in Kokoscurrysoße (2,Gl,So,Sl), asiatischer Gemüsesalat, Reis",
+    "Category": "CampusSpezial",
     "Date": "2022-12-16T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.6,
-    "PriceGuest": 6.8,
-    "PriceStudent": 4.3,
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
     "LactoseFree": true,
     "Vegan": true
   },

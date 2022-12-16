@@ -1,28 +1,28 @@
 [
   {
-    "Name": "Kokos-Zitronengras-Soße mit Steckrübe, Mie-Nudeln (Gl,Ei)",
+    "Name": "Reis süß sauer (Sl,Sf,Sw)",
     "Category": "Pastabar",
     "Date": "2022-12-16T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
+    "Name": "gebratene Paprika (5,Sw), Kohlrabi in Rahm (Gl,La), gebratene Champignons (Sw), Lauch in Rahm (La)",
     "Category": "Gemüsebar",
     "Date": "2022-12-16T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -30,15 +30,18 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tagessuppe",
+    "Name": "Gulaschsuppe mit Rindfleisch (Gl,Sl)",
     "Category": "Pottkieker",
     "Date": "2022-12-16T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Vegane Carbonara mit Tofuwürfel (1,Gl,So,Sl,Sf), Conchiglie (Gl)",
@@ -58,14 +61,15 @@
     "Vegan": true
   },
   {
-    "Name": "Texashacksteak (Gl,Ei), Gemüse Spätzle Pfanne (Gl,Ei,So,Sf,Sw)",
+    "Name": "Texashacksteak (Gl,Ei), Kartoffelklöße,  Rotkohl mit Preiselbeeren (3,5,9,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2022-12-16T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.7,
