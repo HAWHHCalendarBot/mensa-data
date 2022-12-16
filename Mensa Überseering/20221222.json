@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf), buntem Gemüse",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Tortellini mit Käsefüllung (Gl,La), Zucchini Walnusssoße (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2022-12-22T00:00:00Z",
@@ -12,22 +26,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
-  },
-  {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl), buntem Gemüse",
-    "Category": "Gemüsebar",
-    "Date": "2022-12-22T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Grießspeise (Gl,La), Beerenkompott (9)",
@@ -61,16 +59,21 @@
     "Vegan": true
   },
   {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Basmatireis",
-    "Category": "CampusSpezial",
+    "Name": "Thüringer Bratwurst (8,Sl,Sf,35), Karottengemüse in Kräuterrahm (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Category": "CampusKlassiker",
     "Date": "2022-12-22T00:00:00Z",
     "Additives": {
-      "En": "Erdnüsse und Erdnusserzeugnisse"
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 6.4,
-    "PriceGuest": 7.6,
-    "PriceStudent": 5.1,
-    "LactoseFree": true,
-    "Poultry": true
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "Pig": true
   }
 ]
