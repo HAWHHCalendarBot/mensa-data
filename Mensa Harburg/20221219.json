@@ -1,21 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Gartenbohnen mit Pilzen, Maisgemüse, Fingermöhrchen, Kohlrabi in Kräuterrahm (Gl,So), Zartweizen mit Gemüse,Mandeln und Rucola (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2022-12-19T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-12-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -24,7 +15,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Nerone mit Tomaten-Sahnesoße, (La,Sl), Pasta nach Wahl (Gl)",
+    "Name": "Pasta Nerone mit Tomaten-Sahnesoße, (La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-19T00:00:00Z",
     "Additives": {
@@ -36,6 +27,23 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Pig": true
+  },
+  {
+    "Name": "Vegane Kürbis-Tofu Carbonara (1,Gl,So,Sl,Sf), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-19T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
