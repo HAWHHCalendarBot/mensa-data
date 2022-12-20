@@ -1,21 +1,11 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-12-20T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Hähnchenstreifen al arrabiata,, Pasta nach Wahl (Gl)",
+    "Name": "Hähnchenstreifen al arrabiata, (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -24,11 +14,27 @@
     "Poultry": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Erbsen, Tortellini mit Käsefüllung in Champignonrahmsoße (Gl,La,Sl), Tomaten-Kokos-Belugalinsen Ragout (Sl), Reis, buntem Gemüse",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Rucola-Kürbissoße (Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -48,10 +54,12 @@
     "Vegan": true
   },
   {
-    "Name": "Blumenkohl Korma, Reis",
+    "Name": "Blumenkohl Korma (Sl), Reis",
     "Category": "CampusVital",
     "Date": "2022-12-20T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
     "PriceStudent": 2.5,
@@ -59,13 +67,14 @@
     "Vegan": true
   },
   {
-    "Name": "Rindergeschnetzeltes Stroganoff Art (9,La,Sw), Pasta (Gl)",
+    "Name": "Rindergeschnetzeltes Stroganoff Art (9,La,Sl,Sw), Pasta (Gl)",
     "Category": "CampusSpezial",
     "Date": "2022-12-20T00:00:00Z",
     "Additives": {
       "9": "Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 6.1,
