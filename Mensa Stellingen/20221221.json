@@ -14,7 +14,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ofengemüse mit Kartoffeln und Hirtenkäse (La), Tomaten-Sonnenblumenkern-Salsa",
+    "Name": "Ofengemüse mit Kartoffeln und Hirtenkäse (La), pikante Tomaten-Salsa",
     "Category": "CampusKlassiker",
     "Date": "2022-12-21T00:00:00Z",
     "Additives": {
@@ -26,13 +26,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Pilz-Pfeffer-Rahmsoße (La), Pommes Frites (Sf)",
+    "Name": "Paniertes Schweineschnitzel (Gl), Pilz-Pfeffer-Rahmsoße (3,5,La,Sf,Sw), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2022-12-21T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.7,
     "PriceGuest": 5.9,
@@ -41,7 +44,7 @@
   },
   {
     "Name": "Vegan gekochter Grünkohl (Gl,So,Sl,Sf), Räuchertofu mit Sonnenblumenkernen (Gl,So), Röstkartoffeln",
-    "Category": "CampusKlassiker",
+    "Category": "CampusVital",
     "Date": "2022-12-21T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
@@ -56,19 +59,22 @@
     "Vegan": true
   },
   {
-    "Name": "Dönerteller mit Geflügelfleisch, bunter Salat (Gl,Ei,Sf,Sw), Tzatziki (La), Pommes Frites (Sf)",
+    "Name": "Grillteller mit Rind- und Geflügelfleisch (Gl,Ei,Sf), Pommes Frites (Sf), Mix-Salat (3,5,Sw), Tzatziki (La)",
     "Category": "CampusSpezial",
     "Date": "2022-12-21T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Beef": true
+    "PriceAttendant": 7.0,
+    "PriceGuest": 8.2,
+    "PriceStudent": 5.7,
+    "Beef": true,
+    "Poultry": true
   }
 ]
