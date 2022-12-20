@@ -1,24 +1,11 @@
 [
   {
-    "Name": "Hähnchenstreifen al arrabiata, Eliche (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-12-20T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Pasta mit Curryrahmwirsing (Gl,So)",
     "Category": "Pastabar",
     "Date": "2022-12-20T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,13 +14,31 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So), Gartengemüse",
+    "Name": "Pasta Primavera mit Sojastreifen in Sahnesoße und Gemüse (Gl,So,La)",
+    "Category": "Pastabar",
+    "Date": "2022-12-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Brechbohnen (Gl), Grüne und gelbe Zucchini mit Cherrytomate (6), gebratener Pak Choi (2,Gl,So), Ratatouille (Sl,Sw), Rosenkohl-Pilz-Gemüse (So,Nu,Sw)",
     "Category": "Gemüsebar",
     "Date": "2022-12-20T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "6": "Geschwärzt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
