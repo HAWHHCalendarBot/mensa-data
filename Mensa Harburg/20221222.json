@@ -1,20 +1,10 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2022-12-22T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Hot &amp; Sweet Hähnchen mit Aubergine in Tomatensoße (Sw), Reis",
+    "Name": "Hot &amp; Sweet Hähnchen in Tomatensoße (Sw), Pasta des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-22T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -24,11 +14,44 @@
     "Poultry": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Hot &amp; Sweet Hähnchen in Tomatensoße (Sw), Pasta des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Gemüsecouscous mit Ajvar (Gl,Sl), Weiße Bohnen in Tomaten-Kokos Soße, Wok Gemüsemischung (Sl), Reis, Auberginen mit Walnüssen (Nu,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Vegane Käsesoße (1,2,Gl,So), Veg. Pastabar des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-22T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -67,7 +90,7 @@
     "Vegan": true
   },
   {
-    "Name": "Thüringer Bratwurst (8,Sl,Sf,35), Karottengemüse in Kräuterrahm (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Name": "Thüringer Bratwurst (8,Sl,Sf,35), Karottengemüse in Kräuterrahm (Gl,La), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2022-12-22T00:00:00Z",
     "Additives": {
