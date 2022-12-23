@@ -1,35 +1,43 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Tomaten Kokos Beluga Linsen Ragout (Sl), Karottengemüse in Rahm (Gl,La), Wok Gemüsemischung (Sl), gebackene Kartoffelwürfel, Süßkartoffel Rucolaschnitte (Gl), Weiße Bohnen in Tomaten-Kokos Soße",
     "Category": "Gemüsebar",
     "Date": "2022-12-23T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2022-12-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
+    "Vegetarian": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Räucherlachs in Zucchini Sahnesoße (Gl,Fi,La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2022-12-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Fish": true
+  },
+  {
+    "Name": "Tomaten-Käse Soße (1,2,Gl,So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2022-12-23T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -53,7 +61,7 @@
     "Beef": true
   },
   {
-    "Name": "Afrikanische Gemüse Kartoffel Tajine (Sl)",
+    "Name": "Afrikanische Gemüse Kartoffel Tajine (Sl), Reis",
     "Category": "CampusWorld",
     "Date": "2022-12-23T00:00:00Z",
     "Additives": {
@@ -66,16 +74,20 @@
     "Vegan": true
   },
   {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Basmatireis",
-    "Category": "CampusSpezial",
+    "Name": "5 Hackbällchen (Gl,Ei), italienische Tomaten-Sahne Soße (La,Nu,Sl), Pasta (Gl)",
+    "Category": "CampusKlassiker",
     "Date": "2022-12-23T00:00:00Z",
     "Additives": {
-      "En": "Erdnüsse und Erdnusserzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.4,
-    "LactoseFree": true,
-    "Poultry": true
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "Beef": true,
+    "Pig": true
   }
 ]
