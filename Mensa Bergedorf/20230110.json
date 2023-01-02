@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Hähnchenstreifen al arrabiata, bunte Fusilli (Gl)",
+    "Name": "Hähnchenstreifen al arrabiata",
     "Category": "Pastabar",
     "Date": "2023-01-10T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -13,11 +11,10 @@
     "Poultry": true
   },
   {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw)",
     "Category": "Pastabar",
     "Date": "2023-01-10T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -27,21 +24,19 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
+    "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So)",
     "Category": "Gemüsebar",
     "Date": "2023-01-10T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Blumenkohl Korma, Reis",
