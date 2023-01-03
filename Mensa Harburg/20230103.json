@@ -1,17 +1,6 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-01-03T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-03T00:00:00Z",
     "Additives": {
@@ -25,11 +14,27 @@
     "Poultry": true
   },
   {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-03T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kohlrabi in Sojarahm (Gl,So), Schwarzwurzeln, Gartengemüse (Sl), Buntes Wokgemüse Indonesia (So,Sf), Reis",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -76,7 +81,7 @@
     "Fish": true
   },
   {
-    "Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Gurkensalat (La), Hirtenkäse Quark Dip (La)",
+    "Name": "Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Gurkensalat (La), Hirtenkäse Quark Dip (La)",
     "Category": "CampusWorld",
     "Date": "2023-01-03T00:00:00Z",
     "Additives": {
