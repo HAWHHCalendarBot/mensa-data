@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-01-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Milchreis (La), Apfelkompott (3)",
     "Category": "Pottkieker",
     "Date": "2023-01-17T00:00:00Z",
@@ -11,5 +25,33 @@
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Chili con Corn (Gl,Sl), Basmatireis",
+    "Category": "CampusVital",
+    "Date": "2023-01-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-01-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Beef": true
   }
 ]
