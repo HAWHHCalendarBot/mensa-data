@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen, Glacierte Pastinaken, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+    "Name": "Bunter Gemüsemix mit gelben Karotten, Erbsen, Glacierte Pastinaken, Chili-Kartoffeln aus dem Ofen",
     "Category": "Gemüsebar",
     "Date": "2023-01-09T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -13,33 +11,33 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Name": "Pasta Contadino mit Schweinefleisch (La,Sl), Pasta",
     "Category": "Pastabar",
     "Date": "2023-01-09T00:00:00Z",
     "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
     "Pig": true
   },
   {
-    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,Gl,La,Sw), Gnocchi",
+    "Name": "Sahnesoße mit getrockneten Tomaten und Basilikum (2,5,So,Sw), Gnocchi",
     "Category": "Pastabar",
     "Date": "2023-01-09T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kochwurst (2,3,4,8,Sf)",
