@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pasta Napoli, hausgemachte Tomatensauce, Farfalle (Gl)",
+    "Name": "Pasta Napoli, hausgemachte Tomatensauce, bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-11T00:00:00Z",
     "Additives": {
@@ -13,11 +13,29 @@
     "Vegan": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), Gemüsemix Eskorial, Süßkartoffelwürfel gebacken, Basmatireis, Kartoffel-Gnocchi",
+    "Name": "Pasta Broccoli-Gorgonzola (La,48), bunte Fusilli (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-01-11T00:00:00Z",
+    "Additives": {
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), Gemüsemix Eskorial, Süßkartoffelwürfel gebacken, Zartweizen mit Gemüse (Gl,Sl), Bratnudeln mit Gemüsestreifen (2,Gl,So)",
     "Category": "Gemüsebar",
     "Date": "2023-01-11T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -44,18 +62,17 @@
     "Pig": true
   },
   {
-    "Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
+    "Name": "Milchreis (La), Beerenkompott (1,9,La)",
     "Category": "Pottkieker",
     "Date": "2023-01-11T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "1": "Farbstoff",
+      "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 3.1,
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
-    "LactoseFree": true,
     "Vegetarian": true
   },
   {

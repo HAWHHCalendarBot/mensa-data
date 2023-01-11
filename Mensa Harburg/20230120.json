@@ -1,12 +1,9 @@
 [
   {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
-    "Category": "Pastabar",
+    "Name": "Gemüsebar des Tages",
+    "Category": "Gemüsebar",
     "Date": "2023-01-20T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -14,14 +11,12 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
+    "Category": "Pastabar",
     "Date": "2023-01-20T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -45,17 +40,18 @@
     "Fish": true
   },
   {
-    "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
+    "Name": "Gemüsegulasch (Sl), Penne (Gl)",
     "Category": "Pottkieker",
     "Date": "2023-01-20T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.1,
-    "PriceGuest": 3.8,
-    "PriceStudent": 1.9,
-    "Vegetarian": true
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pikantes Linsencurry mit frischem Grünkohlsalat und Senf-Ingwer-Dressing (3,5,Gl,En,So,Sl,Sf,Se,Sw)",

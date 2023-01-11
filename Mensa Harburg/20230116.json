@@ -28,23 +28,6 @@
     "Beef": true
   },
   {
-    "Name": "Kochwurst (2,3,4,8,Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2023-01-16T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 2.15,
-    "PriceGuest": 2.3,
-    "PriceStudent": 2.0,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
     "Name": "Asiatische Gemüsesuppe süß-sauer mit Hühnchenfleisch (2,Gl,So,Sl,Sf)",
     "Category": "Pottkieker",
     "Date": "2023-01-16T00:00:00Z",
@@ -89,20 +72,18 @@
     "Vegan": true
   },
   {
-    "Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+    "Name": "Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2023-01-16T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Sf": "Senf und Senferzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true,
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "LactoseFree": true,
-    "Pig": true
+    "Vegetarian": true
   }
 ]
