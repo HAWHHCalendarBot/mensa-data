@@ -11,17 +11,20 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Spinat-Gorgonzolasauce (Gl,La,Sl,48)",
     "Category": "Pastabar",
     "Date": "2023-01-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Extra: Kartoffelspalten (Gl)",
@@ -73,6 +76,27 @@
     "PriceAttendant": 6.6,
     "PriceGuest": 7.8,
     "PriceStudent": 5.3,
+    "Poultry": true
+  },
+  {
+    "Name": "Caesar's Crispy Chickenburger mit frischem Römersalat und Parmesansplittern (1,2,3,9,Gl,Ei,La,Sf,48)",
+    "Category": "CampusWorld",
+    "Date": "2023-01-12T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 6.7,
+    "PriceGuest": 7.9,
+    "PriceStudent": 5.4,
     "Poultry": true
   },
   {
