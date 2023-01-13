@@ -1,5 +1,34 @@
 [
   {
+    "Name": "Broccoli-Gemüse, vegan, Blumenkohl in Rahm (Gl,La), Blumenkohl in Rahm (La), Kroketten (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bratnudeln mit Gemüsestreifen (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2023-01-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
     "Category": "Pastabar",
     "Date": "2023-01-13T00:00:00Z",
@@ -13,6 +42,39 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
+  },
+  {
+    "Name": "Pasta-Auflauf mit Tofu, Gemüse und Käse überbacken (1,Gl,Ei,So,La)",
+    "Category": "Pastabar",
+    "Date": "2023-01-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nudelauflauf mit Hähnchenbruststreifen (1,Gl,La,Sw,48)",
+    "Category": "Pastabar",
+    "Date": "2023-01-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
   },
   {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
