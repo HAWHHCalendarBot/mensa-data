@@ -1,9 +1,28 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Vegetarische Walnussahnessoße mit Rucola (Gl,La,Nu), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-01-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Weizengemüsepfanne (Gl,Sl,Sw), Frisches Ofengemüse, Sojabohnen Asia Style (Gl,So), Couscous (Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-01-13T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,7 +30,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pikantes Wurstragout mit Belugalinsen und Räucherpaprika (2,3,8,So,La,Sl,Sf), Farfalle (Gl)",
+    "Name": "Pikantes Wurstragout mit Linsen und Räucherpaprika (2,3,8,So,La,Sl,Sf), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-13T00:00:00Z",
     "Additives": {
