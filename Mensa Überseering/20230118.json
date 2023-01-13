@@ -16,13 +16,12 @@
     "Vegan": true
   },
   {
-    "Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
+    "Name": "Karotten Rustica, Gemüsemix Eskorial, gebratene Zucchini, Champignons mit Austernpilzen in Kräuterrahm (La,Sw), spanisches Kartoffelgemüse, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-01-18T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -30,8 +29,7 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
@@ -48,21 +46,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Süßkartoffel-Linsenpüree mit Römersalat und Limetten-Senf-Dressing (3,Nu,Sf)",
-    "Category": "CampusVital",
-    "Date": "2023-01-18T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 4.4,
-    "PriceGuest": 5.6,
-    "PriceStudent": 3.1,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2023-01-18T00:00:00Z",
@@ -76,5 +59,20 @@
     "PriceGuest": 5.7,
     "PriceStudent": 3.2,
     "Poultry": true
+  },
+  {
+    "Name": "Süßkartoffel-Linsenpüree mit Römersalat und Limetten-Senf-Dressing (3,Nu,Sf)",
+    "Category": "CampusVital",
+    "Date": "2023-01-18T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
