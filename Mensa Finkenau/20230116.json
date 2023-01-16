@@ -1,9 +1,15 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Kräuterkartoffeln, Süßkartoffeln, gebratene Champignons",
     "Category": "Gemüsebar",
     "Date": "2023-01-16T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -29,10 +35,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "2 Eierpfannkuchen (Gl,Ei,La), kalte Vanillesoße (La)",
+    "Name": "2 Eierpfannkuchen (Gl,Ei,La), Apfelmus (3)",
     "Category": "Pottkieker",
     "Date": "2023-01-16T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"

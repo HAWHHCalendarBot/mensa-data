@@ -48,19 +48,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Bolognese Soße (Gl,So,Sl)",
+    "Name": "Pasta nach Wahl mit Pomodoro Soße (Gl)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2023-01-20T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 4.6,
     "PriceGuest": 5.2,
     "PriceStudent": 3.9,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Baked Potato \"Mexican\" mit Chilisincarne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream oder vegan Dip (2,3,4,Ei,So,La,Sf)",
@@ -81,22 +77,33 @@
     "Vegetarian": true
   },
   {
-    "Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (2,Gl,Ei,La,Sl,Sf,48)",
+    "Name": "Gym Salat, Quinoa, Hüttenkäse, Erbsen, Karotten, Edamame, Staudensellerie, Ei, Balsamico-Dressing (Ei,So,La,Sl,Sw)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2023-01-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
       "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 6.5,
-    "PriceStudent": 5.2,
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.2,
+    "PriceStudent": 4.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ravioli mit Ricottafüllung, Basilkum und Zitrusfrucht (Gl,Ei)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2023-01-20T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.3,
+    "PriceStudent": 5.0,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
