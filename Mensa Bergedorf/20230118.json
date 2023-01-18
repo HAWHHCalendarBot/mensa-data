@@ -1,10 +1,9 @@
 [
   {
-    "Name": "Pasta \"Milano\" mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-01-18T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -15,37 +14,32 @@
     "Beef": true
   },
   {
-    "Name": "Vegane Soja-Chunks in asiatischer Tomatensoße (2,Gl,So,Se), Reis",
+    "Name": "Pasta Mediteran mit Gemüse und Hirtenkäse (Gl,La,Sw)",
     "Category": "Pastabar",
     "Date": "2023-01-18T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Cremige Soße mit Speck und Wirsing (2,3,8,Gl,La), Schupfnudeln (Gl,Ei)",
-    "Category": "Pastabar",
+    "Name": "Rahmwirsing (Gl,La,Sl), spanisches Kartoffelgemüse, gebratene Zucchini, buntem Gemüse",
+    "Category": "Gemüsebar",
     "Date": "2023-01-18T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Pig": true
+    "Vegetarian": true
   },
   {
     "Name": "Mexikanische Bohnensuppe (2,3,8,Sl)",
@@ -65,7 +59,7 @@
     "Pig": true
   },
   {
-    "Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So)",
+    "Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Reis",
     "Category": "CampusVital",
     "Date": "2023-01-18T00:00:00Z",
     "Additives": {
@@ -74,9 +68,9 @@
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 3.65,
-    "PriceGuest": 4.75,
-    "PriceStudent": 2.4,
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
     "LactoseFree": true,
     "Vegan": true
   },
