@@ -1,5 +1,32 @@
 [
   {
+    "Name": "Frühlingsgemüse (La), Kohlrabigemüse (La), Spanisches Pfannengemüse, Zuckermöhrchen (La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-26T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Soja-Lauch-Soße (So,Sl), Eliche (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-01-26T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Warmer Apfelstrudel (Gl), Vanillesoße (La)",
     "Category": "Pottkieker",
     "Date": "2023-01-26T00:00:00Z",
@@ -11,6 +38,40 @@
     "PriceGuest": 3.8,
     "PriceStudent": 1.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Joghurt Koriander Dip (1,3,9,Ei,La,Sf)",
+    "Category": "Pottkieker",
+    "Date": "2023-01-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf)",
+    "Category": "CampusVital",
+    "Date": "2023-01-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Erbsen, Kroketten (Gl), Hollandaise (Ei,La,Sl,Sw)",

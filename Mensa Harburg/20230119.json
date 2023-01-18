@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Hähnchenstreifen in Rucola-Soße (La), Eliche (Gl)",
+    "Name": "Hähnchenstreifen in Rucola-Soße (La), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-19T00:00:00Z",
     "Additives": {
@@ -13,32 +13,34 @@
     "Poultry": true
   },
   {
-    "Name": "Tricolore Gemüse (Sl), Fingermöhrchen mit Sesam (La)",
+    "Name": "Tricolore Gemüse (Sl), Fingermöhrchen mit Sesam (Se), gebratene Champignons (Sw), Erbsen-Mais Gemüse",
     "Category": "Gemüsebar",
     "Date": "2023-01-19T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "mit cremiger Soße von weißen Bohnen mit Gemüse und Basilikum (So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-19T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (La,Sl,Sw)",
