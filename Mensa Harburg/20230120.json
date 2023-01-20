@@ -1,17 +1,6 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-01-20T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta con lenticchie mit Linsen in pikanter Soße (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-20T00:00:00Z",
     "Additives": {
@@ -25,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Don Pepe mit Räucherlachs und Spinat (Gl,Fi,La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-20T00:00:00Z",
     "Additives": {
@@ -40,6 +29,23 @@
     "Fish": true
   },
   {
+    "Name": "dicke Bohnen mit Tomate in Sojasahnesoße (2,3,8,Gl,La), Zuckerschoten, Tricolore Gemüse (La,Sl), Maiskolben",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-20T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
+  },
+  {
     "Name": "Gemüsegulasch (Sl), Penne (Gl)",
     "Category": "Pottkieker",
     "Date": "2023-01-20T00:00:00Z",
@@ -52,6 +58,21 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-01-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Poultry": true
   },
   {
     "Name": "Pikantes Linsencurry mit frischem Grünkohlsalat und Senf-Ingwer-Dressing (3,5,Gl,En,So,Sl,Sf,Se,Sw)",
