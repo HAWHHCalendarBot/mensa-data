@@ -1,29 +1,30 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6)",
-    "Category": "Gemüsebar",
-    "Date": "2023-01-24T00:00:00Z",
-    "Additives": {
-      "6": "Geschwärzt"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Rührei (Ei,La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-24T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Farfalle (Gl)",
@@ -54,24 +55,26 @@
     "Vegan": true
   },
   {
-    "Name": "4 Röstiecken, Kräuterquark (La)",
+    "Name": "4 Röstiecken, Kräuterquark (La), Salat",
     "Category": "CampusKlassiker",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 3.45,
-    "PriceGuest": 4.55,
-    "PriceStudent": 2.2,
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La)",
+    "Name": "gebratene Hähnchenbrust Italia (1,La,48)",
     "Category": "CampusVital",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 4.55,
     "PriceGuest": 5.65,
