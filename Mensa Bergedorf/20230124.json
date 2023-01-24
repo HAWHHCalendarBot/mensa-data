@@ -1,39 +1,24 @@
 [
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (La,Sl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Rührei (Ei,La)",
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Bratkartoffeln, Sesammöhrchen (Se)",
     "Category": "Gemüsebar",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
       "6": "Geschwärzt",
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Farfalle (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-01-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -67,14 +52,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "gebratene Hähnchenbrust Italia (1,La,48)",
+    "Name": "gebratene Hähnchenbrust India überbacken (1,La,48), Mango Currysoße (La,Sf)",
     "Category": "CampusVital",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "4": "Geschmacksverstärker",
       "8": "Phosphat",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 4.55,
     "PriceGuest": 5.65,
