@@ -1,11 +1,11 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Reis",
-    "Category": "Gemüsebar",
+    "Name": "Geschmorte Belugalinsen mit Räuchertofu in Sojasahne (Gl,So), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -14,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
@@ -28,7 +28,36 @@
     "Poultry": true
   },
   {
-    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Asiatisches Gemüsecurry mit Sojastreifen (So,Sf), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-01-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli mit Mandeln, Blattspinat mit Hirtenkäse (La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-24T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Kräutersoße mit Sojasahne mit Räuchertofu (Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-24T00:00:00Z",
     "Additives": {
