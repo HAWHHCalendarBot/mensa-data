@@ -1,24 +1,24 @@
 [
   {
-    "Name": "Pasta in pikanter Zucchini-Tomatensoße (La), Penne (Gl)",
+    "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße",
     "Category": "Pastabar",
     "Date": "2023-01-25T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
-    "Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (Nu)",
+    "Name": "Mangold mit gerösteten Walnüssen (Nu), Porree-Karotten-Sellerie (So,Sl), gebackene Süßkartoffel, pikantes Grillgemüse (Sl,Sf)",
     "Category": "Gemüsebar",
     "Date": "2023-01-25T00:00:00Z",
     "Additives": {
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,18 +27,19 @@
     "Vegan": true
   },
   {
-    "Name": "Ragout Bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Pasta Spinat-Gorgonzola (Gl,La,48)",
     "Category": "Pastabar",
     "Date": "2023-01-25T00:00:00Z",
     "Additives": {
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true
+    "Vegetarian": true
   },
   {
     "Name": "Käse-Lauchsuppe mit Zucchini (1,La,Sl)",
