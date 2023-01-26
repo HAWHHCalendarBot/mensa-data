@@ -1,16 +1,5 @@
 [
   {
-    "Name": "gebackene Süßkartoffel",
-    "Category": "Gemüsebar",
-    "Date": "2023-01-26T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße (Sl)",
     "Category": "Pastabar",
     "Date": "2023-01-26T00:00:00Z",
@@ -22,6 +11,21 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "gebackene Süßkartoffel, Blumenkohl mit gebräunten Bröseln (Gl), Buntes Chinagemüse (2,Gl,So), Rosenkohl",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-26T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta in Zucchini-Käsesoße (1,Gl,La,48)",
