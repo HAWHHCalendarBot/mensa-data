@@ -1,7 +1,7 @@
 [
   {
     "Name": "Pasta Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Fusilli (Gl)",
-    "Category": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer (Sl,Sf,Sw), Prinzessbohnen, Kartoffelgratin (Ei,La)",
+    "Category": "Pastabar",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
@@ -17,7 +17,7 @@
   },
   {
     "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer (Sl,Sf,Sw), Prinzessbohnen, Kartoffelgratin (Ei,La)",
-    "Category": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer (Sl,Sf,Sw), Prinzessbohnen, Kartoffelgratin (Ei,La)",
+    "Category": "Gemüsebar",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
@@ -35,7 +35,7 @@
   },
   {
     "Name": "Pikantes Wurstragout mit Belugalinsen und Räucherpaprika (2,3,8,So,La,Sl,Sf), Fusilli (Gl)",
-    "Category": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer (Sl,Sf,Sw), Prinzessbohnen, Kartoffelgratin (Ei,La)",
+    "Category": "Pastabar",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
@@ -55,16 +55,24 @@
   },
   {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
-    "Category": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer (Sl,Sf,Sw), Prinzessbohnen, Kartoffelgratin (Ei,La)",
+    "Category": "Pottkieker",
     "Date": "2023-02-03T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
-    "PriceStudent": 2.2
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Afrikanische Gemüse Kartoffel Tajine (Sl)",
-    "Category": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer (Sl,Sf,Sw), Prinzessbohnen, Kartoffelgratin (Ei,La)",
+    "Category": "CampusWorld",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -74,5 +82,38 @@
     "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Matjesfilets (2,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Fish": true
+  },
+  {
+    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Basmatireis",
+    "Category": "CampusSpezial",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
