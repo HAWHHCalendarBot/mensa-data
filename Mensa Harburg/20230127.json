@@ -1,32 +1,20 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-01-27T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta mit Spinat und Olivenöl (6,Sf), Eliche (Gl)",
+    "Name": "Bolognese, (Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-27T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
+    "Name": "Pasta mit Speck und Pilzen, (2,3,8,Gl,La), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-27T00:00:00Z",
     "Additives": {
@@ -40,6 +28,23 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Pig": true
+  },
+  {
+    "Name": "gebratene Champignons, (Sw), Cremespinat, (Gl,La,Sl), Fingermöhrchen glasiert, (La), buntes Gemüse,, Kichererbsenragout (2,5,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Tomaten-Kokos-Suppe mit Huhn (Sl)",
@@ -72,6 +77,21 @@
     "Vegan": true
   },
   {
+    "Name": "Thüringer Bratwurst (8,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "Gebackenes Alaska Seelachsfilet (Gl,Fi), Blattspinat in Rahm (Gl,La), Salzkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2023-01-27T00:00:00Z",
@@ -98,20 +118,6 @@
     "PriceAttendant": 5.6,
     "PriceGuest": 6.8,
     "PriceStudent": 4.3,
-    "Poultry": true
-  },
-  {
-    "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Reis",
-    "Category": "CampusWorld",
-    "Date": "2023-01-27T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 7.1,
-    "PriceStudent": 4.6,
-    "LactoseFree": true,
     "Poultry": true
   },
   {

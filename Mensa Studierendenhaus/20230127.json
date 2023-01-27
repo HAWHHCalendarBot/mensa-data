@@ -1,12 +1,12 @@
 [
   {
-    "Name": "Pasta mit Spinat und Olivenöl (6,Sf), Eliche (Gl)",
+    "Name": "Pasta Florentiner mit Spinat in Sojasahne (So,Sf), Eliche (Gl)",
     "Category": "Pastabar",
     "Date": "2023-01-27T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -15,7 +15,22 @@
     "Vegan": true
   },
   {
-    "Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
+    "Name": "glasierte rote Beete, pikante Zucchiniwürfel in Tomate, Erbsen-Karotten Gemüse, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "glasierte rote Beete, pikante Zucchiniwürfel in Tomate, Erbsen-Karotten Gemüse, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
     "Category": "Gemüsebar",
     "Date": "2023-01-27T00:00:00Z",
     "Additives": {
@@ -46,7 +61,33 @@
     "Pig": true
   },
   {
-    "Name": "Tomaten-Kokos-Suppe mit Huhn (Sl)",
+    "Name": "Ungarische Rindergulaschsuppe (9,La,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "Beef": true
+  },
+  {
+    "Name": "Milchreis mit Zimt &amp; Zucker (La)",
+    "Category": "Pottkieker",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffel-Kürbis-Ragout (Sl)",
     "Category": "Pottkieker",
     "Date": "2023-01-27T00:00:00Z",
     "Additives": {
@@ -56,7 +97,7 @@
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
     "Name": "Vegane Carbonara mit Tofuwürfel (1,Gl,So,Sl,Sf), Conchiglie (Gl)",
@@ -89,6 +130,21 @@
     "PriceGuest": 6.0,
     "PriceStudent": 3.5,
     "Poultry": true
+  },
+  {
+    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße",
+    "Category": "CampusSpezial",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "Vegetarian": true
   },
   {
     "Name": "Gebratenes Seelachsfilet (Gl,Fi), Blattspinat in Rahm (Gl,La), Salzkartoffeln",
