@@ -1,12 +1,96 @@
 [
   {
-    "Name": "One Pot Curry mit Haloumi",
+    "Name": "Veganes One Pot Curry mit Tofusteak und Basmati",
     "Category": "Pastabar",
     "Date": "2023-01-27T00:00:00Z",
     "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Wurzelgemüse, Pastinaken, Schneidebohnen, Rosenkohl (vegan mit Olivenöl)",
+    "Category": "Pastabar",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Tortellini mit Rinderhackfüllung und Basilikum (Gl), mit Tomatensoße (Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Vegane Kürbissuppe mit Soja und Baguette (5,Gl,So,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "2 Wiener Würstchen mit Senf (2,3)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel"
+    },
+    "PriceAttendant": 2.8,
+    "PriceGuest": 3.0,
+    "PriceStudent": 1.5,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Hausgemachter Crumble mit Apfel, Schokostreusel und süßem Schmand (1,3,Gl,La)",
+    "Category": "Pottkieker",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 3.1,
+    "PriceGuest": 3.8,
+    "PriceStudent": 1.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Veganer Linseneintopf mit Gemüse und Kartoffeln (Sl)",
+    "Category": "Pottkieker",
+    "Date": "2023-01-27T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.4,
+    "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
   },
