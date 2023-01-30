@@ -1,19 +1,5 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), Süßkartoffelwürfel gebacken, Buttererbsen, Basmatireis, Bratkartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2023-02-01T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-01T00:00:00Z",
@@ -25,6 +11,22 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), Süßkartoffelwürfel gebacken, Buttererbsen, Semmelklöße (Gl,Ei), Bratkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2023-02-01T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -45,27 +47,12 @@
     "Pig": true
   },
   {
-    "Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+    "Name": "LowBowl mexikanische Bohnensuppe (2,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-02-01T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 3.1,
-    "PriceGuest": 3.8,
-    "PriceStudent": 1.9,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
-    "Category": "Pottkieker",
-    "Date": "2023-02-01T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "2": "Konservierungsstoff",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.4,
