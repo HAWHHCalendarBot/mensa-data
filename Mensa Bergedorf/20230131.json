@@ -1,22 +1,12 @@
 [
   {
-    "Name": "Pasta Hähnchenstreifen al arrabiata",
-    "Category": "Pastabar",
-    "Date": "2023-01-31T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Brechbohnen, Gartengemüse, Kartoffelauflauf (Ei,La), Röstkartoffeln",
+    "Name": "Gartengemüse, Kartoffelauflauf (Ei,La), Röstkartoffeln, Mexikanisches Gemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-01-31T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -37,6 +27,21 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Fish": true
+  },
+  {
+    "Name": "Pasta Hähnchenstreifen Indien (2,Gl,So,La)",
+    "Category": "Pastabar",
+    "Date": "2023-01-31T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
   },
   {
     "Name": "Pasta mit hausgemachtes Pesto Genovese und Cherrytomaten (2,Gl,La,48)",
@@ -67,6 +72,18 @@
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
+    "Category": "CampusWorld",
+    "Date": "2023-01-31T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
     "Vegetarian": true
   }
 ]
