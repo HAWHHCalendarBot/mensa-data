@@ -1,14 +1,17 @@
 [
   {
-    "Name": "Penne al cavolfiore (Penne mit Blumenkohl)",
+    "Name": "Penne al cavolfiore (Penne mit Blumenkohl) (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-02-09T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Kartoffelauflauf mit Wirsing, Speck und Cheddar (1,2,3,8,La)",
