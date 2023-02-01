@@ -1,12 +1,11 @@
 [
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Maccaroni (Gl)",
-    "Category": "Pastabar",
+    "Name": "Mexikanisches Gemüse (Sl), Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La), gebratene Zucchini",
+    "Category": "Gemüsebar",
     "Date": "2023-02-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -14,19 +13,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Hähnchenstreifen Indien (2,Gl,So,La)",
+    "Category": "Pastabar",
     "Date": "2023-02-01T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
     "Name": "Kürbis Schupfnudeln (Gl,Ei)",
@@ -43,7 +42,30 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Kabeljaufilet mit Wasabicreme (1,3,5,Gl,Ei,Fi,Sf,Sw), Kurkumareis",
+    "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+    "Category": "CampusWorld",
+    "Date": "2023-02-01T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gebratenes Kabeljaufilet mit Wasabicreme und Salatbuquet (1,3,5,Gl,Ei,Fi,Sf,Sw), Risotto (La)",
     "Category": "CampusVital",
     "Date": "2023-02-01T00:00:00Z",
     "Additives": {
@@ -53,13 +75,13 @@
       "Ei": "Ei und Eierzeugnisse",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 7.1,
     "PriceGuest": 8.3,
     "PriceStudent": 5.8,
-    "Fish": true,
-    "LactoseFree": true
+    "Fish": true
   }
 ]
