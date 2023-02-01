@@ -1,9 +1,39 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Blumenkohl Korma überbacken (La)",
     "Category": "Gemüsebar",
     "Date": "2023-02-01T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Bolognese, (Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Pilzrahmsoße mit Waldpilzen und Basilikumöl, (So,Sw), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-01T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +41,20 @@
     "Vegan": true
   },
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (Gl,La,Sw), Maccaroni (Gl)",
-    "Category": "Pastabar",
+    "Name": "Gemüseschnitzel, (Gl,Sl), vegetarische Bratwurst, (9,Ei,Sf), Pastinaken natur,, gebratene Champignons,, gebratene Zucchini,, Beluga-Linsen-Gemüse (Sl)",
+    "Category": "Gemüsebar",
     "Date": "2023-02-01T00:00:00Z",
     "Additives": {
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {

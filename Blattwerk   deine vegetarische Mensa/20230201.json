@@ -1,10 +1,9 @@
 [
   {
-    "Name": "Pasta mit Sojastreifen Arrabiatta (So,Sl), Maccaroni (Gl)",
+    "Name": "Pasta mit Sojastreifen Arrabiatta (So,Sl)",
     "Category": "Pastabar",
     "Date": "2023-02-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
@@ -15,11 +14,10 @@
     "Vegan": true
   },
   {
-    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (La,Sw), Maccaroni (Gl)",
+    "Name": "Pilzrahmoße mit Waldpilzen und Basilikumöl (La,Sw)",
     "Category": "Pastabar",
     "Date": "2023-02-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
@@ -40,6 +38,23 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "bunter Nudelsalat mit geschmortem Blumenkohl und Frühlingszwiebel (2,3,5,Gl,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-02-01T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
   },
