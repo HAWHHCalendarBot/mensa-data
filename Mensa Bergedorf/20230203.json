@@ -1,11 +1,21 @@
 [
   {
-    "Name": "Tapenade di olive von schwarzen Oliven mit Kräutern und Olivenöl (6), Fusilli (Gl)",
+    "Name": "glacierte rote Beete",
+    "Category": "Gemüsebar",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Noci di zucchine mit Zucchini-Walnusssoße (Nu)",
     "Category": "Pastabar",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -14,44 +24,30 @@
     "Vegan": true
   },
   {
-    "Name": "Salsiccia e lenticchie mit Krakauer und Belugalinsen (2,3,8,So,La,Sl,Sf), Fusilli (Gl)",
+    "Name": "Spanische Paella la casa mit Fisch (Fi)",
     "Category": "Pastabar",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Fi": "Fisch und Fischerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "Pig": true
+    "Fish": true,
+    "LactoseFree": true
   },
   {
-    "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La)",
-    "Category": "Gemüsebar",
+    "Name": "Vegetarisch, Schupfnudelpfanne (Gl,Ei)",
+    "Category": "Pastabar",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -86,14 +82,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße",
+    "Name": "Italienisches Hühnchen mit Tomate und Mozzarella gefüllt (2,5,La,Sw), Basilikumsoße (Gl,La)",
     "Category": "CampusSpezial",
     "Date": "2023-02-03T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 4.95,
     "PriceGuest": 6.05,
     "PriceStudent": 3.7,
-    "LactoseFree": true,
     "Poultry": true
   }
 ]

@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Broccoli e pomodoro mit Broccoli und Tomate, Vollkorn Penne (Gl)",
+    "Name": "Broccoli e pomodoro mit Broccoli und Tomate",
     "Category": "Pastabar",
     "Date": "2023-02-03T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -13,13 +11,12 @@
     "Vegan": true
   },
   {
-    "Name": "Crema di pesto mit Gemüse und Petsocreme (Gl,La,Nu,Sl), Vollkorn Penne (Gl)",
+    "Name": "Crema di fagiolo mit Bohnen, Sahne und Kartoffeln (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-02-03T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -37,6 +34,21 @@
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kartoffelsalat mit Essig und Öl, Tomate, Gurke und rote Beete Bratling (2,Gl,Sf)",
+    "Category": "CampusWorld",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 3.7,
+    "PriceGuest": 4.9,
+    "PriceStudent": 2.4,
     "LactoseFree": true,
     "Vegan": true
   },
