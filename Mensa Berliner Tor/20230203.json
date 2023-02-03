@@ -1,5 +1,62 @@
 [
   {
+    "Name": "Pasta (Gl), Paprikarahmsoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Pasta-Auflauf mit Gemüse und geräucherten Tofu (Gl,So)",
+    "Category": "Pastabar",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Erbsen-Gemüse, vegan, Auberginen mit Tomaten, vegan (La,Nu,Sw), gebratene Champignons, vegan (Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gemüse- Reis mit Rindfleisch Frikadelle (Gl,Ei,Sl,Sf)",
+    "Category": "Pastabar",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
     "Category": "Pottkieker",
     "Date": "2023-02-03T00:00:00Z",
@@ -15,6 +72,22 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Wir kochen was Sie lieben..., Leberkäse im Ganzen gebacken (2,3,8), Zwiebelsoße (Sl), Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-02-03T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.1,
+    "PriceGuest": 5.3,
+    "PriceStudent": 2.8,
+    "Pig": true
   },
   {
     "Name": "Wir kochen was Sie lieben..., Paniertes Putenschnitzel (Gl), Kroketten (Gl), Champignonrahmsoße (Gl,La,Sl), Zitrone",
