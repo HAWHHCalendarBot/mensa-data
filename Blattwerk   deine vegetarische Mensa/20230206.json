@@ -1,11 +1,24 @@
 [
   {
-    "Name": "Giardinera mit Gemüse und Tomatensoße (Sl), Spaghetti (Gl)",
+    "Name": "Giardinera mit Gemüse und Tomatensoße (Sl)",
     "Category": "Pastabar",
     "Date": "2023-02-06T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-06T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -26,21 +39,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
-  },
-  {
-    "Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl), Spaghetti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-02-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
   },
   {
     "Name": "Indischer Dal mit roten Linsen, Kartoffeln und Spinat (So,Sf)",
@@ -75,6 +73,25 @@
     "PriceStudent": 3.3,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Asiatischer Nudelsalat mit Milchschnitzel und Asiadip (2,3,5,Gl,Ei,So,La,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-02-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Vegetarian": true
   },
   {
     "Name": "Orientalische Steckrübe mit Möhren, Aioli mit Walnuß (1,Nu,Sf), Gemüse Bulgur (Gl,Sl)",

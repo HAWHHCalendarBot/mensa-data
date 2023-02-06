@@ -1,15 +1,16 @@
 [
   {
-    "Name": "Pasta in pikanter Tomatensauce mit Chorizo und Fenchel (La)",
+    "Name": "Pasta Penne  in pikanter Tomatensauce mit Aubergine und Fenchel (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-06T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Pig": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Orientalische Steckrübe mit Möhren, Aioli mit Walnuß (1,Nu,Sf), Gemüse Bulgur (Gl,Sl)",
@@ -27,6 +28,21 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Karottensuppe mit Baguette (Gl,So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2023-02-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
