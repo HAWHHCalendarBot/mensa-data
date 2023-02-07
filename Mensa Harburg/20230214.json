@@ -66,23 +66,6 @@
     "Vegan": true
   },
   {
-    "Name": "Matjesfilets (2,Fi,La), Matjessoße Hausfrauen Art (3,9,La,Sw), Salzkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2023-02-14T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Fi": "Fisch und Fischerzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.1,
-    "PriceGuest": 6.3,
-    "PriceStudent": 3.8,
-    "Fish": true
-  },
-  {
     "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
     "Category": "CampusVital",
     "Date": "2023-02-14T00:00:00Z",
@@ -94,5 +77,40 @@
     "PriceGuest": 6.5,
     "PriceStudent": 4.0,
     "Vegetarian": true
+  },
+  {
+    "Name": "Pulled Pork Burger mit Cole slaw (1,2,3,9,Gl,Ei,So,La,Sf,Lu), Nachos mit Salsa-Sauce",
+    "Category": "CampusSpezial",
+    "Date": "2023-02-14T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Lu": "Lupine und - erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.0,
+    "PriceGuest": 7.2,
+    "PriceStudent": 4.7,
+    "Pig": true
+  },
+  {
+    "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-02-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
