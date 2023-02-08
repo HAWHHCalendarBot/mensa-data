@@ -14,7 +14,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pomodoro asiatico mit Soja Chunks (2,Gl,So,Se), Farfalle (Gl)",
+    "Name": "Pomodoro asiatico mit Soja Chunks (2,Gl,So,Se)",
     "Category": "Pastabar",
     "Date": "2023-02-08T00:00:00Z",
     "Additives": {
@@ -30,7 +30,7 @@
     "Vegan": true
   },
   {
-    "Name": "Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Farfalle (Gl)",
+    "Name": "Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-02-08T00:00:00Z",
     "Additives": {
@@ -46,18 +46,35 @@
     "Vegetarian": true
   },
   {
-    "Name": "Chili con Corn (Gl,Sl), Basmatireis",
-    "Category": "Pottkieker",
+    "Name": "Nudelsalat mit getrockneten Tomaten, Kichererbsen, Paprika, Kapern, Aubergine und Hirtenkäse (2,3,5,Gl,La,Sw)",
+    "Category": "CampusWorld",
     "Date": "2023-02-08T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
-    "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Crespelle mit Spinat-Füllung und Käse überbacken (Gl,Ei,La), Tomatensoße",
+    "Category": "CampusSpezial",
+    "Date": "2023-02-08T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.75,
+    "PriceGuest": 5.95,
+    "PriceStudent": 3.45,
+    "Vegetarian": true
   },
   {
     "Name": "Hausgemachter Kartoffelstampf (La), Sauerkraut vegetarisch (Sl), Steinpilz-Topping",
