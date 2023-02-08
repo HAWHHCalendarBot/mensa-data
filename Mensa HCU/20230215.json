@@ -1,32 +1,43 @@
 [
   {
-    "Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
+    "Name": "Pasta Penne in pikanter Tomatensauce mit Chorizo und Fenchel (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Hausgemachte Lasagne mit Rindfleisch und Kürbis (Gl,La,Sl), Hausgemachte Käsesoße (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-02-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Chili con Corn (Gl,Sl), Basmatireis",
     "Category": "Pottkieker",
     "Date": "2023-02-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.4,
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Schweinefiletmedaillons, Dijon-Senfsoße (Gl,La,Sf), Prinzessbohnen, Kroketten (Gl)",
-    "Category": "CampusSpezial",
-    "Date": "2023-02-15T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 7.1,
-    "PriceGuest": 11.6,
-    "PriceStudent": 5.8,
-    "Pig": true
   }
 ]
