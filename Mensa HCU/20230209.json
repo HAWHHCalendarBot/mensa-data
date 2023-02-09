@@ -1,16 +1,16 @@
 [
   {
-    "Name": "Penne al cavolifiore (Penne mit Blumenkohl) (Gl,La,Sl)",
+    "Name": "Vegane Penne al cavolifiore (Penne mit Blumenkohl) (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-02-09T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -30,6 +30,20 @@
     "Pig": true
   },
   {
+    "Name": "Kartoffelsuppe mit Gemüse und Baguette (Gl,La,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2023-02-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 1.4,
+    "PriceGuest": 1.55,
+    "PriceStudent": 1.3,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kimchi Bowl mit Kraut, Reis, Zuckerschoten, Möhren und Räuchertofu (2,Gl,So,Sl,Se)",
     "Category": "Pottkieker",
     "Date": "2023-02-09T00:00:00Z",
@@ -47,7 +61,7 @@
     "Vegan": true
   },
   {
-    "Name": "Gebratenes Lachsfilet auf Bouillongemüse (3,5,Gl,Fi,Sl,Sw), Petersilienpesto mit geräuchertem Knoblauch",
+    "Name": "Lachsfilet auf Kartoffel-Bouillongemüse (3,5,Gl,Fi,Sl,Sw), Petersilienpesto mit geräuchertem Knoblauch",
     "Category": "CampusWorld",
     "Date": "2023-02-09T00:00:00Z",
     "Additives": {
@@ -65,7 +79,7 @@
     "LactoseFree": true
   },
   {
-    "Name": "Gebratenes Lachsfilet auf Bouillongemüse (3,5,Gl,Fi,Sl,Sw), Petersilienpesto mit geräuchertem Knoblauch",
+    "Name": "Lachsfilet auf Kartoffel-Bouillongemüse (3,5,Gl,Fi,Sl,Sw), Petersilienpesto mit geräuchertem Knoblauch",
     "Category": "CampusWorld",
     "Date": "2023-02-09T00:00:00Z",
     "Additives": {
