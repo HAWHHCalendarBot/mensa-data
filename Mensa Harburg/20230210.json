@@ -1,14 +1,31 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "gebratene Zucchini,, Zuckerschoten mit Karotten,, buntes Gemüse,, Curryreis mit schwarzen Bohnen (Sf), Gemüsepfanne (Sw)",
     "Category": "Gemüsebar",
     "Date": "2023-02-10T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Bolognese, (La,Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-10T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
   },
   {
     "Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße, (Gl,Fi,La,Sl), Pasta nach Wahl (Gl)",
@@ -24,6 +41,24 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Fish": true
+  },
+  {
+    "Name": "weiße Bohnen mit Gemüse in Sojarahm, (Gl,So), Asiagemüse in pikanter roter Currysauce (2,3,9,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-10T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Blumenkohl Korma, Reis",

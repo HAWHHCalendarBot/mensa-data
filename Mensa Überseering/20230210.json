@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Lenticchie mit Linsen in pikanter Soße (Sl), Farfalle (Gl)",
+    "Name": "Lenticchie mit Linsen in pikanter Soße (Sl), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-10T00:00:00Z",
     "Additives": {
@@ -14,25 +14,46 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), gebratene Paprika (5,Sw)",
+    "Name": "Brechbohne, Paprikagemüse mit Mango und Kokosmilch, gebratene Paprika (5,Sw), Kohlrabigemüse, Weiße Bohnen mediterraneo, Spätzle-Pilzpfanne (Gl,Ei,La,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-02-10T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Blumenkohl Korma, Reis",
+    "Name": "Kochwurst (2,3,4,8,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-02-10T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 2.15,
+    "PriceGuest": 2.3,
+    "PriceStudent": 2.0,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Kartoffel-Kürbis-Ragout (Sl)",
     "Category": "Pottkieker",
     "Date": "2023-02-10T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
