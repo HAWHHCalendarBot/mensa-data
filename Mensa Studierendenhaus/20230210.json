@@ -95,14 +95,30 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Bratkartoffeln",
+    "Name": "Putengulasch (Gl,La,Sl), Penne (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2023-02-10T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Poultry": true
+  },
+  {
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Senf Hollandaise (Ei,La,Sl,Sf), Bratkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-02-10T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 6.9,
     "PriceGuest": 8.1,
