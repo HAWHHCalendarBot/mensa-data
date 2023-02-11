@@ -1,7 +1,7 @@
 [
   {
     "Name": "Kartoffelgratin Broccoli (Ei,La)",
-    "Category": "Kartoffelgratin mit Spinat und Hähnchenstreifen (3,8,Ei,La,Sw)",
+    "Category": "Food Angebot im Café dell’Arte",
     "Date": "2023-02-14T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
@@ -14,7 +14,7 @@
   },
   {
     "Name": "Kartoffelgratin mit Speckwürfel (2,3,8,Ei,La)",
-    "Category": "Kartoffelgratin mit Spinat und Hähnchenstreifen (3,8,Ei,La,Sw)",
+    "Category": "Food Angebot im Café dell’Arte",
     "Date": "2023-02-14T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
@@ -30,7 +30,7 @@
   },
   {
     "Name": "Kartoffelgratin mit Spinat und Hähnchenstreifen (3,8,Ei,La,Sw)",
-    "Category": "Kartoffelgratin mit Spinat und Hähnchenstreifen (3,8,Ei,La,Sw)",
+    "Category": "Food Angebot im Café dell’Arte",
     "Date": "2023-02-14T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
@@ -46,7 +46,7 @@
   },
   {
     "Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Gl,Ei,La,Sf,Sw,48)",
-    "Category": "Kartoffelgratin mit Spinat und Hähnchenstreifen (3,8,Ei,La,Sw)",
+    "Category": "Food Angebot im Café dell’Arte",
     "Date": "2023-02-14T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
@@ -66,16 +66,22 @@
   },
   {
     "Name": "Salatteller mit Gemüsetäschle (Gl,So,Se)",
-    "Category": "Kartoffelgratin mit Spinat und Hähnchenstreifen (3,8,Ei,La,Sw)",
+    "Category": "Food Angebot im Café dell’Arte",
     "Date": "2023-02-14T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 6.4,
     "PriceGuest": 7.0,
-    "PriceStudent": 5.7
+    "PriceStudent": 5.7,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Salatteller mit gebratenen Hähnchenbruststreifen (3,8,Gl,Sw)",
-    "Category": "Kartoffelgratin mit Spinat und Hähnchenstreifen (3,8,Ei,La,Sw)",
+    "Category": "Food Angebot im Café dell’Arte",
     "Date": "2023-02-14T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
@@ -86,6 +92,20 @@
     "PriceAttendant": 6.4,
     "PriceGuest": 7.0,
     "PriceStudent": 5.7,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Salatteller mit Hähnchenspieße Yakitori (Gl,So)",
+    "Category": "Food Angebot im Café dell’Arte",
+    "Date": "2023-02-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.7,
+    "PriceGuest": 7.3,
+    "PriceStudent": 6.0,
     "LactoseFree": true,
     "Poultry": true
   }
