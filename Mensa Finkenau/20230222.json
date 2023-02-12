@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2023-02-22T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kokos-Kürbis Curry (Sf,Se), Reis",
+    "Category": "Pottkieker",
+    "Date": "2023-02-22T00:00:00Z",
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut mit Speck (2,3,8,Sl), Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-02-22T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Pig": true
+  }
+]
