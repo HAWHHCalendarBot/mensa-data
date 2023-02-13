@@ -15,19 +15,20 @@
     "Vegan": true
   },
   {
-    "Name": "Salsa bianca Kräutersoße mit Räuchertofu (Gl,So,Sl), Farfalle (Gl)",
+    "Name": "Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Eliche (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-14T00:00:00Z",
     "Additives": {
+      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
@@ -43,16 +44,19 @@
     "Vegan": true
   },
   {
-    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
-    "Category": "CampusVital",
+    "Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
+    "Category": "CampusWorld",
     "Date": "2023-02-14T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Vegetarian": true
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "Beef": true,
+    "Pig": true
   }
 ]
