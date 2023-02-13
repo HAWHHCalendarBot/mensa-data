@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Blattspinat mit Mandeln in Sojarahm, (So,Nu), Bärlauch-Tomatensoße,, Mais,, Kirschtomaten,, grüne Bohnen,, gebratene Gnocchi",
     "Category": "Gemüsebar",
     "Date": "2023-02-13T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +14,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages (Gl)",
+    "Name": "Putengulasch, (Gl,La,Sl), Pasta nach Wahl (Gl)",
     "Category": "Gemüsebar",
     "Date": "2023-02-13T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
     "Name": "Kochwurst (2,3,4,8,Sf)",
@@ -72,7 +76,7 @@
     "Fish": true
   },
   {
-    "Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Gurkensalat (La), Hirtenkäse Quark Dip (La)",
+    "Name": "Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Gurkensalat (La), Hirtenkäse Quark Dip (La)",
     "Category": "CampusWorld",
     "Date": "2023-02-13T00:00:00Z",
     "Additives": {
