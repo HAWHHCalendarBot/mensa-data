@@ -2,7 +2,7 @@
   {
     "Name": "Gemüsebar des Tages",
     "Category": "Gemüsebar",
-    "Date": "2023-02-16T00:00:00Z",
+    "Date": "2023-02-22T00:00:00Z",
     "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,7 +13,7 @@
   {
     "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2023-02-16T00:00:00Z",
+    "Date": "2023-02-22T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -27,7 +27,7 @@
   {
     "Name": "Veg. Pastabar des Tages (Gl)",
     "Category": "Pastabar",
-    "Date": "2023-02-16T00:00:00Z",
+    "Date": "2023-02-22T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
@@ -38,9 +38,9 @@
     "Vegan": true
   },
   {
-    "Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
+    "Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
     "Category": "Pottkieker",
-    "Date": "2023-02-16T00:00:00Z",
+    "Date": "2023-02-22T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
@@ -54,36 +54,49 @@
     "Vegan": true
   },
   {
-    "Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
+    "Name": "Indischer Dal mit Linsen und gebratenen Gemüse (So,Sf), Korianderdip (So), Wrap (Gl)",
     "Category": "CampusVital",
-    "Date": "2023-02-16T00:00:00Z",
+    "Date": "2023-02-22T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.2,
-    "PriceGuest": 5.4,
-    "PriceStudent": 2.9,
-    "Vegetarian": true
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Gl,Ei,La,Sf,Se,Sw), Pommes Frites (Sf)",
+    "Name": "Schweinenackensteak frisch vom Grill, Pommes Frites (Sf), frischer Krautsalat (3,5,Sw)",
     "Category": "CampusKlassiker",
-    "Date": "2023-02-16T00:00:00Z",
+    "Date": "2023-02-22T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "5": "Geschwefelt",
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2023-02-22T00:00:00Z",
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
