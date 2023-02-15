@@ -41,11 +41,29 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hamburger Schmorkohl mit Soja (So,Sl), Schnittlauchkartoffeln, Rote Zwiebel-Senf Marmelade (5,Sf,Sw)",
+    "Name": "Nudelsalat mit Karotte, Aubergine, Frühlingszwiebel und Chilijoghurt (2,3,5,Gl,La,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-02-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hamburger Schmorkohl mit Soja (So,Sl), Hausgemachtes Kartoffel-Butterstampf (La), Rote Zwiebel-Senf Marmelade (5,Sf,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2023-02-15T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
@@ -55,8 +73,7 @@
     "PriceGuest": 5.9,
     "PriceStudent": 3.4,
     "Alcohol": true,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Penne mit frischem Gemüse, Walnusspesto und Parmesan (1,2,3,5,Gl,La,Nu,Sw,48)",
