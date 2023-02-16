@@ -14,12 +14,14 @@
     "Vegetarian": true
   },
   {
-    "Name": "Sizilianisches Schmorgemüse (3,5,Sw), Kräuterreis",
+    "Name": "Bulgur mit Datteln, Petersilie und Minze (Gl,Nu), Sizilianisches Schmorgemüse (3,5,Sw)",
     "Category": "CampusVital",
     "Date": "2023-02-16T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 4.6,
@@ -29,17 +31,43 @@
     "Vegan": true
   },
   {
-    "Name": "Hausgemachte Pasta (Gl), Cavolifiore mit Blumenkohl und grünem Pfeffer (La)",
+    "Name": "Grünkernsalat mit Gurke, Tomate, gepickelter Zwiebel und Hirtenkäse (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2023-02-16T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
+    "PriceAttendant": 4.75,
+    "PriceGuest": 5.95,
+    "PriceStudent": 3.45,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Hausgemachte Pasta (Gl), Priselli e fungi ostrica mit Erbsen, Austernpilze und Basilikum",
+    "Category": "CampusWorld",
+    "Date": "2023-02-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
     "PriceAttendant": 5.2,
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hausgemachte Pasta (Gl), Priselli e fungi ostrica mit Erbsen, Austernpilze und Basilikum",
+    "Category": "CampusWorld",
+    "Date": "2023-02-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Vegetarisches Schnitzel mit Pilzrahmsoße (Gl,Ei,So,La,Sl,Sw), Pommes Frites (Sf)",

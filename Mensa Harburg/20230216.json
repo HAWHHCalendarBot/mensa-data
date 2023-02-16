@@ -1,35 +1,41 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-02-16T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Bolognese mit Rindfleisch, (Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
+    "LactoseFree": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Gemüsepfanne, (Sl), Tricolore Gemüse, (Sl), Bohnenragout mit Tomaten scharf, (Sw), Mais natur,, Basmatireis",
+    "Category": "Gemüsebar",
+    "Date": "2023-02-16T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Alcohol": true,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Champignon Lauchpfanne vegan, (So,Sw), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -85,5 +91,22 @@
     "PriceGuest": 6.5,
     "PriceStudent": 4.0,
     "Beef": true
+  },
+  {
+    "Name": "Gemüsepfanne Ingwer Ananas (2,Gl,So,Sl,Sw), Basmatireis",
+    "Category": "CampusVital",
+    "Date": "2023-02-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.4,
+    "PriceGuest": 6.6,
+    "PriceStudent": 4.1,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
