@@ -29,22 +29,6 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust mit Tandoori-Joghurt (1,So,La,Sf), Gemüse-Sesam-Reis (Se)",
-    "Category": "CampusWorld",
-    "Date": "2023-02-20T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "Poultry": true
-  },
-  {
     "Name": "Schmorkohl mit Rinderhack (Sl), Kartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2023-02-20T00:00:00Z",
@@ -56,5 +40,19 @@
     "PriceStudent": 3.9,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Schweinegeschnetzeltes in Champignonrahm (La), Nudeln (Gl,Ei)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-02-20T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Pig": true
   }
 ]
