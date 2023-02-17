@@ -92,19 +92,20 @@
     "Vegan": true
   },
   {
-    "Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
-    "Category": "CampusWorld",
+    "Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+    "Category": "CampusKlassiker",
     "Date": "2023-02-17T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 4.3,
-    "PriceGuest": 5.5,
-    "PriceStudent": 3.0,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
     "Beef": true,
+    "LactoseFree": true,
     "Pig": true
   },
   {
@@ -120,5 +121,19 @@
     "PriceGuest": 7.3,
     "PriceStudent": 4.8,
     "Poultry": true
+  },
+  {
+    "Name": "Schweinefiletmedaillons,, Dijon-Senfsoße, (Gl,La,Sf), Bohnen,, Kartoffelstampf (La)",
+    "Category": "CampusSpezial",
+    "Date": "2023-02-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 7.1,
+    "PriceGuest": 8.3,
+    "PriceStudent": 5.8,
+    "Pig": true
   }
 ]
