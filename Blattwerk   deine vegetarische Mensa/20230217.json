@@ -1,10 +1,9 @@
 [
   {
-    "Name": "all`Provenzale mit Gemüse (Sw), Vollkorn Penne (Gl)",
+    "Name": "Pastasoße all`Provenzale mit Gemüse (Sw)",
     "Category": "Pastabar",
     "Date": "2023-02-17T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -14,7 +13,7 @@
     "Vegan": true
   },
   {
-    "Name": "Crema di spinaci mit Spinat in Käse-Sahnesoße (Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "Crema di spinaci mit Spinat in Käse-Sahnesoße (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-02-17T00:00:00Z",
     "Additives": {
@@ -25,6 +24,22 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Sojastreifen mit Gemüse und Joghurtdip und Sonnenblumenkerne (So,La,Nu,Sl,Sf), Reis",
+    "Category": "CampusSpezial",
+    "Date": "2023-02-17T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "Vegetarian": true
   },
   {
@@ -40,20 +55,6 @@
     "PriceStudent": 3.0,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Crespelle mit Spinat-Ricotta-Füllung (Gl,Ei,La), Tomaten-Gemüsesoße",
-    "Category": "CampusWorld",
-    "Date": "2023-02-17T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 4.9,
-    "PriceGuest": 6.1,
-    "PriceStudent": 3.6,
-    "Vegetarian": true
   },
   {
     "Name": "Risotto alla milanese (La,Sl,Sw), glacierte rote Beete, Brunnenkresse",
