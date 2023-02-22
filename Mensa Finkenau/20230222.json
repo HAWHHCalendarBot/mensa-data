@@ -1,33 +1,30 @@
 [
   {
-    "Name": "Kräuterkartoffeln, Süßkartoffeln, Kürbisgemüse, Champignons in Rahm (Gl,La,Sw)",
+    "Name": "Kräuterkartoffeln, Süßkartoffeln, Kürbisgemüse, gerösteter Blumenkohl (1,Sf)",
     "Category": "Gemüsebar",
     "Date": "2023-02-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "gebratene Eiernudeln mit Sprossen und Gemüse (2,Gl,Ei,So,Se)",
-    "Category": "Pastabar",
-    "Date": "2023-02-22T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "1": "Farbstoff",
+      "Sf": "Senf und Senferzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta mit Kürbis und Tomatenpesto (Gl,La,Nu)",
+    "Category": "Pastabar",
+    "Date": "2023-02-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
     "Vegetarian": true
   },
   {
@@ -45,19 +42,19 @@
     "Vegan": true
   },
   {
-    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut (Sl), Salzkartoffeln",
+    "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut (Sl), Kartoffelpüree (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-02-22T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "8": "Phosphat",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.3,
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
-    "LactoseFree": true,
     "Pig": true
   }
 ]
