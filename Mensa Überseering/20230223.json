@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
-    "Category": "Pastabar",
-    "Date": "2023-02-23T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
     "Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf), gebratene Paprika (5,Sw), Bulgur mit Tomate und Peperoni (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-02-23T00:00:00Z",
@@ -59,5 +45,19 @@
     "PriceStudent": 4.5,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Sauerkraut in Soja-Rahm mit Tofu und Kartoffeln (So,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2023-02-23T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 9.5,
+    "PriceGuest": 11.5,
+    "PriceStudent": 7.5,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
