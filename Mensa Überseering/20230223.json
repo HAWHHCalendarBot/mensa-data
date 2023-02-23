@@ -1,13 +1,26 @@
 [
   {
-    "Name": "Pasta (Gl), Kartoffel-Spinat Gratin mit Hirtenkäse (Sl), pikantes Grillgemüse (Sl,Sf), gebratene Paprika (5,Sw), Erbsen-Mais Gemüse (La)",
+    "Name": "Crauti crema - Sauerkraut in Soja-Rahm mit Tofu und Kartoffeln (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-23T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta (Gl), Kartoffel-Spinat Gratin mit Hirtenkäse (Sl), gebratene Paprika (5,Sw), Erbsen-Mais Gemüse (La), Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw)",
     "Category": "Gemüsebar",
     "Date": "2023-02-23T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
@@ -45,19 +58,5 @@
     "PriceStudent": 4.5,
     "LactoseFree": true,
     "Poultry": true
-  },
-  {
-    "Name": "Sauerkraut in Soja-Rahm mit Tofu und Kartoffeln (So,Sl)",
-    "Category": "Pottkieker",
-    "Date": "2023-02-23T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 9.5,
-    "PriceGuest": 11.5,
-    "PriceStudent": 7.5,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]
