@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Karotten, Broccoli, Erbsen",
     "Category": "Gemüsebar",
     "Date": "2023-02-23T00:00:00Z",
     "Additives": {},
@@ -11,25 +11,28 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Kürbis und Tomatenpesto (Gl,La,Nu)",
     "Category": "Pastabar",
     "Date": "2023-02-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Gemüsegulasch (Sl), Zartweizen mit Gemüse (Gl,Sl)",
+    "Name": "Soja-Gemüsegulasch (So,Sl,Se), Zartweizen (Gl,Sl)",
     "Category": "Pottkieker",
     "Date": "2023-02-23T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,

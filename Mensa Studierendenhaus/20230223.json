@@ -13,13 +13,14 @@
     "Poultry": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+    "Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu,Sw)",
     "Category": "Pastabar",
     "Date": "2023-02-23T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,14 +28,15 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl)",
+    "Name": "Blattspinat (Sl), Kartoffeln Provencial, Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl), frisches Gemüse (2,Sw)",
     "Category": "Gemüsebar",
     "Date": "2023-02-23T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -67,6 +69,41 @@
     "PriceStudent": 2.8,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Würzige Thai-Soja-Bolognese (2,Gl,So), Mie-Nudeln (Gl,Ei)",
+    "Category": "CampusWorld",
+    "Date": "2023-02-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "kalter Teller Grünkern-Käse Medaillons (Gl,Ei,So,La,Se), Schnittlauchdip (La), Birnen Chutney (3,5,Sw), Blattsalat mit Karotte (3,5,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-02-23T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "Vegetarian": true
   },
   {
     "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl), Tomatensoße",
