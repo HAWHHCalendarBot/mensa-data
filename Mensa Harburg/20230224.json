@@ -1,9 +1,55 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Bolognese, (Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
     "Date": "2023-02-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Cremespinat (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Schupfnudeln, (Gl,Ei), Hausgemachte Rindfleisch - Lasagne (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-02-24T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "veganer Cremespinat, (So,Sl), weiße Bohnen mediterraneo vegan, (So), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-02-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +57,14 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Sojastreifen mit Gemüse, (So,Sl,Sf), Mais natur,, Spitzkohl gebraten,, gebratene Champignons (Sw)",
+    "Category": "Gemüsebar",
     "Date": "2023-02-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-02-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -78,6 +113,23 @@
     "Vegetarian": true
   },
   {
+    "Name": "Currybratwurst, (3,4,8,Sf), Kartoffel-Bohnensalat (2,Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2023-02-24T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "Spicy Chicken Burger mit Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-02-24T00:00:00Z",
@@ -97,20 +149,5 @@
     "PriceStudent": 5.1,
     "LactoseFree": true,
     "Poultry": true
-  },
-  {
-    "Name": "Schweinefilet im Stück gebraten, Dijon-Senfsoße (Gl,La,Sf), Kartoffel-Bohnensalat (2,Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2023-02-24T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
-    "Pig": true
   }
 ]
