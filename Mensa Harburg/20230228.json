@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2023-02-28T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
+    "Name": "all`Provenzale mit Gemüse, (Sw), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-28T00:00:00Z",
     "Additives": {
@@ -27,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "Milano mit Rindfleisch und Pilzen, (3,Gl,La,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-02-28T00:00:00Z",
     "Additives": {
@@ -40,6 +27,22 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
+  },
+  {
+    "Name": "Wirsingkohl in Sojarahm, (So), Bratkartoffeln,, Süßkartoffel Gnocchi, (Gl), gebratener Blumenkohl mit Curry,, gebratene Champignons, (Sw), gebratene Paprika (5,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-02-28T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
