@@ -59,18 +59,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pesto Genovese (La,Nu)",
+    "Name": "Bolognese Soße (Gl,So,Sl)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2023-03-01T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.6,
     "PriceGuest": 5.2,
     "PriceStudent": 3.9,
-    "Vegetarian": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Schwarzwurzel Sesam Rösti mit Sour Cream oder veganer Dip (3,4,Gl,Ei,So,La,Sf,Se)",
@@ -107,6 +108,20 @@
     "PriceAttendant": 5.0,
     "PriceGuest": 5.6,
     "PriceStudent": 4.3,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ravioli mit Ricottafüllung, Basilkum und Zitrusfrucht (Gl,Ei)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2023-03-01T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.3,
+    "PriceStudent": 5.0,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
