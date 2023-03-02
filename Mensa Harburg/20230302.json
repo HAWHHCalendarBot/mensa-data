@@ -1,17 +1,6 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-03-02T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), Eliche (Gl)",
+    "Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-03-02T00:00:00Z",
     "Additives": {
@@ -24,18 +13,50 @@
     "Poultry": true
   },
   {
-    "Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl), Eliche (Gl)",
-    "Category": "Pastabar",
+    "Name": "Schupfnudeln (Gl,Ei)",
+    "Category": "Gemüsebar",
     "Date": "2023-03-02T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum, (So,Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Fingermöhrchen mit Sesam, (Se), Kohlrabigemüse mit Mandeln, (Nu), Tricolore Gemüse,, Gemüseragout mit Sojarahm (So,Sf,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-02T00:00:00Z",
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
