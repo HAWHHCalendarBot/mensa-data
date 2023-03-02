@@ -27,22 +27,22 @@
     "Vegetarian": true
   },
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
+    "Name": "Gnocchi mit Kürbis, Steckrüben-Möhren Gemüse, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei)",
     "Category": "Gemüsebar",
     "Date": "2023-03-02T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
-    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Sojadip (So)",
     "Category": "Pottkieker",
     "Date": "2023-03-02T00:00:00Z",
     "Additives": {
@@ -56,6 +56,22 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Gemüse Vollkornbratling (Gl,Ei,Sl), Pommes Frites (Sf), Kräuterquark (La)",
+    "Category": "CampusVital",
+    "Date": "2023-03-02T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.35,
+    "PriceGuest": 5.55,
+    "PriceStudent": 3.05,
+    "Vegetarian": true
   },
   {
     "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
