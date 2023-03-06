@@ -1,10 +1,11 @@
 [
   {
-    "Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (Gl)",
+    "Name": "Aglio e olio mit Tomate und Knoblauch (Sl), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-03-06T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Mais (La), Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl,La), Bunte Gemüsemischung mit Karotten (Sl), Nusskartoffeln",
+    "Name": "Mais, Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl), Bunte Gemüsemischung mit Karotten (Sl), Nusskartoffeln",
     "Category": "Gemüsebar",
     "Date": "2023-03-06T00:00:00Z",
     "Additives": {
@@ -113,5 +114,21 @@
     "PriceStudent": 4.6,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Gebratenes Zanderfilet (Gl,Fi), Kräutersoße (Gl,Ei,La,Sl), Gartengemüse, Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2023-03-06T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.85,
+    "PriceGuest": 8.05,
+    "PriceStudent": 5.55,
+    "Fish": true
   }
 ]
