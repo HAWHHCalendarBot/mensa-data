@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse, Süßkartoffeln, gebratene Zucchini, gebratenes Kichererbsen-Currygemüse",
     "Category": "Gemüsebar",
     "Date": "2023-03-09T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,21 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Eiernudeln mit Pak Choi, Sprossen,Paprika und Sesam (2,Gl,Ei,So,Se)",
     "Category": "Pastabar",
     "Date": "2023-03-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
