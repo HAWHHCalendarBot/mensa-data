@@ -1,18 +1,17 @@
 [
   {
-    "Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La)",
+    "Name": "Vegane Rote Beete Gnocchi mit Grillgemüse",
     "Category": "Pastabar",
     "Date": "2023-03-14T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw), Gnocchi",
+    "Name": "Pasta Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw)",
     "Category": "Pastabar",
     "Date": "2023-03-14T00:00:00Z",
     "Additives": {
@@ -42,18 +41,33 @@
     "Vegan": true
   },
   {
-    "Name": "Schinken-Krustenbraten, Biersoße (Gl,Sl), Bayrisch Kraut (3,5,Sw), Salzkartoffeln",
+    "Name": "Schinken-Krustenbraten, glasiertes Wurzelgemüse (La,Sl), Biersoße (Gl,Sl), Salzkartoffeln",
     "Category": "CampusWorld",
     "Date": "2023-03-14T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.8,
     "PriceGuest": 9.0,
     "PriceStudent": 4.5,
     "Alcohol": true,
-    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Schinken-Krustenbraten, glasiertes Wurzelgemüse (La,Sl), Biersoße (Gl,Sl), Salzkartoffeln",
+    "Category": "CampusWorld",
+    "Date": "2023-03-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 9.0,
+    "PriceStudent": 4.5,
+    "Alcohol": true,
     "Pig": true
   }
 ]
