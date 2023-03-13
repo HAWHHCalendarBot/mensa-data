@@ -1,5 +1,35 @@
 [
   {
+    "Name": "Putengulasch (Gl,La,Sl), Penne (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Möhren-Broccoli Pfanne mit Kichererbsen, Sojajoghurt Dip mit Sesam (So,Se), Bulgur (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
     "Category": "Pottkieker",
     "Date": "2023-03-20T00:00:00Z",
@@ -11,5 +41,18 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Kartoffelpüree (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-03-20T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 7.8,
+    "PriceStudent": 3.9,
+    "Pig": true
   }
 ]

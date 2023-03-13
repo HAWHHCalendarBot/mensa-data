@@ -1,9 +1,24 @@
 [
   {
-    "Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+    "Name": "Glacierte Pastinaken mit Kokosraspel, gebratene Paprika (5,Sw), gebratene Champignons (Sw), Prinzessbohnen mit Mischpilze, Erbsen",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-13T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Contadino mit Schweinefleisch, Paprika und Pilze (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-13T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -13,34 +28,20 @@
     "Pig": true
   },
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La), Perlgraupen (Gl)",
-    "Category": "Gemüsebar",
-    "Date": "2023-03-13T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw), Gnocchi",
+    "Name": "Pasta mit Crema di pomodori secchi mit getrockneten Tomaten in Kräutersoße (2,5,Gl,Sw), Gnocchi",
     "Category": "Pastabar",
     "Date": "2023-03-13T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
@@ -89,7 +90,7 @@
     "Vegan": true
   },
   {
-    "Name": "Putengyros, Tzatziki (La), Karotten-Salat, Paprikareis",
+    "Name": "Putengyros, Tzatziki (La), Erbsen- Karotten Gemüse (La), Paprikareis",
     "Category": "CampusWorld",
     "Date": "2023-03-13T00:00:00Z",
     "Additives": {
