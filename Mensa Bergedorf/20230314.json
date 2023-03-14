@@ -27,19 +27,38 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So), Gartengemüse",
+    "Name": "Erbsen- Karotten Gemüse (La), gebratener Pak Choi (2,Gl,So), Blumenkohl, Chili-Kartoffeln aus dem Ofen",
     "Category": "Gemüsebar",
     "Date": "2023-03-14T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit weißen Bohnen (2,3,8,Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-14T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
     "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
     "Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
