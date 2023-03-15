@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "Gemüsebar des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
+    "Category": "Pottkieker",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
+    "Category": "CampusVital",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.45,
+    "PriceGuest": 5.65,
+    "PriceStudent": 3.15,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Schweinenackensteak frisch vom Grill, Pommes Frites (Sf), frischer Krautsalat (3,5,Sw)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Pig": true
+  }
+]
