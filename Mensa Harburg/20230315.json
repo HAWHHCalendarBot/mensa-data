@@ -1,19 +1,49 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis, Bunte Gemüsemischung mit Karotten (Sl), Buttererbsen (La)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Rind-Bolognese (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2023-03-15T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "6": "Geschwärzt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Pasta mit marokkanischen Kichererbsenragout (Gl,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2023-03-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, frisches Gemüse Asia-Style (2,Sw), frische Erbsen-Gemüsepfanne, Zartweizen mit Kräutern (Gl), Weißkohl in Sojarahm (So,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",

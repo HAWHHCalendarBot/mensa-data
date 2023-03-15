@@ -1,27 +1,40 @@
 [
   {
-    "Name": "Pasta Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw)",
+    "Name": "Pollo all'Arrabbiata",
     "Category": "Pastabar",
     "Date": "2023-03-15T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Bunte Gemüsemischung mit Karotten (Sl)",
+    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6)",
     "Category": "Gemüsebar",
     "Date": "2023-03-15T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "6": "Geschwärzt",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf)",
+    "Category": "Pastabar",
+    "Date": "2023-03-15T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -62,22 +75,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Kabeljaufilet mit Wasabicreme (1,3,5,Gl,Ei,Fi,Sf,Sw), Kurkumareis",
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Kurkumareis",
     "Category": "CampusVital",
     "Date": "2023-03-15T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Ei": "Ei und Eierzeugnisse",
       "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
-    "PriceAttendant": 7.1,
-    "PriceGuest": 8.3,
-    "PriceStudent": 5.8,
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
     "Fish": true,
     "LactoseFree": true
   }
