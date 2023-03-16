@@ -1,30 +1,76 @@
 [
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Schupfnudeln (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2023-03-16T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegetarian": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Maiskolben, Schwarzwurzeln pikant mit Zitrone, Gemüsepfanne (Sl,Sf,Sw)",
+    "Category": "Gemüsebar",
     "Date": "2023-03-16T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta Nerone mit Schweinefleisch und Gemüse (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
+  },
+  {
+    "Name": "Pasta Szegediner Ragout mit Sauerkraut, Kartoffeln und Tofu (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta mit Pilzrahmsauce (Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2023-03-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
