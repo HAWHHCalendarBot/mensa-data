@@ -1,17 +1,16 @@
 [
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), buntem Gemüse",
-    "Category": "Gemüsebar",
+    "Name": "Käsenudeln mit Käse und Röstzwiebeln (Gl,La)",
+    "Category": "Pastabar",
     "Date": "2023-03-16T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Pasta Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Gl,Sw)",
@@ -26,6 +25,21 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Blattspinat (So,Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-16T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
