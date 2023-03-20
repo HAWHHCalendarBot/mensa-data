@@ -1,11 +1,24 @@
 [
   {
-    "Name": "Giardinera mit Gemüse in Tomatensoße (Sl), Spaghetti (Gl)",
+    "Name": "Giardinera mit Gemüse in Tomatensoße (Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-20T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -28,22 +41,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl), Spaghetti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-03-20T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Indischer Dal mit roten Linsen, Kartoffeln und Spinat (So,Sf)",
+    "Name": "Indischer Dal mit roten Linsen, Kartoffeln, Reis und Spinat (So,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2023-03-20T00:00:00Z",
     "Additives": {
@@ -73,6 +71,23 @@
     "PriceAttendant": 4.6,
     "PriceGuest": 5.8,
     "PriceStudent": 3.3,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Zartweizensalat mit geschmortem Cherrytomaten, Grillgemüse und Sojadip (3,Gl,So,Sl,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-03-20T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.65,
+    "PriceGuest": 5.85,
+    "PriceStudent": 3.35,
     "LactoseFree": true,
     "Vegan": true
   },
