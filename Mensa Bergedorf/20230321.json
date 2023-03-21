@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Sesammöhrchen (Se), gebratenem Wirsing, Bratkartoffeln",
+    "Name": "Möhren, gebratenem Wirsing, Gartengemüse, Prinzessbohnen",
     "Category": "Gemüsebar",
     "Date": "2023-03-21T00:00:00Z",
-    "Additives": {
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -13,7 +11,7 @@
     "Vegan": true
   },
   {
-    "Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
+    "Name": "Pasta all`Provenzale mit Gemüse (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-03-21T00:00:00Z",
     "Additives": {
@@ -27,7 +25,7 @@
     "Vegan": true
   },
   {
-    "Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
+    "Name": "Pasta Saporita mit Rindfleisch und Paprika (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-21T00:00:00Z",
     "Additives": {
@@ -41,7 +39,7 @@
     "Beef": true
   },
   {
-    "Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Conchiglie (Gl)",
+    "Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Gl,La,48)",
     "Category": "Pastabar",
     "Date": "2023-03-21T00:00:00Z",
     "Additives": {
@@ -69,17 +67,18 @@
     "Vegan": true
   },
   {
-    "Name": "Putengulasch (Gl,La,Sl)",
+    "Name": "Putengulasch (Gl,La,Sl), Spätzle (Gl,Ei)",
     "Category": "CampusKlassiker",
     "Date": "2023-03-21T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 4.55,
-    "PriceGuest": 5.65,
-    "PriceStudent": 3.3,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
     "Poultry": true
   },
   {
@@ -103,5 +102,21 @@
     "PriceStudent": 5.0,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Orientalische Steckrübe mit Möhren, Aioli mit Walnuß (1,Nu,Sf), Zartweizen (Gl)",
+    "Category": "CampusSpezial",
+    "Date": "2023-03-21T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 6.3,
+    "PriceGuest": 7.5,
+    "PriceStudent": 5.0,
+    "LactoseFree": true,
+    "Vegetarian": true
   }
 ]
