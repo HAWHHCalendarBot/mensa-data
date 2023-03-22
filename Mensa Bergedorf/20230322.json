@@ -14,6 +14,19 @@
     "Vegan": true
   },
   {
+    "Name": "Saporita mit Rindfleisch und Paprika (La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-22T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
     "Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2023-03-22T00:00:00Z",
@@ -29,14 +42,13 @@
     "Beef": true
   },
   {
-    "Name": "spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
+    "Name": "Zartweizen mit Gemüse (Gl,Sl), Orientalisches Kichererbsengemüse (2,5,Sw), Gartengemüse (Sl), Orientalische Steckrübe mit Möhren",
     "Category": "Gemüsebar",
     "Date": "2023-03-22T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
@@ -44,10 +56,10 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Chili con Corn (Gl,Sl), Basmatireis",
+    "Name": "Chili con Corn (Gl,Sl), Reis",
     "Category": "Pottkieker",
     "Date": "2023-03-22T00:00:00Z",
     "Additives": {
@@ -101,6 +113,28 @@
     "PriceAttendant": 6.1,
     "PriceGuest": 7.3,
     "PriceStudent": 4.8,
+    "Poultry": true
+  },
+  {
+    "Name": "Spicy Chicken Burger mit Wakame und Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2023-03-22T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.25,
+    "PriceGuest": 7.35,
+    "PriceStudent": 5.0,
+    "LactoseFree": true,
     "Poultry": true
   }
 ]
