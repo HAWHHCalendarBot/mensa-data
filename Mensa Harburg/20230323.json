@@ -1,9 +1,28 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Pasta mit scharfer Arrabbiata Soße (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-23T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "gebratene Zucchini, pikante Tex Mex Bohnenpfanne (2), Rote Beete Chutney, Kohlrabiwurzelgemüse, spanisches Kartoffelgemüse, Süßkartoffel Gnocchi (Gl), Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-03-23T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,31 +30,21 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta mit Speckrahmsoße (2,3,8,Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-03-23T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
