@@ -1,20 +1,6 @@
 [
   {
-    "Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-03-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), bunte Fusilli (Gl)",
+    "Name": "Pasta Salsa di pollo mit Hähnchen (Gl,La)",
     "Category": "Pastabar",
     "Date": "2023-03-24T00:00:00Z",
     "Additives": {
@@ -27,13 +13,11 @@
     "Poultry": true
   },
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (5,Sw), rote-Beete-Pilaw (9)",
+    "Name": "spanisches Kartoffelgemüse, gebratene Zucchini, gerösteter Broccoli, gebratene Paprika (5,Sw)",
     "Category": "Gemüsebar",
     "Date": "2023-03-24T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -43,11 +27,10 @@
     "Vegan": true
   },
   {
-    "Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), Farfalle (Gl)",
+    "Name": "Pasta Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-24T00:00:00Z",
     "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -55,13 +38,16 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Fish": true
+    "Vegetarian": true
   },
   {
-    "Name": "Blumenkohl Korma, Reis",
+    "Name": "Blumenkohl Korma, orientalischer CousCous (Gl,Sl)",
     "Category": "Pottkieker",
     "Date": "2023-03-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
@@ -106,7 +92,7 @@
     "Poultry": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf)",
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Hausgemachtes Kartoffel-Karottenstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-03-24T00:00:00Z",
     "Additives": {
@@ -115,9 +101,9 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 6.15,
-    "PriceGuest": 7.25,
-    "PriceStudent": 4.9,
+    "PriceAttendant": 6.9,
+    "PriceGuest": 8.1,
+    "PriceStudent": 5.6,
     "Fish": true
   }
 ]
