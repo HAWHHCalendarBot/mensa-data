@@ -1,9 +1,43 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Bulgur mit gebratenem Ei (Gl,Ei,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-03-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "gebratener Wirsing, frisches Pfannengemüse (Sw), Bohnenpfanne mit Pilzen (Sw), gebratene Zucchini, Kartoffel-Gratin (Ei,La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-24T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta mit asiatischer Shitake Pilz-Sauce (Gl,So,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2023-03-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +45,15 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta mit Sojastreifen mit Weißkohl in Currysauce (2,Gl,So,Sl,Sf)",
     "Category": "Pastabar",
     "Date": "2023-03-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-03-24T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -81,19 +105,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchenkeule (Sf), Maiskolben (La), Pommes Frites (Sf), BBQ Soße (2,9,Sl,Sf)",
+    "Name": "Hähnchenkeule (Sf), Krautsalat (3), Pommes Frites (Sf), BBQ Soße (2,9,Sl,Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-03-24T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
       "9": "Süßungsmittel",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.6,
     "PriceGuest": 6.8,
     "PriceStudent": 4.3,
+    "LactoseFree": true,
     "Poultry": true
   }
 ]
