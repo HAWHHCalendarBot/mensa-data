@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Karotten, Gartengemüse, Kräuterkartoffeln, Blumenkohl",
     "Category": "Gemüsebar",
     "Date": "2023-03-28T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Champignons und Paprikasauce, Käse (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-28T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
@@ -41,15 +42,14 @@
     "Vegan": true
   },
   {
-    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (So), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
     "Category": "CampusWorld",
     "Date": "2023-03-28T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.5,
     "PriceGuest": 6.7,
@@ -58,7 +58,7 @@
     "Vegan": true
   },
   {
-    "Name": "Bratwurst Thüringer Art (8,Sl,Sf), Bratensoße (Sl), Erbsen-Karotten Gemüse (La), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Name": "Bratwurst Thüringer Art (8,Sl,Sf), Bratensoße (Sl), Erbsen-Karotten Gemüse (La), Salzkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2023-03-28T00:00:00Z",
     "Additives": {

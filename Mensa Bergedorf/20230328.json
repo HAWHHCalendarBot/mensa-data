@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli",
-    "Category": "Gemüsebar",
-    "Date": "2023-03-28T00:00:00Z",
-    "Additives": {
-      "6": "Geschwärzt",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
     "Category": "Pastabar",
     "Date": "2023-03-28T00:00:00Z",
@@ -28,20 +14,51 @@
     "Poultry": true
   },
   {
-    "Name": "Ravioli Salsa bianca mit Räuchertofu in Kräutersoße (Gl,Ei,So,La,Sl)",
-    "Category": "Pastabar",
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Blattspinat mit Hirtenkäse (La)",
+    "Category": "Gemüsebar",
     "Date": "2023-03-28T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "6": "Geschwärzt",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Ravioli in hausgemachter Tomatensoße (Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2023-03-28T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Putenbruststreifen (1,2,3,8,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2023-03-28T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
   },
   {
     "Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
@@ -87,19 +104,19 @@
     "Beef": true
   },
   {
-    "Name": "Dummy, Fritten Mexico (1,9,La), veganes Tzatziki (1,9,So,Sf)",
+    "Name": "Dummy, Fritten Mexico, veganes Tzatziki (1,9,So,Sf)",
     "Category": "CampusWorld",
     "Date": "2023-03-28T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "9": "Süßungsmittel",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.1,
     "PriceGuest": 6.3,
     "PriceStudent": 3.8,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
