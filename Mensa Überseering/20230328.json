@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Zucchinigemüse mit Basilikum, Süßkartoffelwürfel gebacken, Schwarzwurzeln, Nusskartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2023-03-28T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2023-03-28T00:00:00Z",
@@ -24,6 +13,22 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Zucchinigemüse mit Basilikum und Tomaten, Schwarzwurzeln in Soja-Rahm (So), Ratatouille (Sl), Blumenkohl mit gebräunten Bröseln (Gl,La), Bunte Gemüsemischung mit Karotten (Sl), Käsespätzle (Gl,Ei,La), Nusskartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-28T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
