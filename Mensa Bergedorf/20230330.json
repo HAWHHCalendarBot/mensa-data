@@ -81,17 +81,26 @@
     "Name": "Leberkäse im Ganzen gebacken (2,3,8), Sauerkraut (vegan) (Sl), Kartoffelpüree (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-03-30T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
+    "Additives": {},
     "PriceAttendant": 4.3,
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
-    "Pig": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Putenbraten Levante (Sw), orientalischer CousCous (Gl,Sl), Gurkensalat mit Chili und schwarzem Sesam (3,5,Se,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-03-30T00:00:00Z",
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.65,
+    "PriceGuest": 6.85,
+    "PriceStudent": 4.35,
+    "Alcohol": true,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Pilzragout (Gl,La,Sl,Sw), Semmelklöße (Gl,Ei)",
