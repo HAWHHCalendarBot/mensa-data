@@ -1,10 +1,9 @@
 [
   {
-    "Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), bunte Fusilli (Gl)",
+    "Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La)",
     "Category": "Pastabar",
     "Date": "2023-03-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
@@ -13,11 +12,10 @@
     "Vegetarian": true
   },
   {
-    "Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl), bunte Fusilli (Gl)",
+    "Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
@@ -44,7 +42,25 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hamburger Schmorkohl mit Soja (So,Sl), Hausgemachtes Kartoffel-Butterstampf (La), Rote Zwiebel-Senf Marmelade (5,Sf,Sw)",
+    "Name": "Nudelsalat mit Tofu gepickelter Zwiebel und Jalapenos (2,3,5,Gl,So,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-03-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.3,
+    "PriceGuest": 5.5,
+    "PriceStudent": 3.0,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hamburger Schmorkohl mit Soja (So,Sl,Sf), Hausgemachtes Kartoffel-Butterstampf (La), Rote Zwiebel-Senf Marmelade (5,Sf,Sw)",
     "Category": "CampusKlassiker",
     "Date": "2023-03-29T00:00:00Z",
     "Additives": {
