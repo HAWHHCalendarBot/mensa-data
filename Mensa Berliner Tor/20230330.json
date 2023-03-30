@@ -1,5 +1,31 @@
 [
   {
+    "Name": "Broccoli-Gemüse, vegan, Karotten (La), gebratene Aubergine, buntem Gemüse",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-30T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spanische Paella la casa (Fi)",
+    "Category": "Pastabar",
+    "Date": "2023-03-30T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Fish": true,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
     "Name": "Pommes Frites (Sf), Chili con Carne (2)",
     "Category": "Pastabar",
     "Date": "2023-03-30T00:00:00Z",
@@ -12,6 +38,20 @@
     "PriceStudent": 0.75,
     "Beef": true,
     "LactoseFree": true
+  },
+  {
+    "Name": "Nudelauflauf mit Hähnchenbruststreifen in Sahnesoße (1,Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-03-30T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
   },
   {
     "Name": "VEGAN pro 100gr. (Self Service)..,, Gebackene Tofuwürfel mit Gemüse-Linsendal und gebratenem Pak Choi (Gl,So,Sl,Se), Basmatireis",
@@ -124,6 +164,22 @@
     "PriceStudent": 4.5,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pizza Salami (1,2,3,Gl,La)",
+    "Category": "CampusWorld",
+    "Date": "2023-03-30T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Pig": true
   },
   {
     "Name": "#frischgeGRILLt..,, Schweinefilet, Zitronenreis, bunter Gemüsesalat (Sl,Sw), Soja Vinaigrette (2,3,5,Gl,So,Sw)",
