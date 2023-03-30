@@ -1,5 +1,45 @@
 [
   {
+    "Name": "Käseravioli-Tomaten-Auflauf mit Mozzarella überbacken (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Ragù bianco mit Tofu und Kräutern (So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
     "Category": "Pottkieker",
     "Date": "2023-03-31T00:00:00Z",
@@ -17,50 +57,17 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La)",
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Champignonrahmsoße (Gl,La,Sl)",
     "Category": "CampusKlassiker",
     "Date": "2023-03-31T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.6,
     "PriceGuest": 5.6,
     "PriceStudent": 3.4,
     "Poultry": true
-  },
-  {
-    "Name": "Salat von schwarzen Bohnen mit Nuggets (Gemüsebasis) (3,Gl,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
-    "Category": "CampusVital",
-    "Date": "2023-03-31T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 6.3,
-    "PriceGuest": 7.5,
-    "PriceStudent": 5.0,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Lachsfilet auf buntem Gemüse-Couscous (3,5,Gl,Fi,Sl,Sw)",
-    "Category": "CampusSpezial",
-    "Date": "2023-03-31T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 7.1,
-    "PriceGuest": 8.3,
-    "PriceStudent": 5.8,
-    "Fish": true,
-    "LactoseFree": true
   }
 ]
