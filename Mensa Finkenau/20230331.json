@@ -1,21 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-03-31T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit tomatisiertem Gemüse (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-03-31T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -24,7 +14,22 @@
     "Vegan": true
   },
   {
-    "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+    "Name": "rote Beete Gnocchi, Süßkartoffeln, gerösteter Broccoli (1,Sf), Sauerkraut (vegan) (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Marokkanischer Hülsenfrüchtetopf (Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-03-31T00:00:00Z",
     "Additives": {

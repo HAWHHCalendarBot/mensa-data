@@ -1,5 +1,31 @@
 [
   {
+    "Name": "Broccoli-Gemüse, vegan, Kohlrabi in Rahm (Gl,La), Gartengemüse",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Fusilli (Gl), Tomatenrahmsoße (La)",
+    "Category": "Pastabar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pommes Frites (Sf), Chili con Carne (2)",
     "Category": "Pastabar",
     "Date": "2023-03-31T00:00:00Z",
@@ -14,12 +40,42 @@
     "LactoseFree": true
   },
   {
-    "Name": "VEGAN pro 100gr. (Self Service)..,, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
+    "Name": "Gemüse Reis mit marinierten Tofu-Streifen (2,Gl,So)",
+    "Category": "Pastabar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Nudelauflauf mit Hähnchenbruststreifen in Curry-Kokos (1,Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "VEGAN pro 100gr. (Self Service)..,, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl), Vegane Aioli Dip (Sf)",
     "Category": "Pastabar",
     "Date": "2023-03-31T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
