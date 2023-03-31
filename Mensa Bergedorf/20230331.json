@@ -1,16 +1,16 @@
 [
   {
-    "Name": "Käseravioli-Tomaten-Auflauf mit Mozzarella überbacken (Gl,La)",
+    "Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Gl)",
     "Category": "Pastabar",
     "Date": "2023-03-31T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl)",
@@ -38,6 +38,20 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Rosmarinkartoffeln, Frühlingsgemüse (La), gebratene Zucchini, Ravioli-Tomatenauflauf (Gl,Ei,La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",

@@ -1,29 +1,30 @@
 [
   {
-    "Name": "Tomatensoße, Strozzapreti (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-03-31T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Zuckerschoten, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl), Orientalisches Kichererbsengemüse",
+    "Name": "Zuckerschoten, Orientalisches Kichererbsengemüse, Paprikagemüse mit Mango und Kokosmilch, Frühlingsgemüse (La), Süßkartoffel Gnocchi (Gl)",
     "Category": "Gemüsebar",
     "Date": "2023-03-31T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw), Farfalle (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-03-31T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
