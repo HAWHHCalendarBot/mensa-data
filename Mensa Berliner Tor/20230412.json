@@ -12,5 +12,30 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Gnocchi mit Kürbis, gerösteter Broccoli",
+    "Category": "CampusVital",
+    "Date": "2023-04-12T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-04-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Beef": true
   }
 ]
