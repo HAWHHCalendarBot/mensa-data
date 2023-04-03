@@ -24,17 +24,19 @@
     "Poultry": true
   },
   {
-    "Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl)",
+    "Name": "Ragù bianco mit Räuchertofu und Kräutern (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-03T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl)",
