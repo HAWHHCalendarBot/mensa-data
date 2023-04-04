@@ -1,9 +1,14 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se), Reis",
+    "Category": "Pastabar",
     "Date": "2023-04-12T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +16,32 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-04-12T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
     "LactoseFree": true,
-    "Poultry": true
+    "Pig": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
+    "Category": "Gemüsebar",
     "Date": "2023-04-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
