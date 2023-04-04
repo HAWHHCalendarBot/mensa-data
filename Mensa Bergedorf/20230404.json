@@ -1,32 +1,6 @@
 [
   {
-    "Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
-    "Category": "Pastabar",
-    "Date": "2023-04-04T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "Pollo all'Arrabbiata, bunte Fusilli (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-04-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-04-04T00:00:00Z",
     "Additives": {
@@ -38,6 +12,20 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "PastavContadino mit Geflügelfleisch und Zucchini (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So)",
