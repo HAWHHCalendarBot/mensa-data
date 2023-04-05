@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit veganer Linsenbolognese in pikanter Soße (Gl,Sl)",
+    "Category": "Pastabar",
     "Date": "2023-04-05T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +14,44 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta mit Ratatouille-Sauce (Gl,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-04-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Pasta mit veganer Cremespinatsauce (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kichererbsenragout mit Tomaten (3,5,Sl,Sw), gebratene gelbe und grüne Zucchini, Retro Gemüsemix glasiert, glasierte Schwarzwurzeln mit Curry, dreierlei gebratenes Gemüse (Zucchini-Paprika-Aubergine)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-05T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,

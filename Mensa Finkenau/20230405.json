@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gebratene Champignons, Kräuterkartoffeln, Grünkern-Chilli mit Gemüse (Gl,Sl), Gartengemüse",
     "Category": "Gemüsebar",
     "Date": "2023-04-05T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +14,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Kürbis und Pesto Rosso (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-05T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -54,6 +59,24 @@
     "PriceGuest": 5.3,
     "PriceStudent": 2.8,
     "Alcohol": true,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Salatschüssel mit Mie - Nudeln, PakChoi, Edamame, Avocado, Mango und gebackenem Tofu (2,3,Gl,Ei,So,Se)",
+    "Category": "CampusWorld",
+    "Date": "2023-04-05T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
     "LactoseFree": true,
     "Vegetarian": true
   },
