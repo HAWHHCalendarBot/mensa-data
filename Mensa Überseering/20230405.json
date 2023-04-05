@@ -1,10 +1,11 @@
 [
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), Süßkartoffelwürfel gebacken, gebratene Paprika (5,Sw), Langkorn-Wildreis",
-    "Category": "Gemüsebar",
+    "Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (So,Sw), Penne (Gl)",
+    "Category": "Pastabar",
     "Date": "2023-04-05T00:00:00Z",
     "Additives": {
-      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -14,18 +15,35 @@
     "Vegan": true
   },
   {
-    "Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw), Penne (Gl)",
+    "Name": "Hühnchen in Kokos Soße (So,Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2023-04-05T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "gerösteter Blumenkohl, buntem Gemüse, Süßkartoffelwürfel gebacken, gebratene Paprika (5,Sw), Linsengemüse (Sl), Langkorn-Wildreis, Kartoffelgulasch mit Pilzen (So,Sl,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-05T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
