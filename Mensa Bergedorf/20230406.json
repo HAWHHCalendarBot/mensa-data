@@ -1,44 +1,5 @@
 [
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial",
-    "Category": "Gemüsebar",
-    "Date": "2023-04-06T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pollo all'Arrabbiata, bunte Fusilli (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-04-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
-    "Category": "Pastabar",
-    "Date": "2023-04-06T00:00:00Z",
-    "Additives": {
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
     "Name": "Pasta Contadino mit Geflügelfleisch und Pilzen (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-06T00:00:00Z",
@@ -67,18 +28,35 @@
     "Vegetarian": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+    "Name": "Pasta Thai-Soja-Bolognese (2,Gl,So)",
     "Category": "Pastabar",
     "Date": "2023-04-06T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "gerösteter Broccoli, Frühlingsgemüse, Paella (2,Gl,So,Sl), Erbsen- Karotten Gemüse in Rahm (So), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
