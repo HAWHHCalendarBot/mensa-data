@@ -15,19 +15,18 @@
     "Vegan": true
   },
   {
-    "Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
+    "Name": "Schupfnudeln mit Champignions und Austernpilzen in Rahm (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2023-04-11T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Beef": true
+    "Vegetarian": true
   },
   {
     "Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
@@ -41,5 +40,21 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Gebackenes Putenschnitzel (1,Gl), Ofengemüse mit Röst-Kartoffeln und Schafskäse-Dip (La,48)",
+    "Category": "CampusSpezial",
+    "Date": "2023-04-11T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.5,
+    "PriceGuest": 10.4,
+    "PriceStudent": 5.2,
+    "Poultry": true
   }
 ]
