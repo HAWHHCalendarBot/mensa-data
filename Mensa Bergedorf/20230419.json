@@ -1,5 +1,46 @@
 [
   {
+    "Name": "Pasta Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-04-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-19T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-04-19T00:00:00Z",
@@ -32,5 +73,26 @@
     "PriceStudent": 3.6,
     "LactoseFree": true,
     "Pig": true
+  },
+  {
+    "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (1,2,3,9,Gl,So,Sl,Sf,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2023-04-19T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.35,
+    "PriceGuest": 7.45,
+    "PriceStudent": 5.1,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
