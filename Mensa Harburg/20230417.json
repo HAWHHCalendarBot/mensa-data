@@ -75,52 +75,57 @@
     "Vegetarian": true
   },
   {
-    "Name": "Mini Frühlingsrollen (Gl,So), Bratnudeln mit Gemüsestreifen (2,Gl,So,Se), scharfer Asia-Dip (1,Sf)",
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (1,Sf), Krautsalat (3,5,Sw), Gemüse Bulgur (Gl,Sl)",
     "Category": "CampusWorld",
     "Date": "2023-04-17T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
-      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.4,
-    "PriceGuest": 6.6,
-    "PriceStudent": 4.1,
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "LactoseFree": true,
     "Vegan": true
   },
   {
-    "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Kartoffelspalten (Gl)",
+    "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-04-17T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.6,
+    "PriceGuest": 6.8,
+    "PriceStudent": 4.3,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-04-17T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 5.7,
     "PriceGuest": 6.9,
     "PriceStudent": 4.4,
-    "Beef": true
-  },
-  {
-    "Name": "Frisch gegrilltes Kalbssteak, Tomatensalat mit Basilikum (3,5,Sf,Sw), Süßkartoffelgratin (La)",
-    "Category": "Frisch gegrilltes Kalbssteak, Tomatensalat mit Basilikum (3,5,Sf,Sw), Süßkartoffelgratin (La)",
-    "Date": "2023-04-17T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 11.7,
-    "PriceGuest": 12.3,
-    "PriceStudent": 11.0,
     "Beef": true
   }
 ]
