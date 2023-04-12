@@ -65,20 +65,6 @@
     "Poultry": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi)",
-    "Category": "CampusSpezial",
-    "Date": "2023-04-21T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 4.8,
-    "PriceGuest": 5.8,
-    "PriceStudent": 3.6,
-    "Fish": true,
-    "LactoseFree": true
-  },
-  {
     "Name": "Shakshuka mit Hirtenkäse (La), Hummus (Se), Baguette (Gl)",
     "Category": "CampusWorld",
     "Date": "2023-04-21T00:00:00Z",
@@ -91,5 +77,20 @@
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Bandnudeln mit Pak Choi und Knoblauch (Gl,Ei,La)",
+    "Category": "CampusSpezial",
+    "Date": "2023-04-21T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 7.1,
+    "PriceGuest": 8.3,
+    "PriceStudent": 5.8,
+    "Fish": true
   }
 ]
