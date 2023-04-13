@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "rote Beete Gnocchi, Kräuterkartoffeln, gebratene Zucchini (1,Sf), gerösteter Blumenkohl",
     "Category": "Gemüsebar",
     "Date": "2023-04-13T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "1": "Farbstoff",
+      "Sf": "Senf und Senferzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +14,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Rataouillegemüse und Parmesansplitter (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-13T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Gemüsegulasch (Sl), Zartweizen mit Gemüse (Gl,Sl)",
@@ -54,11 +58,10 @@
     "Vegetarian": true
   },
   {
-    "Name": "Hähnchengeschnetzeltes Züricher Art (La,Sw), Spätzle (Gl,Ei)",
+    "Name": "Hähnchengeschnetzeltes Züricher Art (La,Sw), Penne (Gl)",
     "Category": "CampusKlassiker",
     "Date": "2023-04-13T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
