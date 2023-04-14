@@ -1,20 +1,10 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-04-14T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Fleischklößchen (Gl,Ei)",
     "Category": "Pastabar",
     "Date": "2023-04-14T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
     },
     "PriceAttendant": 0.95,
@@ -22,14 +12,32 @@
     "PriceStudent": 0.75,
     "Beef": true,
     "LactoseFree": true,
-    "Poultry": true
+    "Pig": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Pasta Giardinera mit Gemüse in Tomatensoße (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Antipastistyle Zucchini, Paprika und Auberginen (5,Sw), Tricolore Gemüse (Sl), Reis, Maiskolben, Kichererbsengemüse mit Tomaten in Kokosmilch (2,5,Sw), Weiße Bohnen mit Spitzkohl und Kartoffeln in Sojarahm (So,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-14T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,

@@ -1,32 +1,29 @@
 [
   {
-    "Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pasta all`Amatriciana mit Hähnchenbrust und Tomaten (Gl)",
     "Category": "Pastabar",
     "Date": "2023-04-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-14T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), gebratene Paprika (5,Sw)",
-    "Category": "Gemüsebar",
-    "Date": "2023-04-14T00:00:00Z",
-    "Additives": {
-      "5": "Geschwefelt",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
@@ -44,6 +41,24 @@
     "Fish": true
   },
   {
+    "Name": "gebratene Paprika (5,Sw), Cajun Gemüse (Sl), Käsespätzle mit Röstzwiebeln (Gl,Ei,La), Pfannengemüse Asia (Ei,So,La,Sl,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-14T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
     "Name": "Blumenkohl Korma, Reis",
     "Category": "Pottkieker",
     "Date": "2023-04-14T00:00:00Z",
@@ -55,7 +70,7 @@
     "Vegan": true
   },
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl)",
+    "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-04-14T00:00:00Z",
     "Additives": {
@@ -63,9 +78,9 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 3.95,
-    "PriceGuest": 5.05,
-    "PriceStudent": 2.7,
-    "Pig": true
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.8,
+    "PriceStudent": 3.3,
+    "Beef": true
   }
 ]
