@@ -1,21 +1,10 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse (Sl), Kräuterkartoffeln, Süßkartoffeln, gebratene Champignons",
     "Category": "Gemüsebar",
     "Date": "2023-04-14T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-04-14T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -24,7 +13,21 @@
     "Vegan": true
   },
   {
-    "Name": "Sojachilli mit Mais,Kidenybohnen und Süßkartoffeln (So,Sl,Sw)",
+    "Name": "Pasta mit tomatisiertem Gemüse (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Sojachilli mit Mais,Kidenybohnen und Kürbis (So,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-04-14T00:00:00Z",
     "Additives": {
