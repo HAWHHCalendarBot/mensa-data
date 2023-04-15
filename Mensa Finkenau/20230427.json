@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Gemüse des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gemüsegulasch (Sl), Zartweizen mit Gemüse (Gl,Sl)",
+    "Category": "Pottkieker",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenstreifen,gebratener Blumenkohl mit Kokosmilch, geröstete Sonnenblumenkerne und Basmatireis (Sl)",
+    "Category": "CampusSpezial",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.8,
+    "PriceGuest": 8.0,
+    "PriceStudent": 5.5,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Fabi's Canadian Poutine mit Steakhousepommes, PulledPork, Cheddar cheese und pikanter Bratensoße (1,2,3,9,Ei,So,La,Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 7.1,
+    "PriceGuest": 8.3,
+    "PriceStudent": 5.8,
+    "Alcohol": true,
+    "Beef": true,
+    "Pig": true
+  }
+]
