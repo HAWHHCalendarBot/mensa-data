@@ -1,9 +1,24 @@
 [
   {
-    "Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-04-27T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -27,22 +42,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl), buntem Gemüse",
-    "Category": "Gemüsebar",
-    "Date": "2023-04-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-04-27T00:00:00Z",
@@ -56,5 +55,50 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Thüringer Bratwurst (8,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "8": "Phosphat",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.4,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
+    "Category": "CampusVital",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gebackener Camembert (Gl,La), Preiselbeeren, Salatgarnitur",
+    "Category": "CampusSpezial",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.65,
+    "PriceGuest": 6.75,
+    "PriceStudent": 4.4,
+    "Vegetarian": true
   }
 ]
