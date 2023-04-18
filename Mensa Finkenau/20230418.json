@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Sauerkraut (vegan) (Sl), Ägyptische Falafel (Gl,Sl), Gartengemüse (Sl), Tellerrösti",
     "Category": "Gemüsebar",
     "Date": "2023-04-18T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +14,21 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Peperonatagemüse,Babyspinat und Käse (2,Gl,La,Sl,48)",
     "Category": "Pastabar",
     "Date": "2023-04-18T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Chili con Corn (Gl,Sl), Basmatireis",
@@ -76,7 +83,7 @@
   },
   {
     "Name": "Veggie Power Bowl, Tofu, Basmatireis, Süßkartoffeln, Avocado, Koriander, Cashew und Wasabi Dressing (1,2,3,5,Gl,Ei,So,Nu,Sf,Se,Sw)",
-    "Category": "Veggie Power Bowl, Tofu, Basmatireis, Süßkartoffeln, Avocado, Koriander, Cashew und Wasabi Dressing (1,2,3,5,Gl,Ei,So,Nu,Sf,Se,Sw)",
+    "Category": "Spicy Chicken Bowl, Basmatireis, Avocado, Granatapfel, Kürbiskerne mit Wild Karachi Dressing (1,2,3,5,9,Gl,Ei,So,La,Sf,Se,Sw)",
     "Date": "2023-04-18T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
@@ -99,7 +106,7 @@
   },
   {
     "Name": "Spicy Chicken Bowl, Basmatireis, Avocado, Granatapfel, Kürbiskerne mit Wild Karachi Dressing (1,2,3,5,9,Gl,Ei,So,La,Sf,Se,Sw)",
-    "Category": "Veggie Power Bowl, Tofu, Basmatireis, Süßkartoffeln, Avocado, Koriander, Cashew und Wasabi Dressing (1,2,3,5,Gl,Ei,So,Nu,Sf,Se,Sw)",
+    "Category": "Spicy Chicken Bowl, Basmatireis, Avocado, Granatapfel, Kürbiskerne mit Wild Karachi Dressing (1,2,3,5,9,Gl,Ei,So,La,Sf,Se,Sw)",
     "Date": "2023-04-18T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",

@@ -1,17 +1,17 @@
 [
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+    "Name": "Pasta mit Rindfleisch-Bolognese (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-27T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -29,7 +29,7 @@
     "Vegan": true
   },
   {
-    "Name": "Thüringer Bratwurst (8,Sl,Sf), Karottengemüse in Kräuterrahm (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Name": "Frisch gebratene Thüringer Bratwurst (8,Sl,Sf), Karottengemüse in Kräuterrahm (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-04-27T00:00:00Z",
     "Additives": {
@@ -43,18 +43,5 @@
     "PriceGuest": 7.2,
     "PriceStudent": 3.6,
     "Pig": true
-  },
-  {
-    "Name": "Gebackener Camembert (Gl,La), Preiselbeeren, Salatgarnitur, Baguette (Gl)",
-    "Category": "CampusSpezial",
-    "Date": "2023-04-27T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 6.4,
-    "PriceGuest": 10.2,
-    "PriceStudent": 5.1,
-    "Vegetarian": true
   }
 ]
