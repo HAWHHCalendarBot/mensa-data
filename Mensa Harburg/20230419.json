@@ -1,19 +1,60 @@
 [
   {
-    "Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Penne (Gl)",
-    "Category": "Pastabar",
+    "Name": "Ratatouille (Sl), Karotten, Mangold gebraten mit grünen Curry, Prinzessbohnen, Gnocchi",
+    "Category": "Gemüsebar",
     "Date": "2023-04-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "gebratene Zucchini mit Oliven, Süßkartoffeln gebacken scharf mit Sambal Oelek (2)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-19T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kabeljaufilet auf Spinatbett (Fi,La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-19T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "Fish": true
   },
   {
-    "Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Pasta Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-19T00:00:00Z",
     "Additives": {
@@ -25,20 +66,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
-  },
-  {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2023-04-19T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
   },
   {
     "Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
@@ -90,15 +117,15 @@
     "Vegan": true
   },
   {
-    "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (1,2,3,9,Gl,So,Sl,Sf,Sw), Pommes Frites (Sf)",
+    "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (1,2,9,Gl,So,Sl,Sf,Se,Sw), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-04-19T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
       "9": "Süßungsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
@@ -111,8 +138,8 @@
     "Vegan": true
   },
   {
-    "Name": "Frisch gegrilltes Kalbssteak, Tomatensalat mit Basilikum (3,5,Sf,Sw), Süßkartoffelgratin (La)",
-    "Category": "Frisch gegrilltes Kalbssteak, Tomatensalat mit Basilikum (3,5,Sf,Sw), Süßkartoffelgratin (La)",
+    "Name": "Frisch gegrilltes Kalbsschnitzel, Tomatensalat mit Basilikum (3,5,Sf,Sw), Süßkartoffelgratin (La)",
+    "Category": "Frisch gegrilltes Kalbsschnitzel, Tomatensalat mit Basilikum (3,5,Sf,Sw), Süßkartoffelgratin (La)",
     "Date": "2023-04-19T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
