@@ -1,27 +1,32 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Kräuterkartoffeln, Süßkartoffeln, Gartengemüse (Sl), Karotten (La)",
     "Category": "Gemüsebar",
     "Date": "2023-04-19T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Mie-Nudeln mit Tofu,Pak Choi,Lauch und Teryakisauce (2,Gl,Ei,So)",
     "Category": "Pastabar",
     "Date": "2023-04-19T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -39,7 +44,7 @@
     "Vegan": true
   },
   {
-    "Name": "Geschmortes Masala - Champignoncurry (Sw), Basmatireis",
+    "Name": "Geschmortes Masala - Champignoncurry (Sw), Reis",
     "Category": "CampusVital",
     "Date": "2023-04-19T00:00:00Z",
     "Additives": {
@@ -52,13 +57,12 @@
     "Vegan": true
   },
   {
-    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Couscous (Gl,Sl)",
+    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw), Tomatensoße, Zartweizen (Gl)",
     "Category": "CampusVital",
     "Date": "2023-04-19T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.8,
