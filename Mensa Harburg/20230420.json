@@ -1,31 +1,23 @@
 [
   {
-    "Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (Gl)",
+    "Name": "Pasta Verdure e pomodoro mit Gemüse in Tomatensoße (So)",
     "Category": "Pastabar",
     "Date": "2023-04-20T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
   },
   {
-    "Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Eliche (Gl)",
-    "Category": "Pastabar",
+    "Name": "Süßkartoffelgratin (La)",
+    "Category": "Gemüsebar",
     "Date": "2023-04-20T00:00:00Z",
     "Additives": {
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -33,21 +25,83 @@
     "Vegetarian": true
   },
   {
-    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Frühlingsgemüse (La), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln, gebratene Champignons (La,Sw)",
+    "Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Knoblauch Champignons aus dem Ofen (2,5,Gl,So,Sw), Spitzkohl gebraten, frisches Fenchelgemüse gebraten (Sl), Mangold mit Curry gebraten (2,Gl,So), Prinzessbohnen, Gebratene Gnocchi",
     "Category": "Gemüsebar",
     "Date": "2023-04-20T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Schinken und Käse (1,2,3,8,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2023-04-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
   },
   {
     "Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
