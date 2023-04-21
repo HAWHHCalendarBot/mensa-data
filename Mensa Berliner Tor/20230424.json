@@ -55,6 +55,20 @@
     "Vegetarian": true
   },
   {
+    "Name": "Wir kochen was Sie lieben..., Paniertes Schweineschnitzel (Gl), Bratkartoffeln, Bratensoße (Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-04-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.85,
+    "PriceGuest": 6.05,
+    "PriceStudent": 3.55,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
     "Name": "#ofenfrisch...bis 16:00 Uhr..,, Flammkuchen mit frischen Spinat (Gl,La)",
     "Category": "CampusSpezial",
     "Date": "2023-04-24T00:00:00Z",
@@ -84,17 +98,37 @@
     "Pig": true
   },
   {
-    "Name": "Wir kochen was Sie lieben..., Paniertes Schweineschnitzel (Gl), Bratkartoffeln, Bratensoße (Sl)",
-    "Category": "CampusKlassiker",
+    "Name": "#rocktheWOK..VEGAN.,, Frühlingsrolle auf WOK-Gemüse mit Tomatensoße \"Asian-Style\" (2,Gl,So,Sl,Sw), Kokosreis",
+    "Category": "CampusSpezial",
     "Date": "2023-04-24T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.9,
-    "PriceStudent": 4.4,
+    "PriceAttendant": 5.55,
+    "PriceGuest": 6.75,
+    "PriceStudent": 4.25,
     "LactoseFree": true,
-    "Pig": true
+    "Vegan": true
+  },
+  {
+    "Name": "#rocktheWOK..., Chicken Crossies auf WOK-Gemüse Tomatensoße \"Asian-Style\" (2,Gl,So,Sl,Sw), Kokosreis",
+    "Category": "CampusSpezial",
+    "Date": "2023-04-24T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
