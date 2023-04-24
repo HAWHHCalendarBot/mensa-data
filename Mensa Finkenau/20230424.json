@@ -1,9 +1,13 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse (Sl), Süßkartoffeln, Erbsen, gerösteter Blumenkohl (1,Sf)",
     "Category": "Gemüsebar",
     "Date": "2023-04-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "1": "Farbstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,11 +15,15 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "gebratene Eiernudeln mit Pak Choi, Chinakohl und Sojasauce (2,Gl,So,Sf,Se)",
     "Category": "Pastabar",
     "Date": "2023-04-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -33,22 +41,6 @@
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Graupenrisotto (3,Gl,So,Sl), geschmolzene Kirschtomaten",
-    "Category": "CampusKlassiker",
-    "Date": "2023-04-24T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 3.4,
-    "PriceGuest": 4.6,
-    "PriceStudent": 2.1,
     "LactoseFree": true,
     "Vegan": true
   },
