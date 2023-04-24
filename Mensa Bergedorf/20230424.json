@@ -1,10 +1,11 @@
 [
   {
-    "Name": "Bunter Gemüsemix mit gelben Karotten, Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La)",
+    "Name": "Prinzessbohnen, Orientalisches Linsengemüse (Sl), Shakshuka mit Hirtenkäse (La), glacierte rote Beete",
     "Category": "Gemüsebar",
     "Date": "2023-04-24T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -12,29 +13,46 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Contadino mit Putenfleisch und Zucchini (Gl,Sl)",
+    "Name": "Pasta Spinaci e olio d'oliva mit Spinat (Gl,So,Sf)",
     "Category": "Pastabar",
     "Date": "2023-04-24T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
-    "Name": "Pasta Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw)",
+    "Name": "Pasta mit Seelachs in Rahmsoße (Gl,Ei,Fi,La,Wt)",
+    "Category": "Pastabar",
+    "Date": "2023-04-24T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Fish": true
+  },
+  {
+    "Name": "Pasta mit hausgemachtes Pesto Genovese (2,Gl,La,48)",
     "Category": "Pastabar",
     "Date": "2023-04-24T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
