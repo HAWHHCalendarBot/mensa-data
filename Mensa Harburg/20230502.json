@@ -71,14 +71,36 @@
     "Vegan": true
   },
   {
-    "Name": "Frische asiatische Gemüsepfanne aus dem Wok (2,Gl,So,Sl,Sw), Basmatireis",
-    "Category": "CampusVital",
+    "Name": "Mexican Burger mit Rind, Avocado, Jalapeno und Cheddar Käse (1,3,9,Gl,Ei,La,Sf,Se), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
     "Date": "2023-05-02T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 4.4,
-    "PriceGuest": 5.6,
-    "PriceStudent": 3.1,
-    "LactoseFree": true,
-    "Vegan": true
+    "Additives": {
+      "1": "Farbstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 6.45,
+    "PriceGuest": 7.65,
+    "PriceStudent": 5.15,
+    "Beef": true
+  },
+  {
+    "Name": "Frisch gegrillte Schweinefiletmedaillons, Mandelbroccoli (La,Nu), Kartoffelgratin (Ei,La)",
+    "Category": "Frisch gegrillte Schweinefiletmedaillons, Mandelbroccoli (La,Nu), Kartoffelgratin (Ei,La)",
+    "Date": "2023-05-02T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 7.0,
+    "PriceGuest": 7.6,
+    "PriceStudent": 6.3,
+    "Pig": true
   }
 ]
