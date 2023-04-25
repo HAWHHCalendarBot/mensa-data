@@ -13,12 +13,13 @@
     "Poultry": true
   },
   {
-    "Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Gl,Sw)",
+    "Name": "Pasta Mexiko Chili sin carne (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,19 +28,20 @@
     "Vegan": true
   },
   {
-    "Name": "gebratener Pak Choi (2,Gl,So), Gartengemüse",
+    "Name": "Prinzessbohnen, Gemüse Rustica, Szegediner Gemüse mit Sauerkraut, Kartoffeln und Tofu (So,Sl), Shakshuka mit Hirtenkäse (La), Pfannengemüse mit Kartoffeln und Quinoa (2,Gl,So)",
     "Category": "Gemüsebar",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -89,11 +91,12 @@
     "Vegan": true
   },
   {
-    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sw)",
+    "Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (5,Sl,Sw)",
     "Category": "CampusVital",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
       "5": "Geschwefelt",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.05,

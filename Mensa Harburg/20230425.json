@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Pollo all'Arrabbiata, bunte Fusilli (Gl)",
+    "Name": "Pasta Pollo all'Arrabbiata (Gl)",
     "Category": "Pastabar",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
@@ -13,12 +13,14 @@
     "Poultry": true
   },
   {
-    "Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
-    "Category": "Pastabar",
+    "Name": "Brechbohnen, gebratener asiatischer Pak Choi (2,Gl,So,Se), Gartengemüse, Pastinaken mit Bärlauch in Sojarahm (So), Chili-Kartoffeln aus dem Ofen",
+    "Category": "Gemüsebar",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,21 +29,21 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit Kürbisgemüse mit Belugalinsen asiatischer Style (1,2,Gl,So,Sl)",
+    "Category": "Pastabar",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
