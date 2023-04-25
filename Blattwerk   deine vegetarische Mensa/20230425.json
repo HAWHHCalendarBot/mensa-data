@@ -13,6 +13,39 @@
     "Vegan": true
   },
   {
+    "Name": "Vegetarische Steinpilz Bolognese mit Soja (So)",
+    "Category": "Pastabar",
+    "Date": "2023-04-25T00:00:00Z",
+    "Additives": {
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Asiatischer Nudelsalat mit eingelegtem Blumenkohl, Frühlingszwiebel, Asia-Dip und schwarzem Sesam (2,3,5,Gl,Ei,So,Se,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-04-25T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.05,
+    "PriceGuest": 6.25,
+    "PriceStudent": 3.75,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
     "Name": "Hausgemachte Pasta (Gl), Tapenade di olive mit schwarzen Oliven, Kräutern, Olivenöl und geröstete Kartoffelwürfel (6)",
     "Category": "CampusWorld",
     "Date": "2023-04-25T00:00:00Z",
@@ -41,10 +74,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Quinoa-Erbsen Bratling, Orientalisches Gemüse (Sl,Sw), Griechischer Joghurt mit Aubergine und Zwiebe (Se)",
+    "Name": "Quinoa-Erbsen Bratling, Orientalisches Gemüse (Sl,Sw), Griechischer Joghurt mit Aubergine und Zwiebe (La,Se)",
     "Category": "CampusSpezial",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -52,7 +86,6 @@
     "PriceAttendant": 6.9,
     "PriceGuest": 8.1,
     "PriceStudent": 5.6,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]
