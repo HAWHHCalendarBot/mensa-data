@@ -11,10 +11,22 @@
     "Vegan": true
   },
   {
-    "Name": "Broccoli-Gemüse, vegan, gebratene Champignons, vegan (Sw), Grilltomate",
+    "Name": "Paprikareis, vegan",
+    "Category": "Pastabar",
+    "Date": "2023-04-25T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Champignon-Gemüsepfanne, vegan, frisches Wok-Gemüse, vegan (2,Sw), Grilltomate, vegan, Bratkartoffeln, vegan",
     "Category": "Gemüsebar",
     "Date": "2023-04-25T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
@@ -22,6 +34,35 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Fusilli (Gl), Tomatensoße, Tofu und Gouda (So,La)",
+    "Category": "Pastabar",
+    "Date": "2023-04-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta al forno della nonna mit Hähnchenstreifen und Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2023-04-25T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
   },
   {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
