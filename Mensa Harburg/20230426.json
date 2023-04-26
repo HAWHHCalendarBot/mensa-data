@@ -1,5 +1,46 @@
 [
   {
+    "Name": "gerösteter Blumenkohl mit Sesam und Balsamicoessig (Se), gebratenes Gemüse",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-26T00:00:00Z",
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Rinder-Bolognese (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-04-26T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "buntes Gemüse mit Sauce Hollandaise mit Kräutern (Ei,La,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-26T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pasta Funghi di bosco e basilico mit Pilzen, Basilikum und Nüssen (Gl,So,Nu,Sw)",
     "Category": "Pastabar",
     "Date": "2023-04-26T00:00:00Z",
@@ -16,20 +57,22 @@
     "Vegan": true
   },
   {
-    "Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis, Bunte Gemüsemischung mit Karotten (Sl), Buttererbsen (La)",
+    "Name": "gerösteter Blumenkohl mit Sesam und Balsamicoessig (3,5,Se,Sw), frisches Wok-Gemüse (2,Sw), griechisches Gemüse (6), Rosmarinkartoffeln mit Chili",
     "Category": "Gemüsebar",
     "Date": "2023-04-26T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
       "6": "Geschwärzt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
