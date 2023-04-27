@@ -1,20 +1,19 @@
 [
   {
-    "Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
-    "Category": "Gemüsebar",
+    "Name": "Pasta Pollo e Funghi (Gl,La)",
+    "Category": "Pastabar",
     "Date": "2023-04-27T00:00:00Z",
     "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
-    "Name": "Pasta Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Gl,Sw)",
+    "Name": "Pasta all`Provenzale mit Gemüse (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-04-27T00:00:00Z",
     "Additives": {
@@ -25,16 +24,34 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
-    "Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+    "Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2023-04-27T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Sommergemüse mit Hollandaise (Ei,La,Sl), Orientalische Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
