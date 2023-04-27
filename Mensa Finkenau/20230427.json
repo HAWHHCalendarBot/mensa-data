@@ -1,14 +1,16 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "dicke Bohnen in Rahm (La), Sesam-Karotten (Se), Süßkartoffeln, Kräuterkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2023-04-27T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Gemüselasagne (Gl,So,Sl)",
@@ -26,18 +28,34 @@
     "Vegan": true
   },
   {
-    "Name": "Gemüsegulasch (Sl), Zartweizen mit Gemüse (Gl,Sl)",
+    "Name": "Gemüsegulasch (Sl), Brot (Gl,So)",
     "Category": "Pottkieker",
     "Date": "2023-04-27T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gemüsegulasch (Sl), Brot (Gl,So)",
+    "Category": "Pottkieker",
+    "Date": "2023-04-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegetarian": true
   },
   {
     "Name": "Hähnchenstreifen,gebratener Blumenkohl mit Kokosmilch, geröstete Sonnenblumenkerne und Basmatireis (Sl)",
