@@ -1,17 +1,45 @@
 [
   {
-    "Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Paprikarahmsoße (Gl,La), Pommes Frites (Sf)",
-    "Category": "CampusKlassiker",
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Grillgemüse (Sw), Süßkartoffelwürfel gebacken, gerösteter Broccoli",
+    "Category": "Gemüsebar",
     "Date": "2023-05-09T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "6": "Geschwärzt",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 7.1,
-    "PriceStudent": 4.6,
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Vollkorn Fussili (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
