@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
-    "Category": "Gemüsebar",
-    "Date": "2023-05-02T00:00:00Z",
-    "Additives": {
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
+    "Name": "Pasta all`Provenzale mit Gemüse (Gl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-05-02T00:00:00Z",
     "Additives": {
@@ -27,7 +14,21 @@
     "Vegan": true
   },
   {
-    "Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
+    "Name": "Möhrchen, Cremespinat (Gl,La,Sl), gebratenem Wirsing, Rosmarinkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-02T00:00:00Z",
     "Additives": {
@@ -55,20 +56,6 @@
     "Vegan": true
   },
   {
-    "Name": "Putengulasch (Gl,La,Sl)",
-    "Category": "CampusKlassiker",
-    "Date": "2023-05-02T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.55,
-    "PriceGuest": 5.65,
-    "PriceStudent": 3.3,
-    "Poultry": true
-  },
-  {
     "Name": "Massam-Curry mit Kartoffeln, Edamame und Räuchertofu (1,2,3,Gl,En,So,Sl,Sf)",
     "Category": "CampusVital",
     "Date": "2023-05-02T00:00:00Z",
@@ -89,7 +76,21 @@
     "Vegan": true
   },
   {
-    "Name": "Spicy Chicken Burger mit Wakame und Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf,Se)",
+    "Name": "Putengulasch (Gl,La,Sl), Nudeln (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-05-02T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Poultry": true
+  },
+  {
+    "Name": "Spicy Chicken Burger mit Salat und Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-05-02T00:00:00Z",
     "Additives": {
@@ -100,7 +101,6 @@
       "Ei": "Ei und Eierzeugnisse",
       "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
