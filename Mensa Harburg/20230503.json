@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Pasta mit weißen Bohnen Zitrone pikant und Minze (Gl,So)",
+    "Category": "Pastabar",
     "Date": "2023-05-03T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +14,41 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Sojageschnetzeltes mit Pilzen, Auberginen in Kokosmilch mit Erdnuss (En,So)",
+    "Category": "Gemüsebar",
     "Date": "2023-05-03T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
     "LactoseFree": true,
-    "Poultry": true
+    "Vegan": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Pasta della nonna mit Rindfleisch und Tomatengemüsesoße (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-03T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Perlgraupenrisotto mit Mandeln, Gemüse und Minze (Gl,Nu,Sl), gegrillte Champignons, Tricolore Gemüse mit Kerbel, Bohnengemüsepfanne mit Pilzen, Tomaten und Paprika (Sl), Maiskolben",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-03T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
