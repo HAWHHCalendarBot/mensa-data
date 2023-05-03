@@ -1,6 +1,32 @@
 [
   {
-    "Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), bunte Fusilli (Gl)",
+    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, spanisches Kartoffelgemüse",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-04T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Chili con Corn (Gl,Sl), Reis",
+    "Category": "Pastabar",
+    "Date": "2023-05-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta all`Amatriciana mit Hähnchenund Tomaten (Gl,La)",
     "Category": "Pastabar",
     "Date": "2023-05-04T00:00:00Z",
     "Additives": {
@@ -13,33 +39,35 @@
     "Poultry": true
   },
   {
-    "Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Name": "Pasta mit Sojastreifen und Porree (Gl,So)",
     "Category": "Pastabar",
     "Date": "2023-05-04T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
-    "Category": "Gemüsebar",
+    "Name": "All in one pot: Wok-Nudeln, Putenbrust, Karotten, Süßkartoffel und Sesam (2,Gl,Ei,So,La,Se)",
+    "Category": "Pastabar",
     "Date": "2023-05-04T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "Poultry": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
