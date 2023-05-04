@@ -1,36 +1,6 @@
 [
   {
-    "Name": "Pasta Spinaci e olio d'oliva mit Spinat und Oliven (6,Gl,Sf)",
-    "Category": "Pastabar",
-    "Date": "2023-05-12T00:00:00Z",
-    "Additives": {
-      "6": "Geschwärzt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
-    "Category": "Gemüsebar",
-    "Date": "2023-05-12T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La)",
+    "Name": "Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2023-05-12T00:00:00Z",
     "Additives": {
@@ -41,7 +11,7 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
+    "PriceGuest": 1.5,
     "PriceStudent": 0.75,
     "Pig": true
   },
@@ -57,23 +27,10 @@
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.4,
-    "PriceGuest": 4.1,
+    "PriceGuest": 4.4,
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La)",
-    "Category": "CampusKlassiker",
-    "Date": "2023-05-12T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.6,
-    "PriceStudent": 3.4,
-    "Poultry": true
   },
   {
     "Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Walnuss-Senfsoße (3,5,Gl,La,Nu,Sl,Sf,Sw), Salatgarnitur mediterran (6)",
@@ -92,8 +49,22 @@
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
+    "PriceGuest": 8.0,
     "PriceStudent": 4.0,
     "Vegetarian": true
+  },
+  {
+    "Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-05-12T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 9.6,
+    "PriceStudent": 4.8,
+    "Poultry": true
   }
 ]

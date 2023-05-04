@@ -1,9 +1,28 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Pasta Pollo mit Hähnchenstreifen in Käsesauce (Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-04T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "weißes Bohnenragout mit Gemüse (So), Asiatische Gemüsepfanne (2,Gl,So,Sw), Reis, Kohlrabigemüse, Mais",
     "Category": "Gemüsebar",
     "Date": "2023-05-04T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +30,16 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta Sojaragout mexikanischer Style (2,Gl,So,Sl,Se,Sw)",
     "Category": "Pastabar",
     "Date": "2023-05-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-05-04T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
