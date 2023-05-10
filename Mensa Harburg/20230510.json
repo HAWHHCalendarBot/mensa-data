@@ -1,19 +1,20 @@
 [
   {
-    "Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Penne (Gl)",
+    "Name": "Pasta Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Gl,So)",
     "Category": "Pastabar",
     "Date": "2023-05-10T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Pasta Ragù bianco mit Rinderhackfleisch und Erbsen (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-10T00:00:00Z",
     "Additives": {
@@ -27,18 +28,20 @@
     "Beef": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "Mangoldgemüse mit gerösteten Nüssen und Tofu asiatisch (Gl,So,Nu), Gnocchi, Gemüsepfanne (Sl), Fenchelgemüse mit Kichererbsen (Sl), Gemüsepfanne mit Oliven, Zucchini und Paprika, Reis",
     "Category": "Gemüsebar",
     "Date": "2023-05-10T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Fischbrötchen (Gl,So), mit Remoulade (2,3,Ei,Sf), Matjesfilets und (2,Fi,La), Salat und rote Zwiebeln",
