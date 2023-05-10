@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, gebackene Aubergine, gerösteter Blumenkohl, Gartengemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-05-10T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +13,19 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit roten Paprikastreifen,Erbsen und geraspelten Käse (Gl,La,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-10T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Kokos-Kürbis Curry (Sf,Se), Reis",
@@ -38,7 +42,7 @@
     "Vegan": true
   },
   {
-    "Name": "Harissa Drumsticks mit gebratenem Chicoree, Röstkartoffeln und Limettenquark (3,La)",
+    "Name": "Harissa Hähnchen mit gebratenem Chicoree, Röstkartoffeln und Limettenquark (3,La)",
     "Category": "CampusSpezial",
     "Date": "2023-05-10T00:00:00Z",
     "Additives": {
