@@ -27,20 +27,19 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei)",
+    "Name": "Gartengemüse, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl), Schwarzwurzeln (La), Erbsen-Champignon Gemüse (La,Sw), Schupfnudeln (Gl,Ei)",
     "Category": "Gemüsebar",
     "Date": "2023-05-16T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -58,17 +57,20 @@
     "Vegan": true
   },
   {
-    "Name": "Hähnchen Tika Masala mit Joghurt (La,Sf), Kräuterreis",
-    "Category": "CampusWorld",
+    "Name": "All in one pot: Reis paellastyle vegan (2,Gl,So,Sl)",
+    "Category": "CampusVital",
     "Date": "2023-05-16T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "Poultry": true
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl), Tomatensoße",
@@ -79,43 +81,9 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.3,
-    "PriceGuest": 6.5,
-    "PriceStudent": 4.0,
-    "Beef": true
-  },
-  {
-    "Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl), Wok-Gemüse, Reis",
-    "Category": "CampusSpezial",
-    "Date": "2023-05-16T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
     "PriceAttendant": 5.8,
     "PriceGuest": 7.0,
     "PriceStudent": 4.5,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Champignonrahmsoße (Gl,La,Sl,Sw), Pommes Frites (Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2023-05-16T00:00:00Z",
-    "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 5.9,
-    "PriceGuest": 7.1,
-    "PriceStudent": 4.6,
-    "Poultry": true
+    "Beef": true
   }
 ]
