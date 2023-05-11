@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
+    "Category": "Pastabar",
+    "Date": "2023-05-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
     "Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
     "Category": "Pottkieker",
     "Date": "2023-05-15T00:00:00Z",
@@ -12,5 +27,47 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "ofenfrisch...bis 16:00 Uhr..,, Flammkuchen \"BIANCO\" mit Creme und Käse (Gl,La)",
+    "Category": "CampusVital",
+    "Date": "2023-05-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.25,
+    "PriceGuest": 5.45,
+    "PriceStudent": 2.95,
+    "Vegetarian": true
+  },
+  {
+    "Name": "ofenfrisch...bis 16:00 Uhr..,, Flammkuchen mit frischen Spinat (Gl,La)",
+    "Category": "CampusSpezial",
+    "Date": "2023-05-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "ofenfrisch...bis 16:00 Uhr..,, Flammkuchen mit Speck und Zwiebeln \"Elsässer Style\" oder als VEGAN mit Räuchertofu (2,3,8,Gl,La)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-05-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.55,
+    "PriceGuest": 6.75,
+    "PriceStudent": 4.25,
+    "Pig": true
   }
 ]
