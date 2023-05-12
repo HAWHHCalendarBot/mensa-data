@@ -1,41 +1,25 @@
 [
   {
-    "Name": "Pasta Spinaci e olio d'oliva mit Spinat und Oliven (6,Gl,Sf)",
+    "Name": "Pasta Bolognese (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-12T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
-    "Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
-    "Category": "Gemüsebar",
-    "Date": "2023-05-12T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La)",
+    "Name": "Pasta hausgemachtes Pesto Genovese (2,Gl,La,48)",
     "Category": "Pastabar",
     "Date": "2023-05-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
       "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
@@ -43,7 +27,23 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Pig": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spitzkohl in Rahm (So), Frühlingsgemüse (La), gerösteter Blumenkohl, Bulgur, Sojadressing und Minze (2,Gl,So,Se)",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-12T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
@@ -97,6 +97,23 @@
     "Vegetarian": true
   },
   {
+    "Name": "Makloubeh, Orientalischer Reis mit Zimt, Nüssen, Datteln, Rosinen und Auberginegemüse (Nu,Sl,Sw), Sojajoghurt-Minz Dip (3,So)",
+    "Category": "Highlight",
+    "Date": "2023-05-12T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Gebratenes Kabeljaufilet (Gl,Fi), Broccoli Spätzle (Gl,Ei), Kräutersoße (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2023-05-12T00:00:00Z",
@@ -110,22 +127,5 @@
     "PriceGuest": 8.4,
     "PriceStudent": 5.9,
     "Fish": true
-  },
-  {
-    "Name": "Makloubeh, Orientalischer Reis mit Zimt, Nüssen, Datteln, Rosinen und Auberginegemüse (Nu,Sl,Sw), Sojajoghurt-Minz Dip (3,So)",
-    "Category": "Highlight",
-    "Date": "2023-05-12T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 7.2,
-    "PriceGuest": 8.4,
-    "PriceStudent": 5.9,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]

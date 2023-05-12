@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gerösteter Sesam-Blumenkohl (Se), Süßkartoffeln, Erbsen, Gartengemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-05-12T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +14,20 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Spinat,Karotten und Gorgonzolasahnesauce (Gl,La,Sl,48)",
     "Category": "Pastabar",
     "Date": "2023-05-12T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -69,7 +75,7 @@
     "Vegan": true
   },
   {
-    "Name": "Kabeljau aus dem Kräutersud auf Blattspinat mit Tomaten Penne (1,Gl,Fi,La,Sf)",
+    "Name": "Kabeljau aus dem Kräutersud auf Blattspinat mit Tomaten Penne (1,Gl,Fi,La,Sl,Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-05-12T00:00:00Z",
     "Additives": {
@@ -77,7 +83,8 @@
       "Fi": "Fisch und Fischerzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 7.2,
     "PriceGuest": 8.4,
