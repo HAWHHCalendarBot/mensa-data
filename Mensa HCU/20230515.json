@@ -1,37 +1,31 @@
 [
   {
-    "Name": "Tagliatelle mit Radicchio und Rucola (Gl), Rindfleischstreifen mit Lauch, getrockneten Tomaten und Bärlauch (2,5,Sl,Sw)",
+    "Name": "Erbsen mit Mais, Fingermöhrchen, Romanesco, Stangenbrechbohnen",
     "Category": "Pastabar",
     "Date": "2023-05-15T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
-    "Name": "Tagliatelle mit Radicchio und Rucola (Gl), Rindfleischstreifen mit Lauch, getrockneten Tomaten und Bärlauch (2,5,Sl,Sw)",
+    "Name": "Tagliatelle mit Radicchio und Rucola (Gl), Rindfleischstreifen mit Lauch, getrockneten Tomaten und Bärlauch (2,5,La,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-05-15T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true
+    "Beef": true
   },
   {
     "Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
@@ -70,7 +64,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ganzer Schweinenackenbraten aus dem Smoker,  Kartoffelsalat mit Gurkenwürfel und Bärlauch (3,5,9,Sl,Sf,Sw), BBQ Soße (2,9,Sl,Sf)",
+    "Name": "Ganzer Schweinenackenbraten aus dem Smoker,  Kartoffelsalat mit Gurkenwürfel und Bärlauch (3,5,9,Sl,Sf,Sw), Meerrettich-Steaksauce (2,3,5,9,La,Sl,Sf,Sw)",
     "Category": "CampusSpezial",
     "Date": "2023-05-15T00:00:00Z",
     "Additives": {
@@ -78,6 +72,7 @@
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
       "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -85,7 +80,6 @@
     "PriceAttendant": 5.5,
     "PriceGuest": 8.4,
     "PriceStudent": 4.2,
-    "LactoseFree": true,
     "Pig": true
   }
 ]
