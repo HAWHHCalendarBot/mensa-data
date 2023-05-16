@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Paprikagemüse mit Mango und Kokosmilch, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La,Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2023-05-23T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
     "Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2023-05-23T00:00:00Z",
@@ -27,6 +14,20 @@
     "Vegan": true
   },
   {
+    "Name": "Gartenbohnen mit Pfifferlingen und Cherrytomaten, Paprikagemüse mit Mango und Kokosmilch, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl), Champignons mit Austernpilzen in Kräuterrahm (La,Sw), Rosmarinkartoffeln",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-23T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
     "Category": "Pottkieker",
     "Date": "2023-05-23T00:00:00Z",
@@ -36,6 +37,19 @@
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gnocchi mit Kürbis, gerösteter Broccoli, Ajvar Dip (Gl)",
+    "Category": "CampusVital",
+    "Date": "2023-05-23T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 4.2,
+    "PriceGuest": 5.4,
+    "PriceStudent": 2.9,
     "LactoseFree": true,
     "Vegan": true
   },

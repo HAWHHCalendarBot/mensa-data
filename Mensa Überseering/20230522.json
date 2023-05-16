@@ -1,17 +1,18 @@
 [
   {
-    "Name": "Karotten, Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Rahm (Gl,La), Gemüsemix Eskorial, Süßkartoffel Gnocchi (Gl)",
+    "Name": "Karotten, Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Soja Rahm (So), Gemüsemix Eskorial, Süßkartoffel Gnocchi (Gl)",
     "Category": "Gemüsebar",
     "Date": "2023-05-22T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Conchiglie (Gl)",
@@ -42,6 +43,21 @@
     "Vegan": true
   },
   {
+    "Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-05-22T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
+    "Poultry": true
+  },
+  {
     "Name": "Vegane Maultaschen (Gl), Tomatensoße, Erbsen",
     "Category": "CampusSpezial",
     "Date": "2023-05-22T00:00:00Z",
@@ -53,20 +69,5 @@
     "PriceStudent": 3.9,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Salzkartoffeln",
-    "Category": "CampusKlassiker",
-    "Date": "2023-05-22T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 5.2,
-    "PriceGuest": 6.4,
-    "PriceStudent": 3.9,
-    "Poultry": true
   }
 ]
