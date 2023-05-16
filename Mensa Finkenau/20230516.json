@@ -1,24 +1,26 @@
 [
   {
-    "Name": "Ratatouille (Sl,Sw), Kräuterkartoffeln, Süßkartoffeln, Gartengemüse (Sl)",
+    "Name": "Ratatouille (Sl,Sw), Karotten (La), Süßkartoffeln, Gartengemüse (Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-05-16T00:00:00Z",
     "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
-    "Name": "Gebratene Mie-Nudeln mit Karotten,roten Zwiebeln (Gl,So,Sl,Se)",
+    "Name": "Gebratene Mie-Nudeln mit Karotten,roten Zwiebeln (Gl,Ei,So,La,Sl,Se)",
     "Category": "Pastabar",
     "Date": "2023-05-16T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
@@ -26,8 +28,7 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Grünkern-Chilli mit Kidneybohnen und Mais (Gl,Sl), Vollkornreis",
