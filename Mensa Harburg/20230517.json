@@ -1,20 +1,5 @@
 [
   {
-    "Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (So,Sw), Pasta (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-05-17T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "gerösteter Blumenkohl, bunte Gemüsepfanne (2,Sw), Gartengemüse, Belugalinsenragout (Sl), Chili-Kartoffeln aus dem Ofen",
     "Category": "Gemüsebar",
     "Date": "2023-05-17T00:00:00Z",
@@ -42,6 +27,22 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
+  },
+  {
+    "Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (So,Sl,Sw), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-17T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
