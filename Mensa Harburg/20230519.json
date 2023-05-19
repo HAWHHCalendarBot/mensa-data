@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Glacierte Pastinaken mit Honig, Erbsen-Mais Gemüse, Karotten, Broccoli",
-    "Category": "Gemüsebar",
-    "Date": "2023-05-19T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegetarian": true
-  },
-  {
     "Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
     "Category": "Pastabar",
     "Date": "2023-05-19T00:00:00Z",
@@ -35,6 +24,34 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Glacierte Pastinaken mit Honig, Erbsen-Mais Gemüse, Karottengemüse in Rahm (Gl,La), Broccoli",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Crema di spinaci mit Spinat-Sojasahnesoße (Gl,So,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-19T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Gemüsegulasch mit Räuchertofu (Gl,So,Sl), Vollkornreis",
@@ -66,7 +83,22 @@
     "Vegetarian": true
   },
   {
-    "Name": "Frische Wok-Gemüsepfanne (2,Sw), Hähnchen Crossies (Gl)",
+    "Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Vollkornreis",
+    "Category": "CampusWorld",
+    "Date": "2023-05-19T00:00:00Z",
+    "Additives": {
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Frische Wok-Gemüsepfanne (2,Sw), Hähnchen Crossies (Gl), Vollkornreis",
     "Category": "CampusVital",
     "Date": "2023-05-19T00:00:00Z",
     "Additives": {
