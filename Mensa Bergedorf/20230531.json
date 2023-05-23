@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Penne (Gl)",
+    "Name": "Pasta  Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Gl,La)",
     "Category": "Pastabar",
     "Date": "2023-05-31T00:00:00Z",
     "Additives": {
@@ -13,7 +13,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+    "Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-31T00:00:00Z",
+    "Additives": {
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-31T00:00:00Z",
     "Additives": {
@@ -25,20 +39,6 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Beef": true
-  },
-  {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
-    "Category": "Gemüsebar",
-    "Date": "2023-05-31T00:00:00Z",
-    "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
   },
   {
     "Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
@@ -56,7 +56,26 @@
     "Vegan": true
   },
   {
-    "Name": "gebratener Kohlrabi mit, Röstkartoffeln, Kräuterquark (La)",
+    "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-05-31T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.85,
+    "PriceGuest": 5.95,
+    "PriceStudent": 3.6,
+    "LactoseFree": true,
+    "Pig": true
+  },
+  {
+    "Name": "gebratener Blumenkohl mit, Röstkartoffeln, Kräuterquark (La)",
     "Category": "CampusVital",
     "Date": "2023-05-31T00:00:00Z",
     "Additives": {
@@ -65,6 +84,20 @@
     "PriceAttendant": 4.9,
     "PriceGuest": 6.1,
     "PriceStudent": 3.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Deutscher Spargel, zerlassene Butter oder Hollandaise (Ei,La,Sl), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2023-05-31T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
     "Vegetarian": true
   },
   {
