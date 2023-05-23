@@ -1,11 +1,23 @@
 [
   {
-    "Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+    "Name": "Fingermöhrchen, Prinzessbohnen mit Pfifferlingen, gebratene Champignons, Broccoli-Mix mit Karotten und Blumenkohl, Schwarzwurzeln, gebratene Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-23T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kartoffelgratin (Ei,La,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-05-23T00:00:00Z",
     "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,12 +25,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "all`Provenzale mit Gemüse (Sw), Pasta (Gl)",
+    "Name": "Pasta Möhren-Edamame-Curry (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-23T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,7 +40,7 @@
     "Vegan": true
   },
   {
-    "Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Pasta (Gl)",
+    "Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-23T00:00:00Z",
     "Additives": {
