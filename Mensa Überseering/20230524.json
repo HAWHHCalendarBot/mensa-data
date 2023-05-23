@@ -16,20 +16,21 @@
     "Vegan": true
   },
   {
-    "Name": "Romanesco (Sl), Erbsen-Champignon Gemüse (Sw), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Vollkornreis",
+    "Name": "Romanesco (Sl), Erbsen-Spargel Gemüse (La), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Gemüse Bulgur (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-05-24T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Chili con Corn (Gl,Sl), Basmatireis",
@@ -46,6 +47,22 @@
     "Vegan": true
   },
   {
+    "Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Vollkornreis",
+    "Category": "CampusVital",
+    "Date": "2023-05-24T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.4,
+    "PriceGuest": 5.6,
+    "PriceStudent": 3.1,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Spaghetti (Gl), Bolognese (Sl), Hartkäse gerieben (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-05-24T00:00:00Z",
@@ -58,21 +75,5 @@
     "PriceGuest": 5.8,
     "PriceStudent": 3.3,
     "Beef": true
-  },
-  {
-    "Name": "Würzige Thai-Soja-Bolognese (2,Gl,So), Mie-Nudeln (Gl,Ei)",
-    "Category": "CampusWorld",
-    "Date": "2023-05-24T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 4.6,
-    "PriceGuest": 5.8,
-    "PriceStudent": 3.3,
-    "LactoseFree": true,
-    "Vegetarian": true
   }
 ]
