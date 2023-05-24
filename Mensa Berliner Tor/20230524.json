@@ -1,5 +1,16 @@
 [
   {
+    "Name": "Vegane Bratreis mit Frühlingszwiebeln",
+    "Category": "Pastabar",
+    "Date": "2023-05-24T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "extraVEGANt pro 100gr. (Self Service)..,, Gegrillte vegane Maultaschen (Gl), Tomatensoße",
     "Category": "Pastabar",
     "Date": "2023-05-24T00:00:00Z",
@@ -11,6 +22,51 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta Pollo mit Hähnchenstreifen in Curry-Kokossoße (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Bratnudeln mit Gemüsestreifen und Soja (2,Gl,So,Se)",
+    "Category": "Pastabar",
+    "Date": "2023-05-24T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Broccoli-Gemüse, vegan, Buntes Wokgemüse Indonesia (So,Sf), Karotten (La), Spicy Kartoffelspalten (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-24T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
