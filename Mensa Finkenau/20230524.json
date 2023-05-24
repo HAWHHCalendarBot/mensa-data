@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "gebackene Aubergine, Gartengemüse (Sl), Kräuterkartoffeln, Süßkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2023-05-24T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,11 +13,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Babyspinat,Zucchini und Sonnenblumenhack (Gl,Nu,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-24T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -51,6 +55,22 @@
     "PriceGuest": 6.3,
     "PriceStudent": 3.8,
     "Fish": true
+  },
+  {
+    "Name": "Ägyptische Falafel (Gl,Sl), Knoblauchdip (Sf), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
+    "Category": "CampusWorld",
+    "Date": "2023-05-24T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Schweinebraten, Biersoße (Gl,Sl), Sauerkraut mit Speck (2,3,8,Sl), Semmelklöße (Gl,Ei)",
