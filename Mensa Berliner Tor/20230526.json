@@ -1,5 +1,31 @@
 [
   {
+    "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei)",
+    "Category": "Pastabar",
+    "Date": "2023-05-26T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Broccoli-Gemüse, vegan, gebratene Champignons, vegan (Sw), Brechbohnen, vegan",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-26T00:00:00Z",
+    "Additives": {
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "extraVEGANt pro 100gr. (Self Service)..,, Rosenkohl-Edamame-Curry mit Reisnudeln (So,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-26T00:00:00Z",
@@ -12,6 +38,35 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Spaghetti-Auflauf mit Broccoli und Käse überbacken (1,Gl,La)",
+    "Category": "Pastabar",
+    "Date": "2023-05-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta al forno della nonna mit Hähnchen und Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2023-05-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
   },
   {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
@@ -53,21 +108,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2023-05-26T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 4.7,
-    "PriceGuest": 5.9,
-    "PriceStudent": 3.4,
-    "Pig": true
-  },
-  {
     "Name": "ofenfrisch...bis 16:00 Uhr..,, Flammkuchen mit frischen Spinat (Gl,La)",
     "Category": "CampusSpezial",
     "Date": "2023-05-26T00:00:00Z",
@@ -79,6 +119,20 @@
     "PriceGuest": 6.1,
     "PriceStudent": 3.6,
     "Vegetarian": true
+  },
+  {
+    "Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Rosmarinkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-05-26T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.0,
+    "PriceGuest": 6.2,
+    "PriceStudent": 3.7,
+    "Pig": true
   },
   {
     "Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
