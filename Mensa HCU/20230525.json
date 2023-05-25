@@ -1,11 +1,9 @@
 [
   {
-    "Name": "Gnocchi mit Kürbis, gerösteter Broccoli, Ajvar Dip (Gl)",
+    "Name": "Gnocchi mit Kürbis, Tomatensoße mit paprika und Kürbis",
     "Category": "Pastabar",
     "Date": "2023-05-25T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
+    "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
@@ -42,5 +40,23 @@
     "PriceGuest": 6.8,
     "PriceStudent": 3.4,
     "Pig": true
+  },
+  {
+    "Name": "Vegane Gyros-Bowl mit Sojagyros (So,Sl), Reis, veganes Tzatziki (So,Sf), Krautsalat (3,5,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-05-25T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 8.4,
+    "PriceStudent": 4.2,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
