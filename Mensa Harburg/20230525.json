@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Kartoffelpfanne (Sl), Auberginen mit Champignons (Sw), gebratene Zucchini, glacierte Pastinaken, geschmorter Wirsing mit Kartoffeln und Curry",
     "Category": "Gemüsebar",
     "Date": "2023-05-25T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,31 +14,60 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta mit Austernpilzen, Erbsen und Paprika (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-05-25T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-05-25T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta mit Chili con Corn (Gl,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-25T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Schupfnudeln (Gl,Ei)",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-25T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Spargelragout (Ei,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-05-25T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
@@ -104,7 +136,6 @@
     "PriceAttendant": 6.9,
     "PriceGuest": 8.1,
     "PriceStudent": 5.6,
-    "Alcohol": true,
     "Beef": true,
     "Pig": true
   }
