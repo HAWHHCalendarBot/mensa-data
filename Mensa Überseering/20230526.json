@@ -1,24 +1,13 @@
 [
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), Gemüsepfanne Texas, Zuckerschoten",
-    "Category": "Gemüsebar",
-    "Date": "2023-05-26T00:00:00Z",
-    "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se), Vollkorn Fussili (Gl)",
     "Category": "Pastabar",
     "Date": "2023-05-26T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -27,7 +16,26 @@
     "Vegan": true
   },
   {
-    "Name": "Blumenkohl Korma, Reis",
+    "Name": "Cajun Gemüse (Sl), Champignons mit Austernpilzen in Kräuterrahm (La,Sw), tomatisiertes Paprika-Karottengemüse, gebratene Paprika (1,5,Sw), Bratkartoffeln, Bratnudeln mit Gemüsestreifen (2,Gl,So)",
+    "Category": "Gemüsebar",
+    "Date": "2023-05-26T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Blumenkohl Korma, Basmatireis",
     "Category": "Pottkieker",
     "Date": "2023-05-26T00:00:00Z",
     "Additives": {},
@@ -38,11 +46,12 @@
     "Vegan": true
   },
   {
-    "Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
+    "Name": "Scharfes Kürbisgemüse mit Linsen und Rucola (So), Penne (Gl)",
     "Category": "CampusVital",
     "Date": "2023-05-26T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.8,
     "PriceGuest": 5.0,
