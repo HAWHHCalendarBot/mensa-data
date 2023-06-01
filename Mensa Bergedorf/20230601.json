@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (Gl)",
+    "Name": "Pasta all`Amatriciana mit Hähnchen, Paprika und Tomaten (2,3,8,Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-01T00:00:00Z",
     "Additives": {
@@ -16,7 +16,24 @@
     "Pig": true
   },
   {
-    "Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Eliche (Gl)",
+    "Name": "Frühlingsgemüse, Spitzkohl gebraten, Blumenkohl gratiniert (2,Gl,La,48), Schnittbohnen in Rahmsauce (Gl,La,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-01T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Gl,La,Nu,Sl,48)",
     "Category": "Pastabar",
     "Date": "2023-06-01T00:00:00Z",
     "Additives": {
@@ -33,39 +50,6 @@
     "Vegetarian": true
   },
   {
-    "Name": "Knoblauch Champignons aus dem Ofen (1,2,5,Gl,So,Sw), Frühlingsgemüse (La), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln, gebratene Champignons (La,Sw)",
-    "Category": "Gemüsebar",
-    "Date": "2023-06-01T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "So": "Soja und Sojaerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
-    "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf)",
-    "Category": "CampusVital",
-    "Date": "2023-06-01T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 3.05,
-    "PriceGuest": 4.15,
-    "PriceStudent": 1.8,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-06-01T00:00:00Z",
@@ -78,6 +62,21 @@
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Reis",
+    "Category": "CampusVital",
+    "Date": "2023-06-01T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.8,
+    "PriceGuest": 5.0,
+    "PriceStudent": 2.5,
     "LactoseFree": true,
     "Vegan": true
   },
@@ -99,16 +98,16 @@
     "Poultry": true
   },
   {
-    "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw)",
+    "Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Reis",
     "Category": "CampusWorld",
     "Date": "2023-06-01T00:00:00Z",
     "Additives": {
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 5.15,
-    "PriceGuest": 6.25,
-    "PriceStudent": 3.9,
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
     "LactoseFree": true,
     "Poultry": true
   }
