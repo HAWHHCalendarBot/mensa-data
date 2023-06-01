@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Süßkartoffeln, Erbsen, gebackene Aubergine, gerösteter Blumenkohl",
     "Category": "Gemüsebar",
     "Date": "2023-06-01T00:00:00Z",
     "Additives": {},
@@ -11,17 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Käsespätzle (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-06-01T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Extra: Kartoffelspalten (Gl)",
@@ -50,7 +51,7 @@
     "Vegan": true
   },
   {
-    "Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
+    "Name": "Kartoffel-Karotten-Ragout (Sl), Reis",
     "Category": "Pottkieker",
     "Date": "2023-06-01T00:00:00Z",
     "Additives": {
