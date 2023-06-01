@@ -1,5 +1,49 @@
 [
   {
+    "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Broccoli (La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-09T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pomodoro, capperi e tofu mit Tomatensoße, Kapern und Tofu (6,So,Sl), Vollkorn Fussili (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-06-09T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",
+    "Category": "Pottkieker",
+    "Date": "2023-06-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Gemüsefrikadelle (Gl,Sl), Kerbelsoße (Gl,La), Kartoffel Möhrenstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-06-09T00:00:00Z",
@@ -8,9 +52,27 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 5.2,
-    "PriceGuest": 6.4,
-    "PriceStudent": 3.9,
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
     "Vegetarian": true
+  },
+  {
+    "Name": "Gebratenes Zanderfilet (Gl,Fi), Lemon Hollandaise (Ei,La,Sl,Sw), Fingermöhrchen (La), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-09T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 7.1,
+    "PriceGuest": 8.3,
+    "PriceStudent": 5.8,
+    "Alcohol": true,
+    "Fish": true
   }
 ]
