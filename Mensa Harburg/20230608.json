@@ -1,5 +1,91 @@
 [
   {
+    "Name": "Gemüsebar des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-08T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-06-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-06-08T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2023-06-08T00:00:00Z",
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
+    "Category": "CampusVital",
+    "Date": "2023-06-08T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.9,
+    "PriceGuest": 5.1,
+    "PriceStudent": 2.6,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Thüringer Bratwurst vom Grill (8,Sl,Sf), Karottengemüse in Kräuterrahm (Gl,La), Salzkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-08T00:00:00Z",
+    "Additives": {
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.9,
+    "PriceGuest": 6.1,
+    "PriceStudent": 3.6,
+    "Pig": true
+  },
+  {
     "Name": "Vegetarischer Burger \"Toscana Style\" mit Milchschnitzel, Gouda und (1,2,Gl,Ei,La,Se,Sw), Tomaten-Basilikumsauce (La), Pommes Frites (Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-06-08T00:00:00Z",
