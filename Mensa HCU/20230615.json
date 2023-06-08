@@ -1,5 +1,18 @@
 [
   {
+    "Name": "Vegane Pasta (Gl), \"Aglio e olio\" mit Tomate und Knoblauch",
+    "Category": "Pastabar",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
     "Category": "Pottkieker",
     "Date": "2023-06-15T00:00:00Z",
@@ -16,26 +29,6 @@
     "Vegan": true
   },
   {
-    "Name": "Massam-Curry mit Kartoffeln, Edamame und Räuchertofu (1,2,3,Gl,En,So,Sl,Sf)",
-    "Category": "CampusVital",
-    "Date": "2023-06-15T00:00:00Z",
-    "Additives": {
-      "1": "Farbstoff",
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "En": "Erdnüsse und Erdnusserzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 5.0,
-    "PriceGuest": 7.4,
-    "PriceStudent": 3.7,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Kartoffelpüree (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-06-15T00:00:00Z",
@@ -47,5 +40,47 @@
     "PriceGuest": 7.8,
     "PriceStudent": 3.9,
     "Pig": true
+  },
+  {
+    "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (2,Gl,En,So,Sl,Sf,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 7.8,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Asia-Reis-Pot, Hähnchenstreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 7.8,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
