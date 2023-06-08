@@ -1,10 +1,24 @@
 [
   {
-    "Name": "Tomatensoße, Farfalle (Gl)",
+    "Name": "Tomatensoße, Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-15T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Erbsen-Mais Gemüse, Schwarzwurzeln, Spanisches Pfannengemüse, Romanesco (Sl), Perlgraupen (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -25,6 +39,55 @@
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Hähnchenkeule (Sf), Koriandersalsa, gemischte Blattsalate (Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.1,
+    "PriceGuest": 7.3,
+    "PriceStudent": 4.8,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Bibimbap Bowl mit Sonnenblumenhack und Champignons (2,3,5,Gl,So,Sl,Sf,Se,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.6,
+    "PriceGuest": 7.8,
+    "PriceStudent": 5.3,
     "LactoseFree": true,
     "Vegan": true
   }
