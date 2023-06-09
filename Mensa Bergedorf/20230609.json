@@ -13,20 +13,6 @@
     "Poultry": true
   },
   {
-    "Name": "Blattspinat, Grillgemüse (Sl,Sf)",
-    "Category": "Gemüsebar",
-    "Date": "2023-06-09T00:00:00Z",
-    "Additives": {
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta Crema di funghi mit Champignons in Cremesoße (La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-06-09T00:00:00Z",
@@ -38,6 +24,22 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Blattspinat, Grillgemüse (Sl,Sf), Porreegemüse in Rahm (Gl,So), gebackene Süßkartoffel",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-09T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pasta Frutti di mare mit Meeresfrüchten (Gl,Kr,La,Sl,Wt)",
