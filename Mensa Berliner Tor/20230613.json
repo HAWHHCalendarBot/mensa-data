@@ -1,5 +1,35 @@
 [
   {
+    "Name": "Pasta al forno della nonna mit Hähnchen und Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2023-06-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
+    "Category": "Pastabar",
+    "Date": "2023-06-13T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
     "Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
     "Category": "Pottkieker",
     "Date": "2023-06-13T00:00:00Z",
@@ -11,5 +41,19 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Putengulasch (Gl,La,Sl), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-13T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Poultry": true
   }
 ]

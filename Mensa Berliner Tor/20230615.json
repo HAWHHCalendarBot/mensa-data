@@ -1,5 +1,35 @@
 [
   {
+    "Name": "Pasta al forno della nonna mit Hähnchen und Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
+    "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
+    "Category": "Pastabar",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
     "Category": "Pottkieker",
     "Date": "2023-06-15T00:00:00Z",
@@ -14,5 +44,42 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Bratkartoffeln",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Fish": true
+  },
+  {
+    "Name": "curryWURSTtag..,, Currybratwurst (Schwein oder Geflügel oder Veggie) (3,4,8,Ei,La,Sl,Sf), Curry Sauce oder (2,9,Sl,Sf), Hot Curry Sauce (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-15T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
+    "Beef": true,
+    "Pig": true,
+    "Poultry": true
   }
 ]

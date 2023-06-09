@@ -1,14 +1,11 @@
 [
   {
-    "Name": "Pasta Pomodoro, capperi e tofu mit Tomatensoße, Kapern und Tofu (6,Gl,So,La,Sl)",
+    "Name": "Pasta Crema di funghi mit Champignons in Cremesoße (La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-06-09T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -16,24 +13,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Salsiccia e lenticchie mit Wurst und Belugalinsen (2,3,8,Gl,So,La,Sl,Sf)",
+    "Name": "Pasta Frutti di mare mit Meeresfrüchten (Gl,Kr,La,Sl,Wt)",
     "Category": "Pastabar",
     "Date": "2023-06-09T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Kr": "Krebstiere und Krebstiererzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "Pig": true
+    "PriceStudent": 0.75
   },
   {
     "Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La)",
@@ -57,12 +49,13 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",
+    "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-06-09T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
@@ -71,7 +64,7 @@
     "Vegan": true
   },
   {
-    "Name": "Gebackene Seelachsfiletwürfel (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw)",
+    "Name": "Fish´n Chips (Gl,Fi,La), Remoulade (1,3,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2023-06-09T00:00:00Z",
     "Additives": {
@@ -85,19 +78,20 @@
       "Sf": "Senf und Senferzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.45,
-    "PriceGuest": 5.55,
-    "PriceStudent": 3.2,
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
     "Fish": true
   },
   {
-    "Name": "Ofenkartoffel mit Ratatouille gratiniert (1,Sw), Blattsalat mit Karotte (3,5,Sw)",
+    "Name": "Kumpir mit Ratattouille (1,So,Sw), Blattsalat mit Karotte (3,5,Sw)",
     "Category": "CampusVital",
     "Date": "2023-06-09T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
+      "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 5.3,

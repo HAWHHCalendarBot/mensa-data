@@ -1,5 +1,20 @@
 [
   {
+    "Name": "Pasta al forno della nonna mit Hähnchen und Käse überbacken (1,Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
+  },
+  {
     "Name": "Blumenkohl Korma, Reis",
     "Category": "Pottkieker",
     "Date": "2023-06-16T00:00:00Z",
@@ -9,5 +24,45 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Asia-Reis-Pot, Hähnchenstreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Gl,Ei,La,48)",
+    "Category": "CampusWorld",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 6.6,
+    "PriceGuest": 7.8,
+    "PriceStudent": 5.3,
+    "Vegetarian": true
   }
 ]
