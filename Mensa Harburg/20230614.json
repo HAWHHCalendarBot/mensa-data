@@ -1,6 +1,35 @@
 [
   {
-    "Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se), Reis",
+    "Name": "gebratene Zucchini, Couscous mit Broccoli, Karotten und Kichererbsen (Gl,Sl), Prinzessbohnen, karamellisierte Schwarzwurzeln, Karotten, gedünsteter Weißkohl",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-06-14T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
+  },
+  {
+    "Name": "Sojastreifen in asiatischer Soja-Currysoße (2,Gl,So,Se), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-14T00:00:00Z",
     "Additives": {
@@ -16,32 +45,14 @@
     "Vegan": true
   },
   {
-    "Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (Gl)",
+    "Name": "Sojastreifen in asiatischer Soja-Currysoße (2,Gl,So,Se), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-14T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "8": "Phosphat",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Pig": true
-  },
-  {
-    "Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
-    "Category": "Gemüsebar",
-    "Date": "2023-06-14T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -95,7 +106,26 @@
     "Vegetarian": true
   },
   {
-    "Name": "Frisch gegrillte Krakauer Bratwurst (2,3,4,8,So,Sf), italienischer Nudelsalat (3,5,Gl,Sw)",
+    "Name": "Bratwurst Thüringer Art (8,Sl,Sf), italienischer Nudelsalat (3,5,Gl,La,Sw), Knoblauchdip mit Rucola (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-14T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.9,
+    "PriceGuest": 8.1,
+    "PriceStudent": 5.6,
+    "Pig": true
+  },
+  {
+    "Name": "Frisch gegrillte Krakauer Bratwurst (2,3,4,8,So,Sf), italienischer Nudelsalat (3,5,Gl,La,Sw), Knoblauchdip mit Rucola (Sf)",
     "Category": "CampusSpezial",
     "Date": "2023-06-14T00:00:00Z",
     "Additives": {
@@ -105,6 +135,7 @@
       "5": "Geschwefelt",
       "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -112,7 +143,6 @@
     "PriceAttendant": 6.9,
     "PriceGuest": 8.1,
     "PriceStudent": 5.6,
-    "LactoseFree": true,
     "Pig": true
   }
 ]
