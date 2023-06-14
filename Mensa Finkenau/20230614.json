@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Pasta mit gerillter Zucchini und Tomatenpesto (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-06-14T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Süßkartoffeln, Gartengemüse (Sl), gebackene Aubergine, Kräuterkartoffeln",
     "Category": "Gemüsebar",
     "Date": "2023-06-14T00:00:00Z",
@@ -24,6 +11,20 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta mit gerillter Zucchini und Tomatenpesto (Gl,La,Nu)",
+    "Category": "Pastabar",
+    "Date": "2023-06-14T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
