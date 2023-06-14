@@ -2,7 +2,7 @@
   {
     "Name": "extraVEGANt pro 100gr. (Self Service)..,",
     "Category": "Pastabar",
-    "Date": "2023-06-20T00:00:00Z",
+    "Date": "2023-06-22T00:00:00Z",
     "Additives": {},
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,7 +13,7 @@
   {
     "Name": "Pasta al forno della nonna mit Hähnchen und Käse überbacken (1,Gl,Ei,La)",
     "Category": "Pastabar",
-    "Date": "2023-06-20T00:00:00Z",
+    "Date": "2023-06-22T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "Ei": "Ei und Eierzeugnisse",
@@ -28,7 +28,7 @@
   {
     "Name": "Pommes (Sf), Chili Cheese (1,2,La)",
     "Category": "Pastabar",
-    "Date": "2023-06-20T00:00:00Z",
+    "Date": "2023-06-22T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "2": "Konservierungsstoff",
@@ -41,11 +41,14 @@
     "Beef": true
   },
   {
-    "Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
+    "Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
     "Category": "Pottkieker",
-    "Date": "2023-06-20T00:00:00Z",
+    "Date": "2023-06-22T00:00:00Z",
     "Additives": {
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
@@ -54,25 +57,25 @@
     "Vegan": true
   },
   {
-    "Name": "Basil Burger mit pikanter Thai Mayo (2,3,Gl,Ei,Fi,La,Nu,Sf,Se,Lu), Pommes Frites (Sf)",
-    "Category": "CampusSpezial",
-    "Date": "2023-06-20T00:00:00Z",
+    "Name": "curryWURSTtag..,, Currybratwurst (Schwein oder Geflügel oder Veggie) (3,4,8,Ei,La,Sl,Sf), Curry Sauce oder (2,9,Sl,Sf), Hot Curry Sauce (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-22T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
       "Ei": "Ei und Eierzeugnisse",
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Lu": "Lupine und - erzeugnisse",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 6.8,
-    "PriceGuest": 8.0,
-    "PriceStudent": 5.5,
+    "PriceAttendant": 5.7,
+    "PriceGuest": 6.9,
+    "PriceStudent": 4.4,
     "Beef": true,
-    "Fish": true
+    "Pig": true,
+    "Poultry": true
   }
 ]
