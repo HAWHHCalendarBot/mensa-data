@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüse des Tages",
+    "Name": "Gartengemüse (Sl), Süßkartoffeln, gebackene Aubergine, gebratene Champignons (Sw)",
     "Category": "Gemüsebar",
     "Date": "2023-06-15T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,17 +14,21 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit rote Bete,Schafskäse und Dill (9,Gl,La,Sl,48)",
     "Category": "Pastabar",
     "Date": "2023-06-15T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Kartoffel-Kürbis-Ragout (Sl), Couscous (Gl,Sl)",
@@ -38,10 +45,11 @@
     "Vegan": true
   },
   {
-    "Name": "Sojastreifen mit Gemüse und Cashewkerne (So,Nu,Sl,Sf), Basmatireis",
+    "Name": "Sojastreifen mit Gemüse und Kerne (En,So,Nu,Sl,Sf), Basmatireis",
     "Category": "CampusVital",
     "Date": "2023-06-15T00:00:00Z",
     "Additives": {
+      "En": "Erdnüsse und Erdnusserzeugnisse",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
