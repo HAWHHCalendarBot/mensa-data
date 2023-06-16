@@ -1,19 +1,5 @@
 [
   {
-    "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
-    "Category": "Gemüsebar",
-    "Date": "2023-06-16T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta all`Amatriciana mit Hähnchen und Tomaten (Gl,So)",
     "Category": "Pastabar",
     "Date": "2023-06-16T00:00:00Z",
@@ -26,6 +12,39 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Gemüse Bulgur (Gl,Sl), gebratenem Wirsing, Spicy Wedges (Gl), gebratene Zucchini, Kartoffel-Spargel Fritata (Ei), Kartoffel Gemüsecurry (2,Sl,Sf)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
+    "Category": "Pastabar",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Pasta mit hausgemachtes Pesto Genovese (2,Gl,La,Nu,48)",
