@@ -1,49 +1,48 @@
 [
   {
-    "Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-06-16T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), Farfalle (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-06-16T00:00:00Z",
-    "Additives": {
-      "Fi": "Fisch und Fischerzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Fish": true
-  },
-  {
     "Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
     "Category": "Gemüsebar",
     "Date": "2023-06-16T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
-      "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta all`Amatriciana mit Hähnchen und Tomaten (Gl,So)",
+    "Category": "Pastabar",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
+    "Name": "Pasta mit hausgemachtes Pesto Genovese (2,Gl,La,Nu,48)",
+    "Category": "Pastabar",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Blumenkohl Korma, Reis",
@@ -71,7 +70,23 @@
     "Vegetarian": true
   },
   {
-    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf)",
+    "Name": "Grillgemüse Burger (3,Gl,Se,Sw)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-16T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.25,
+    "PriceGuest": 6.35,
+    "PriceStudent": 4.0,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Gebratenes Seelachsfilet (Gl,Fi), Dijon-Senfsoße (Gl,La,Sf), Salat (Sf)",
     "Category": "CampusKlassiker",
     "Date": "2023-06-16T00:00:00Z",
     "Additives": {
