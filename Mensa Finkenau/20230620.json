@@ -1,16 +1,5 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-06-20T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta des Tages (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-20T00:00:00Z",
@@ -24,16 +13,24 @@
     "Vegan": true
   },
   {
-    "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
-    "Category": "Pottkieker",
+    "Name": "Couscous (Gl,Sl), Gartengemüse (Sl), Ägyptische Falafel (Gl,Sl), gerösteter Blumenkohl",
+    "Category": "Gemüsebar",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {
-      "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Kichererbsencurry, Karotten",
+    "Category": "Pottkieker",
+    "Date": "2023-06-20T00:00:00Z",
+    "Additives": {},
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
     "PriceStudent": 2.2,
