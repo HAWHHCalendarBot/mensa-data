@@ -1,18 +1,5 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Süßkartoffelwürfel gebacken, Zuckerschoten, Linsengemüse in Kokoscreme (Sl), Langkorn-Wildreis, Schnittlauchkartoffeln",
-    "Category": "Gemüsebar",
-    "Date": "2023-06-20T00:00:00Z",
-    "Additives": {
-      "6": "Geschwärzt",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Vegetarian": true
-  },
-  {
     "Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-20T00:00:00Z",
@@ -25,6 +12,20 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Poultry": true
+  },
+  {
+    "Name": "Schnittlauchkartoffeln, Gemüse Bulgur (Gl,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-20T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Fusilli (Gl)",
@@ -40,6 +41,22 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Süßkartoffelwürfel gebacken, Blumenkohl (Sf), Tomaten- Staudenselleriegemüse (Sl,Sw), Blattspinat mit Hirtenkäse (La)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-20T00:00:00Z",
+    "Additives": {
+      "6": "Geschwärzt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
@@ -68,7 +85,7 @@
     "Vegan": true
   },
   {
-    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl)",
+    "Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl), Tomatensoße (Sl)",
     "Category": "CampusKlassiker",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {

@@ -1,10 +1,10 @@
 [
   {
-    "Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), gerösteter Broccoli",
+    "Name": "Fenchelgemüse (Sl), Nusskartoffeln, pikantes Grillgemüse (Sl,Sf), Gemüsemix Eskorial",
     "Category": "Gemüsebar",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {
-      "6": "Geschwärzt",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -14,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Gl,Sl)",
+    "Name": "Pasta Bolognese (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {
@@ -24,8 +24,8 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
+    "Beef": true,
+    "LactoseFree": true
   },
   {
     "Name": "Pasta Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl)",
@@ -41,6 +41,25 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta Arcobaleno mit Putenbrust und Käse (1,2,3,8,Gl,La,Sl,Sw)",
+    "Category": "Pastabar",
+    "Date": "2023-06-20T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Poultry": true
   },
   {
     "Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
@@ -71,7 +90,7 @@
     "Vegan": true
   },
   {
-    "Name": "Matjesfilets (2,Fi,La), Matjessoße Hausfrauen Art (3,9,La,Sw)",
+    "Name": "Matjesfilets (2,Fi,La), Matjessoße Hausfrauen Art (3,9,La,Sw), Bratkartoffeln",
     "Category": "CampusKlassiker",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {
@@ -82,22 +101,22 @@
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 4.35,
-    "PriceGuest": 5.45,
-    "PriceStudent": 3.1,
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
     "Fish": true
   },
   {
-    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La)",
+    "Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Reis",
     "Category": "CampusVital",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {
       "Ei": "Ei und Eierzeugnisse",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
-    "PriceAttendant": 4.55,
-    "PriceGuest": 5.65,
-    "PriceStudent": 3.3,
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
     "Vegetarian": true
   },
   {
