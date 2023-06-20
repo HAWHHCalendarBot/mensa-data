@@ -1,10 +1,11 @@
 [
   {
-    "Name": "Pasta des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Couscous (Gl,Sl), Gartengemüse (Sl), Ägyptische Falafel (Gl,Sl), gerösteter Blumenkohl",
+    "Category": "Gemüsebar",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,12 +14,15 @@
     "Vegan": true
   },
   {
-    "Name": "Couscous (Gl,Sl), Gartengemüse (Sl), Ägyptische Falafel (Gl,Sl), gerösteter Blumenkohl",
-    "Category": "Gemüsebar",
+    "Name": "gebratene Mie-Nudeln mit Sprossen,Pak Choy,Tofu in Sojasauce (2,Gl,So,Sl,Se)",
+    "Category": "Pastabar",
     "Date": "2023-06-20T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -67,6 +71,23 @@
     "PriceGuest": 6.8,
     "PriceStudent": 4.3,
     "Pig": true
+  },
+  {
+    "Name": "Deutscher Spargel, Hollandaise (Gl,Ei,La,Sl,Sw), Salzkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-20T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Alcohol": true,
+    "Vegetarian": true
   },
   {
     "Name": "Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Hummus, Süßkartoffel, Karachi-Dressing (Gl,Sl,Sf,Se)",
