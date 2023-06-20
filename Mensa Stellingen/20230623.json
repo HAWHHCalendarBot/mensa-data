@@ -45,20 +45,51 @@
     "Fish": true
   },
   {
-    "Name": "Hähnchen Cordon Bleu (2,Gl,La), tomatisierte Hollandaise (Ei,La,Sl), Erbsen &amp; Karotten (La), Kräuterkartoffeln",
+    "Name": "Rinderhacksteak (Gl,Ei,La,Sl,Sf), Sour Cream (4,Ei,La,Sf), kleine Kartoffeln aus dem Ofen",
     "Category": "CampusKlassiker",
     "Date": "2023-06-23T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
       "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
-    "PriceAttendant": 6.1,
-    "PriceGuest": 7.3,
-    "PriceStudent": 4.8,
-    "Poultry": true
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Beef": true
+  },
+  {
+    "Name": "Deutscher Spargel, Sc. Hollandaise (Ei,La,Sl), Petersilienkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-23T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Deutscher Spargel, Kokos-Orangen-Soße (9,Gl,So,Sf), Petersilienkartoffeln",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-23T00:00:00Z",
+    "Additives": {
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 7.4,
+    "PriceStudent": 4.9,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pulled Pork Burger (3,Gl,Ei,La,Sf,Lu), Cole slaw (1,3,9,Ei,La,Sf), Pommes Frites (Sf)",
