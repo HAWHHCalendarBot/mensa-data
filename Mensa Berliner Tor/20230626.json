@@ -1,9 +1,11 @@
 [
   {
-    "Name": "extraVEGANt pro 100gr. (Self Service)..,",
+    "Name": "extraVEGANt pro 100gr. (Self Service)..,, Penne (Gl), Veganes Rucola Pesto, hausgemacht, Rucola mit Tomatenwürfeln",
     "Category": "Pastabar",
     "Date": "2023-06-26T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -55,6 +57,20 @@
     "Vegan": true
   },
   {
+    "Name": "Wir kochen was Sie lieben..., Paniertes Putenschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-26T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.85,
+    "PriceGuest": 6.05,
+    "PriceStudent": 3.55,
+    "Poultry": true
+  },
+  {
     "Name": "Pizza Margherita Large (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2023-06-26T00:00:00Z",
@@ -66,6 +82,24 @@
     "PriceGuest": 6.9,
     "PriceStudent": 4.4,
     "Vegetarian": true
+  },
+  {
+    "Name": "Taco Bowl VEGAN / Hot Soja / Salat / Gurken / Jalapeno (So,Sw), Mexikanische Salsa (4,9,Sl), Mandelreis (Nu)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-26T00:00:00Z",
+    "Additives": {
+      "4": "Geschmacksverstärker",
+      "9": "Süßungsmittel",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.75,
+    "PriceGuest": 6.95,
+    "PriceStudent": 4.45,
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Pizza Margeritha vegan Large (1,Gl)",
@@ -139,6 +173,23 @@
     "PriceStudent": 5.1,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Taco Bowl / Hot Turkey / Salat / Gurken / Jalapeno (Sw), Mexikanische Salsa (4,9,Sl), Mandelreis (Nu)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-26T00:00:00Z",
+    "Additives": {
+      "4": "Geschmacksverstärker",
+      "9": "Süßungsmittel",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.6,
+    "PriceGuest": 7.8,
+    "PriceStudent": 5.3,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Gl,Ei,La,48)",

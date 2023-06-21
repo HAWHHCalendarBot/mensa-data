@@ -1,16 +1,5 @@
 [
   {
-    "Name": "extraVEGANt pro 100gr. (Self Service)..,",
-    "Category": "Pastabar",
-    "Date": "2023-06-27T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
     "Name": "Pasta al forno della nonna mit Hähnchen und Käse überbacken (1,Gl,Ei,La)",
     "Category": "Pastabar",
     "Date": "2023-06-27T00:00:00Z",
@@ -41,6 +30,22 @@
     "Beef": true
   },
   {
+    "Name": "extraVEGANt pro 100gr. (Self Service)..,, Gemüse Bulgur (Gl,Sl), Ägyptische Falafel (Gl,Sl), veganes Tzatziki (So,Sf)",
+    "Category": "Pastabar",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-06-27T00:00:00Z",
@@ -53,6 +58,19 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Hähnchen Tikka Masala mit Joghurt (La,Sf), Kräuterreis",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 4.7,
+    "PriceGuest": 5.9,
+    "PriceStudent": 3.4,
+    "Poultry": true
   },
   {
     "Name": "Pizza Margherita Large (Gl,La)",
@@ -98,6 +116,27 @@
     "Pig": true
   },
   {
+    "Name": "Spicy Veggie Kürbis-Chia Burger mit Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.0,
+    "PriceGuest": 7.2,
+    "PriceStudent": 4.7,
+    "LactoseFree": true,
+    "Vegetarian": true
+  },
+  {
     "Name": "Pizza Funghi Large (Gl,La)",
     "Category": "CampusWorld",
     "Date": "2023-06-27T00:00:00Z",
@@ -139,6 +178,27 @@
     "PriceStudent": 5.1,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Spicy Chicken Burger mit Erdnüssen (1,2,3,9,Gl,Ei,En,So,Sf), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "En": "Erdnüsse und Erdnusserzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.4,
+    "PriceGuest": 7.6,
+    "PriceStudent": 5.1,
+    "LactoseFree": true,
+    "Poultry": true
   },
   {
     "Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Gl,Ei,La,48)",

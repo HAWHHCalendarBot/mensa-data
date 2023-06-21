@@ -1,9 +1,12 @@
 [
   {
-    "Name": "extraVEGANt pro 100gr. (Self Service)..,",
+    "Name": "extraVEGANt pro 100gr. (Self Service)..,, Ofenkartoffel mit Ratatouille gratiniert (1,Sw)",
     "Category": "Pastabar",
     "Date": "2023-06-29T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "1": "Farbstoff",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -162,6 +165,26 @@
     "PriceStudent": 5.1,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Caesars Salad mit Hähnchebrust und Baguette (2,3,8,Gl,Ei,La,Sf,Sw,48)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-29T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 6.4,
+    "PriceGuest": 7.6,
+    "PriceStudent": 5.1,
+    "Poultry": true
   },
   {
     "Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Gl,Ei,La,48)",
