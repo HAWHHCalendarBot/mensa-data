@@ -1,5 +1,16 @@
 [
   {
+    "Name": "all`Amatriciana mit Hähnchenund Tomaten",
+    "Category": "Pastabar",
+    "Date": "2023-06-21T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Poultry": true
+  },
+  {
     "Name": "Pasta Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Gl,La)",
     "Category": "Pastabar",
     "Date": "2023-06-21T00:00:00Z",
@@ -13,18 +24,19 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
+    "Name": "Pasta Soja Bolognese mit Gemüse (Gl,So,Sl)",
     "Category": "Pastabar",
     "Date": "2023-06-21T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu)",
@@ -89,34 +101,31 @@
     "Beef": true
   },
   {
-    "Name": "Deutscher Spargel, zerlassene Butter oder Hollandaise (Ei,La,Sl), Salzkartoffeln",
+    "Name": "Röstkartoffeln mit Spitzkohl, gebratener Paprika, Sonneblumenhack und Skyr (3,So,Sl,Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-06-21T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.65,
+    "PriceGuest": 6.85,
+    "PriceStudent": 4.35,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Deutscher Spargel, zerlassene Butter (La), Salzkartoffeln",
     "Category": "CampusSpezial",
     "Date": "2023-06-21T00:00:00Z",
     "Additives": {
-      "Ei": "Ei und Eierzeugnisse",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
     },
     "PriceAttendant": 6.2,
     "PriceGuest": 7.4,
     "PriceStudent": 4.9,
     "Vegetarian": true
-  },
-  {
-    "Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonneblumenhack und Skyr (3,Gl,So,Sl,Sf)",
-    "Category": "CampusKlassiker",
-    "Date": "2023-06-21T00:00:00Z",
-    "Additives": {
-      "3": "Antioxidationsmittel",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
-    },
-    "PriceAttendant": 6.7,
-    "PriceGuest": 7.9,
-    "PriceStudent": 5.4,
-    "LactoseFree": true,
-    "Vegan": true
   }
 ]
