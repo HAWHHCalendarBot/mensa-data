@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+    "Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-29T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -25,12 +28,11 @@
     "Vegetarian": true
   },
   {
-    "Name": "Mandelbroccoli (La,Nu), Gemüsepfanne Texas, pikantes Grillgemüse (Sl,Sf), Ratatouille (Sl), Bulgur mit Tomate und Peperoni (Gl,Sl)",
+    "Name": "Mandelbroccoli (Nu), Gemüsepfanne Texas, pikantes Grillgemüse (Sl,Sf), Ratatouille (Sl), Bulgur mit Tomate und Peperoni (Gl,Sl)",
     "Category": "Gemüsebar",
     "Date": "2023-06-29T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -38,7 +40,8 @@
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
