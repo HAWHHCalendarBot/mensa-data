@@ -1,9 +1,12 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
+    "Name": "Linsengemüse in Kokoscreme \" Thai Style \" mit Tofu (Sl), Pasta (Gl)",
+    "Category": "Pastabar",
     "Date": "2023-06-22T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +14,29 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Hähnchenstreifen in Paprikarahmsoße mit Gemüsen (Gl,La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
+    "Name": "Spitzkohl in veganem Rahm mit Kichererbsen (So), Schwarzwurzeln mit frischer Minze, gebratenes Gemüse (Nu), Vegane Maultaschen (Gl), Reispfanne mit Sonnenblumenhack und buntem Gemüse und Nüsse (Sl,Sf)",
+    "Category": "Gemüsebar",
     "Date": "2023-06-22T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
