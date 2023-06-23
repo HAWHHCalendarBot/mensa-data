@@ -1,11 +1,27 @@
 [
   {
-    "Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Conchiglie (Gl)",
+    "Name": "Tomatensoße, bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Spanisches Pfannengemüse, gebratene Paprika (1,5,Sw), Ratatouille (Sl), Kartoffelgratin (La), Frühlingsgemüse",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-23T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "5": "Geschwefelt",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,16 +29,16 @@
     "Vegetarian": true
   },
   {
-    "Name": "Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So), Blumenkohl in Rahm (Gl,La), Ratatouille (Sl), Gemüse Sesamreis (Se)",
-    "Category": "Gemüsebar",
+    "Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), bunte Fusilli (Gl)",
+    "Category": "Pastabar",
     "Date": "2023-06-23T00:00:00Z",
     "Additives": {
-      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
