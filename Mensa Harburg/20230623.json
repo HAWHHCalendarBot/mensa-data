@@ -1,41 +1,86 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-06-23T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta Pollo mit Hähnchenstreifen und Rucola in Sahnesoße (La,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Tofuragout in Soja-Sahnesoße mit Gemüsen (2,Gl,So,Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-23T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Maisgemüse, gebratene Paprika und Aubergine (1,5,Sw), Zuckerschoten, Gartengemüse (Sl), gebratenes Gemüse, Zartweizen mit Gartenkräutern (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-23T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Maisgemüse, gebratene Paprika und Aubergine (1,5,Sw), Zuckerschoten, Gartengemüse (Sl), gebratenes Gemüse, Zartweizen mit Gartenkräutern (Gl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-23T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Pasta (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-06-23T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
   },
   {
     "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
@@ -55,7 +100,7 @@
     "Vegan": true
   },
   {
-    "Name": "Frisch gegrillte Thüringer Bratwurst (8,Sl,Sf), Erbsen- Karotten Gemüse (La), Hausgemachtes Kartoffel-Butterstampf (La)",
+    "Name": "Frisch gegrillte Thüringer Bratwurst (8,Sl,Sf), Grillgemüse, Hausgemachtes Kartoffel-Butterstampf (La)",
     "Category": "CampusKlassiker",
     "Date": "2023-06-23T00:00:00Z",
     "Additives": {
