@@ -26,20 +26,20 @@
     "Vegetarian": true
   },
   {
-    "Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw), Strozzapreti (Gl)",
+    "Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Sw), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-26T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Soja Bolognese mit Gemüse (So,Sl), Spaghetti (Gl)",
@@ -53,6 +53,22 @@
     "PriceAttendant": 4.2,
     "PriceGuest": 5.4,
     "PriceStudent": 2.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "italienischer Nudelsalat mit geschmorte Cerrytomaten (3,5,Gl,Sw)",
+    "Category": "CampusWorld",
+    "Date": "2023-06-26T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.25,
+    "PriceGuest": 5.45,
+    "PriceStudent": 2.95,
     "LactoseFree": true,
     "Vegan": true
   },
