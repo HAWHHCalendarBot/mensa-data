@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-07-06T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
     "Category": "Pottkieker",
     "Date": "2023-07-06T00:00:00Z",
@@ -14,5 +28,36 @@
     "PriceStudent": 2.2,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Süßkartoffel-Linsengemüse mit Römersalat und Limetten-Senf-Dressing (3,Nu,Sf)",
+    "Category": "CampusVital",
+    "Date": "2023-07-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Brasilianisches Picadillo (3,5,Sw), Penne (Gl)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-07-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.1,
+    "PriceGuest": 6.3,
+    "PriceStudent": 3.8,
+    "Beef": true,
+    "LactoseFree": true
   }
 ]
