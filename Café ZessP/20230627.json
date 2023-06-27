@@ -66,6 +66,35 @@
     "Vegan": true
   },
   {
+    "Name": "Pasta mit Gemüse-Bolognese (Gl,So,Sl)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.2,
+    "PriceStudent": 3.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pesto Rosso (La,Nu)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.6,
+    "PriceGuest": 5.2,
+    "PriceStudent": 3.9,
+    "Beef": true
+  },
+  {
     "Name": "Baked Potato \"Oriental\" mit Bulgur, Rosinen, Kichererbsen, Mandelsplitter, Granatapfel, Sour Cream (3,4,Gl,Ei,So,La,Nu,Sl,Sf,Se)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2023-06-27T00:00:00Z",
@@ -122,20 +151,26 @@
     "Vegetarian": true
   },
   {
-    "Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (Gl,So,Sl,Sf,Se)",
-    "Category": "Food Angebot im Café ZessP",
+    "Name": "Veggie Power Bowl, Tofu, Basmatireis, Süßkartoffeln, Avocado, Koriander, Cashew und Wasabi Dressing (1,2,3,5,Gl,Ei,So,Nu,Sf,Se,Sw)",
+    "Category": "Highlight",
     "Date": "2023-06-27T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "5": "Geschwefelt",
+      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
-      "So": "Soja und Sojaerzeugnisse"
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 6.0,
-    "PriceGuest": 6.6,
-    "PriceStudent": 5.3,
+    "PriceAttendant": 7.2,
+    "PriceGuest": 7.8,
+    "PriceStudent": 6.5,
     "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   }
 ]

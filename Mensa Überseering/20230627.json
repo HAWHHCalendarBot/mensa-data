@@ -1,5 +1,19 @@
 [
   {
+    "Name": "Kartoffelspalten (Gl), Gemüse- Reis (Sl), Gnocchi",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
     "Category": "Pastabar",
     "Date": "2023-06-27T00:00:00Z",
@@ -14,19 +28,38 @@
     "Vegan": true
   },
   {
-    "Name": "Brechbohnen, Sesam-Blumenkohl (Se), Zuckerschoten, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Sl), Kartoffelspalten (Gl)",
+    "Name": "Brechbohnen, Sesam-Blumenkohl (Se), Zuckerschoten, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln in Sojarahm (So,La,Sl), Blattspinat Asia Style (Gl)",
     "Category": "Gemüsebar",
     "Date": "2023-06-27T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
+  },
+  {
+    "Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Sesam-Blumenkohl (Se), Zuckerschoten, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La,Sl), Blattspinat Asia Style (Gl), Gartenbohnen mi",
+    "Category": "Gemüsebar",
+    "Date": "2023-06-27T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
