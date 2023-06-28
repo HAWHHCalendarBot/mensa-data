@@ -1,5 +1,53 @@
 [
   {
+    "Name": "Gemüsebar des Tages",
+    "Category": "Gemüsebar",
+    "Date": "2023-07-07T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pastabar des Tages Fleisch",
+    "Category": "Pastabar",
+    "Date": "2023-07-07T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Pastabar des Tages vegan",
+    "Category": "Pastabar",
+    "Date": "2023-07-07T00:00:00Z",
+    "Additives": {},
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+    "Category": "Pottkieker",
+    "Date": "2023-07-07T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 3.4,
+    "PriceGuest": 4.1,
+    "PriceStudent": 2.2,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
     "Name": "Hühnerfrikassee (Gl,La,Sw), Reis",
     "Category": "CampusKlassiker",
     "Date": "2023-07-07T00:00:00Z",
@@ -12,6 +60,22 @@
     "PriceGuest": 5.5,
     "PriceStudent": 3.0,
     "Poultry": true
+  },
+  {
+    "Name": "Salat mit Wassermelone, Hüttenkäse und Sonnenblumenkernen (5,La,Sw), Ciabatta (Gl)",
+    "Category": "Highlight",
+    "Date": "2023-07-07T00:00:00Z",
+    "Additives": {
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 4.8,
+    "PriceGuest": 6.0,
+    "PriceStudent": 3.5,
+    "Alcohol": true,
+    "Vegetarian": true
   },
   {
     "Name": "Frisch gegrillt, Schweinekotelette, Steirischer Kartoffelsalat mit Speck, Kürbiskernöl und Feldsalat (2,3,8,Sf)",
