@@ -13,7 +13,7 @@
     "Vegan": true
   },
   {
-    "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+    "Name": "Orientalisches Gemüsecurry mit Kartoffelwürfel (So,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-06-30T00:00:00Z",
     "Additives": {
@@ -28,17 +28,34 @@
     "Vegan": true
   },
   {
-    "Name": "Pikantes Rührei mit Libanesischen Kartoffeln (Ei,Se)",
-    "Category": "CampusVital",
+    "Name": "Gebackene Seelachsfiletwürfel (Gl,Fi,La), Sour Cream (4,Ei,La,Sf), Kartoffel-Bohnensalat (2,Sf)",
+    "Category": "CampusKlassiker",
     "Date": "2023-06-30T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
       "Ei": "Ei und Eierzeugnisse",
-      "Se": "Sesamsamen und Sesamsamenerzeugnisse"
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
     },
-    "PriceAttendant": 4.5,
-    "PriceGuest": 5.7,
-    "PriceStudent": 3.2,
-    "LactoseFree": true,
+    "PriceAttendant": 5.2,
+    "PriceGuest": 6.4,
+    "PriceStudent": 3.9,
+    "Fish": true
+  },
+  {
+    "Name": "Cappeletti Rosso - Nudeln mit Ricottafüllung (Gl,La), Tomaten-Ragout &amp; Rucola",
+    "Category": "CampusWorld",
+    "Date": "2023-06-30T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 5.5,
+    "PriceGuest": 6.7,
+    "PriceStudent": 4.2,
     "Vegetarian": true
   },
   {
