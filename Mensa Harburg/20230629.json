@@ -1,9 +1,11 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "griechisches Gemüseragout (Sl), Erbsen natur, Mais, Reis",
     "Category": "Gemüsebar",
     "Date": "2023-06-29T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +13,44 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta Nerone mit Schweinefleisch (Gl,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-06-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true,
+    "Pig": true
+  },
+  {
+    "Name": "Pasta mit Hühnchen in Kokos Soße (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-06-29T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
     "LactoseFree": true,
     "Poultry": true
   },
   {
-    "Name": "Veg. Pastabar des Tages (Gl)",
+    "Name": "Pasta mit Kichererbsenragout (2,5,Gl,Sl,Sw)",
     "Category": "Pastabar",
     "Date": "2023-06-29T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "2": "Konservierungsstoff",
+      "5": "Geschwefelt",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -38,10 +59,11 @@
     "Vegan": true
   },
   {
-    "Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+    "Name": "Orientalisches Gemüsecurry mit Räuchertofu (Gl,So,Sl,Sw)",
     "Category": "Pottkieker",
     "Date": "2023-06-29T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
