@@ -46,10 +46,11 @@
     "Vegan": true
   },
   {
-    "Name": "Gnocchi mit Babyspinat und Champignons in einer cremigen Käsesauce, Sonnenblumenkerne (La,Sl)",
+    "Name": "Gnocchi mit Babyspinat und Champignons in einer cremigen Käsesauce, Sonnenblumenkerne (Gl,La,Sl)",
     "Category": "CampusSpezial",
     "Date": "2023-06-29T00:00:00Z",
     "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
@@ -59,20 +60,21 @@
     "Vegetarian": true
   },
   {
-    "Name": "Vegetarische Levante Bowl, Bulgur mit Datteln (Gl), frische Minz - Gurke (3,Se), Rote Beete, gebackener Blumenkohl mit Ahornsirup (Sf), Karotten-Hummus (Se), marinierte Kichererbsen, Karachidressing (Sf,Se), Sesam-Joghurt (3,La,Se), karamelisierter Mandel",
+    "Name": "Vegetarische Levante Bowl, Bulgur mit Datteln (Gl), frische Minz - Gurke (3,Se), Rote Beete, gebackener Blumenkohl mit Ahornsirup (Sf), Karotten-Hummus (Se), marinierte Kichererbsen, Karachidressing (Sf,Se), Sesam-Joghurt (3,So,Se), karamelisierter Mandel",
     "Category": "CampusWorld",
     "Date": "2023-06-29T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 6.2,
     "PriceGuest": 6.8,
     "PriceStudent": 5.5,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -90,20 +92,21 @@
     "Beef": true
   },
   {
-    "Name": "Levante Bowl, gebratenes Rinderhackfleisch, Bulgur mit Datteln (Gl), frische Minz - Gurke (3,Se), Rote Beete, gebackener Blumenkohl mit Ahornsirup (Sf), Karotten-Hummus (Se), marinierte Kichererbsen, Karachidressing (Sf,Se), Sesam-Joghurt (3,La,Se), karam",
+    "Name": "Levante Bowl, gebratenes Rinderhackfleisch, Bulgur mit Datteln (Gl), frische Minz - Gurke (3,Se), Rote Beete, gebackener Blumenkohl mit Ahornsirup (Sf), Karotten-Hummus (Se), marinierte Kichererbsen, Karachidressing (Sf,Se), Sesam-Joghurt (3,So,Se), karam",
     "Category": "CampusWorld",
     "Date": "2023-06-29T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
-      "Sf": "Senf und Senferzeugnisse"
+      "Sf": "Senf und Senferzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 7.2,
     "PriceGuest": 7.8,
     "PriceStudent": 6.5,
-    "Beef": true
+    "Beef": true,
+    "LactoseFree": true
   }
 ]
