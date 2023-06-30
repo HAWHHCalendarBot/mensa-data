@@ -1,9 +1,25 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Chili con Carne (2), Reis",
+    "Category": "Pastabar",
+    "Date": "2023-06-30T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Ofengemüse (Sw), Wok-Gemüse asiatischer Style (2,Sw), dicke Bohnen mit Kichererbsen und roter Paprika in Kokosrahm, grüne Bohnen, Kaisergemüse",
     "Category": "Gemüsebar",
     "Date": "2023-06-30T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,25 +27,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+    "Name": "Pasta mit veganer Pilzsoße (3,Gl,So)",
     "Category": "Pastabar",
     "Date": "2023-06-30T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Beef": true,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Veg. Pastabar des Tages (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-06-30T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
