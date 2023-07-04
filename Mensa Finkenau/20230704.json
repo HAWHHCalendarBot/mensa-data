@@ -1,21 +1,11 @@
 [
   {
-    "Name": "Gemüse des Tages",
-    "Category": "Gemüsebar",
-    "Date": "2023-07-04T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pasta des Tages (Gl)",
+    "Name": "Pasta mit Rataouillegemüse (Gl,Sl)",
     "Category": "Pastabar",
     "Date": "2023-07-04T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -24,12 +14,28 @@
     "Vegan": true
   },
   {
-    "Name": "Chili con Corn (Gl,Sl), Basmatireis",
+    "Name": "Vegane Maultaschen (Gl), gebackene Aubergine, gerösteter Broccoli, Quinoa mit Mais,Paprika und Frühlingslauch (3,Gl,Sl)",
+    "Category": "Gemüsebar",
+    "Date": "2023-07-04T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Chili con Corn (Gl,So,Sl), Tortilla Chips",
     "Category": "Pottkieker",
     "Date": "2023-07-04T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 3.4,
     "PriceGuest": 4.1,
@@ -38,13 +44,17 @@
     "Vegan": true
   },
   {
-    "Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), Wok-Gemüse, rote Currysoße (3,Sl)",
+    "Name": "Bratreis mit Ei und Frühlingszwiebeln (2,Gl,Ei,So,Se), Wok-Gemüse, rote Currysoße (2,3,Gl,So,Sl)",
     "Category": "CampusWorld",
     "Date": "2023-07-04T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "Ei": "Ei und Eierzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.6,
     "PriceGuest": 5.8,
