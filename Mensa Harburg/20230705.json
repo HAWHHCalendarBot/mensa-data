@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "fritierte Süßkartoffelwürfel",
     "Category": "Gemüsebar",
     "Date": "2023-07-05T00:00:00Z",
     "Additives": {},
@@ -11,10 +11,13 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages Fleisch",
+    "Name": "Giardinera mit Gemüse in Tomatensoße (Sl), Penne (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-05T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -22,10 +25,42 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages vegan",
+    "Name": "Blumenkohl, Karottengemüse in Kräuterrahm (Gl,La), gebratenem Wirsing, gebratene Champignons (Sw), Grillgemüse mit Quinoa",
+    "Category": "Gemüsebar",
+    "Date": "2023-07-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Nerone mit Schweinefleisch (La,Sl), Pasta nach Wahl (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-05T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Pig": true
+  },
+  {
+    "Name": "Nudelpfanne mit Sojabohnen und Gemüse pikant (Gl,So,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-07-05T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -62,6 +97,22 @@
     "PriceStudent": 3.1,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Gebackenes Alaska Seelachsfilet (Gl,Fi), rote Beete Zwiebel Quark (9,La), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-07-05T00:00:00Z",
+    "Additives": {
+      "9": "Süßungsmittel",
+      "Fi": "Fisch und Fischerzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.75,
+    "PriceGuest": 6.95,
+    "PriceStudent": 4.45,
+    "Fish": true
   },
   {
     "Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Paprikarahmsoße (Gl,La), Pommes Frites (Sf)",
