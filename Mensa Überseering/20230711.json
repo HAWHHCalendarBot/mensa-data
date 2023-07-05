@@ -14,7 +14,7 @@
     "Vegan": true
   },
   {
-    "Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+    "Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-11T00:00:00Z",
     "Additives": {
@@ -28,7 +28,7 @@
     "Poultry": true
   },
   {
-    "Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Vollkorn Fussili (Gl)",
+    "Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Farfalle (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-11T00:00:00Z",
     "Additives": {
@@ -72,10 +72,47 @@
       "Sl": "Sellerie und Sellerieerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
-    "PriceAttendant": 5.2,
-    "PriceGuest": 6.4,
-    "PriceStudent": 3.9,
+    "PriceAttendant": 4.5,
+    "PriceGuest": 5.7,
+    "PriceStudent": 3.2,
     "LactoseFree": true,
     "Vegetarian": true
+  },
+  {
+    "Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Gl,Ei,La,Sf,Se,Sw), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-07-11T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 5.3,
+    "PriceGuest": 6.5,
+    "PriceStudent": 4.0,
+    "Beef": true
+  },
+  {
+    "Name": "Hühnchen in Kokos Soße (Gl,So,Sl), Sesammöhrchen (Se), Basmatireis",
+    "Category": "CampusWorld",
+    "Date": "2023-07-11T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 5.8,
+    "PriceGuest": 7.0,
+    "PriceStudent": 4.5,
+    "LactoseFree": true,
+    "Poultry": true
   }
 ]
