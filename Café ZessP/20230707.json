@@ -64,17 +64,37 @@
     "Vegan": true
   },
   {
-    "Name": "Pasta mit Arrabbiata Soße (Gl)",
+    "Name": "Pasta mit Bolognese Soße (Gl,So,Sl)",
     "Category": "Food Angebot im Café ZessP",
     "Date": "2023-07-07T00:00:00Z",
     "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 4.6,
     "PriceGuest": 5.2,
     "PriceStudent": 3.9,
-    "LactoseFree": true,
-    "Vegan": true
+    "Beef": true,
+    "LactoseFree": true
+  },
+  {
+    "Name": "Tortellini Verdi Verdura (2,Gl,Ei,La,Sl,48)",
+    "Category": "Food Angebot im Café ZessP",
+    "Date": "2023-07-07T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "4": "Geschmacksverstärker",
+      "8": "Phosphat",
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 4.65,
+    "PriceGuest": 5.25,
+    "PriceStudent": 3.95,
+    "Vegetarian": true
   },
   {
     "Name": "Schwarzwurzel Sesam Rösti mit Sour Cream oder veganer Dip (3,4,Gl,Ei,So,La,Sf,Se)",
@@ -125,24 +145,6 @@
     "PriceStudent": 4.5,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Ravioli Feige mit Arrabiata Soße (2,Gl,Ei,La,Sf,48)",
-    "Category": "Food Angebot im Café ZessP",
-    "Date": "2023-07-07T00:00:00Z",
-    "Additives": {
-      "2": "Konservierungsstoff",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
-      "Ei": "Ei und Eierzeugnisse",
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Sf": "Senf und Senferzeugnisse"
-    },
-    "PriceAttendant": 5.7,
-    "PriceGuest": 6.3,
-    "PriceStudent": 5.0,
-    "Vegetarian": true
   },
   {
     "Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (Gl,So,Sl,Sf,Se)",
