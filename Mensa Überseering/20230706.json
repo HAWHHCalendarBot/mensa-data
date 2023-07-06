@@ -26,17 +26,34 @@
     "Poultry": true
   },
   {
-    "Name": "glacierte rote Beete, Steckrüben-Möhren Gemüse, Spitzkohl, Blumenkohl mit gebräunten Bröseln (Gl,La)",
+    "Name": "gebratene Zucchini, Süßkartoffel Gnocchi (Gl), Perlgraupen mit Spargel und Tomaten (Gl,So), Süßkartoffel Rucolaschnitte (Gl)",
     "Category": "Gemüsebar",
     "Date": "2023-07-06T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "glacierte rote Beete, Spitzkohl, buntes Zucchinigemüse, mexikanisches Bohnengemüse (2,3,8), Erbsen-Champignon Gemüse (Sw)",
+    "Category": "Gemüsebar",
+    "Date": "2023-07-06T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "LactoseFree": true,
+    "Pig": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
@@ -70,7 +87,7 @@
     "Vegan": true
   },
   {
-    "Name": "Putengyros, Tzatziki (La), Krautsalat (3,5,Sw), Paprikareis",
+    "Name": "Putengyros, Tzatziki (La), Krautsalat (3,5,Sw), Amazing Fries",
     "Category": "CampusWorld",
     "Date": "2023-07-06T00:00:00Z",
     "Additives": {
