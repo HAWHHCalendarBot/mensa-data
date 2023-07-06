@@ -1,6 +1,6 @@
 [
   {
-    "Name": "gerösteter Broccoli, Spitzkohl",
+    "Name": "gerösteter Broccoli, spanisches Kartoffelgemüse, Spitzkohl, gebratene Zucchini",
     "Category": "Gemüsebar",
     "Date": "2023-07-06T00:00:00Z",
     "Additives": {},
@@ -9,19 +9,6 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
-  },
-  {
-    "Name": "Pasta Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Gl,La)",
-    "Category": "Pastabar",
-    "Date": "2023-07-06T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "Poultry": true
   },
   {
     "Name": "Pasta Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Gl,La,Sl)",
@@ -36,6 +23,35 @@
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "Vegetarian": true
+  },
+  {
+    "Name": "Schupfnudeln mit Austernpilzen, Erbsen und Paprika (Gl,Ei,La)",
+    "Category": "Pastabar",
+    "Date": "2023-07-06T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
+    "Category": "Pastabar",
+    "Date": "2023-07-06T00:00:00Z",
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Beef": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
@@ -54,15 +70,11 @@
     "Vegan": true
   },
   {
-    "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+    "Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (2,Gl,En,So,Sl,Sf,Se)",
     "Category": "CampusWorld",
     "Date": "2023-07-06T00:00:00Z",
     "Additives": {
-      "1": "Farbstoff",
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "En": "Erdnüsse und Erdnusserzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
@@ -74,7 +86,7 @@
     "PriceGuest": 5.7,
     "PriceStudent": 3.2,
     "LactoseFree": true,
-    "Vegetarian": true
+    "Vegan": true
   },
   {
     "Name": "Hähnchenbrust in Parmesanpanade (Gl,La), Tomaten-Basilikumsoße, Spaghetti (Gl)",
