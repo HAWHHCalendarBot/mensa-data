@@ -11,26 +11,18 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages Fleisch",
+    "Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-06T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Pastabar des Tages vegan",
-    "Category": "Pastabar",
-    "Date": "2023-07-06T00:00:00Z",
-    "Additives": {},
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Poultry": true
   },
   {
     "Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
@@ -104,7 +96,6 @@
     "PriceAttendant": 6.9,
     "PriceGuest": 8.1,
     "PriceStudent": 5.6,
-    "Alcohol": true,
     "Beef": true,
     "Pig": true
   }
