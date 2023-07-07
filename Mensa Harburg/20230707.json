@@ -22,10 +22,30 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages vegan",
+    "Name": "Grüne Tortellini mit Gemüsefüllung (Gl,Ei,La), Tomatensoße Pasta, Spaghetti (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-07T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Gemüsesauce mit Teriyaki (1,2,Gl,So,Sl), Pasta nach Wahl (Gl)",
+    "Category": "Pastabar",
+    "Date": "2023-07-07T00:00:00Z",
+    "Additives": {
+      "1": "Farbstoff",
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
