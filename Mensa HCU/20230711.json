@@ -1,16 +1,16 @@
 [
   {
-    "Name": "buntes Gemüse mit Schnibbelbohnen und Karotten, glasiertes Wurzelgemüse mit Erbsen (Sl),  Broccoli, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (La,Sl)",
+    "Name": "Buntes Gemüse mit Staudensellerie, Schwarzwurzeln und Kichererbsen (Sl), Erbsen, Brechbohnen, Romanesco (Sl)",
     "Category": "Pastabar",
     "Date": "2023-07-11T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.5,
     "PriceStudent": 0.75,
-    "Vegetarian": true
+    "LactoseFree": true,
+    "Vegan": true
   },
   {
     "Name": "Tagliatelle Pasta (Gl), mit Pfifferlingen, roter Zwiebel und Frühlingslauch in Rahm (Gl,La,Sw)",
@@ -43,16 +43,16 @@
     "Vegan": true
   },
   {
-    "Name": "Falafel mit persischem Gewürzreis (Gl,Sl,Se), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
+    "Name": "Falafel mit persischem Gewürzreis (Gl,Sl,Se), Sojajoghurt-Zitronen Dip (3,So,Sf)",
     "Category": "CampusWorld",
     "Date": "2023-07-11T00:00:00Z",
     "Additives": {
       "3": "Antioxidationsmittel",
-      "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "Se": "Sesamsamen und Sesamsamenerzeugnisse",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse",
-      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 5.2,
     "PriceGuest": 7.8,
@@ -61,7 +61,7 @@
     "Vegan": true
   },
   {
-    "Name": "Gegrilltes Schweinenackensteak, mit Brotsalat mit Tomate, Gurke und Zwiebel mit Hirtenkäse (3,5,9,Gl,La,Sl,Sf,Sw)",
+    "Name": "Gegrilltes Schweinenackensteak mit Kräuterbutter (La), mit Brotsalat mit Tomate, Gurke und Zwiebel mit Hirtenkäse (3,5,9,Gl,La,Sl,Sf,Sw)",
     "Category": "CampusSpezial",
     "Date": "2023-07-11T00:00:00Z",
     "Additives": {
