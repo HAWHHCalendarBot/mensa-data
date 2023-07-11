@@ -1,19 +1,6 @@
 [
   {
-    "Name": "Maultaschen mit Tomatensauce (Gl)",
-    "Category": "Pastabar",
-    "Date": "2023-07-11T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
-  },
-  {
-    "Name": "Ägyptische Falafel (Gl,Sl), Gartengemüse (Sl), gebratene Zucchini, Broccoli",
+    "Name": "Ägyptische Falafel (Gl,Sl), Gartengemüse (Sl), gebratene Zucchini, gerösteter Blumenkohl",
     "Category": "Gemüsebar",
     "Date": "2023-07-11T00:00:00Z",
     "Additives": {
@@ -25,6 +12,20 @@
     "PriceStudent": 0.75,
     "LactoseFree": true,
     "Vegan": true
+  },
+  {
+    "Name": "Pasta mit Gemüse und Tomatensauce (Gl,La,Nu)",
+    "Category": "Pastabar",
+    "Date": "2023-07-11T00:00:00Z",
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.15,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
   },
   {
     "Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (2,Gl,So,Nu,Sl)",
