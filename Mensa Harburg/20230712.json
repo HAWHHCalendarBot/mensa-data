@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Romanesco, Prinzessbohnen, Fingermöhrchen, Mais-Zucchinigemüse",
     "Category": "Gemüsebar",
     "Date": "2023-07-12T00:00:00Z",
     "Additives": {},
@@ -11,10 +11,14 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages Fleisch",
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-12T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -22,10 +26,16 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages vegan",
+    "Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-12T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "3": "Antioxidationsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,

@@ -27,10 +27,12 @@
     "Beef": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+    "Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi, Kohlrabi in Rahm (Gl,La)",
     "Category": "Gemüsebar",
     "Date": "2023-07-12T00:00:00Z",
     "Additives": {
+      "1": "Farbstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
@@ -94,6 +96,21 @@
     "PriceGuest": 6.4,
     "PriceStudent": 3.9,
     "Vegetarian": true
+  },
+  {
+    "Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Paprikarahmsoße (Gl,La), Pommes Frites (Sf)",
+    "Category": "CampusKlassiker",
+    "Date": "2023-07-12T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse"
+    },
+    "PriceAttendant": 5.9,
+    "PriceGuest": 7.1,
+    "PriceStudent": 4.6,
+    "Poultry": true
   },
   {
     "Name": "Sojastreifen Teriyaki mit Pak Choi (2,Gl,So,Se), Basmatireis",

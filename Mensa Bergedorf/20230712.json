@@ -1,11 +1,13 @@
 [
   {
-    "Name": "Pasta Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Gl,La)",
+    "Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
     "Category": "Pastabar",
     "Date": "2023-07-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
@@ -13,40 +15,28 @@
     "Vegetarian": true
   },
   {
-    "Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Gl,Sl)",
-    "Category": "Pastabar",
-    "Date": "2023-07-12T00:00:00Z",
-    "Additives": {
-      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
-    },
-    "PriceAttendant": 0.95,
-    "PriceGuest": 1.15,
-    "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Poultry": true
-  },
-  {
-    "Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
+    "Name": "Pasta Pollo al curry, mit Hähnchen in Currysoße (Gl,La,Sl,Sf)",
     "Category": "Pastabar",
     "Date": "2023-07-12T00:00:00Z",
     "Additives": {
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+      "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "Beef": true
+    "Poultry": true
   },
   {
-    "Name": "Pasta Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl)",
+    "Name": "bunter Sesam Glasnudel Salat (2,Gl,So,Se)",
     "Category": "Pastabar",
     "Date": "2023-07-12T00:00:00Z",
     "Additives": {
+      "2": "Konservierungsstoff",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "Se": "Sesamsamen und Sesamsamenerzeugnisse",
       "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
@@ -56,17 +46,20 @@
     "Vegan": true
   },
   {
-    "Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+    "Name": "Mangold (2,Gl,So,Sf), Fenchelgemüse (Sl), Grüne und gelbe Zucchini mit  Cherrytomate",
     "Category": "Gemüsebar",
     "Date": "2023-07-12T00:00:00Z",
     "Additives": {
-      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-      "Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse"
+      "2": "Konservierungsstoff",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
+    "LactoseFree": true,
     "Vegetarian": true
   },
   {
@@ -86,23 +79,35 @@
     "Vegan": true
   },
   {
-    "Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf)",
+    "Name": "Texashacksteak (Gl,Ei), Brechbohnen in Rahm (La)",
+    "Category": "CampusSpezial",
+    "Date": "2023-07-12T00:00:00Z",
+    "Additives": {
+      "Ei": "Ei und Eierzeugnisse",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 4.65,
+    "PriceGuest": 5.75,
+    "PriceStudent": 3.4,
+    "Beef": true
+  },
+  {
+    "Name": "Geflügel Currybratwurst (La,Sl), Grillsoße (2,9,Sl,Sf)",
     "Category": "CampusKlassiker",
     "Date": "2023-07-12T00:00:00Z",
     "Additives": {
       "2": "Konservierungsstoff",
-      "3": "Antioxidationsmittel",
-      "4": "Geschmacksverstärker",
-      "8": "Phosphat",
       "9": "Süßungsmittel",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
       "Sl": "Sellerie und Sellerieerzeugnisse"
     },
     "PriceAttendant": 4.85,
     "PriceGuest": 5.95,
     "PriceStudent": 3.6,
-    "LactoseFree": true,
-    "Pig": true
+    "Beef": true,
+    "Poultry": true
   },
   {
     "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (2,3,9,Gl,So,Sl,Sf,Sw)",
