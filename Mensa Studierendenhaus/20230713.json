@@ -33,7 +33,7 @@
     "Vegetarian": true
   },
   {
-    "Name": "Knoblauch Champignons aus dem Ofen (1,2,5,Gl,So,Sw), Frühlingsgemüse (1), Prinzessbohnen, Spitzkohl, Petersilienkartoffeln, Sommergemüse (1)",
+    "Name": "Knoblauch Champignons aus dem Ofen (1,2,5,Gl,So,Sw), Frühlingsgemüse (1), Prinzessbohnen, Spitzkohl (La), Petersilienkartoffeln, Sommergemüse (1)",
     "Category": "Gemüsebar",
     "Date": "2023-07-13T00:00:00Z",
     "Additives": {
@@ -41,14 +41,14 @@
       "2": "Konservierungsstoff",
       "5": "Geschwefelt",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "So": "Soja und Sojaerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
-    "LactoseFree": true,
-    "Vegan": true
+    "Vegetarian": true
   },
   {
     "Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -98,5 +98,25 @@
     "PriceGuest": 7.1,
     "PriceStudent": 4.6,
     "Beef": true
+  },
+  {
+    "Name": "Homestyle Burger mit gepickelten roten Zwiebeln und Jalapenos (2,3,9,Gl,So,Sl,Sf,Sw), Pommes Frites (Sf)",
+    "Category": "CampusSpezial",
+    "Date": "2023-07-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "9": "Süßungsmittel",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sf": "Senf und Senferzeugnisse",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
+    "PriceAttendant": 7.1,
+    "PriceGuest": 8.3,
+    "PriceStudent": 5.8,
+    "LactoseFree": true,
+    "Vegan": true
   }
 ]
