@@ -1,6 +1,18 @@
 [
   {
-    "Name": "Vegane Farfalle mit Rucola und Tomaten (Gl), hausgemachtes Pesto Genovese",
+    "Name": "Blumenkohl, Maiskolben gegrillt, Zucchini, Möhrengemüse (La)",
+    "Category": "Pastabar",
+    "Date": "2023-07-13T00:00:00Z",
+    "Additives": {
+      "La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+    },
+    "PriceAttendant": 0.95,
+    "PriceGuest": 1.5,
+    "PriceStudent": 0.75,
+    "Vegetarian": true
+  },
+  {
+    "Name": "Vegane Pasta mit Rucola und Kirschtomaten (Gl), hausgemachtes Pesto Genovese",
     "Category": "Pastabar",
     "Date": "2023-07-13T00:00:00Z",
     "Additives": {
@@ -29,25 +41,37 @@
     "Vegan": true
   },
   {
-    "Name": "Frische Rinderbrust aus dem Ofen (Sf), Bulgursalat mit Gurke, Tomate, Paprika (3,5,Gl,Sw), Käse-Senf Dip (1,2,3,9,Ei,La,Sl,Sf)",
-    "Category": "CampusWorld",
+    "Name": "VEGAN Chili Fries sin carne (Pommes mit Chili und Sojadip) (1,2,So,Sl)",
+    "Category": "CampusSpezial",
     "Date": "2023-07-13T00:00:00Z",
     "Additives": {
       "1": "Farbstoff",
       "2": "Konservierungsstoff",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
+    "PriceAttendant": 6.2,
+    "PriceGuest": 9.8,
+    "PriceStudent": 4.9,
+    "LactoseFree": true,
+    "Vegan": true
+  },
+  {
+    "Name": "Frische Rinderbrust aus dem Ofen (Sf), Bulgursalat mit Gurke, Tomate, Paprika (3,5,Gl,Sw), Joghurt Dip (2,La)",
+    "Category": "CampusSpezial",
+    "Date": "2023-07-13T00:00:00Z",
+    "Additives": {
+      "2": "Konservierungsstoff",
       "3": "Antioxidationsmittel",
       "5": "Geschwefelt",
-      "9": "Süßungsmittel",
-      "Ei": "Ei und Eierzeugnisse",
       "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
       "La": "Milch und Milcherzeugnisse (einschl. Laktose)",
       "Sf": "Senf und Senferzeugnisse",
-      "Sl": "Sellerie und Sellerieerzeugnisse",
       "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
     },
-    "PriceAttendant": 7.1,
-    "PriceGuest": 11.6,
-    "PriceStudent": 5.8,
+    "PriceAttendant": 6.2,
+    "PriceGuest": 9.8,
+    "PriceStudent": 4.9,
     "Beef": true
   }
 ]
