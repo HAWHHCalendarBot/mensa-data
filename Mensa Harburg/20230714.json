@@ -1,9 +1,13 @@
 [
   {
-    "Name": "Gemüsebar des Tages",
+    "Name": "Karotten in Sojakräuterrahm (Gl,So), gebratene Champignons (Sw), gebratenes Gemüse, gebackene Aubergine (Gl,Sw)",
     "Category": "Gemüsebar",
     "Date": "2023-07-14T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "So": "Soja und Sojaerzeugnisse",
+      "Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -11,10 +15,14 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages Fleisch",
+    "Name": "Soja Bolognese mit Gemüse (So,Sl), Strozzapreti (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-14T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+      "Sl": "Sellerie und Sellerieerzeugnisse",
+      "So": "Soja und Sojaerzeugnisse"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
@@ -22,15 +30,20 @@
     "Vegan": true
   },
   {
-    "Name": "Pastabar des Tages vegan",
+    "Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), Pasta (Gl)",
     "Category": "Pastabar",
     "Date": "2023-07-14T00:00:00Z",
-    "Additives": {},
+    "Additives": {
+      "2": "Konservierungsstoff",
+      "3": "Antioxidationsmittel",
+      "8": "Phosphat",
+      "Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+    },
     "PriceAttendant": 0.95,
     "PriceGuest": 1.15,
     "PriceStudent": 0.75,
     "LactoseFree": true,
-    "Vegan": true
+    "Pig": true
   },
   {
     "Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",
