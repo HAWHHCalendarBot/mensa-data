@@ -1,0 +1,96 @@
+[
+	{
+		"Name": "Pasta Pollo mit Geflügelbrust in Tomatensoße",
+		"Category": "Pastabar",
+		"Date": "2023-01-25",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Mangold mit gerösteten Walnüssen (Nu), Porree-Karotten-Sellerie (So,Sl), gebackene Süßkartoffel, pikantes Grillgemüse (Sl,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2023-01-25",
+		"Additives": {
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Spinat-Gorgonzola (Gl,La,48)",
+		"Category": "Pastabar",
+		"Date": "2023-01-25",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Käse-Lauchsuppe mit Zucchini (1,La,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2023-01-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüse Burger mit gepickelten roten Zwiebeln und Jalapenos (1,2,3,9,Gl,Ei,So,Sl,Sf,Sw), Cole slaw Salat (1,3,9,Ei,La,Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-01-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.35,
+		"PriceGuest": 5.45,
+		"PriceStudent": 3.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Rindergeschnetzeltes mit Pilzen in Rahm (3,Gl,La,Sl), Spätzle (Gl,Ei)",
+		"Category": "CampusVital",
+		"Date": "2023-01-25",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.25,
+		"PriceGuest": 6.45,
+		"PriceStudent": 3.95,
+		"Beef": true
+	}
+]

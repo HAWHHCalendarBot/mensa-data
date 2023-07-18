@@ -1,0 +1,70 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2022-09-08",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2022-09-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "2 Eierpfannkuchen (Gl,Ei,La), kalte Vanillesoße (La)",
+		"Category": "Pottkieker",
+		"Date": "2022-09-08",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 3.1,
+		"PriceGuest": 3.8,
+		"PriceStudent": 1.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünkern Käsemedallions (Gl,Ei,So,La,Se), Schnittlauchdip (La), Mediterrane Kartoffel Gemüsepfanne (Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2022-09-08",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hähnchen Tika Masala mit Joghurt (La,Sf), Kräuterreis",
+		"Category": "CampusWorld",
+		"Date": "2022-09-08",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.9,
+		"PriceGuest": 8.1,
+		"PriceStudent": 5.6,
+		"Poultry": true
+	}
+]

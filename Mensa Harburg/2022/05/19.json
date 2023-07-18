@@ -1,0 +1,92 @@
+[
+	{
+		"Name": "Gemüsebar des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2022-05-19",
+		"Additives": {},
+		"PriceAttendant": 0.9,
+		"PriceGuest": 1.1,
+		"PriceStudent": 0.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2022-05-19",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.9,
+		"PriceGuest": 1.1,
+		"PriceStudent": 0.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Germknödel (Gl,Ei,La), Vanillesoße (La)",
+		"Category": "Pottkieker",
+		"Date": "2022-05-19",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 2.7,
+		"PriceGuest": 3.4,
+		"PriceStudent": 1.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf)",
+		"Category": "CampusVital",
+		"Date": "2022-05-19",
+		"Additives": {
+			"1": "Farbstoff",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.0,
+		"PriceGuest": 5.2,
+		"PriceStudent": 2.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Thüringer Bratwurst (8,Sl,Sf,35), Karottengemüse in Kräuterrahm (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
+		"Category": "CampusKlassiker",
+		"Date": "2022-05-19",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"Pig": true
+	},
+	{
+		"Name": "Gurkengemüse aus dem Wok, rote Beete Streifen (1,3,5,Ei,Sf,Se,Sw), Basmatireis",
+		"Category": "CampusSpezial",
+		"Date": "2022-05-19",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.5,
+		"PriceStudent": 3.0,
+		"LactoseFree": true,
+		"Vegetarian": true
+	}
+]

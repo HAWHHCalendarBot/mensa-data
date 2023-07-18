@@ -1,0 +1,75 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüse-Bar pro 100g",
+		"Date": "2019-07-23",
+		"Additives": {},
+		"PriceAttendant": 0.8,
+		"PriceGuest": 1.0,
+		"PriceStudent": 0.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Asianudel mit Gemüse (Gl, Ei)",
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2019-07-23",
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"PriceAttendant": 0.8,
+		"PriceGuest": 1.0,
+		"PriceStudent": 0.6,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Apfelkompott (3)",
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2019-07-23",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Ägyptische Falafel (Gl, Sl), Soja Knoblauchdip (So, Sf), Gemüse Bulgur mit Nüssen (Gl, Nu, Sl), Krautsalat (3)",
+		"Category": "Vegetarisch",
+		"Date": "2019-07-23",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"So": "Soja/-erzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.75,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Paniertes Schweineschnitzel (Gl, Ei, La), Champignonrahmsoße (Gl, La, Sl), Kroketten (Gl)",
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2019-07-23",
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"PriceAttendant": 4.65,
+		"PriceGuest": 5.85,
+		"PriceStudent": 3.35,
+		"Pig": true
+	}
+]

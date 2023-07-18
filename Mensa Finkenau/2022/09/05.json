@@ -1,0 +1,91 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2022-09-05",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit Spinat und Gorgonzola (Gl)",
+		"Category": "Pastabar",
+		"Date": "2022-09-05",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pfannkuchen mit Waldbeerfüllung (Gl,Ei,La)",
+		"Category": "Pottkieker",
+		"Date": "2022-09-05",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 3.1,
+		"PriceGuest": 3.8,
+		"PriceStudent": 1.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kartoffel-Gemüse-Gulasch mit Brot (2,Gl,So,Sl)",
+		"Category": "CampusKlassiker",
+		"Date": "2022-09-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schöpf - Currybratwurst (3,4,8,Sf), mit Grillsoße (2,9,Sl,Sf), Brot (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2022-09-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.8,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2022-09-05",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Poultry": true
+	}
+]

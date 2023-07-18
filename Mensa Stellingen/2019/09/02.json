@@ -1,0 +1,81 @@
+[
+	{
+		"Name": "Tagessuppe",
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2019-09-02",
+		"Additives": {},
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomaten-Gemüse-Suppe (La, Nu, Sl, Sw)",
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2019-09-02",
+		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte/-erzeugnisse",
+			"Sl": "Sellerie/-erzeugnisse",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Nudeln (Gl), Rindfleischsoße Bolognese",
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2019-09-02",
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse"
+		},
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Beef": true
+	},
+	{
+		"Name": "Spaghetti (Gl), Bolognese, Hartkäse (La)",
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2019-09-02",
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Beef": true
+	},
+	{
+		"Name": "Pikante Gemüsepfanne mit Bohnen (2, Sw), kleine Ofenkartoffeln, Tomaten-Paprika-Salsa (4)",
+		"Category": "Vegetarisch",
+		"Date": "2019-09-02",
+		"Additives": {
+			"2": "Konservierungsstoffe",
+			"4": "Geschmacksverstärker",
+			"Sw": "Schwefeldioxid/Sulfite"
+		},
+		"PriceAttendant": 4.45,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.15,
+		"Vegan": true
+	},
+	{
+		"Name": "Cordon Bleu vom Schweinerücken, Zitronen-Butter-Soße (Gl, Ei, La, Sl), Blumenkohl",
+		"Category": "Campus Spezial",
+		"Date": "2019-09-02",
+		"Additives": {
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie/-erzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.65,
+		"Pig": true
+	}
+]

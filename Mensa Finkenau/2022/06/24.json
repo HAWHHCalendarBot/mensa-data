@@ -1,0 +1,74 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2022-06-24",
+		"Additives": {},
+		"PriceAttendant": 0.9,
+		"PriceGuest": 1.1,
+		"PriceStudent": 0.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit pesto und Kirschtomaten (Gl,La,Nu)",
+		"Category": "Pastabar",
+		"Date": "2022-06-24",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.9,
+		"PriceGuest": 1.1,
+		"PriceStudent": 0.7,
+		"Vegetarian": true
+	},
+	{
+		"Name": "3 Stück Kartoffelpuffer (Gl,Ei), Apfelmus (3)",
+		"Category": "Pottkieker",
+		"Date": "2022-06-24",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 2.7,
+		"PriceGuest": 3.4,
+		"PriceStudent": 1.5,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Herzoginkartoffeln (Gl,Ei,La)",
+		"Category": "CampusKlassiker",
+		"Date": "2022-06-24",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"Pig": true
+	},
+	{
+		"Name": "Meins - Roter Linsen Dal (3,So,Sl), Naanbrot (2,Gl,La)",
+		"Category": "Highlight",
+		"Date": "2022-06-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
+	}
+]

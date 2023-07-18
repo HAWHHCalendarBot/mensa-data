@@ -1,0 +1,67 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüse-Bar pro 100g",
+		"Date": "2019-02-15",
+		"Additives": {},
+		"PriceAttendant": 0.8,
+		"PriceGuest": 1.0,
+		"PriceStudent": 0.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit Pesto, Tomaten und Parmesan (Gl, La)",
+		"Category": "Pasta-Bar pro 100g",
+		"Date": "2019-02-15",
+		"Additives": {
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 0.8,
+		"PriceGuest": 1.0,
+		"PriceStudent": 0.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "2 Eierpfannkuchen (Gl, Ei, La), Apfelmus (3)",
+		"Category": "Aus dem Suppentopf und Süßes",
+		"Date": "2019-02-15",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei/-erzeugnisse",
+			"Gl": "Glutenhaltiges Getreide und daraus hergestellte Erzeugnissse",
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.25,
+		"PriceStudent": 1.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Rosmarinkartoffeln, Kräuterdip (La), Mexikanischer Bohnensalat",
+		"Category": "Vegetarisch",
+		"Date": "2019-02-15",
+		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 3.8,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hähnchenbrust Tandoori (La, Sf), Kräuterdip (La, Sf), Ingwermöhrchen mit Sesam (Se), Basmatireis",
+		"Category": "Beliebt und gerne gegessen",
+		"Date": "2019-02-15",
+		"Additives": {
+			"La": "Milch/-erzeugnisse (einschl. Laktose)",
+			"Se": "Sesam/-erzeugnisse",
+			"Sf": "Senf/-erzeugnisse"
+		},
+		"PriceAttendant": 3.95,
+		"PriceGuest": 4.95,
+		"PriceStudent": 2.65,
+		"Poultry": true
+	}
+]

@@ -1,0 +1,108 @@
+[
+	{
+		"Name": "Veganes Blumenkohlcurry mit Kokosmilch, Reis",
+		"Category": "Pastabar",
+		"Date": "2023-01-09",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit Rindfleisch-Bolognese (Gl,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-01-09",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Vegane Kürbissuppe mit Soja (5,Gl,So,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2023-01-09",
+		"Additives": {
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.4,
+		"PriceGuest": 1.55,
+		"PriceStudent": 1.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Germknödel mit Mohnzucker (Gl,Ei,La), Vanillesoße (La)",
+		"Category": "Pottkieker",
+		"Date": "2023-01-09",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 3.1,
+		"PriceGuest": 3.8,
+		"PriceStudent": 1.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-01-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.6,
+		"PriceStudent": 2.8,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-01-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 8.0,
+		"PriceStudent": 4.0,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-01-09",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 8.4,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
+		"Vegetarian": true
+	}
+]
