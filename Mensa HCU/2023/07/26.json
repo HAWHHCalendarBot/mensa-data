@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Vegane Pasta (Gl), \"Aglio e olio\" mit Tomate und Knoblauch",
+		"Category": "Pastabar",
+		"Date": "2023-07-26",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-07-26",
@@ -15,44 +28,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Bete (1,2,3,5,Gl,So,Sl,Se,Sw), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Meerrettich Dip (2,3,So,Sf)",
+		"Name": "Penne in Gemüse-Basilikum-Creme mit Kichererbsenbällchen (Gl,So,Sl)",
 		"Category": "CampusVital",
 		"Date": "2023-07-26",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 7.8,
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,Gl,So,La,Sl,Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2023-07-26",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 8.6,
-		"PriceStudent": 4.3,
-		"Poultry": true
 	}
 ]
