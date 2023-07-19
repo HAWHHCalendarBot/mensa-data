@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-07-19",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta (Gl), Carbonara vegan (So)",
 		"Category": "Pastabar",
 		"Date": "2023-07-19",
@@ -23,6 +12,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Sauerkraut-Tofu Pfanne mit Kartoffeleinlage (So,Sf), Porreegemüse, gebackene Süßkartoffel",
+		"Category": "Gemüsebar",
+		"Date": "2023-07-19",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "LowBowl mit Süßkartoffel und Tofu (So,Sl,Sw)",
