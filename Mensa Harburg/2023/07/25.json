@@ -1,25 +1,9 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+		"Name": "Gemüsebar des Tages",
 		"Category": "Gemüsebar",
 		"Date": "2023-07-25",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-07-25",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -27,19 +11,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
+		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-07-25",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Beef": true,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-07-25",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
