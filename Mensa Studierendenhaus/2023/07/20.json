@@ -13,21 +13,6 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Bulgur mit Tomate und Peperoni (Gl,Sl), buntem Gemüse",
-		"Category": "Gemüsebar",
-		"Date": "2023-07-20",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
 		"Category": "Pastabar",
 		"Date": "2023-07-20",
@@ -39,6 +24,23 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Blattspinat (Sl), Kartoffeln Provencial, Kichererbsengemüse (1,5,Sw), buntem Gemüse (1), frisches Gemüse (2,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-07-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
@@ -101,5 +103,22 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "bokaufWOK..., Marinierte Hähnchenbrust auf WOK-Gemüse mit asiatische Tomatensoße (2,Gl,So,Sl,Sw), Kokosreis",
+		"Category": "CampusVital",
+		"Date": "2023-07-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]

@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Pasta mit Hackbällchen in Tomatensauce (Gl,Ei,La)",
+		"Name": "Fingermöhrchen, Maisgemüse, Gemüsemix Balance, Gemüsemix Eskorial",
+		"Category": "Pastabar",
+		"Date": "2023-07-20",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit Rucola und  Hackbällchen in pikanter Tomatensauce (Gl,Ei,La)",
 		"Category": "Pastabar",
 		"Date": "2023-07-20",
 		"Additives": {
@@ -15,7 +26,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Minestrone (Gl,Sl,Sw), Ciabatta (Gl)",
+		"Name": "Minestrone (Gl,Sl,Sw), Baguette (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-07-20",
 		"Additives": {
@@ -28,5 +39,33 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La)",
+		"Category": "CampusVital",
+		"Date": "2023-07-20",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.4,
+		"PriceGuest": 8.2,
+		"PriceStudent": 4.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Wir kochen was Sie lieben..., Enchilada mit Rindfleisch, Mais und Kidneybohnen, Mozzarellakäse (2,Gl), und kleinem Salat mit Wild Karachi (Sf,Se)",
+		"Category": "CampusWorld",
+		"Date": "2023-07-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 8.4,
+		"PriceStudent": 4.2,
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]
