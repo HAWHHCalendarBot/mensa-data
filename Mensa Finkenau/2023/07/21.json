@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "gebratene Zucchini, glacierte rote Beete, Rosmarinkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta proteica (Gl), mit Linsen und Kichererbsen (Sl,Sw)",
+		"Category": "Pastabar",
 		"Date": "2023-07-21",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,14 +15,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta (Gl), Gran sapore mit Aubergine und Kräutern in Tomatensoße (La,Sl,Sw)",
-		"Category": "Pastabar",
+		"Name": "glacierte rote Beete, tomatisierte dicke Bohnen, Rosmarinkartoffeln, gebratene Zucchini, Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Basmatireis, Karottengemüse in Kräuterrahm (Gl,La)",
+		"Category": "Gemüsebar",
 		"Date": "2023-07-21",
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -26,7 +32,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "LowBowl mit Süßkartoffel und Tofu (So,Sl,Sw)",
+		"Name": "LowBowl mit Süßkartoffel und Tofu (So,Sl,Sw), Topping pikanter gerösteter Wirsing",
 		"Category": "Pottkieker",
 		"Date": "2023-07-21",
 		"Additives": {
