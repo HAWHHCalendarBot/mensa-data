@@ -14,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (Gl), Gran sapore mit Aubergine, Kräutern in Tomatensoße, Rucola und veganem Mozzarella (La,Sl,Sw)",
+		"Name": "Hausgemachte Pasta (Gl), Gran sapore mit Aubergine, Kräutern in Tomatensoße und Rucola (La,Sl,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2023-07-25",
 		"Additives": {
@@ -59,18 +59,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Champignon im Backteig (Gl,Ei), Kräuter-Quark (La), Tomaten-Gurken-Topping, Pommes Frites (Sf)",
+		"Name": "Champignon im Backteig (Gl,Ei), Veganer Kräuterdip (Gl,Sf), Tomaten-Gurken-Topping, Pommes Frites (Sf)",
 		"Category": "CampusVital",
 		"Date": "2023-07-25",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Champignon im Backteig (Gl,Ei), Veganer Kräuterdip (Gl,Sf), Tomaten-Gurken-Topping, Pommes Frites (Sf)",
+		"Category": "CampusVital",
+		"Date": "2023-07-25",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
 		"Vegetarian": true
 	}
 ]
