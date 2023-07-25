@@ -1,5 +1,20 @@
 [
 	{
+		"Name": "Karotten-Wirsing Gemüse, gebratene Champignons (Sw), Kräuter-Chili-Kartoffeln, gerösteter Broccoli, gebratene Paprika (1,5,Sw), Grilltomate (La)",
+		"Category": "Gemüsebar",
+		"Date": "2023-07-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta (Gl), Gran sapore mit Aubergine und Kräutern in Tomatensoße (La,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-07-25",
@@ -28,21 +43,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "4 Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), veganes Tzatziki (So,Sf), Gemüsecouscous (Gl,Sl), Rotkrautsalat (3)",
+		"Name": "4 Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), Tzatziki (La), Gemüsecouscous (Gl,Sl), Rotkrautsalat (3)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-07-25",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
