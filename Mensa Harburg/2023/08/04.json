@@ -2,7 +2,7 @@
 	{
 		"Name": "Gemüsebar des Tages",
 		"Category": "Gemüsebar",
-		"Date": "2023-08-01",
+		"Date": "2023-08-04",
 		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,7 +13,7 @@
 	{
 		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
 		"Category": "Pastabar",
-		"Date": "2023-08-01",
+		"Date": "2023-08-04",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
@@ -27,7 +27,7 @@
 	{
 		"Name": "Veg. Pastabar des Tages (Gl)",
 		"Category": "Pastabar",
-		"Date": "2023-08-01",
+		"Date": "2023-08-04",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
@@ -38,14 +38,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Zartweizen-Tomatentopf mit Pilzen (Gl,Sl,Sw)",
+		"Name": "Blumenkohl Korma, Reis",
 		"Category": "Pottkieker",
-		"Date": "2023-08-01",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
+		"Date": "2023-08-04",
+		"Additives": {},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
@@ -53,27 +49,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
+		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Walnuss-Senfsoße (3,5,Gl,La,Nu,Sl,Sf,Sw), Salatgarnitur mediterran (6)",
 		"Category": "CampusWorld",
-		"Date": "2023-08-01",
+		"Date": "2023-08-04",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
-		"Category": "CampusVital",
-		"Date": "2023-08-01",
-		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"6": "Geschwärzt",
 			"Ei": "Ei und Eierzeugnisse",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
@@ -81,17 +70,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Frisch gegrilltes Schweinesteak, Kartoffelspalten (Gl), Pilzsoße (3,La)",
-		"Category": "CampusSpezial",
-		"Date": "2023-08-01",
+		"Name": "Salat von schwarzen Bohnen mit Nuggets (Gemüsebasis) (3,Gl,Sl,Sw), Tomaten-Sonnenblumenkern-Salsa",
+		"Category": "CampusVital",
+		"Date": "2023-08-04",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.5,
-		"PriceGuest": 7.7,
-		"PriceStudent": 5.2,
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Frisch gegrillt, Schweinefiletmedaillons, Chimichurri (3), gebratene Karotten, gebratene Drillinge",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-04",
+		"Additives": {
+			"3": "Antioxidationsmittel"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"LactoseFree": true,
 		"Pig": true
 	}
 ]
