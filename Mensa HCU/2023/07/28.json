@@ -17,10 +17,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf)",
+		"Name": "Indische Tomaten-Linsensuppe (Sf,Se)",
 		"Category": "Pottkieker",
 		"Date": "2023-07-28",
 		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -52,7 +53,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wrap mit Quorn-Tomaten- Kokos-Füllung, Rotkohlsalat, Rucola, Gurken und Koriander-Joghurt (2,3,5,Gl,Ei,La,Sw)",
+		"Name": "Wrap mit Quorn, Rotkohlsalat, Rucola, Gemüsesalat und Curry-Schmand (2,3,5,Gl,Ei,La,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2023-07-28",
 		"Additives": {
@@ -68,5 +69,26 @@
 		"PriceGuest": 6.0,
 		"PriceStudent": 3.0,
 		"Vegetarian": true
+	},
+	{
+		"Name": "NEUes Gericht für dich gekocht..., Seelachs in Kürbispanade (Gl,Ei,Fi), hausgemachter Kartoffelsalat mit Gurkenwürfel und Kürbiskernöl (3,5,9,Sl,Sf,Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2023-07-28",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 10.2,
+		"PriceStudent": 5.1,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
