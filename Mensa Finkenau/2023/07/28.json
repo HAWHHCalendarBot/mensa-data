@@ -24,11 +24,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf)",
+		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-07-28",
 		"Additives": {
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -37,7 +37,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kabeljau aus dem Kräutersud auf Blattspinat mit Tomaten Penne (1,Gl,Fi,La,Sl,Sf)",
+		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2023-07-28",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kabeljau aus dem Kräutersud auf Blattspinat mit Tomaten Penne (1,Gl,Fi,La,Sl,Sf,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2023-07-28",
 		"Additives": {
@@ -46,11 +60,13 @@
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.2,
 		"PriceGuest": 8.4,
 		"PriceStudent": 5.9,
+		"Alcohol": true,
 		"Fish": true
 	}
 ]
