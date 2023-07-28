@@ -1,21 +1,19 @@
 [
 	{
-		"Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Penne (Gl)",
+		"Name": "Nudelauflauf mit Tomaten, Gemüse, Sahne und Käse (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-07-28",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Penne (Gl)",
+		"Name": "Gorgonzolasoße mit Gorgonzola und Broccoli (La,48), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-07-28",
 		"Additives": {
@@ -43,5 +41,37 @@
 		"PriceGuest": 5.0,
 		"PriceStudent": 2.5,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pikanter Nudelsalat mit Zucchini, Oliven und Hirtenkäse (3,5,6,Gl,La,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2023-07-28",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"6": "Geschwärzt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Sojageschnetzeltes in pikanter Soße mit Tomaten Salsa (So,Sl,Sf), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2023-07-28",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.25,
+		"PriceStudent": 3.75,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
