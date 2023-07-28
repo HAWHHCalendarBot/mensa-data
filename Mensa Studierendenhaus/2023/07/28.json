@@ -1,20 +1,20 @@
 [
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (Gl)",
+		"Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Farfalle (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-07-28",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true
 	},
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw)",
+		"Name": "Brechbohne, Cajun Gemüse (Sl), Spitzkohl, gebratene Paprika (1,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-07-28",
 		"Additives": {
@@ -30,19 +30,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), Farfalle (Gl)",
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,Gl,So,Sl,Sf), Farfalle (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-07-28",
 		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
+			"1": "Farbstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Fish": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf)",
