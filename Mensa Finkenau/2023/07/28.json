@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta des Tages (Gl), pasta di zucchine colorate \"Pasta mit Zucchini, Tomate und Paprika\"",
+		"Category": "Pastabar",
 		"Date": "2023-07-28",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta des Tages (Gl), pasta di zucchine colorate \"Pasta mit Zucchini, Tomate und Paprika\"",
 		"Category": "Pastabar",
 		"Date": "2023-07-28",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüse des Tages, gerösteter Broccoli, Perlgraupen Gemüse (Gl,Sl,Sw), Rosmarinkartoffeln, gebratene Karotten, gerösteter Blumenkohl, gebackene Süßkartoffel",
+		"Category": "Gemüsebar",
+		"Date": "2023-07-28",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -37,18 +54,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw)",
-		"Category": "Pottkieker",
+		"Name": "Wir kochen was Sie lieben..., Putensteak mit Käse und Röstzwiebeln überbacken (1,Gl,La), Blattspinat in Rahm (Gl,La), Penne (Gl)",
+		"Category": "CampusSpezial",
 		"Date": "2023-07-28",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
-		"PriceAttendant": 3.4,
-		"PriceGuest": 4.1,
-		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Poultry": true
 	},
 	{
 		"Name": "Kabeljau aus dem Kräutersud auf Blattspinat mit Tomaten Penne (1,Gl,Fi,La,Sl,Sf,Sw)",
