@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Erbsen-Mais Gemüse, Gartengemüse, Sommergemüse, Prinzessbohnen, gebratenes Gemüse, Ofenkartoffeln mit Roter Beete (9)",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-01",
-		"Additives": {},
+		"Additives": {
+			"9": "Süßungsmittel"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,25 +13,42 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "Belugalinsenragout (Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-01",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Orangen-Linsencurry (3,Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-01",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schwarze Bohnensoße mit Räuchertofu (Gl,So,Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-01",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
