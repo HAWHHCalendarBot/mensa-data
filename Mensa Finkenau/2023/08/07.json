@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Dummy",
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-07",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GL)",
 		"Category": "Pastabar",
 		"Date": "2023-08-07",
 		"Additives": {},
@@ -11,14 +22,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Dummy",
-		"Category": "Gemüsebar",
+		"Name": "Tofu Gemüse Topf (So,Sl)",
+		"Category": "Pottkieker",
 		"Date": "2023-08-07",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hähnchen Tikka Masala mit Joghurt (La,Sf), Kräuterreis",
+		"Category": "CampusWorld",
+		"Date": "2023-08-07",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"Poultry": true
 	}
 ]

@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Dummy",
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-10",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GL)",
 		"Category": "Pastabar",
 		"Date": "2023-08-10",
 		"Additives": {},
@@ -11,14 +22,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Dummy",
-		"Category": "Gemüsebar",
+		"Name": "Griechischer Yachni, Eintopf mit Kartoffeln, Oliven und (6,So,Sl)",
+		"Category": "Pottkieker",
 		"Date": "2023-08-10",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Köfte (Gl), Joghurt-Zitronen-Dip (La), gerösteter Blumenkohl, gebratene Kartoffeln mit Minze",
+		"Category": "CampusWorld",
+		"Date": "2023-08-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"Beef": true
 	}
 ]
