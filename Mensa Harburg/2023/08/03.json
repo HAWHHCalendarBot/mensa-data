@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Tomatensoße Napoli (Sl), Pasta (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-08-03",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,25 +14,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "Vegane Knoblauchsoße mit Kräutern (Gl,So), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-03",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
+		"Name": "Cremespinat (Gl,So,Sl), Sommergemüse, Zuckerschoten, gebratene Champignons (Sw), Ratatouille (Sl), Blumenkohl, Ofengemüse mit Kartoffeln",
+		"Category": "Gemüsebar",
 		"Date": "2023-08-03",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -91,6 +97,21 @@
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.8,
 		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Gebratenes Schweinerückensteak, Frische vegane asiatische Gemüsepfanne aus dem Wok (Sl,Sf,Sw), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-03",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
 		"LactoseFree": true,
 		"Pig": true
 	}
