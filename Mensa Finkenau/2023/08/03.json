@@ -1,25 +1,28 @@
 [
 	{
-		"Name": "Dummy",
-		"Category": "Pastabar",
-		"Date": "2023-08-03",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Dummy",
+		"Name": "Gemüse des Tages, Kräuter-Chili-Kartoffeln, Fingermöhrchen (La), gerösteter Blumenkohl, gebratene Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-03",
-		"Additives": {},
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl), Pasta con crema di formaggio alla paprika \"Pasta mit Paprika-Frischkäse und Rucola Topping\" (Gl,La)",
+		"Category": "Pastabar",
+		"Date": "2023-08-03",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Gl,Sl)",
