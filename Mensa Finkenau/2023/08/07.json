@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta des Tages (GL), Lenticchie mit Linsen in pikanter Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-07",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,20 +13,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüse des Tages, Karotten Pastinakenmix mit frischer Petersilie, Erbsen, Salzkartoffeln, Tricolore Gemüse (La,Sl), Orientalisches Kichererbsengemüse (2,5,Sw)",
+		"Name": "Gemüse des Tages, Karotten Pastinakenmix mit frischer Petersilie, Erbsen, Tricolore Gemüse (Sl), Orientalisches Kichererbsengemüse (2,5,Sw), Rosmarinkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-07",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tofu Gemüse Topf (So,Sl)",
