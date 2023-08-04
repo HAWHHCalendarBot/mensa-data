@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta des Tages (Gl,So,Sl,La)",
+		"Category": "Pastabar",
 		"Date": "2023-08-04",
 		"Additives": {},
 		"PriceAttendant": 0.95,
@@ -11,10 +11,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
+		"Name": "Gemüse des Tages, Orientalisches Gemüsecurry (So,Sl,Sw), gerösteter Blumenkohl, gebratene Zucchini, Kräuter-Chili-Kartoffeln",
+		"Category": "Gemüsebar",
 		"Date": "2023-08-04",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
