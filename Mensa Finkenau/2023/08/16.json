@@ -1,0 +1,55 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-16",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GL)",
+		"Category": "Pastabar",
+		"Date": "2023-08-16",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (Gl)",
+		"Category": "Pottkieker",
+		"Date": "2023-08-16",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Brasilianisches Picadillo (3,5,Sw), Penne (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-08-16",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"Beef": true,
+		"LactoseFree": true
+	}
+]
