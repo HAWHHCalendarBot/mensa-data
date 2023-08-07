@@ -1,0 +1,74 @@
+[
+	{
+		"Name": "Gemüsebar des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-18",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Currywurst vegetarisch (Ei), Pommes Frites (Sf), Grillsoße (9,Sl,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-08-18",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Currybratwurst (3,4,8,Sf), Pommes Frites (Sf), Grillsoße (9,Sl,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-08-18",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
+	}
+]

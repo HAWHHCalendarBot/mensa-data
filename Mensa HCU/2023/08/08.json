@@ -29,6 +29,41 @@
 		"Vegan": true
 	},
 	{
+		"Name": "vegane Bratwurst, Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 7.8,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 8.6,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
 		"Name": "Caesars Salad mit Hähnchebrust und Baguette (2,3,8,Gl,Ei,La,Sf,Sw,48)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-08-08",
@@ -47,5 +82,24 @@
 		"PriceGuest": 10.0,
 		"PriceStudent": 5.0,
 		"Poultry": true
+	},
+	{
+		"Name": "Caesars Salad mit Milchschnitzel und Baguette (2,Gl,Ei,La,Sf,Sw,48)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-08-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 11.6,
+		"PriceStudent": 5.8,
+		"Vegetarian": true
 	}
 ]
