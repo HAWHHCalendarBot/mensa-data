@@ -1,35 +1,39 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "gerösteter Blumenkohl, Tomaten Belugalinsenragout (Sl), Glacierte Pastinaken mit Honig, Paprika-Zwiebelgemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-09",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "Bolognese (Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-09",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true,
-		"LactoseFree": true,
-		"Poultry": true
+		"LactoseFree": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Würzige Thai-Soja-Bolognese (2,Gl,So), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-09",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -75,13 +79,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Curry-Ofengemüse (Sw), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2023-08-09",
 		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,

@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), Eliche (Gl)",
+		"Name": "Broccoli, glasiertes Wurzelgemüse (Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-09",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Conchiglie Pasta (Gl), mit Hähnchenstreifen in Basilikum-Sahnesauce und Austernpilzen (La)",
 		"Category": "Pastabar",
 		"Date": "2023-08-09",
 		"Additives": {
@@ -13,15 +26,16 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Curry-Noodle Bowl Bangkok mit (2,Gl,So,Se), rote Currysoße (3,Sl)",
+		"Name": "Curry-Noodle Bowl Bangkok mit (2,Gl,So,Se), mit Rotkrautsalat (3), scharfer Asia-Dip (1,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2023-08-09",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -48,5 +62,39 @@
 		"PriceGuest": 9.2,
 		"PriceStudent": 4.6,
 		"Vegetarian": true
+	},
+	{
+		"Name": "VEGAN Chili Fries sin carne (Pommes mit Chili und Sojadip) (1,2,So,Sl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-09",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "\"Chili Fries con carne\" Pommes mit Rindfleisch, Käse und Chilimajo (1,3,9,Ei,La,Sl,Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-09",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"Beef": true
 	}
 ]
