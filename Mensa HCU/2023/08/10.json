@@ -1,17 +1,29 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+		"Name": "Broccoli, Fingermöhrchen, Erbsen",
+		"Category": "Pastabar",
+		"Date": "2023-08-10",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Penne (Gl), \"a la Don Pepe\" mit Seelachs und Spinat in Sahnesoße (Gl,Fi,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-10",
 		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Fish": true
 	},
 	{
 		"Name": "Griechischer Yachni, Eintopf mit Kartoffeln, Oliven und (6,So,Sl)",
