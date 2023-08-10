@@ -11,22 +11,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
-		"Category": "Pastabar",
-		"Date": "2023-08-10",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Gemüse des Tages, Karotten, gerösteter Broccoli, Kräuter Kartoffeln, Tomaten Mango Belugalinsenragout (Sl), gebratene Champignons (Sw)",
+		"Name": "Gemüse des Tages, Sesammöhrchen (Se), gerösteter Broccoli, gerösteter Blumenkohl, gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-10",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -36,7 +25,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Griechischer Yachni, Eintopf mit Kartoffeln, Oliven und (6,So,Sl)",
+		"Name": "vegane Mi-Nudeln (Gl,So), Bunte Gemüsemischung mit Karotten (Sl), Currysoße (Gl,La,Sf)",
+		"Category": "Pastabar",
+		"Date": "2023-08-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Griechischer Yachni, Eintopf mit Kartoffeln, Oliven (6,So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2023-08-10",
 		"Additives": {
@@ -51,16 +56,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Köfte (Gl), Joghurt-Zitronen-Dip (La), gerösteter Blumenkohl, gebratene Kartoffeln mit Minze",
+		"Name": "Köfte (Gl), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2023-08-10",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 8.0,
-		"PriceStudent": 5.5,
-		"Beef": true
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]

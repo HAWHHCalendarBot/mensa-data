@@ -1,35 +1,10 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Karotten (Sl), Broccoli (Sl), gebratene Champignons, Chili-Kartoffeln aus dem Ofen, buntes Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-10",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-08-10",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-08-10",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -38,7 +13,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Griechischer Yachni, Eintopf mit Kartoffeln, Oliven und (6,So,Sl)",
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Funghi di bosco e basilico mit Pilzen und Basilikum (Gl,So,Sw), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Griechischer Yachni, Eintopf mit Kartoffeln, Oliven (6,So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2023-08-10",
 		"Additives": {
