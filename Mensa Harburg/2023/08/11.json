@@ -1,27 +1,5 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-08-11",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-08-11",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Bolognese (Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-11",
@@ -50,6 +28,20 @@
 		"Poultry": true
 	},
 	{
+		"Name": "Sommergemüse, gebratenes Gemüse, Zartweizen mit Gemüse (Gl,Sl), Erbsen-Mais Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-11",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Schupfnudeln mit Champignons und Wirsing (2,Gl,So,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-08-11",
@@ -64,6 +56,22 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pomodoro, capperi e tofu mit Tomatensoße, Soja-Kebap und Tofu (6,So,La,Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-11",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Linsen-Chili mit Grünkern und Grünkohl (Gl,Sl,Sf)",
