@@ -1,17 +1,19 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Gemüse des Tages, Karotten (La), Blumenkohl, gerösteter Broccoli, Bunte Gemüsemischung (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-11",
-		"Additives": {},
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta des Tages (GL) Frischkäse Kräuter Auflauf mit Hirtenkäse gratiniert (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-08-11",
 		"Additives": {
@@ -38,26 +40,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gebratenes Kabeljaufilet (Gl,Fi,Sf), Drillinge mit Lauchgemüse (La), Soße Tartar (1,3,9,Ei,La,Sf,Sw)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-08-11",
-		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"Fi": "Fisch und Fischerzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 8.2,
-		"PriceGuest": 9.4,
-		"PriceStudent": 6.9,
-		"Fish": true
 	},
 	{
 		"Name": "Gebratenes Kabeljaufilet (Gl,Fi,Sf), Drillinge mit Lauchgemüse (La), Soße Tartar (1,3,9,Ei,La,Sf,Sw)",
