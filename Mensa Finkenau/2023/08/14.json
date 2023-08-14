@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Blumenkohl, gebratene Zucchini, Gartengemüse (Sl), Kräuterkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-14",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,10 +13,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit Oliventapenade (3,Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-14",
-		"Additives": {},
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
