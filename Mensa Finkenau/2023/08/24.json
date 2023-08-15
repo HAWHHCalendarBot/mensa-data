@@ -22,6 +22,19 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Extra: Kartoffelspalten (Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-08-24",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 1.2,
+		"PriceGuest": 1.35,
+		"PriceStudent": 1.1,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-08-24",
@@ -36,5 +49,48 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl-Käse-Bratling im Burgerbrötchen mit Coleslaw (1,2,3,9,Gl,Ei,So,La,Sl,Sf,Lu)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-24",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.4,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Burger mit geschmorte Schulter vom Schwein mit Honig und Dijonsenf mariniert (1,2,3,9,Gl,Ei,So,La,Sf,Lu)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-24",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Pig": true
 	}
 ]
