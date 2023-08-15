@@ -1,16 +1,17 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen, gebratenem Wirsing, Maiskolben (1), Bratkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-15",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"1": "Farbstoff",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
@@ -54,6 +55,22 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Kalter Teller: Mediteraner Nudelsalat mit vegetarischem Schnitzel und (Gl,Ei,La,Nu), veganer Feta (So)",
+		"Category": "CampusWorld",
+		"Date": "2023-08-15",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.1,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Geflügelcurry mit Mandeln (Gl,La,Nu,Sf), Salzkartoffeln",
