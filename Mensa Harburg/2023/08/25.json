@@ -2,7 +2,7 @@
 	{
 		"Name": "Gemüsebar des Tages",
 		"Category": "Gemüsebar",
-		"Date": "2023-08-24",
+		"Date": "2023-08-25",
 		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,7 +13,7 @@
 	{
 		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
 		"Category": "Pastabar",
-		"Date": "2023-08-24",
+		"Date": "2023-08-25",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
@@ -27,7 +27,7 @@
 	{
 		"Name": "Veg. Pastabar des Tages (Gl)",
 		"Category": "Pastabar",
-		"Date": "2023-08-24",
+		"Date": "2023-08-25",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
@@ -38,14 +38,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
+		"Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",
 		"Category": "Pottkieker",
-		"Date": "2023-08-24",
+		"Date": "2023-08-25",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -54,55 +52,53 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wrap mit Glasnudeln und Sonnenblumenhack (1,2,Gl,So,Sl,Sf,Sw)",
-		"Category": "CampusVital",
-		"Date": "2023-08-24",
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,Gl,So,Sl,Sf), Conchiglie (Gl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-25",
 		"Additives": {
 			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.8,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Tom Kha Gai Suppe mit Tofu und Basmatireis (2,3,Gl,So,Sw)",
-		"Category": "CampusWorld",
-		"Date": "2023-08-24",
+		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-08-25",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.6,
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
-		"Name": "Ungarisches Rindergulasch (9,La,Sw), Spätzle (Gl,Ei)",
+		"Name": "Gebratenes Seelachsfilet (Gl,Fi), Blattspinat in Rahm (Gl,La), Salzkartoffeln",
 		"Category": "CampusSpezial",
-		"Date": "2023-08-24",
+		"Date": "2023-08-25",
 		"Additives": {
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
-		"Beef": true
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Fish": true
 	}
 ]
