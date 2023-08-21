@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Broccoli, Kürbisgemüse, gerösteter Blumenkohl, Ingwer-Knoblauch-Karotten (Se)",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-21",
-		"Additives": {},
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,15 +13,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit Champignons in Rahm (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-08-21",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kokos-Kürbis Curry (Sf,Se), Karotten",
