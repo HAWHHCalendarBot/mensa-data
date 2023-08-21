@@ -1,17 +1,6 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-08-21",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "vegane Tomaten-Basilikumsoße, Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-21",
 		"Additives": {
@@ -20,16 +9,33 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "vegane Käsesoße (1,Gl,So), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-21",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Paprika-Zwiebelgemüse (1,5,Sw), Blumenkohl geröstet, Karotten, gebratene Champignons (Sw), Curryreis (Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-21",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -52,11 +58,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schupfnudeln mit Champignons, Wirsing und marinierten Tofuscheiben (2,Gl,So,Sf,Sw)",
+		"Name": "Schupfnudeln mit Champignons, Wirsing und marinierten Tofuscheiben (2,Gl,Ei,So,Sf,Sw)",
 		"Category": "CampusVital",
 		"Date": "2023-08-21",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
@@ -66,10 +73,10 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Mini Frühlingsrollen (Gl,So), Bratnudeln mit Gemüsestreifen (2,Gl,So,Se), scharfer Asia-Dip (1,Sf)",
+		"Name": "Mini Frühlingsrollen (Gl,So), Mie-Nudeln mit Gemüse (2,Gl,So,Se), scharfer Asia-Dip (1,Sf)",
 		"Category": "CampusWorld",
 		"Date": "2023-08-21",
 		"Additives": {
