@@ -53,10 +53,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta nach Wahl mit Pomodoro Soße (Gl)",
+		"Name": "Pasta mit Arrabbiata Soße (Gl)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2023-08-25",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
@@ -76,24 +78,6 @@
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
 		"Beef": true
-	},
-	{
-		"Name": "Tortellini Verdi Verdura (2,Gl,Ei,La,Sl,48)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2023-08-25",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.65,
-		"PriceGuest": 5.25,
-		"PriceStudent": 3.95,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Baked Potato \"Mexican\" mit Chilisincarne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream oder vegan Dip (2,3,4,Ei,So,La,Sf)",
@@ -131,33 +115,36 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Melon Mint Salat, Blattsalat, Wasserm., Edamame, Karotte, Minze, Koriander, Erdnüsse, Mango-Dressing (En,So)",
+		"Name": "Ravioli Steinpilz mit Arrabiata Soße (2,Gl,Ei,La,48)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2023-08-25",
 		"Additives": {
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"2": "Konservierungsstoff",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 5.8,
-		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.3,
+		"PriceStudent": 5.0,
+		"Vegetarian": true
 	},
 	{
-		"Name": "Green Bowl mit Prinzeßbohnen, rote Beete, Avocado, frischem Blattspinat, Erdnuss-Dressing (2,3,Gl,En,So)",
-		"Category": "Highlight",
+		"Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (Gl,So,Sl,Sf,Se)",
+		"Category": "Food Angebot im Café ZessP",
 		"Date": "2023-08-25",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 6.8,
-		"PriceStudent": 5.5,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 6.6,
+		"PriceStudent": 5.3,
 		"LactoseFree": true,
 		"Vegan": true
 	}

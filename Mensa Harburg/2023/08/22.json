@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Mini Frühlingsrollen (Gl,So)",
+		"Category": "Pastabar",
 		"Date": "2023-08-22",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,25 +14,43 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
-		"Category": "Pastabar",
+		"Name": "Porreegemüse in veganen Rahm (So,Sl), Prinzessbohnen, Mexikanisches Gemüse (Sl), Zartweizen mit Gemüse (Gl,Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2023-08-22",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Würzige Thai-Soja-Bolognese (2,Gl,So), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-22",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "veganer Cremespinat (So,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-22",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -49,18 +70,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-08-22",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Falafel mit persischem Gewürzreis (Gl,Sl,Se), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
@@ -95,5 +104,17 @@
 		"PriceStudent": 4.1,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gnocchi, Gurkensalat (La), Kräuterquark (La), Tomaten Relish",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-22",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"Vegetarian": true
 	}
 ]
