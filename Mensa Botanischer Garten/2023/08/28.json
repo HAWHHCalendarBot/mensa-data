@@ -28,14 +28,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schweinefilet, Paprikasoße, Ofengemüse mit Kartoffeln",
+		"Name": "Schweinefilet, Mandelbroccoli (La,Nu), Kartoffelgratin (Ei,La)",
 		"Category": "CampusWorld",
 		"Date": "2023-08-28",
-		"Additives": {},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.3,
-		"LactoseFree": true,
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
 		"Pig": true
 	}
 ]
