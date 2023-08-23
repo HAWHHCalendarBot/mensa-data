@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gebratene Zucchini, gerösteter Broccoli, gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-23",
 		"Additives": {},
@@ -11,10 +11,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit Spinat in Rahm (Gl,So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-23",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
