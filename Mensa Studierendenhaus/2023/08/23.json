@@ -27,7 +27,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+		"Name": "griechisches Gemüse (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-23",
 		"Additives": {
@@ -92,18 +92,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Kartoffelspalten (Gl)",
+		"Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Kartoffelspalten (Gl), oder Kartoffelsalat mit Speck (2,Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2023-08-23",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.7,
 		"PriceGuest": 6.9,
 		"PriceStudent": 4.4,
-		"Beef": true
+		"Beef": true,
+		"Pig": true
 	}
 ]
