@@ -15,19 +15,46 @@
 		"Fish": true
 	},
 	{
-		"Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
+		"Name": "Veganes Soja-Jailhouse- Chili (So,Sl), Fladenbrot (Gl,Se)",
 		"Category": "Pottkieker",
 		"Date": "2023-08-24",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La), oder VEGAN Soja-Knoblauchdip (Sf)",
+		"Category": "CampusVital",
+		"Date": "2023-08-24",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.4,
+		"PriceGuest": 8.2,
+		"PriceStudent": 4.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Lammkeule mit Bärlauch-Senf und Perlzwiebeln, glasiertes Wurzelgemüse (La,Sl), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-24",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 11.6,
+		"PriceStudent": 5.8,
+		"Beef": true,
+		"Lamb": true
 	}
 ]
