@@ -38,6 +38,37 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Minestrone (Gl,Sl,Sw), Ciabatta (Gl)",
+		"Category": "Pottkieker",
+		"Date": "2023-08-31",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Thüringer Bratwurst (8,Sl,Sf), Kartoffelsalat mit grünen Bohnen (2,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-08-31",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
 		"Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), veganes Tzatziki (So,Sf), Gemüsecouscous (Gl,Sl), Rotkrautsalat (3)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-08-31",
@@ -54,5 +85,20 @@
 		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Sommersalat mit Balsamicodressing, Kapern, Staudensellerie und gebratenem Halloumi (Gl,La,Sl,Sw), Baguette (Gl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-31",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
 	}
 ]

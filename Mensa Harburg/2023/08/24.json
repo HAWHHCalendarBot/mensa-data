@@ -25,11 +25,28 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Vegane Bolognese al arrabiata in pikanter Soße (So,Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-24",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Würzige Thai-Soja-Bolognese (2,Gl,So), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
