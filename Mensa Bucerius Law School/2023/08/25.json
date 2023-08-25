@@ -1,18 +1,33 @@
 [
 	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (6,Sf), Eliche (Gl)",
+		"Name": "Salsa al formaggio con dadini di verdure \"Käsesoße mit Gemüsewürfeln\" (Gl,La), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-25",
 		"Additives": {
-			"6": "Geschwärzt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spitzkohl aus der Pfanne, Ratatouille (Sl), Röstkartoffeln, Karotten, gebratene Currywurstscheiben (3,4,8,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-25",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
 		"Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",
