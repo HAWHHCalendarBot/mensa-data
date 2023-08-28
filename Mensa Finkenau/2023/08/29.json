@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebackene Aubergine, Karotten, gerösteter Broccoli, Kürbisgemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-29",
 		"Additives": {},
@@ -11,10 +11,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit Spinatpesto und Kernen (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-29",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
