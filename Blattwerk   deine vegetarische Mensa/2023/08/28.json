@@ -13,13 +13,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Carbonara vegetariana (Gl,Ei,La), Fusilli (Gl)",
+		"Name": "Carbonara vegetariana (Gl,So,La), Fusilli (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-28",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -43,22 +43,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Lupinen-Bolognese (Sl,Lu), Penne (Gl)",
-		"Category": "CampusSpezial",
-		"Date": "2023-08-28",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Lu": "Lupine und - erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.5,
-		"PriceStudent": 3.0,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Soja Bolognese mit Gemüse (So,Sl), Spaghetti (Gl)",
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), Penne (Gl)",
 		"Category": "CampusSpezial",
 		"Date": "2023-08-28",
 		"Additives": {
@@ -71,6 +56,39 @@
 		"PriceStudent": 3.4,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Asiatischer Nudelsalat mit Omelette und Asiasoße (2,3,5,Gl,Ei,So,La,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2023-08-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.75,
+		"PriceGuest": 5.95,
+		"PriceStudent": 3.45,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüse-Currygemüse mit Kokosmilch, grünem Curry, geröstetem Quorn und Sesam (Ei,Se), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2023-08-28",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Schupfnudeln mit Champignons, Wirsing und marinierten Tofuscheiben (2,Gl,So,Sf,Sw)",
