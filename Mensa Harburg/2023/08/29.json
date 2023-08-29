@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (Gl)",
+		"Name": "Pollo all'Arrabbiata, Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-29",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-29",
 		"Additives": {
@@ -27,21 +27,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
+		"Name": "Schupfnudeln (Gl,Ei)",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-29",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schwarzwurzeln in veganen Rahm (So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-29",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -91,7 +104,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schweinenackensteak, italienischer Nudelsalat (2,3,5,Gl,La,Sw,48), Kräuterbutter (La)",
+		"Name": "Schweinenackensteak, italienischer Nudelsalat (2,3,5,Gl,La,Sw,48)",
 		"Category": "CampusSpezial",
 		"Date": "2023-08-29",
 		"Additives": {
