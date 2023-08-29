@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (Gl)",
+		"Name": "Pastinaken-Karotten Gemüse, Brechbohnen, Gemüse- Sesam- Reis (Se)",
+		"Category": "Gemüsebar",
+		"Date": "2023-08-29",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Penne (Gl), Tomatensoße",
 		"Category": "Pastabar",
 		"Date": "2023-08-29",
 		"Additives": {
@@ -10,38 +23,20 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+		"Name": "Fusilli (Gl), Kräutersoße (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-08-29",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
-		"Category": "Gemüsebar",
-		"Date": "2023-08-29",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Poultry": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
