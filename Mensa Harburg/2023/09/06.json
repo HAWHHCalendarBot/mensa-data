@@ -1,5 +1,78 @@
 [
 	{
+		"Name": "Gemüsebar des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-06",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-06",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-06",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2023-09-06",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Massam-Curry mit Kartoffeln, Edamame und Räuchertofu (1,2,3,Gl,En,So,Sl,Sf)",
+		"Category": "CampusVital",
+		"Date": "2023-09-06",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Frische Gemüsepfanne aus dem Wok in süß saurer Soße (Sl,Sf,Sw), Reis",
 		"Category": "CampusSpezial",
 		"Date": "2023-09-06",
@@ -13,5 +86,19 @@
 		"PriceStudent": 3.5,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Dönerteller Geflügel mit Krautsalat (Sw), Tzatziki (La), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-09-06",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"Poultry": true
 	}
 ]

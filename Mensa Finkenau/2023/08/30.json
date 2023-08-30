@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Sesam-Blumenkohl (Se), Süßkartoffeln, gebackene Aubergine, gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-08-30",
-		"Additives": {},
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,25 +14,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Nudel-Broccoliauflauf (Gl,So,Sl)",
 		"Category": "Pastabar",
-		"Date": "2023-08-30",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
-		"Category": "Pottkieker",
 		"Date": "2023-08-30",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (2,Gl,So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2023-08-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,

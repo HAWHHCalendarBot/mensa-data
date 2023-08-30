@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "all`Arrabbiata mit scharfer Tomatensoße (Sl), Maccaroni (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-30",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw), Maccaroni (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-30",
@@ -29,21 +43,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Arrabbiata mit scharfer Tomatensoße und Sojastreifen (So,Sl), Maccaroni (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-08-30",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-08-30",
@@ -60,7 +59,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
+		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen, Soja-Joghurt und Walnüsse (2,5,Gl,So,La,Nu,Sl,Sw)",
 		"Category": "CampusVital",
 		"Date": "2023-08-30",
 		"Additives": {
@@ -68,13 +67,31 @@
 			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.9,
 		"PriceGuest": 5.1,
 		"PriceStudent": 2.6,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Bulgursalat mit geröstetem Blumenkohl und Petersilienhummus (Gl,Sl,Se,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2023-08-30",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.95,
+		"PriceGuest": 6.15,
+		"PriceStudent": 3.65,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße",

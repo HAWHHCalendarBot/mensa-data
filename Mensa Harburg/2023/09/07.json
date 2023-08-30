@@ -1,5 +1,86 @@
 [
 	{
+		"Name": "Gemüsebar des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-07",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-07",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-07",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
+		"Category": "Pottkieker",
+		"Date": "2023-09-07",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pad Thai Reisnudeln mit Gemüse und Ei (2,Gl,Ei,So,La)",
+		"Category": "CampusVital",
+		"Date": "2023-09-07",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
+		"Category": "CampusVital",
+		"Date": "2023-09-07",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Frisch vom Grill, Schweinekotelette, Kartoffelspalten (Gl), Champignonrahmsoße (Gl,La,Sl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-09-07",
