@@ -1,35 +1,39 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-08-31",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-31",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Pollo all'Arrabbiata (Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-31",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Ratatouille in Tomatensoße (Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-08-31",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -38,17 +42,32 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Minestrone (Gl,Sl,Sw), Ciabatta (Gl)",
-		"Category": "Pottkieker",
+		"Name": "Gemüsefrikadelle (Gl,Sl), Bohnen-Gemüse, Erbsen, Weißkohlgemüse, Ofengemüse mit Kartoffeln, Paprika, Karotten und Zucchini (Sw)",
+		"Category": "Gemüsebar",
 		"Date": "2023-08-31",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 3.4,
-		"PriceGuest": 4.1,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Pilzsoße (3,Gl,So), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-08-31",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
 	},
