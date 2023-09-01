@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Linsenragout, Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-09-01",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,25 +13,60 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "gebratener Halloumi Käse (La)",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-01",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Marokkanisches Kichererbsenragut (Sl,Sw), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-01",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Cevapcici (Gl,Ei,Sf), scharfe Paprikarahmsoße (2), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-01",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true,
-		"LactoseFree": true,
-		"Poultry": true
+		"LactoseFree": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
+		"Name": "Pfannengemüse, Anti-Pasti Gemüse (1,3,5,Sf,Sw), Zuckerschoten, Ofengemüse mit Kartoffeln, Gemüsecouscous (Gl,Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2023-09-01",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -38,15 +75,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
+		"Name": "Holsteiner Kartoffeltopf (Sl,Sw), Baguette (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-01",
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -55,13 +90,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), Nudeln (2,5,Gl,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2023-09-01",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.2,
 		"PriceGuest": 5.4,
@@ -70,7 +108,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Cordon Bleu (2,Gl,La), Hollandaise (Ei,La,Sl,Sw), Erbsen, Pommes Frites (Sf)",
+		"Name": "Hähnchen Cordon Bleu (2,Gl,La), Hollandaise (Ei,La,Sl,Sw), Blattsalate (Sw), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-09-01",
 		"Additives": {
