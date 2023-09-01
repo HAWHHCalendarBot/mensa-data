@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Röstkartoffeln, gebratene Champignons, gebratene Zucchini, Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-01",
 		"Additives": {},
@@ -11,10 +11,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "orientalischer Nudelauflauf (1,Gl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2023-09-01",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
