@@ -68,6 +68,19 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Pizza Margherita Large (Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-05",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Crispy Chicken Burger (1,2,3,9,Gl,Ei,Sf,Sw), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2023-09-05",
@@ -88,6 +101,36 @@
 		"Poultry": true
 	},
 	{
+		"Name": "Pizza Margeritha vegan Large (1,Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pizza Salami Large (1,2,3,Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Pig": true
+	},
+	{
 		"Name": "Seelachsfilet in Kürbispanade (Gl,Ei,Fi), Kartoffel-Kürbis-Salat (3,5,Sl,Sf,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-09-05",
@@ -106,5 +149,22 @@
 		"PriceStudent": 5.1,
 		"Fish": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Gl,Ei,La,48)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"Vegetarian": true
 	}
 ]
