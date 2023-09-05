@@ -1,5 +1,21 @@
 [
 	{
+		"Name": "Ungarisches Rindergulasch (9,La,Sw), Spätzle (Gl,Ei)",
+		"Category": "Pastabar",
+		"Date": "2023-09-13",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-13",
@@ -30,18 +46,5 @@
 		"PriceStudent": 5.4,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Schweinefiletmedaillons, Chimichurri (3), gebratene Karotten, gebratene Drillinge",
-		"Category": "CampusSpezial",
-		"Date": "2023-09-13",
-		"Additives": {
-			"3": "Antioxidationsmittel"
-		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 11.0,
-		"PriceStudent": 5.5,
-		"LactoseFree": true,
-		"Pig": true
 	}
 ]

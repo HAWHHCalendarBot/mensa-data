@@ -1,18 +1,20 @@
 [
 	{
-		"Name": "Spaghetti (Gl),  mit Muscheln, Kirschtomaten und Knoblauch (Kr,Sl,Wt)",
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Eliche (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-14",
 		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Kr": "Krebstiere und Krebstiererzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Gl,Sl), Wrap (Gl)",
@@ -23,7 +25,7 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
-		"PriceGuest": 4.4,
+		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
@@ -39,25 +41,24 @@
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 4.6,
-		"PriceGuest": 6.6,
+		"PriceGuest": 5.8,
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "veganer Wrap Pulled BBQ mit Salat (Gl,So,Sf,Sw)",
-		"Category": "CampusSpezial",
+		"Name": "Gemüsefrittata (Ei,La), Schnittlauchquark (La), Salat mit Italian Dressing (Sf,Sw)",
+		"Category": "CampusVital",
 		"Date": "2023-09-14",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.1,
-		"PriceGuest": 7.6,
-		"PriceStudent": 3.8,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
 	}
 ]

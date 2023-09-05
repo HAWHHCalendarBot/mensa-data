@@ -1,19 +1,22 @@
 [
 	{
-		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), geröstete Kürbiskerne, Kürbiscreme (3,So), pikanter Karottensalat (3)",
+		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-11",
 		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"Ei": "Ei und Eierzeugnisse",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (Gl,So,Sl)",
@@ -25,25 +28,26 @@
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
-		"PriceGuest": 4.4,
+		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl (Gl), Sojajoghurt-Minz Dip (3,So)",
-		"Category": "CampusVital",
+		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), geröstete Kürbiskerne, Kürbiscreme (3,So), pikanter Karottensalat (3)",
+		"Category": "CampusWorld",
 		"Date": "2023-09-11",
 		"Additives": {
 			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 4.5,
+		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
-		"PriceStudent": 3.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceStudent": 3.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
@@ -55,7 +59,7 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
-		"PriceGuest": 9.6,
+		"PriceGuest": 7.3,
 		"PriceStudent": 4.8,
 		"Poultry": true
 	}
