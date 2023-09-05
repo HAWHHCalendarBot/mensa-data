@@ -11,10 +11,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit rauchiger Paprikasauce und gegrillten Auberginen (Gl,So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-05",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -22,7 +26,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
+		"Name": "Kartoffel-Kürbis-Ragout (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-05",
 		"Additives": {
@@ -35,12 +39,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,Gl,So)",
+		"Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,Gl,So,Se), Reis",
 		"Category": "CampusWorld",
 		"Date": "2023-09-05",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.8,
