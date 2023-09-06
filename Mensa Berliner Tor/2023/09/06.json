@@ -101,7 +101,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40€ / 5,70€ / 6,90€ (auch TAKE AWAY) (Gl,La)",
+		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Gl,La)",
 		"Category": "CampusWorld",
 		"Date": "2023-09-06",
 		"Additives": {
@@ -112,5 +112,75 @@
 		"PriceGuest": 6.9,
 		"PriceStudent": 4.4,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pizza Margherita Large (Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-06",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pizza Margeritha vegan Large (1,Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-06",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pizza Salami Large (1,2,3,Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-06",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Pig": true
+	},
+	{
+		"Name": "Pizza Funghi Large (Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-06",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pizza Funghi vegan Large (1,Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-06",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
