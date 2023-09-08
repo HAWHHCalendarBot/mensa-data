@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Bunte Gemüsemischung mit Kürbis, Blumenkohl, Aubergine und Paprika",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-08",
 		"Additives": {},
@@ -11,31 +11,80 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "Wirsing in Rahm mit Quorn (So,Sl), Reis",
 		"Category": "Pastabar",
 		"Date": "2023-09-08",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-09-08",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachte Käsesoße mit Dönerfleisch (Gl,La,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Soja Bolognese mit weißen Bohnen (So,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-08",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Bohnenragout mit Klopsen (2,3,8,Gl,La,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf)",
