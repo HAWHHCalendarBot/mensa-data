@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Zucchini, Sauerkraut (vegan) (Sl), gebratene Champignons, gerösteter Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-08",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,15 +13,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pierogi mit Quarkfüllung in Zwiebelsahnesauce (Gl,Ei,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-08",
-		"Additives": {},
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf)",
