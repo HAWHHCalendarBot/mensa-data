@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (Gl)",
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-11",
 		"Additives": {
@@ -13,21 +13,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (La), Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl,La), Bunte Gemüsemischung mit Karotten (Sl), Nusskartoffeln",
+		"Name": "veganer Cremespinat (So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-11",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
+		"Name": "Blumenkohl, Bunte Gemüsemischung mit Karotten (Sl), Nusskartoffeln, gebratene Champignons (Sw), gebackene Aubergine (Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-11",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-11",
 		"Additives": {
