@@ -88,6 +88,33 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Pizza Margherita Large (Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-11",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pizza Margeritha vegan Large (1,Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-11",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-09-11",
@@ -100,5 +127,21 @@
 		"PriceGuest": 7.3,
 		"PriceStudent": 4.8,
 		"Poultry": true
+	},
+	{
+		"Name": "Pizza Sucuk Large (2,3,4,Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-11",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"Beef": true
 	}
 ]
