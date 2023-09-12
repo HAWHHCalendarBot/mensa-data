@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (Gl)",
+		"Name": "Vegane Pasta Cremolata mit Paprika (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-12",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -13,11 +14,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Zartweizen-Tomatentopf mit Pilzen (Gl,Sl,Sw)",
+		"Name": "Pikantes Linsencurry mit Kokosmilch und Gemüse (3,5,Sl,Sf,Se,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-12",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -41,25 +45,21 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Basil Burger mit pikanter Thai Mayo (2,3,Gl,Ei,Fi,La,Nu,Sf,Se,Lu), Pommes Frites (Sf)",
+		"Name": "Beef Burger mit pikanter Curry-Bärlauch-Mayo (2,3,Gl,Ei,La,Sf,Lu), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2023-09-12",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"Ei": "Ei und Eierzeugnisse",
-			"Fi": "Fisch und Fischerzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Lu": "Lupine und - erzeugnisse",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.8,
 		"PriceGuest": 11.0,
 		"PriceStudent": 5.5,
-		"Beef": true,
-		"Fish": true
+		"Beef": true
 	}
 ]

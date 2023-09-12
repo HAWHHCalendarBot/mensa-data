@@ -1,5 +1,82 @@
 [
 	{
+		"Name": "Pollo all'Arrabbiata, bunte Fusilli (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-19",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-19",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei)",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2023-09-19",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Burrito Bowl mit Sonnenblumenhack, Petersilie-Knoblauch Dip (3,Gl,Sl,Sf), Tomaten-Gurken-Salsa (3,5,Sw)",
+		"Category": "CampusVital",
+		"Date": "2023-09-19",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Paprikarahmsoße (Gl,La), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-09-19",
@@ -13,5 +90,20 @@
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
 		"Poultry": true
+	},
+	{
+		"Name": "Beef Brisket, geschmorte Rinderbrust (Sl,Sw), Spitzkohl, Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-09-19",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]
