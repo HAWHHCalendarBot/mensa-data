@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Schwarzwurzeln, gebratene Zucchini, gebratene Champignons (Sw), Gartengemüse (Sl), geschmolzene Kirschtomaten mit frischem Basilikum, gebackene Süßkartoffel",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-13",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -17,6 +20,20 @@
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "all`Provenzale mit Roter Beete und Fenchel (9), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-13",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
