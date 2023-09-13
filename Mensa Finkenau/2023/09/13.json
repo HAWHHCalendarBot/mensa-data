@@ -1,20 +1,28 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Orzonudeln mit Cherrytomaten in Kräuter-Käsesauce (Gl,La,Sl)",
+		"Category": "Pastabar",
 		"Date": "2023-09-13",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
-		"Category": "Pastabar",
+		"Name": "gerösteter Broccoli, Süßkartoffeln, gebackene Aubergine, Ingwer-Knoblauch Bohnen (2,Gl,So,Se)",
+		"Category": "Gemüsebar",
 		"Date": "2023-09-13",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -37,7 +45,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
+		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), Kokos-Curry-Soße, scharf",
 		"Category": "CampusWorld",
 		"Date": "2023-09-13",
 		"Additives": {
