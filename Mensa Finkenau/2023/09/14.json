@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Zucchini, Karotten, Süßkartoffeln, gebratene Paprika (1,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-14",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,18 +15,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Schupfnudelpfanne mit Kohl und veganem Hack (Gl,Ei,So,Sl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2023-09-14",
-		"Additives": {},
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Gl,Sl), Wrap (Gl)",
+		"Name": "Bohnen-Zartweizen-Suppe (Gl,Sl), Wrap (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-14",
 		"Additives": {
@@ -34,6 +44,24 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), Kokos-Curry-Soße, scharf",
+		"Category": "CampusWorld",
+		"Date": "2023-09-14",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"Vegetarian": true
 	},
 	{
 		"Name": "All in one Pot: Bulgur, Soja, Weißkohl, Cranberries, Ananas, Asia-Majo, Cashew (2,Gl,So,Nu,Sl,Sf,Sw)",
