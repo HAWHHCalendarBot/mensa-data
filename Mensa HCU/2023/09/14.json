@@ -1,26 +1,57 @@
 [
 	{
-		"Name": "Spaghetti (Gl),  mit Muscheln, Kirschtomaten und Knoblauch (Kr,Sl,Wt)",
+		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), mit Spinat-Sahnesoße (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-14",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Kr": "Krebstiere und Krebstiererzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Gl,Sl), Wrap (Gl)",
+		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), mit Spinat-Sahnesoße (Gl,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-14",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Veganes Chili sin carne mit Soja (So,Sl), Wrap (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-14",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Veganes Chili sin carne mit Soja (So,Sl), Wrap (Gl)",
+		"Category": "Pottkieker",
+		"Date": "2023-09-14",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
