@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Zuckerschoten, gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-15",
-		"Additives": {},
+		"Additives": {
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,24 +13,52 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "Gemüsefrittata (Ei,La)",
 		"Category": "Pastabar",
 		"Date": "2023-09-15",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Linsenbolognese in pikanter Soße (Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-15",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "all`Arrabbiata mit scharfer Tomatensoße und Peperoniringe (Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-15",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "all`Provenzale mit Roter Beete und Fenchel (9), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-15",
+		"Additives": {
+			"9": "Süßungsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
