@@ -1,0 +1,101 @@
+[
+	{
+		"Name": "Gemüsebar des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-29",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-29",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-29",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2023-09-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf)",
+		"Category": "CampusVital",
+		"Date": "2023-09-29",
+		"Additives": {
+			"1": "Farbstoff",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.6,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Wrap mit Falafel, rote Beete Hummus (9,Gl,Se), Krautsalat (3,5,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-29",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2023-09-29",
+		"Additives": {
+			"En": "Erdnüsse und Erdnusserzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Poultry": true
+	}
+]
