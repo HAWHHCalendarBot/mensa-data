@@ -60,19 +60,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta mit Arrabbiata Soße (Gl)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2023-09-20",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.2,
-		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta mit Gemüse-Bolognese (Gl,So,Sl)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2023-09-20",
@@ -100,6 +87,23 @@
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
 		"Beef": true
+	},
+	{
+		"Name": "Pasta mit Carbonara Soße (1,2,3,8,Gl,La)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2023-09-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.9,
+		"Pig": true
 	},
 	{
 		"Name": "Baked Potato \"Oriental\" mit Bulgur, Rosinen, Kichererbsen, Mandelsplitter, Granatapfel, Sour Cream (3,4,Gl,Ei,So,La,Nu,Sl,Sf,Se)",
