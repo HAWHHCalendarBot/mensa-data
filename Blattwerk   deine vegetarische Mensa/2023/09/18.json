@@ -14,20 +14,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw), Strozzapreti (Gl)",
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Sw), Strozzapreti (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-18",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Soja Bolognese mit Gemüse (So,Sl), Spaghetti (Gl)",
@@ -55,6 +55,26 @@
 		"PriceAttendant": 5.1,
 		"PriceGuest": 6.3,
 		"PriceStudent": 3.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Vollkorn Nudelsalat mit getrocknetem Tomaten, Rucolapesto und Hirtenkäse (2,3,5,Gl,La,Nu,Sw,48)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
 		"Vegetarian": true
 	},
 	{
