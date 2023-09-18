@@ -1,25 +1,29 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Süßkartoffeln, gerösteter Broccoli, gerösteter Blumenkohl, Spitzkohl in Rahm (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-18",
-		"Additives": {},
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit cremiger Spinatsauce und Hirtenkäse (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-18",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tofu Gemüse Topf (So,Sl)",
