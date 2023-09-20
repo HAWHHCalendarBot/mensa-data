@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Süßkartoffeln, gebackene Aubergine, Kräuterkartoffeln, gebratene Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-20",
 		"Additives": {},
@@ -11,15 +11,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit Cherrytomaten in pikanter Tomaten-Kräutersauce (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-20",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Curry-Noodle Bowl Bangkok mit (2,Gl,So,Se), rote Currysoße (3,Sl)",
