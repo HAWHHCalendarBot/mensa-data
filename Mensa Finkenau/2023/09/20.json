@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Süßkartoffeln, gebackene Aubergine, Kräuterkartoffeln, gebratene Zucchini",
-		"Category": "Gemüsebar",
-		"Date": "2023-09-20",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta mit Cherrytomaten in pikanter Tomaten-Kräutersauce (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-20",
@@ -23,6 +12,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Edamame (2,Gl,So,Se), gebackene Aubergine, Kräuterkartoffeln, gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Curry-Noodle Bowl Bangkok mit (2,Gl,So,Se), rote Currysoße (3,Sl)",
