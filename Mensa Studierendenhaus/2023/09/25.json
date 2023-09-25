@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (La), Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2023-09-25",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-25",
@@ -43,6 +29,23 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-25",
@@ -54,6 +57,22 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Würzige Thai-Soja-Bolognese (2,Gl,So), Mie-Nudeln (Gl,Ei)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-25",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Vegane Maultaschen (Gl), Ratatouille (Sl,Sw), Petersilie",
