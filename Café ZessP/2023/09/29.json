@@ -60,17 +60,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta nach Wahl mit Pomodoro Soße (Gl)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2023-09-29",
-		"Additives": {},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.2,
-		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pesto Rosso (La,Nu)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2023-09-29",
@@ -85,19 +74,16 @@
 		"Beef": true
 	},
 	{
-		"Name": "Baked Potato \"Oriental\" mit Bulgur, Rosinen, Kichererbsen, Mandelsplitter, Granatapfel, Sour Cream (3,4,Gl,Ei,So,La,Nu,Sl,Sf,Se)",
+		"Name": "Baked Potato \"Mexican\" mit Chilisincarne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream oder vegan Dip (2,3,4,Ei,So,La,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2023-09-29",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.7,
@@ -137,6 +123,23 @@
 		"PriceGuest": 6.5,
 		"PriceStudent": 5.2,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (Gl,So,Sl,Sf,Se)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2023-09-29",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 6.6,
+		"PriceStudent": 5.3,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Gl,Ei,So,La,Sl,Sf,48)",

@@ -12,5 +12,32 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schweinenackensteak, Blumenkohl in Rahm (Gl,La)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-09-26",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 4.35,
+		"PriceGuest": 5.45,
+		"PriceStudent": 3.1,
+		"Pig": true
+	},
+	{
+		"Name": "Salatteller mit Backcamembert (Gl,La,Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2023-09-26",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Vegetarian": true
 	}
 ]
