@@ -1,25 +1,85 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-09-26",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta mit Zucchini in Kräuterpesto-Sahnesauce und Rucola (Gl,La,Nu)",
 		"Category": "Pastabar",
 		"Date": "2023-09-26",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), gebratene Paprika, Kürbisgemüse, gebackene Aubergine",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), gebratene Paprika, Kürbisgemüse, gebackene Aubergine",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), gebratene Paprika, Kürbisgemüse, gebackene Aubergine",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), gebratene Paprika, Kürbisgemüse, gebackene Aubergine",
+		"Category": "Gemüsebar",
+		"Date": "2023-09-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Grünkern-Linsen-Chilli (2,Gl,So,Sl), Wrap (Gl)",
