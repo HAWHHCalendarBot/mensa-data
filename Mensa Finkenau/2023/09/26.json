@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Pasta des Tages (GL)",
-		"Category": "Pastabar",
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
 		"Date": "2023-09-26",
 		"Additives": {},
 		"PriceAttendant": 0.95,
@@ -22,12 +22,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkern-Chilli (Gl,Sl), Wrap (Gl)",
+		"Name": "Grünkern-Linsen-Chilli (2,Gl,So,Sl), Wrap (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-26",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
