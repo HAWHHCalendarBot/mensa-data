@@ -1,5 +1,65 @@
 [
 	{
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-02",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La), Perlgraupen (Gl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-02",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-02",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
+	},
+	{
+		"Name": "Kokos-Kürbis Curry (Sf,Se), Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-10-02",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Frische vegane asiatische Gemüsepfanne aus dem Wok (Sl,Sf,Sw), Reis",
 		"Category": "CampusVital",
 		"Date": "2023-10-02",
@@ -13,5 +73,33 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Kräuterrührei (Ei,La), Bratkartoffeln, Salatgarnitur",
+		"Category": "CampusKlassiker",
+		"Date": "2023-10-02",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,La,Sl), Kartoffelspalten (Gl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-10-02",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Beef": true
 	}
 ]
