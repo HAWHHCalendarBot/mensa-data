@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Champignons, Süßkartoffeln, gebratene Zucchini, gebackene Aubergine",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-28",
 		"Additives": {},
@@ -11,10 +11,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Spaghetti aglio e olio (Gl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-09-28",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -22,11 +24,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
+		"Name": "Kartoffel Gemüsecurry (2,En,Sl,Sf), Korianderdip (So)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-28",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -38,7 +41,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2023-09-28",
 		"Additives": {
@@ -61,7 +64,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Gl,La), tomatisierte Kräutersoße (Gl,La), Hausgemachtes Kartoffel-Butterstampf (La)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Gl,La,GlW), tomatisierte Kräutersoße (Gl,La,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-09-28",
 		"Additives": {

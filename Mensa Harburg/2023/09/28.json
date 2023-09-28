@@ -11,7 +11,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rahmwirsing (Gl,La,Sl)",
+		"Name": "Rahmwirsing (Gl,La,Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-28",
 		"Additives": {
@@ -25,7 +25,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Pasta nach Wahl (Gl)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl,GlW,GlG), Pasta nach Wahl (Gl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-09-28",
 		"Additives": {
@@ -40,7 +40,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "Pasta mit Gemüse in Kokosmilch und Soja Chunks (2,Gl,So,Sl,Se), Pasta nach Wahl (Gl)",
+		"Name": "Pasta mit Gemüse in Kokosmilch und Soja Chunks (2,Gl,So,Sl,Se,GlW), Pasta nach Wahl (Gl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-09-28",
 		"Additives": {
@@ -70,7 +70,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl)",
+		"Name": "Scharfes Kürbisgemüse mit Linsen und Rucola, Penne (Gl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2023-09-28",
 		"Additives": {
@@ -99,7 +99,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw), Pommes Frites (Sf)",
+		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-09-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw,GlW), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2023-09-28",
 		"Additives": {
