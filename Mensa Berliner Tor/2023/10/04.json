@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Penne (Gl,GlW)",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-10-04",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,12 +12,23 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl,GlW)",
+		"Name": "Ratatouille (Sl), Karotten (Mi), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-04",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-10-04",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -27,21 +37,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu,NWa), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-04",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Tomaten-Kokossuppe (3,Gl,So,Sl,GlW), Reis",
+		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-10-04",
 		"Additives": {
@@ -57,13 +53,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Stufato di Lenticche mit Räuchertofu (Gl,So,GlW), Limetten-Joghurt-Dip (3,La), Maccaroni (Gl,GlW)",
+		"Name": "Stufato di Lenticche mit Räuchertofu (So,GlW), Limetten-Joghurt-Dip (3,Mi), Maccaroni (GlW)",
 		"Category": "CampusVital",
 		"Date": "2023-10-04",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.8,
@@ -91,12 +86,11 @@
 		"Pig": true
 	},
 	{
-		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Gl,La,GlW)",
+		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Mi,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2023-10-04",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 5.7,
 		"PriceGuest": 6.9,
@@ -104,14 +98,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ungarisches Rindergulasch (9,La,Sw), Spätzle (Gl,Ei,GlW)",
+		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Spätzle (Ei,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-04",
 		"Additives": {
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.9,

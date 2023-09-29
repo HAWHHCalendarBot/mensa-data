@@ -1,28 +1,12 @@
 [
 	{
-		"Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl,GlW), Penne (Gl,GlW)",
-		"Category": "Pastabar",
-		"Date": "2023-09-29",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Penne (Gl,GlW)",
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,48), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-09-29",
 		"Additives": {
 			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -30,13 +14,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
+		"Name": "glasierte rote Beete, Zuckerschoten (Mi), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,So,Mi), Gemüse Sesamreis (Se)",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-29",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -46,22 +28,23 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl,GlW)",
-		"Category": "CampusVital",
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW)",
+		"Category": "Pastabar",
 		"Date": "2023-09-29",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So,GlW), Vollkornreis",
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,GlW), Vollkornreis",
 		"Category": "CampusWorld",
 		"Date": "2023-09-29",
 		"Additives": {
@@ -77,7 +60,48 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brotsalat mit Hirtenkäse und Gemüserelish (3,5,9,Gl,La,Sl,Sf,Sw,GlW)",
+		"Name": "Massam-Curry mit Kartoffeln, Edamame und Räuchertofu (1,2,3,En,So,Sl,Sf,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2023-09-29",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Asiatischer Reisnudelsalat mit Chiligurken, Apfel, Sesam und Chinakohl (1,2,3,5,So,Sf,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2023-09-29",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Brotsalat mit Hirtenkäse und Gemüserelish (3,5,9,Mi,Sl,Sf,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2023-09-29",
 		"Additives": {
@@ -85,7 +109,6 @@
 			"5": "Geschwefelt",
 			"9": "Süßungsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"

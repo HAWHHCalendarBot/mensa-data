@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Vollkorn Fussili (Gl,GlW)",
+		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Vollkorn Fussili (GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-09-29",
 		"Additives": {
@@ -12,6 +12,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Fi,Mi,Sl,GlW,GlG), Vollkorn Fussili (GlW)",
+		"Category": "Pastabar",
+		"Date": "2023-09-29",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Fish": true
 	},
 	{
 		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw)",
@@ -30,21 +44,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl,GlW,GlG), Vollkorn Fussili (Gl,GlW)",
-		"Category": "Pastabar",
-		"Date": "2023-09-29",
-		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Fish": true
-	},
-	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-09-29",
@@ -60,7 +59,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wrap mit Falafel, rote Beete Hummus (9,Gl,Se,GlW), Krautsalat (3,5,Sw)",
+		"Name": "Wrap mit Falafel, rote Beete Hummus (9,Se,GlW), Krautsalat (3,5,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2023-09-29",
 		"Additives": {
@@ -78,12 +77,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (Gl,GlW), Champignonrahmsoße (Gl,La,Sl,GlW), Pommes Frites (Sf)",
+		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-09-29",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -93,7 +91,22 @@
 		"Pig": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Gl,Fi,GlW), milde, Chipotlesoße (1,2,5,9,Gl,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
+		"Name": "Cremige Gemüsepasta getoppt mit Blattspinat und Hähnchenkeulensteak (Ei,Mi,Sl,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2023-09-29",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"Poultry": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), milde, Chipotlesoße (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2023-09-29",
 		"Additives": {
