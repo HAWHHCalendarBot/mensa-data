@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Rosenkohl, Erbsen-Mais Gemüse, gebratenes Gemüse, Gartengemüse (Sl), Kichererbsen Bohnenpfanne mit Paprika, Zucchini und Auberginen (Sw), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-29",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,25 +14,45 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (GlW)",
+		"Name": "Tomatensoße mit bunten Gemüsen \"Napoli Art\" (Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-29",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (GlW)",
+		"Name": "Kürbiscremesoße mit Sojasahne (3,Gl,So,Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-09-29",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit Gemüse in Kokosmilch und Soja Chunks (2,Gl,So,Sl,Se), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-09-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -68,7 +91,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wrap mit Falafel, rote Beete Hummus (9,Se,GlW), Krautsalat (3,5,Sw)",
+		"Name": "Wrap mit Falafel, rote Beete Hummus (9,Gl,Se), Krautsalat (3,5,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2023-09-29",
 		"Additives": {
