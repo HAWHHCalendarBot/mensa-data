@@ -1,28 +1,32 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Champignons, gebratene Zucchini, gebackene Aubergine, Spitzkohl in Rahm (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-09-29",
-		"Additives": {},
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (GL)",
+		"Name": "Pasta in Paprika-Tomatensauce (Gl,La,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2023-09-29",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2023-09-29",
 		"Additives": {
