@@ -1,0 +1,83 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-12",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-12",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-10-12",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tagliatelle (Gl), Blattspinat Tomaten Frischkäsesoße (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-10-12",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften und Gorgonzolakäse (3,Gl,Ei,Mi,48), Pfeffer Knoblauchmayonaise (1,3,9,Ei,Mi,Sf), Röstiecken",
+		"Category": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften und Gorgonzolakäse (3,Gl,Ei,Mi,48), Pfeffer Knoblauchmayonaise (1,3,9,Ei,Mi,Sf), Röstiecken",
+		"Date": "2023-10-12",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.1,
+		"PriceStudent": 4.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hähnchenbrust in Kardamommarinade (So), Joghurt-Limetten-Dip (3,Mi), Karotten (Mi), Basmatireis",
+		"Category": "CampusVital",
+		"Date": "2023-10-12",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"Poultry": true
+	}
+]
