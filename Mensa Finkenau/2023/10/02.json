@@ -1,14 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebackene Aubergine, gebratene Zucchini, Erbsen, Spitzkohl in Rahm (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-02",
 		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "gebratene Mie-Nudeln mit asiatischem Gemüse und geröstetem Sesam (2,Gl,Ei,So,Se)",
@@ -28,12 +27,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kokos-Kürbis Curry (Sf,Se), Reis",
+		"Name": "mexikanischer Linsen-Bohneneintopf (Sl,Sf,Se), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-10-02",
 		"Additives": {
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -42,17 +42,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spinatknödel (Gl,Ei,Mi), Rahmsauerkraut (Mi,Sl), Schmorzwiebeln",
+		"Name": "Spinatknödel (Gl,Ei,Mi), Rahmsauerkraut (Mi,Sl), Schmorzwiebeln (Sw)",
 		"Category": "CampusVital",
 		"Date": "2023-10-02",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.1,
 		"PriceGuest": 6.3,
 		"PriceStudent": 3.8,
+		"Alcohol": true,
 		"Vegetarian": true
 	},
 	{
