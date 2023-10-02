@@ -60,22 +60,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Käsespätzle mit Röstzwiebeln (Gl,Ei,La), Salat (Sf,Sw)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-10-11",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-11",
@@ -95,19 +79,19 @@
 		"Pig": true
 	},
 	{
-		"Name": "Schwedische Köttbullar (Gl,Ei), Rahmsoße (Gl,La,Sl), Preiselbeeren, Salzkartoffeln",
-		"Category": "CampusWorld",
+		"Name": "vegane Currywurst (Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
 		"Date": "2023-10-11",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.5,
-		"PriceStudent": 3.0,
-		"Beef": true,
-		"Pig": true
+		"PriceAttendant": 5.4,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.1,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
