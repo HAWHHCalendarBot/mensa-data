@@ -13,20 +13,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (Mi), Perlgraupen (Gl)",
+		"Name": "Bunter Gemüsemix mit gelben Karotten, Erbsen, Pastinaken, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-02",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,Mi,Sl,Sw), Fusilli (Gl)",
+		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-02",
 		"Additives": {
@@ -35,6 +35,7 @@
 			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -73,11 +74,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kräuterrührei (Ei,Mi), Bratkartoffeln, Salatgarnitur",
+		"Name": "Kräuterrührei (Ei,La), Bratkartoffeln, Salatgarnitur",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-02",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse"
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
 		"PriceAttendant": 4.9,
 		"PriceGuest": 6.1,
@@ -85,12 +87,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,Mi,Sl), Kartoffelspalten (Gl)",
+		"Name": "Texashacksteak (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffelspalten (Gl)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-02",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.7,

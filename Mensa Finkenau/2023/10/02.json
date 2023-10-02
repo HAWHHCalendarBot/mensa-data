@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "gebackene Aubergine, gebratene Zucchini, Erbsen, Spitzkohl in Rahm (Mi)",
+		"Name": "gebackene Aubergine, gebratene Zucchini, Erbsen, Spitzkohl in Rahm (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-02",
-		"Additives": {},
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -27,7 +29,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "mexikanischer Linsen-Bohneneintopf (Sl,Sf,Se), Reis",
+		"Name": "mexikanischer Linsen-Bohneneintopf (Sl,Sf,Se)",
 		"Category": "Pottkieker",
 		"Date": "2023-10-02",
 		"Additives": {
@@ -42,12 +44,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spinatknödel (Gl,Ei,Mi), Rahmsauerkraut (Mi,Sl), Schmorzwiebeln (Sw)",
+		"Name": "Spinatknödel (Gl,Ei,La), Rahmsauerkraut (La,Sl), Schmorzwiebeln (Sw)",
 		"Category": "CampusVital",
 		"Date": "2023-10-02",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -58,12 +61,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Texashacksteak (Gl,Ei), Pfefferrahmsoße (Gl,Mi,Sl), Kartoffelspalten (Gl)",
+		"Name": "Texashacksteak (Gl,Ei), Rahmsoße (Gl,La,Sl), Kartoffelspalten (Gl)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-02",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.7,
