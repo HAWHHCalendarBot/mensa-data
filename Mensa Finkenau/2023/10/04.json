@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Tandoori Blumenkohl, pikante Paprika (2), gebratene Curry-Zucchini, gebackene Aubergine",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-04",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta in Spitzkohlcurryrahm (2,Gl,So)",
 		"Category": "Pastabar",
 		"Date": "2023-10-04",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
