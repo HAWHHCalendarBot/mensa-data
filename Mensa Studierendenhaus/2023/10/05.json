@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (Gl)",
+		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-05",
 		"Additives": {
@@ -16,7 +16,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Bunte Nudeln (Gl)",
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-05",
 		"Additives": {
@@ -33,7 +33,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,Gl,So,Sw), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,Gl,So,Sw), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, Ratatouille (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-05",
 		"Additives": {
@@ -41,14 +41,15 @@
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
