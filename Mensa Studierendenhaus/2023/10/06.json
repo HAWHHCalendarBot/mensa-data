@@ -1,27 +1,11 @@
 [
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), Eliche (Gl)",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Eliche (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-06",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), spanisches Kartoffelgemüse",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-06",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -29,20 +13,34 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Eliche (Gl)",
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Eliche (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-06",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Pig": true
+		"Beef": true
+	},
+	{
+		"Name": "glasierte rote Beete, Zuckerschoten (1), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1,2,Gl,So), spanisches Kartoffelgemüse",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-06",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",

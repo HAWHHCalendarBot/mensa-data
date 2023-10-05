@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Sauerkraut (vegan) (Sl), gebackene Aubergine, gerösteter Blumenkohl, gebratene Champignons",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-05",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Nudelauflauf mit Erbsen,Karotten und Käse überbacken (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-10-05",
@@ -24,6 +11,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Sauerkraut (vegan) (Sl), gebratene Paprika (1,5,Sw), Belugalinsenragout (So,Sl), gebratene Champignons",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
