@@ -1,11 +1,12 @@
 [
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Eliche (Gl)",
+		"Name": "Crema di spinaci mit Spinat in Sojasoße (So,Sl), Eliche (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-06",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -14,13 +15,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di spinaci mit Spinat in Käse-Sahnesoße (Gl,La,Sl), Eliche (Gl)",
+		"Name": "all`Provenzale mit Gemüse (La,Sw), Eliche (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-06",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -46,6 +47,21 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Gemüse Lasagne (Gl,Ei,So,La), Tomatensoße",
+		"Category": "CampusKlassiker",
+		"Date": "2023-10-06",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.2,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (2,Gl,En,So,Sl,Sf,Se)",
 		"Category": "CampusVital",
 		"Date": "2023-10-06",
@@ -61,6 +77,21 @@
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.7,
 		"PriceStudent": 3.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Couscous Salat (Gl,Sl,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2023-10-06",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.95,
+		"PriceGuest": 6.15,
+		"PriceStudent": 3.65,
 		"LactoseFree": true,
 		"Vegan": true
 	},
