@@ -1,11 +1,13 @@
 [
 	{
-		"Name": "Pasta (Gl), mit veganer Soja-Bolognese mit Gemüse und Kräutern (So)",
+		"Name": "Pasta (Gl), mit getrockneten Tomaten und Kidneybohnen in pikanter Tomatensauce (2,5,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-10-06",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -14,11 +16,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",
+		"Name": "Mangold Gemüse (2,Gl,So), Kichererbsengemüse mit Zucchini, Staudensellerie und Karotte (2,5,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-10-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsegulasch (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-10-06",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -28,7 +47,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Cordon Bleu (2,Gl,La), Hollandaise (Ei,La,Sl,Sw), Erbsen, Kroketten (Gl)",
+		"Name": "Hähnchen Cordon Bleu (2,Gl,La), Hollandaise (Ei,La,Sl,Sw), Erbsen-Möhren-Gemüse, Kroketten (Gl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-06",
 		"Additives": {
