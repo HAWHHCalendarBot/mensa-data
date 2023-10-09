@@ -4,7 +4,6 @@
 		"Category": "Pastabar",
 		"Date": "2023-10-20",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -12,6 +11,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-20",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Fish": true
 	},
 	{
 		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw)",
@@ -28,21 +41,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Pasta Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-20",
-		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Fish": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf)",
@@ -76,7 +74,7 @@
 		"Category": "CampusVital",
 		"Date": "2023-10-20",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.7,
@@ -88,8 +86,7 @@
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-20",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.55,
