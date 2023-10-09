@@ -13,18 +13,31 @@
 		"Pig": true
 	},
 	{
-		"Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La), Perlgraupen (Gl)",
+		"Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Perlgraupen (Gl,La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-09",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pommes (Sf), Chili mit Jalapeno (2)",
+		"Category": "Pastabar",
+		"Date": "2023-10-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw), Gnocchi",
