@@ -1,15 +1,28 @@
 [
 	{
-		"Name": "Rote Beete Gnocchi mit Kürbis, Salbei und Hüttenkäse-Dip (La)",
+		"Name": "Vegane Rote Beete Gnocchi mit Kürbis und Salbei",
+		"Category": "Pastabar",
+		"Date": "2023-10-09",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Maisgemüse mit Knoblauch und Kräutern, Blumenkohl mit Petersilie, pikantes Grillgemüse mit Kreuzkümmel und geräuchertem Paprika (Sl,Sf), Prinzessbohnen mit Thymian",
 		"Category": "Pastabar",
 		"Date": "2023-10-09",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschl. Laktose)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
@@ -42,7 +55,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one pot: Reis, Tandoori Sojastreifen, Avocado, Kichererbsen, Cranberries, Chia (2,3,So,Se)",
+		"Name": "All in one pot: Reis, Tandoori-Belugalinsen, Avocado, Kichererbsen, Cranberries, Chia (2,3,So,Se)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-09",
 		"Additives": {
@@ -58,22 +71,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Caesar's Chickenburger mit frischem Römersalat und Parmesansplittern (2,3,Gl,Ei,La,Sf,48), Cocktailsoße (1,3,5,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
-		"Category": "Caesar's Chickenburger mit frischem Römersalat und Parmesansplittern (2,3,Gl,Ei,La,Sf,48), Cocktailsoße (1,3,5,9,Ei,La,Sf,Sw), Pommes Frites (Sf)",
+		"Name": "Caesar's Chickenburger mit frischem Römersalat, Caesardressing und Parmesansplittern (2,3,Gl,Ei,La,Sf,48), Pommes Frites (Sf)",
+		"Category": "Caesar's Chickenburger mit frischem Römersalat, Caesardressing und Parmesansplittern (2,3,Gl,Ei,La,Sf,48), Pommes Frites (Sf)",
 		"Date": "2023-10-09",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
-			"5": "Geschwefelt",
 			"8": "Phosphat",
-			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.5,
 		"PriceGuest": 11.6,
