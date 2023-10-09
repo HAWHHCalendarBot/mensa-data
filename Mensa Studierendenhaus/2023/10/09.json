@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-09",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2023-10-09",
@@ -24,6 +11,22 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Bunter Gemüsemix mit gelben Karotten, Erbsen, Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), glasierte rote Beete, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Chili-Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschl. Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw), Gnocchi",
@@ -56,7 +59,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La)",
+		"Name": "Rote Beete Gnocchi mit Grillgemüse, Kräuterquark (La)",
 		"Category": "CampusVital",
 		"Date": "2023-10-09",
 		"Additives": {
