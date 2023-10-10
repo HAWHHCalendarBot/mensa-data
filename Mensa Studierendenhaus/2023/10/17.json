@@ -1,5 +1,82 @@
 [
 	{
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-17",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-17",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-17",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-10-17",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Bete (1,2,3,5,Gl,So,Sl,Se,Sw), Kirschtomaten-Konfit (1,5,Sw), Erbsen Dip (2,3,So,Sf)",
+		"Category": "CampusVital",
+		"Date": "2023-10-17",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Bayrischer Kartoffelsalat mit Gurken (2,Sf), Zitrone",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-17",
@@ -14,6 +91,20 @@
 		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Zucchini Hackfleischtopf (Sl), Penne (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-10-17",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.65,
+		"PriceGuest": 7.85,
+		"PriceStudent": 5.35,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Rindfleischfrikadelle (Gl,Ei), Kartoffelgratin (Ei,La), Rahmsoße (Gl,La,Sl)",
