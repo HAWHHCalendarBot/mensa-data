@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Spaghetti (Gl), mit Rindfleisch-Bolognese mit Knoblauch und Tomate (Sl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-10",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
 		"Name": "Maisgemüse mit Knoblauch und Kräutern, Blumenkohl mit Petersilie, pikantes Grillgemüse mit Kreuzkümmel und geräuchertem Paprika (Sl,Sf), Prinzessbohnen mit Thymian, Vegane Rote Beete Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2023-10-10",
@@ -25,6 +12,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Spaghetti (Gl), mit Rindfleisch-Bolognese mit Knoblauch und Tomate (Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Veganes Kokos-Kürbis Curry mit roten Linsen (So,Sf,Se)",
@@ -47,6 +48,7 @@
 		"Date": "2023-10-10",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
@@ -65,6 +67,7 @@
 		"Additives": {
 			"1": "Farbstoff",
 			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -83,6 +86,7 @@
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},

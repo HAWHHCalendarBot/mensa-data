@@ -3,17 +3,21 @@
 		"Name": "Pasta Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-10-19",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Poultry": true
 	},
 	{
-		"Name": "Pasta Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Gl,La,Sl)",
-		"Category": "Pastabar",
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2023-10-19",
 		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -22,10 +26,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Gl,La,Sl)",
+		"Category": "Pastabar",
 		"Date": "2023-10-19",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -54,6 +60,8 @@
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.4,
@@ -80,6 +88,7 @@
 		"Date": "2023-10-19",
 		"Additives": {
 			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},

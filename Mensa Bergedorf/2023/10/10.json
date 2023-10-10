@@ -1,9 +1,24 @@
 [
 	{
+		"Name": "Contadino mit Hähnchenfleisch und Zucchini (Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-10",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
 		"Name": "Pasta Pollo all'Arrabbiata (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-10",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -15,6 +30,7 @@
 		"Category": "Pastabar",
 		"Date": "2023-10-10",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -24,11 +40,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So), Gartengemüse",
+		"Name": "Brechbohnen, Chili-Kartoffeln aus dem Ofen, gebratener Pak Choi (2,Gl,So), Pfannengemüse mit Kartoffeln und Quinoa (2,Gl,So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-10",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -38,10 +55,27 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-10-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Gemüsefrikadelle (Gl,Sl), Spitzkohl in veganem Rahm (So)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-10",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -74,6 +108,8 @@
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -84,7 +120,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (1,5,Sw), Tomatensoße",
+		"Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (1,5,Sw)",
 		"Category": "CampusVital",
 		"Date": "2023-10-10",
 		"Additives": {

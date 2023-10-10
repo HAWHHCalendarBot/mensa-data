@@ -1,22 +1,10 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Penne (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-20",
-		"Additives": {
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-20",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -27,12 +15,29 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Penne (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-20",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Kaiserschmarrn (Gl,Ei,La), Pflaumenkompott (1,La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-20",
 		"Additives": {
 			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse"
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 3.8,
 		"PriceGuest": 5.0,
@@ -48,6 +53,8 @@
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse"
 		},
