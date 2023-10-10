@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Röstkartoffeln, gebratene Champignons, gebackene Aubergine, gebratene Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-10",
 		"Additives": {},
@@ -11,15 +11,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Reisnudeln mit Omlettestreifen und pikantem Gemüse (2,Gl,Ei,So,Se)",
 		"Category": "Pastabar",
 		"Date": "2023-10-10",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Chili con Corn (Gl,Sl), Wrap (Gl)",
@@ -35,11 +40,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Afrikanische Gemüse Kartoffel Tajine (Sl)",
+		"Name": "Afrikanische Gemüse Kartoffel Tajine (2,Gl,So,Sl)",
 		"Category": "CampusWorld",
 		"Date": "2023-10-10",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"2": "Konservierungsstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.3,
 		"PriceGuest": 5.5,
