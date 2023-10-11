@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Champignons (Sw), gebackene Aubergine mit Zimt und Kreuzkümmel, Cajun-Süßkartoffeln, gerösteter Curry-Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-11",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-11",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,7 +13,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+		"Name": "gebratene Mie-Nudeln mit Mais,Karotten,Zuckerschoten in Teryaki Sauce (2,Gl,So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-11",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "One Pot mit Kartoffeln,Blumenkohl und Bohnen (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-10-11",
 		"Additives": {
@@ -54,14 +59,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (Gl), geschmorter Hokkaido - Kürbis mit Gorgonzola,Kürbiskerne (La,48)",
+		"Name": "Penne (Gl), geschmorter Hokkaido - Kürbis mit Gorgonzola,Kürbiskerne (La,Sf,48)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-11",
 		"Additives": {
 			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 5.4,
 		"PriceGuest": 6.6,
