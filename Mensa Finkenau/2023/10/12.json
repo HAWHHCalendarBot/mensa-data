@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Röstkartoffeln, Süßkartoffeln, gebratene Paprika, gerösteter Broccoli",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-12",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Nudelauflauf mit Broccoli und Käse (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-12",
@@ -23,6 +12,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Röstkartoffeln (2,Gl,So), Süßkartoffeln, Tomaten Belugalinsenragout (Sl), gebratene Paprika",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-12",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kürbis-Karotten-Ragout (2,Gl,So,Sl), Reis",
