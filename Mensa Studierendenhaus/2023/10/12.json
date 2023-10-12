@@ -27,14 +27,16 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl)",
+		"Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl), frisches Gemüse (2,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-12",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -43,7 +45,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Minestrone (Gl,Sl,Sw), Ciabatta (Gl)",
+		"Name": "Minestrone (Gl,Sl,Sw), Baguette (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-10-12",
 		"Additives": {
@@ -91,6 +93,26 @@
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.1,
 		"PriceStudent": 4.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünkern-Käse Medaillons (Gl,Ei,So,La,Se), Grillgemüse, in BBQ Soße (2,9,Sl,Sf), Reis",
+		"Category": "CampusVital",
+		"Date": "2023-10-12",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
 		"Vegetarian": true
 	},
 	{

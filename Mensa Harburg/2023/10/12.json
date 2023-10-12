@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-12",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Chili con Carne (2), Reis",
 		"Category": "Pastabar",
 		"Date": "2023-10-12",
@@ -24,11 +13,26 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Brechbohnen, Rahmwirsing mit Kürbiswürfeln (Gl,Sl), Maisgemüse, vegane Schupfnudeln (Gl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-12",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sojarahmsoße all`Provenzale mit Gemüse (Gl,So), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-12",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
