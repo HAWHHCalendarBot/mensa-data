@@ -36,7 +36,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La)",
+		"Name": "Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Bulgur mit Tomate und Peperoni (Gl,Sl), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La), Edamame (So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-13",
 		"Additives": {
@@ -44,7 +44,6 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -90,6 +89,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Thüringer Bratwurst (8,Sl,Sf), Kartoffelsalat mit grünen Bohnen (2,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-10-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
 		"Name": "Cheddarburger mit Gurken, Tomaten und Salat, Spicy Wedges (1,2,3,9,Gl,Ei,La,Sf,Se,Sw), Spicy Wedges",
 		"Category": "Cheddarburger mit Gurken, Tomaten und Salat, Spicy Wedges (1,2,3,9,Gl,Ei,La,Sf,Se,Sw), Spicy Wedges",
 		"Date": "2023-10-13",
@@ -129,5 +144,19 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Fish": true
+	},
+	{
+		"Name": "Putenschnitzel Piccata Milanese (Gl,Ei,La), Tomaten-Basilikumsoße, Spaghetti (Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-10-13",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.9,
+		"PriceGuest": 8.1,
+		"PriceStudent": 5.6,
+		"Poultry": true
 	}
 ]

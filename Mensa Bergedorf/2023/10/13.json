@@ -1,5 +1,63 @@
 [
 	{
+		"Name": "Pasta Pollo mit Gemüse (Gl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-10-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-10-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+		"Category": "Pastabar",
+		"Date": "2023-10-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Röstkartoffeln, Gemüse süß sauer aus dem Wok (Sl,Sf,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-13",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta Pomodoro, capperi e tofu mit Tomatensoße, Kapern und Tofu (6,Gl,So,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-13",
@@ -16,22 +74,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Kartoffelgratin (Ei,La)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta pesce Fisch in Senfsoße (Gl,Fi,La,Sl,Sf)",
+		"Category": "Pastabar",
 		"Date": "2023-10-13",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Fish": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
@@ -49,6 +105,23 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Gl,La,Sl,Sw)",
+		"Category": "CampusVital",
+		"Date": "2023-10-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.9,
+		"PriceGuest": 5.1,
+		"PriceStudent": 2.6,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Cheddarburger mit Gurken, Tomaten und Salat, Spicy Wedges (1,2,3,9,Gl,Ei,La,Sf,Se,Sw), Spicy Wedges",
@@ -70,5 +143,25 @@
 		"PriceGuest": 5.8,
 		"PriceStudent": 4.5,
 		"Beef": true
+	},
+	{
+		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften und Gorgonzolakäse (3,Gl,Ei,La,48), Pfeffer Knoblauchmayonaise (1,3,9,Ei,La,Sf), Röstiecken",
+		"Category": "Cheddarburger mit Gurken, Tomaten und Salat, Spicy Wedges (1,2,3,9,Gl,Ei,La,Sf,Se,Sw), Spicy Wedges",
+		"Date": "2023-10-13",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Vegetarian": true
 	}
 ]

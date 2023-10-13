@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Champignons, gebratene Paprika, gebratene Zucchini, gerösteter Curry-Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-13",
 		"Additives": {},
@@ -11,17 +11,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Spinat-Frischkäsesauce und Tomaten (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-13",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",
