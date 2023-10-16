@@ -81,19 +81,23 @@
 		"Pig": true
 	},
 	{
-		"Name": "Gemüsefrittata (Ei,La), Schnittlauchquark (La), Salat mit Italian Dressing (Sf,Sw)",
-		"Category": "CampusVital",
+		"Name": "Asiatischer Nudelsalat (2,3,5,Gl,Ei,So,Sw), Chick`n Drums",
+		"Category": "CampusSpezial",
 		"Date": "2023-10-26",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"Ei": "Ei und Eierzeugnisse",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.9,
 		"PriceGuest": 6.1,
 		"PriceStudent": 3.6,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "All in one Pot: Bulgur, Soja, Weißkohl, Cranberries, Ananas, Asia-Majo, Cashew (2,Gl,So,Nu,Sl,Sf,Sw)",
@@ -113,5 +117,18 @@
 		"PriceStudent": 4.35,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-10-26",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
 	}
 ]

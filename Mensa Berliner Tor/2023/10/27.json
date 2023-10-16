@@ -58,24 +58,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Spanische Albodigas, Tomaten Paprikasugo (Gl,So,Sw), Knoblauchsoße (Sf), Gemüse- Reis (Sl)",
-		"Category": "CampusVital",
-		"Date": "2023-10-27",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.8,
-		"PriceStudent": 3.3,
-		"Alcohol": true,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Walnuss-Senfsoße (3,5,Gl,La,Nu,Sl,Sf,Sw), Salatgarnitur mediterran (6)",
 		"Category": "CampusWorld",
 		"Date": "2023-10-27",
@@ -97,6 +79,19 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-10-27",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Paniertes Putenschnitzel (Gl), Ratatouille (Sl), Rosmarinkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-27",
@@ -109,5 +104,19 @@
 		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Gebratenes Kabeljaufilet (Gl,Fi), Basmatireis",
+		"Category": "CampusSpezial",
+		"Date": "2023-10-27",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.3,
+		"PriceStudent": 5.8,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]

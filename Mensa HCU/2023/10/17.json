@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-17",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Vollkorn Fussili (Gl), Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl)",
+		"Name": "Fussili (Gl), Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-17",
 		"Additives": {
@@ -28,6 +28,21 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Ungarisches Rindergulasch (9,La,Sw), bunte Fusilli (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-17",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-10-17",
@@ -39,21 +54,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Ungarisches Rindergulasch (9,La,Sw), bunte Fusilli (Gl)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-10-17",
-		"Additives": {
-			"9": "Süßungsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 9.2,
-		"PriceStudent": 4.6,
-		"Beef": true
 	},
 	{
 		"Name": "VEGAN Chili Fries sin carne (Pommes mit Chili und Sojadip) (1,2,So,Sl)",
@@ -72,7 +72,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "\"Chili Fries con carne\" Pommes mit Rindfleisch, Käse und Chilimajo (1,3,9,Ei,La,Sl,Sf)",
+		"Name": "\"Chili Fries con carne\" Pommes mit Rindfleisch, Käse und Dip (1,3,9,Ei,La,Sl,Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-17",
 		"Additives": {
