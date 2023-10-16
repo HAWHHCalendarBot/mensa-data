@@ -1,34 +1,41 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebackene Aubergine, gebratene Zucchini, Cajun-Süßkartoffeln, Sellerie- Kartoffelstampf (La,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-16",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-16",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
+		"Name": "Pasta mit Gorgonzola-Spinatsahnesauce (Gl,La,Sl,48)",
+		"Category": "Pastabar",
+		"Date": "2023-10-16",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kartoffel-Kichererbsencurry (2,Gl,So)",
 		"Category": "Pottkieker",
 		"Date": "2023-10-16",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
