@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "gebratene Champignons, gebackene Aubergine, Süßkartoffeln, Röstkartoffeln",
+		"Name": "gebratene Champignons, gebackene Aubergine, gerösteter Blumenkohl, Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-17",
 		"Additives": {},
@@ -24,11 +24,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
+		"Name": "Sojageschnetzeltes in Currysoße (3,Gl,En,So,Sl,Sf), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-10-17",
 		"Additives": {
 			"3": "Antioxidationsmittel",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -37,6 +38,23 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ägyptische Falafel (Gl), Knoblauchdip (So,Sf), Krautsalat (3), Gemüse Bulgur (Gl,Sl)",
+		"Category": "CampusWorld",
+		"Date": "2023-10-17",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
