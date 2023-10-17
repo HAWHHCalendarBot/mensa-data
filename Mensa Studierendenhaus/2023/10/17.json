@@ -1,16 +1,16 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-17",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
@@ -27,7 +27,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Bratkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2023-10-17",
 		"Additives": {
@@ -77,7 +77,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Bayrischer Kartoffelsalat mit Gurken (2,Sf), Zitrone",
+		"Name": "Homemade paniertes Putenschnitzel (Gl,Ei), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-17",
 		"Additives": {
@@ -105,20 +105,5 @@
 		"PriceStudent": 5.35,
 		"Beef": true,
 		"LactoseFree": true
-	},
-	{
-		"Name": "Rindfleischfrikadelle (Gl,Ei), Kartoffelgratin (Ei,La), Rahmsoße (Gl,La,Sl)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-10-17",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.65,
-		"PriceGuest": 7.85,
-		"PriceStudent": 5.35,
-		"Beef": true
 	}
 ]
