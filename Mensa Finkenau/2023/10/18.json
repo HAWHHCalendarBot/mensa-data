@@ -1,10 +1,12 @@
 [
 	{
-		"Name": "gerösteter Broccoli, gebratene Champignons, Spitzkohl in Rahm (La), Röstkartoffeln (La)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Cherrytomaten und Pesto rosso (Gl,La,Nu)",
+		"Category": "Pastabar",
 		"Date": "2023-10-18",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -12,20 +14,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gebratene Mie-Nudeln mit Sprossen,Porree und Sesam in Teryakisauce (2,Gl,So,Se)",
-		"Category": "Pastabar",
+		"Name": "Ägyptische Falafel (Gl), gebratene Paprika (1,5,Sw), Spitzkohl in Rahm (La), Röstkartoffeln (La)",
+		"Category": "Gemüsebar",
 		"Date": "2023-10-18",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Linsenbolognese in pikanter Soße (Sl), Spaghetti (Gl)",

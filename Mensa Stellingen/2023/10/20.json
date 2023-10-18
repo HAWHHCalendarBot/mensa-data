@@ -27,7 +27,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grillgemüse Burger (3,Gl,Se,Sw), Pommes Frites (Sf)",
+		"Name": "Putengulasch mit Champignons, Paprika &amp; Mais (Gl,Sl), Penne (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-10-20",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Veganer Burger mit Grillgemüse, Salat, Zwiebeln &amp; Kichererbsencreme (3,Gl,Se,Sw), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-20",
 		"Additives": {
@@ -42,5 +56,21 @@
 		"PriceStudent": 4.7,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schweinenackenbraten mit Dijon-Senf-Soße (Sf), Apfelrotkohl (9,Sl,Sw), Kartoffelklöße",
+		"Category": "CampusSpezial",
+		"Date": "2023-10-20",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"LactoseFree": true,
+		"Pig": true
 	}
 ]
