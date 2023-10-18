@@ -1,11 +1,45 @@
 [
 	{
+		"Name": "Crema di spinaci mit Spinat-Soja-Sahnesoße (So,Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Salsiccia e lenticchie mit Wurst und Linsen (2,3,8), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
 		"Name": "Gartengemüse (Sl), gebratene Paprika (1,5,Sw), gerösteter Blumenkohl, Erbsen",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-18",
 		"Additives": {
 			"1": "Farbstoff",
 			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -13,7 +47,7 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",

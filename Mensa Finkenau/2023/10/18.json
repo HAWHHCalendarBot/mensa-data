@@ -1,21 +1,25 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Broccoli, gebratene Champignons, Spitzkohl in Rahm (La), Röstkartoffeln (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-18",
-		"Additives": {},
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "gebratene Mie-Nudeln mit Sprossen,Porree und Sesam in Teryakisauce (2,Gl,So,Se)",
 		"Category": "Pastabar",
 		"Date": "2023-10-18",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
