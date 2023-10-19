@@ -13,10 +13,11 @@
 		"Poultry": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl)",
-		"Category": "Gemüsebar",
+		"Name": "Due formaggio e nocciola mit zweierlei Käse (1,La,Sl)",
+		"Category": "Pastabar",
 		"Date": "2023-10-19",
 		"Additives": {
+			"1": "Farbstoff",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -26,18 +27,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Gl,La,Sl)",
-		"Category": "Pastabar",
+		"Name": "Gemüsepfanne Texas, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Fenchelgemüse (Sl), gebratene Paprika (1,5,Sw), Karotten-Mais Gemüse",
+		"Category": "Gemüsebar",
 		"Date": "2023-10-19",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
@@ -83,13 +86,14 @@
 		"Pig": true
 	},
 	{
-		"Name": "Grillgemüse Burger (3,Gl,Se,Sw)",
+		"Name": "Grillgemüse Burger (3,Gl,So,Se,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-19",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.25,
