@@ -1,9 +1,14 @@
 [
 	{
-		"Name": "gebratene Paprika, Kürbisgemüse, Süßkartoffeln, gebratene Zucchini",
+		"Name": "gebratene Paprika, gebratene Champignons, Wirsing in Chilicreme (Gl,So,Sl,Sf), gebratene Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-19",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
