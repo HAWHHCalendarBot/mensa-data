@@ -1,11 +1,23 @@
 [
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl)",
+		"Name": "Vegane Pasta (Gl), Aglio e olio mit Kirschtomate, Knoblauch und Ruccolapesto",
+		"Category": "Pastabar",
+		"Date": "2023-10-19",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-19",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -13,14 +25,16 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Conchiglie (Gl)",
+		"Name": "Mac and Cheese (1,Gl,La,Sl,Sf), Eisbergsalat mit Tomate (Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-10-19",
 		"Additives": {
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
+			"1": "Farbstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -57,24 +71,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mac and Cheese (1,Gl,La,Sl,Sf), Eisbergsalat mit Tomate (Sw)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-10-19",
-		"Additives": {
-			"1": "Farbstoff",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.0,
-		"PriceGuest": 7.4,
-		"PriceStudent": 3.7,
-		"Vegetarian": true
-	},
-	{
-		"Name": "4 Cevapcici (Gl,Ei,Sf), mit Tzatziki (La), Djuvecreis mit Tomate und Gemüse, und Krautsalat (3,5,Sw)",
+		"Name": "4 Cevapcici (Gl,Ei,Sf), mit Tzatziki (La), Pommes Frites (Sf), und Krautsalat (3,5,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2023-10-19",
 		"Additives": {
