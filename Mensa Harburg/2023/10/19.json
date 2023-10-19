@@ -1,35 +1,26 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-19",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
+		"Name": "Rindfleischsoße \"Bolognese\" (Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-19",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true,
-		"LactoseFree": true,
-		"Poultry": true
+		"LactoseFree": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Bunte Gemüse in Kokos-Currysoße (Sl,Sw), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-19",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -69,11 +60,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Kartoffelpüree (La)",
+		"Name": "5 Nürnberger Bratwürstchen, Pikantes Sauerkraut (2,Sl,Sf,Se), Kartoffelpüree (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-19",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
