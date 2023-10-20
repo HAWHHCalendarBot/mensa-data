@@ -1,20 +1,6 @@
 [
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-20",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw)",
+		"Name": "Brechbohne, Cajun Gemüse (Sl), Grillgemüse, gebratene Paprika (1,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-20",
 		"Additives": {
@@ -30,7 +16,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), Farfalle (Gl)",
+		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), spanisches Kartoffelgemüse",
 		"Category": "Pastabar",
 		"Date": "2023-10-20",
 		"Additives": {
@@ -43,6 +29,21 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Fish": true
+	},
+	{
+		"Name": "Salsa al gorgonzola mit Gorgonzola-Sahnesoße (Gl,La,48), Eliche (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-20",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf)",
@@ -58,6 +59,20 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Hähnchenstreifen in Petersiliensoße (La), Spätzle (Gl,Ei)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-10-20",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Poultry": true
+	},
+	{
 		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Kartoffelpüree (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-20",
@@ -69,6 +84,29 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Pig": true
+	},
+	{
+		"Name": "Asia-Reis-Pot, Räuchertofu, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Gl,Ei,En,So,Sl,Sf,Se)",
+		"Category": "CampusSpezial",
+		"Date": "2023-10-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Seelachsfilet in Kürbispanade (Gl,Ei,Fi), Kartoffel-Kürbis-Salat (3,5,Sl,Sf,Sw)",
