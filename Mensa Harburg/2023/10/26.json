@@ -11,20 +11,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-26",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
 		"Name": "Veg. Pastabar des Tages (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-26",
@@ -36,6 +22,23 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pastabar Fleisch oder Hähnchen des Tages (2,4,Gl,La,Sf)",
+		"Category": "Pastabar",
+		"Date": "2023-10-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"4": "Geschmacksverstärker",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Gl,Sl), Wrap (Gl)",
