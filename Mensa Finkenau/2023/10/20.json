@@ -1,27 +1,33 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kartoffelpürree (La,Sl), Sauerkraut (vegan) (Gl,Sl), Süßkartoffeln, gebratene Champignons",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-20",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-20",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta mit Spinat-Gorgonzolasauce (Gl,La,Sl,48)",
+		"Category": "Pastabar",
+		"Date": "2023-10-20",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -51,7 +57,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Hollandaise (Ei,La,Sl), Erbsen, Herzoginkartoffeln (Ei,La)",
+		"Name": "Hähnchen Cordon Bleu mit Putenschinken aus Formfleisch (2,Gl,La), Hollandaise (Gl,Ei,La,Sl), Erbsen, Herzoginkartoffeln (Ei,La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-20",
 		"Additives": {
