@@ -13,10 +13,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blumenkohl mit gebräunten Bröseln (Gl,La), Bunte Gemüsemischung mit Karotten (Sl), Nusskartoffeln",
+		"Name": "Blumenkohl in Rahm (Gl,So), Prinzessbohnen, Nusskartoffeln, Backkartoffel mit Spinat und Käse gratiniert (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-23",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Milano mit Putenfleisch und Pilzen (3,Gl,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-23",
+		"Additives": {
+			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -24,7 +39,7 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Poultry": true
 	},
 	{
 		"Name": "Pasta Arcobaleno mit geräücherter Putenbrust und Käse (1,2,3,8,Gl,La,Sl,Sw)",
