@@ -1,27 +1,35 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-10-23",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Zucchini und Pesto rosso (Gl,La,Nu)",
 		"Category": "Pastabar",
 		"Date": "2023-10-23",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl, gerösteter Broccoli, Linsengemüse (2,3,5,8,Sl,Sw), Kräuterkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-23",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
 		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
@@ -40,10 +48,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Basmatireis",
+		"Name": "Blumenkohl Korma (2,Gl,So,Se), Basmatireis",
 		"Category": "CampusVital",
 		"Date": "2023-10-23",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.6,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.3,
