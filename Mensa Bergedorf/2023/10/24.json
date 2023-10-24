@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli",
+		"Name": "Pasta Aglio e olio mit Tomate und Knoblauch (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-24",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zucchini gebraten, Fenchelgemüse (Sl), Prinzessbohnen, Bunte Gemüsemischung mit Karotten (Sl), Rosmarinkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-24",
 		"Additives": {
-			"6": "Geschwärzt",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -41,6 +53,21 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Milano mit Putenfleisch und Pilzen (3,Gl,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-24",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
 	},
 	{
 		"Name": "Pasta Arcobaleno mit geräücherter Putenbrust und Käse (1,2,3,8,Gl,La,Sl,Sw)",
