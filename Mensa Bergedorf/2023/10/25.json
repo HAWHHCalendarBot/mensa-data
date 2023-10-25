@@ -13,32 +13,48 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
+		"Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-25",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+		"Name": "Pasta Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-25",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Röstkartoffeln, pikantes Grillgemüse (Sl,Sf), Mangold mit gerösteten Walnüssen (Nu), Fenchelgemüse (Sl), gebratene Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-25",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -66,6 +82,20 @@
 		"PriceGuest": 5.4,
 		"PriceStudent": 2.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Coq au vin - Huhn in Rotwein gegart (Sw), Reis",
+		"Category": "CampusWorld",
+		"Date": "2023-10-25",
+		"Additives": {
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.55,
+		"PriceStudent": 4.2,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
