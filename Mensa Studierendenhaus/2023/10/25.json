@@ -13,11 +13,10 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2023-10-25",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -27,18 +26,38 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+		"Name": "Ratatouille (Sl), Kohlrabi in Sojarahm (1,Gl,So), Karotten (1), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-25",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ratatouille (Sl), Kohlrabi in Sojarahm (1,Gl,So), Karotten (1), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -52,6 +71,21 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-10-25",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
