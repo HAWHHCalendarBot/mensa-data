@@ -14,22 +14,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Kartoffeln Provencial",
+		"Name": "glasierte rote Beete, Zuckerschoten (1), Frühlingsgemüse (1), Fingermöhrchen mit Ingwer und Frühlingslauch (1,2,Gl,So), Spitzkohl in Sojarahm (So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-27",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Eliche (Gl)",
+		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Kartoffeln Provencial",
 		"Category": "Pastabar",
 		"Date": "2023-10-27",
 		"Additives": {
@@ -54,21 +55,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gemüsefrittata (Ei,La), Schnittlauchquark (La), Salat mit Italian Dressing (Sf,Sw)",
-		"Category": "CampusVital",
-		"Date": "2023-10-27",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.8,
-		"PriceStudent": 3.3,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Gemüsefrittata (Ei,La), Schnittlauchquark (La), Salat mit Italian Dressing (Sf,Sw)",
