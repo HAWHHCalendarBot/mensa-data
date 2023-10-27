@@ -1,51 +1,80 @@
 [
 	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Fusilli (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-27",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"Pig": true
-	},
-	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Fusilli (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-27",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"Pig": true
-	},
-	{
-		"Name": "Mais, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
+		"Name": "Gartengemüse mit Romanesco, Gemüsecouscous (Gl,Sl), Maisgemüse, Frühlingsgemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-27",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gartengemüse mit Romanesco, Gemüsecouscous (Gl,Sl), Maisgemüse, Frühlingsgemüse",
+		"Category": "Gemüsebar",
+		"Date": "2023-10-27",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Fusilli (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Pig": true
+	},
+	{
+		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Fusilli (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Pig": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl), Reis",
+		"Category": "Pastabar",
+		"Date": "2023-10-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",

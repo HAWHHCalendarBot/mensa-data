@@ -1,26 +1,25 @@
 [
 	{
-		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
+		"Name": "Pasta Pollo e funghi mit Hähnchenstreifen in Pilzsoße (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-27",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (6,Sf), Eliche (Gl)",
+		"Name": "Schupfnudeln mit Spitzkohl (Gl,So)",
 		"Category": "Pastabar",
 		"Date": "2023-10-27",
 		"Additives": {
-			"6": "Geschwärzt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -29,14 +28,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
+		"Name": "glasierte rote Beete, Bruschetta (Gl), Gemüsefrittata (Ei,La), Kohlrabigemüse (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-27",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -44,26 +42,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-27",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Pig": true
-	},
-	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Curry-Kokos Linsen-Suppe (Gl,Sl,Sf), Gemüse Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-10-27",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
@@ -71,16 +57,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paniertes Putenschnitzel (Gl)",
+		"Name": "Paniertes Putenschnitzel (Gl), Champignonrahmsoße (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-10-27",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.6,
 		"PriceStudent": 3.4,
-		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
@@ -105,7 +91,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Lachsfilet auf buntem Gemüse-Couscous (3,5,Gl,Fi,Sl,Sw)",
+		"Name": "Seelachsfilet auf buntem Gemüse-Couscous (3,5,Gl,Fi,Sl,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2023-10-27",
 		"Additives": {
