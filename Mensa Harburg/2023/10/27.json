@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "gebratene Champignons (Sw), Erbsen-Mais Gemüse, Paprika-Zuckerschoten Gemüse, buntes Gemüse und Retromix, Bohnengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-27",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-10-27",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,20 +13,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Knoblauchsoße (So), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-10-27",
 		"Additives": {
-			"4": "Geschmacksverstärker",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"Poultry": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Linsenbolognese (3,5,Sl,Sw), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-10-27",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",
