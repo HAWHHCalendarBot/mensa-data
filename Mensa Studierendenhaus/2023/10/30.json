@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Pastabar",
 		"Date": "2023-10-30",
 		"Additives": {
@@ -13,16 +13,20 @@
 		"Pig": true
 	},
 	{
-		"Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Bunter Gemüsemix mit gelben Karotten, Fingermöhrchen mit Ingwer und Frühlingslauch (1,2,Gl,So), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), glasierte rote Beete",
 		"Category": "Gemüsebar",
 		"Date": "2023-10-30",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
