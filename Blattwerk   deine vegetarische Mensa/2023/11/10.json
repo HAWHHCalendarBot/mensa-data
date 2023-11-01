@@ -1,18 +1,63 @@
 [
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (La), Bulgur mit Tomate und Peperoni (Gl,Sl), Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La)",
-		"Category": "Gemüsebar",
+		"Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Penne (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-11-10",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Penne (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-10",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Kidneybohnen Frikadelle (Gl,Sl), Grünkohl (Sl,Sf), Nusskartoffeln",
+		"Category": "Highlight",
+		"Date": "2023-11-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Vollkornreis",
+		"Category": "CampusWorld",
+		"Date": "2023-11-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.1,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

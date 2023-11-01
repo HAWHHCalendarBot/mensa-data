@@ -13,6 +13,21 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Maccaroni (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-07",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
 		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Maccaroni (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-07",
@@ -28,5 +43,54 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Karotten-Ananas-Curry mit scharfem Apfelchutney (3,So,Sl,Sw), Basmatireis",
+		"Category": "CampusVital",
+		"Date": "2023-11-07",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachte Pasta (Gl), Verdure e pesto mit Pfannengemüse, Pesto und Chili-Croutons (2,Gl,La,Nu)",
+		"Category": "CampusWorld",
+		"Date": "2023-11-07",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kichererbsen Curry Bowl, Zartweizen, Karotten, Madras Kürbis, Rote Beete, Erbsen Minz Hummus (3,Gl,Nu,Sl,Sf,Se)",
+		"Category": "Highlight",
+		"Date": "2023-11-07",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
