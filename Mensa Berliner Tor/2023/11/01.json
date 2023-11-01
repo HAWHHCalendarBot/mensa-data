@@ -3,15 +3,26 @@
 		"Name": "Linsenbolognese in pikanter Soße (Sl), Vollkorn Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-01",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl, Blattspinat (Sl), Mediterrane Kartoffel Gemüsepfanne (Sw), Karotten (La)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-01",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (So,Sw), Vollkorn Penne (Gl)",
@@ -20,21 +31,6 @@
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse (2,Sw), griechisches Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-01",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -77,6 +73,20 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Chili sin carne (So,Sl), Reis",
+		"Category": "CampusWorld",
+		"Date": "2023-11-01",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Süßkartoffel Rucola Burger (3,Gl,Sf), Kartoffelspalten (Gl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-01",
@@ -102,26 +112,6 @@
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "veganes Sandwich Banh Mi mit Gemüse und kleinem Salat (1,2,4,Gl,So,Sf,Se)",
-		"Category": "CampusWorld",
-		"Date": "2023-11-01",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"4": "Geschmacksverstärker",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
-		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
