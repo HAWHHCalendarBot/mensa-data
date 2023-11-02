@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, Gartengemüse (Sl), gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-02",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,10 +13,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Oliven und Tomatensauce (3,Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-02",
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
@@ -24,7 +27,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen mit Gemüse (Gl,Sl)",
+		"Name": "Gemüsegulasch (Gl,Sl), Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-11-02",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsegulasch (Gl,Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-11-02",
 		"Additives": {
