@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf), Spanisches Pfannengemüse, Kartoffeln Provencial",
+		"Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf), Spanisches Pfannengemüse, Kartoffeln Provencial, Linsenbällchen (Gl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-02",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -14,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Gl,Sw)",
+		"Name": "Tortellini mit Käsefüllung (Gl,La), Pasta Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Gl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-11-02",
 		"Additives": {
@@ -28,19 +29,19 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Gl,La), Soia e Porri mit Lauch und Sojasahne (Gl,So,Sl)",
+		"Name": "Vollkorn Penne (Gl), Soia e Porri mit Lauch und Sojasahne (Gl,So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-02",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (Gl,So,Sl)",
