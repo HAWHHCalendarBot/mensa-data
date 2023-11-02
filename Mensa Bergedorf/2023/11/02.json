@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf)",
+		"Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf), Spanisches Pfannengemüse, Kartoffeln Provencial",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-02",
 		"Additives": {
@@ -28,13 +28,14 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+		"Name": "Tortellini mit Käsefüllung (Gl,La), Soia e Porri mit Lauch und Sojasahne (Gl,So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-02",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -72,6 +73,18 @@
 		"PriceStudent": 3.4,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hirtenkäse mit mediterranem Gemüse (La)",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-02",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Lasagne Bolognese (Gl,La,Sl), Tomatensoße",
