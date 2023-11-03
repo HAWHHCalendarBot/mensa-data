@@ -11,11 +11,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Wirsing-Champihngongemüse in Sojarahm (Gl,So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-03",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,26 +26,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+		"Name": "Marokkanische Kichererbsensuppe (1,2,Gl,So,Sl,Se,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-03",
 		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,So)",
+		"Name": "Würzige Thai - Soja - Bolognese mit Ingwer, Koriander, Limettenblättern und Mienudeln (2,Gl,So,Sl,Se)",
 		"Category": "CampusWorld",
 		"Date": "2023-11-03",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
