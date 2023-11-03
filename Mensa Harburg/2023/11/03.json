@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Kichererbsencurry mit Champignons und Kürbis (Sl), Gartengemüse, Bohnen, Fingermöhrchen",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-03",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-03",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,19 +13,45 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Bohnen- Tomaten - Ragout mit Lauchzwiebeln (Gl,Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-03",
 		"Additives": {
-			"4": "Geschmacksverstärker",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili sin carne mit Reis (So,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-03",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (La,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-03",
+		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
 		"Poultry": true
 	},
 	{
