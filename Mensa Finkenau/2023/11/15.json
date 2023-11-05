@@ -1,0 +1,88 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-15",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-15",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomaten-Kokossuppe (3,Gl,So,Sl), Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-11-15",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tagliatelle mit Kürbiscreme und gerösteten Kürbiskerne (Gl,So,Sl)",
+		"Category": "CampusVital",
+		"Date": "2023-11-15",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.0,
+		"PriceGuest": 5.2,
+		"PriceStudent": 2.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchen Crossies (Gl), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Gl,Fi), Blattspinat in Rahm (Gl,La), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-15",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Fish": true
+	}
+]

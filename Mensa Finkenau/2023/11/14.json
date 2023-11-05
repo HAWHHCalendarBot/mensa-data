@@ -1,0 +1,84 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-14",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-14",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
+		"Category": "Pottkieker",
+		"Date": "2023-11-14",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-14",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La), Bukhari Dajaj - Orientalischer Gewürzreis",
+		"Category": "CampusVital",
+		"Date": "2023-11-14",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Poultry": true
+	},
+	{
+		"Name": "Burger Green Oat mit japanischem Wirsing-Wakame-Salat (1,2,3,9,10,Gl,So,Sf,Se), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-14",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"LactoseFree": true,
+		"Vegan": true
+	}
+]
