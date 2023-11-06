@@ -13,20 +13,6 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-15",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Tomaten-Kokossuppe (3,Gl,So,Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-11-15",
@@ -55,6 +41,35 @@
 		"PriceAttendant": 3.8,
 		"PriceGuest": 5.0,
 		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Rote Beete Gnocchi mit Rosenkohl und Kürbispesto (La)",
+		"Category": "CampusVital",
+		"Date": "2023-11-15",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.4,
+		"PriceGuest": 8.2,
+		"PriceStudent": 4.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "vegetarische Bratwurst (9,Ei,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 8.6,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{

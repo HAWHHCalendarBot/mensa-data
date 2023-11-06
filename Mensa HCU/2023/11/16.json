@@ -1,23 +1,5 @@
 [
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,Gl,So,Sw), Frühlingsgemüse (La), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln, gebratene Champignons (La,Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-16",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-16",
@@ -49,6 +31,28 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Bete (1,2,3,5,Gl,So,Sl,Se,Sw), Kirschtomaten-Konfit (1,5,Sw), Erbsen Dip (2,3,So,Sf)",
+		"Category": "CampusVital",
+		"Date": "2023-11-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 8.4,
+		"PriceStudent": 4.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},

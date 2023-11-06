@@ -14,20 +14,6 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Mais (La), Blattspinat mit Hirtenkäse (La), Blumenkohl mit gebräunten Bröseln (Gl,La), Bunte Gemüsemischung mit Karotten (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-13",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Kokos-Kürbis Curry (Sf,Se), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-11-13",
@@ -55,5 +41,35 @@
 		"PriceStudent": 2.7,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-13",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.8,
+		"PriceStudent": 2.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Steckrüben-Kartoffelmus mit Kochwurst und Senf (2,3,4,8,La,Sl,Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 8.8,
+		"PriceStudent": 4.4,
+		"Pig": true
 	}
 ]
