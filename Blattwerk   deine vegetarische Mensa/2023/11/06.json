@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Giardinera mit Gemüse in Tomatensoße (Sl), Spaghetti (Gl)",
+		"Name": "Giardinera mit Gemüse in Tomatensoße (Sl), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-06",
 		"Additives": {
@@ -28,7 +28,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl), Spaghetti (Gl)",
+		"Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-06",
 		"Additives": {
@@ -43,7 +43,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "One Pot Quinoa (3,Gl,Sl)",
+		"Name": "One Pot Quinoa mit Kidneybohnen, Avocado und Erbsen (3,Gl,Sl)",
 		"Category": "CampusVital",
 		"Date": "2023-11-06",
 		"Additives": {
@@ -69,6 +69,19 @@
 		"PriceAttendant": 4.8,
 		"PriceGuest": 6.0,
 		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kichererbsensalat mit Cherrytomaten, Paprika, Zwiebel, Birne und Tofu (So)",
+		"Category": "CampusWorld",
+		"Date": "2023-11-06",
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.85,
+		"PriceGuest": 6.05,
+		"PriceStudent": 3.55,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -100,6 +113,21 @@
 		"PriceAttendant": 5.7,
 		"PriceGuest": 6.9,
 		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "One Pot Quinoa mit Kidneybohnen, Avocado und Erbsen (3,Gl,Sl), Gratinierter Ziegenkäse mit Honig und Rosmarin (La)",
+		"Category": "CampusVital",
+		"Date": "2023-11-06",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
 		"Vegetarian": true
 	}
 ]
