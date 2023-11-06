@@ -1,34 +1,18 @@
 [
 	{
-		"Name": "Spaghetti (Gl),  mit Muscheln, Kirschtomaten und Knoblauch (Kr,Sl,Wt)",
+		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (6,Sf), Eliche (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-17",
 		"Additives": {
+			"6": "Geschwärzt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Kr": "Krebstiere und Krebstiererzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true
-	},
-	{
-		"Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-17",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Gemüsegulasch (Sl), Zartweizen (Gl)",
@@ -39,23 +23,23 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
-		"PriceGuest": 4.4,
+		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "One Pot Quinoa (3,Gl,Sl)",
-		"Category": "CampusSpezial",
+		"Name": "Lupinen-Bolognese (Sl,Lu), Penne (Gl)",
+		"Category": "CampusVital",
 		"Date": "2023-11-17",
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Lu": "Lupine und - erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.1,
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -73,7 +57,7 @@
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.6,
-		"PriceGuest": 8.6,
+		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
 		"Alcohol": true,
 		"Poultry": true

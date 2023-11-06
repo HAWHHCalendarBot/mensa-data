@@ -1,17 +1,17 @@
 [
 	{
-		"Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Rahm (Gl,La)",
-		"Category": "Gemüsebar",
+		"Name": "Tapenade di olive mit schwarzen Oliven, Kräutern und Olivenöl (6), Fusilli (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-11-06",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"6": "Geschwärzt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Gl,La,Sl)",
@@ -28,14 +28,29 @@
 		"Beef": true
 	},
 	{
-		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Gl,La,48)",
+		"Name": "Salsa bianca mit Räuchertofu (Gl,So,Sl), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-06",
 		"Additives": {
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), Kohlrabi in Rahm (Gl,La), Prinzessbohnen, buntes Asia Gemüse mit Wasserkastanie und Lotuswurzel (2)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,

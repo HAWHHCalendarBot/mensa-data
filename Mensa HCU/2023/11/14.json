@@ -42,18 +42,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-14",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.8,
-		"PriceStudent": 2.9,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Falafel mit persischem Gewürzreis (Gl,Sl,Se), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2023-11-14",
@@ -70,6 +58,22 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachter Rinderbraten (Sl,Sw), Rotweinsoße (Sl,Sw), gebratenem Wirsing, Macairekartoffeln (Gl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-14",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 9.0,
+		"PriceStudent": 4.5,
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Burger Green Oat mit japanischem Wirsing-Wakame-Salat (1,2,3,9,10,Gl,So,Sf,Se), Pommes Frites (Sf)",
