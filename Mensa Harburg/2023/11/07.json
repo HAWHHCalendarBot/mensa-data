@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-07",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
+		"Name": "all`Provenzale mit Gemüse (Sw), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-07",
 		"Additives": {
@@ -27,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-07",
 		"Additives": {
@@ -40,6 +27,24 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Gartenbohnen mit Pfifferlingen, gebratener Wirsing, Gemüsecouscous (Gl,Sl,Se), gebratene Paprika (1,5,Sw), Erbsen-Mais Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Chili con Corn (Gl,Sl), Basmatireis",
