@@ -1,25 +1,35 @@
 [
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
-		"Category": "Pastabar",
+		"Name": "tägliche Gemüseauswahl:, Gartenbohnen mit Kräutern, Wok-Gemüse, Blumenkohl, glasiertes Wurzelgemüse (Sl), gebratene Zucchini mit Mischgemüse, gebratenem Wirsing",
+		"Category": "Gemüsebar",
 		"Date": "2023-11-07",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
-		"Category": "Pottkieker",
+		"Name": "Pasta Pennette (Gl), a la  \"Pollo\" mit Hähnchen in cremiger Käsesauce mit Brokkoli (La)",
+		"Category": "Pastabar",
 		"Date": "2023-11-07",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Veganes Kichererbsencurry mit Tomate und Möhren",
+		"Category": "Pottkieker",
+		"Date": "2023-11-07",
+		"Additives": {},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
@@ -27,7 +37,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (Gl), Bratkartoffeln mit Speck und Zwiebeln (2,3,8), Gurkensalat (La), Zitrone",
+		"Name": "Paniertes Schweineschnitzel (Gl), Bratkartoffeln mit Speck und Zwiebeln (2,3,8), Gurkensalat (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-07",
 		"Additives": {
@@ -62,7 +72,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kichererbsen Curry Bowl, Zartweizen, Karotten, Madras Kürbis, Rote Beete, Erbsen Minz Hummus (3,Gl,Nu,Sl,Sf,Se)",
+		"Name": "Kichererbsen Curry Bowl, Reis, Karotten, Madras Kürbis, Rote Beete, Erbsen Minz Hummus (3,Gl,Nu,Sl,Sf,Se)",
 		"Category": "Highlight",
 		"Date": "2023-11-07",
 		"Additives": {
