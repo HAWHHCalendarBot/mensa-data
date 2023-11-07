@@ -13,18 +13,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta all`Provenzale mit Gemüse (Gl,Sw)",
+		"Name": "Salsa bianca mit Räuchertofu (Gl,So,Sl), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-07",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Gl,La,48)",
+		"Category": "Pastabar",
+		"Date": "2023-11-07",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
