@@ -1,16 +1,17 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (1)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-07",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"1": "Farbstoff",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
@@ -27,7 +28,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Bratkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2023-11-07",
 		"Additives": {
@@ -54,6 +55,39 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Bratwurstgulasch pikant (3,4,8,9,Sl,Sf), Fusilli (Gl)",
+		"Category": "CampusWorld",
+		"Date": "2023-11-07",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.5,
+		"PriceStudent": 3.0,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "vegetarischer Zwiebel-Kürbiskuchen (Gl,Ei,La), Schnittlauchdip (La)",
+		"Category": "Highlight",
+		"Date": "2023-11-07",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",

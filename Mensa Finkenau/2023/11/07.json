@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratenem Wirsingsojarahm (So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-07",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-07",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,27 +13,46 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili con Corn (Gl,Sl), Basmatireis",
-		"Category": "Pottkieker",
+		"Name": "Pasta mit Cherrytomaten und Pesto Rosso (Gl,La,Nu,Sl)",
+		"Category": "Pastabar",
 		"Date": "2023-11-07",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "mexikanisches Kichererbsen-Sojachilli (1,2,Gl,So,Sl,Se), Basmatireis",
+		"Category": "Pottkieker",
+		"Date": "2023-11-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Pommes Frites (Sf)",
+		"Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl), Kroketten (Gl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-07",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.7,
