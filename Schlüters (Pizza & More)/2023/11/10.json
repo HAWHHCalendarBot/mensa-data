@@ -191,20 +191,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pizza Ricoletta (Gl,Mi,Nu)",
-		"Category": "Food Angebot im Schlüters",
-		"Date": "2023-11-10",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
-		},
-		"PriceAttendant": 7.4,
-		"PriceGuest": 8.0,
-		"PriceStudent": 6.7,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Pizza Sucuk mit würziger Sucuk, rote Zwiebeln, Hirtenkäse und Käse (2,3,4,Gl,La)",
 		"Category": "Food Angebot im Schlüters",
 		"Date": "2023-11-10",
@@ -233,5 +219,19 @@
 		"PriceGuest": 8.1,
 		"PriceStudent": 6.8,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pizza Döner Style (Gl,So,La)",
+		"Category": "Food Angebot im Schlüters",
+		"Date": "2023-11-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.6,
+		"PriceGuest": 8.2,
+		"PriceStudent": 6.9,
+		"Poultry": true
 	}
 ]
