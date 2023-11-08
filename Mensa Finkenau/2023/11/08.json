@@ -1,21 +1,27 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-08",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Champignonrahmsauce (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-08",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Süßkartoffeln, gerösteter Blumenkohl mit Sesam (Se), gebackene Aubergine, gebratene Paprika (1,5,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-08",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -44,18 +50,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Vollkornreis",
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (1,2,Gl,En,So,Sl,Se), Vollkornreis",
 		"Category": "CampusVital",
 		"Date": "2023-11-08",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.4,
 		"PriceGuest": 5.6,
 		"PriceStudent": 3.1,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
