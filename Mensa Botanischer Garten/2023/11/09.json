@@ -1,17 +1,29 @@
 [
 	{
-		"Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+		"Name": "Bolognese (Sl), Reis",
 		"Category": "Pastabar",
 		"Date": "2023-11-09",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Bolognese (Sl), Reis",
+		"Category": "Pastabar",
+		"Date": "2023-11-09",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
