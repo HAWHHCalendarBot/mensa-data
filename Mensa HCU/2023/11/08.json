@@ -1,15 +1,41 @@
 [
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Eliche (Gl)",
+		"Name": "Vegane Pasta mit  Kirschtomaten und Frühlingslauch (Gl), hausgemachtes Rucola-Haselnuß Pesto (La,Nu)",
 		"Category": "Pastabar",
 		"Date": "2023-11-08",
 		"Additives": {
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Vegane Pasta mit  Kirschtomaten und Frühlingslauch (Gl), hausgemachtes Rucola-Haselnuß Pesto (La,Nu)",
+		"Category": "Pastabar",
+		"Date": "2023-11-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Rosenkohl in Parmesanpanade (2,La), Schupfnudeln (Gl,Ei)",
+		"Category": "Pastabar",
+		"Date": "2023-11-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -32,21 +58,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rosenkohl in Parmesanpanade (2,La), Schupfnudeln (Gl,Ei)",
-		"Category": "CampusWorld",
-		"Date": "2023-11-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 4.1,
-		"PriceGuest": 5.6,
-		"PriceStudent": 2.8,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Vollkornreis",
 		"Category": "CampusVital",
 		"Date": "2023-11-08",
@@ -63,16 +74,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Susländer grobe Bratwurst (8), Rahmwirsing (Gl,La,Sl), veganes hausgemachtes Kartoffelpüree (1,So)",
+		"Name": "Susländer grobe Bratwurst (8), Rahmwirsing (Gl,La,Sl), Salzkartoffeln",
 		"Category": "Highlight",
 		"Date": "2023-11-08",
 		"Additives": {
-			"1": "Farbstoff",
 			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.5,
 		"PriceGuest": 10.4,
