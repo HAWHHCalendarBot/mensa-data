@@ -1,5 +1,20 @@
 [
 	{
+		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), spanisches Kartoffelgemüse",
+		"Category": "Pastabar",
+		"Date": "2023-11-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
 		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se), Bunte Nudeln (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-08",
@@ -16,23 +31,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
+		"Name": "Orientalisches Kichererbsengemüse (2,5,Sw), Madras Kürbis, gebratene Zucchini, gebratenem Wirsing, Couscous mit Mandeln, Rosinen und Chili (Gl,Nu,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-08",
 		"Additives": {
@@ -80,12 +79,40 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (Gl), Bolognese Soße (Sl)",
+		"Name": "Wir kochen was Sie lieben..., Wrap mit Madras Kürbis, Rote Beete, Erbsen Minz Hummus, Spinat (3,Gl,Se)",
+		"Category": "CampusWorld",
+		"Date": "2023-11-08",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegetarischer Zwiebel-Kürbiskuchen (Gl,Ei,La), Schnittlauchdip (La)",
+		"Category": "Highlight",
+		"Date": "2023-11-08",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hausgemachte Pasta (Gl), Bolognese Soße",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-08",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,

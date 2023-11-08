@@ -1,19 +1,20 @@
 [
 	{
-		"Name": "Karotten Rustica, Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+		"Name": "Karotten Rustica, Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Kartoffelgratin (Ei,La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-08",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se), Farfalle (Gl)",
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se), Strozapetti (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-08",
 		"Additives": {
@@ -29,7 +30,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Farfalle (Gl)",
+		"Name": "Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Stroziapetti (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-08",
 		"Additives": {
@@ -65,7 +66,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Name": "Chili Fries sin carne (So,Sl,Sw), Tofunese (6,So,Sf)",
 		"Category": "CampusWorld",
 		"Date": "2023-11-08",
 		"Additives": {
@@ -82,7 +83,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Linsenbratling (2,Gl,So,Sl), Kräuterdip (Sf), glacierte rote Beete, Polentaschnitte (Sl)",
+		"Name": "Tortellinisalat mit Artischoken, Oliven und Mandeln (3,5,Gl,Ei,La,Nu,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2023-11-08",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.25,
+		"PriceGuest": 6.45,
+		"PriceStudent": 3.95,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Linsengemüse (2,Gl,So,Sl), Kräuterdip (Sf), glacierte rote Beete, Polentaschnitte (Sl)",
 		"Category": "Highlight",
 		"Date": "2023-11-08",
 		"Additives": {
