@@ -14,16 +14,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rahmwirsing (Gl,La,Sl), Asiatische Gemüsepfanne (2,Gl,So,Se), Kürbisgemüse, Süßkartoffeln",
+		"Name": "Rahmwirsing (Gl,La,Sl), Asiatische Gemüsepfanne (2,Gl,So,Se), gebratene Paprika (1,5,Sw), Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-09",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -31,7 +34,23 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffel Gemüsecurry (2,Gl,Sl,Sf), Pfannenbrot (Gl)",
+		"Name": "Kartoffel Gemüsecurry (2,Gl,Sl,Sf), Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-11-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffel Gemüsecurry (2,Gl,Sl,Sf), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-11-09",
 		"Additives": {
