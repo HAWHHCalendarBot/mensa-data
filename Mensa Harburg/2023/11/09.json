@@ -1,20 +1,21 @@
 [
 	{
-		"Name": "Crema di fagioli bianchi in Salbeisauce mit weißen Bohnen, Karotten und Sellerie (La,Sl), Pasta nach Wahl (Gl)",
+		"Name": "Crema di fagioli bianchi in Salbeisauce mit weißen Bohnen, Karotten und Sellerie (So,Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-09",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Basilikumsoße mit Erbsen und Mais (La,Sl), Pasta nach Wahl (Gl)",
+		"Name": "Pasta di pollo mit Hähnchenstreifen in Basilikumsoße mit Erbsen und Mais (La,Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-09",
 		"Additives": {
@@ -28,18 +29,19 @@
 		"Poultry": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
+		"Name": "gebratener Broccoli, gebratene Karotten, Spitzkohl, Belugalinsenragout (Sl), Spätzle (1,Gl,Ei)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-09",
 		"Additives": {
+			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
@@ -76,7 +78,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Sw), Pommes Frites (Sf)",
+		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Gl,Ei,La,Sl,Sf,Se,Sw), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2023-11-09",
 		"Additives": {
@@ -89,6 +91,7 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -96,7 +99,6 @@
 		"PriceAttendant": 6.9,
 		"PriceGuest": 8.1,
 		"PriceStudent": 5.6,
-		"Alcohol": true,
 		"Beef": true,
 		"Pig": true
 	},

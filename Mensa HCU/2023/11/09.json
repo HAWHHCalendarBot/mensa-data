@@ -1,19 +1,21 @@
 [
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), Eliche (Gl)",
+		"Name": "Pennette Pasta (Gl), mit Gorgonzola und Erbsen (La,48)",
 		"Category": "Pastabar",
 		"Date": "2023-11-09",
 		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
+		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Sojadip (So)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-09",
 		"Additives": {
@@ -52,12 +54,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und Limetten-Senf-Dressing (3,Nu,Sf)",
+		"Name": "Süßkartoffel-Linsengemüse mit Blattsalat und Wild Karachi Dressing (Sesam &amp; Rote Beete) (3,Nu,Sf,Se)",
 		"Category": "CampusVital",
 		"Date": "2023-11-09",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 5.1,
@@ -65,5 +68,26 @@
 		"PriceStudent": 3.8,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Gl,Fi), milde, Chipotlesoße (1,2,5,9,Gl,So,Sw), pikanter Karottensalat (3), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-09",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 10.8,
+		"PriceStudent": 5.4,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
