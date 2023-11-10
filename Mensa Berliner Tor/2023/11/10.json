@@ -1,43 +1,38 @@
 [
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Vollkorn Fussili (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-10",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), Vollkorn Fussili (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-10",
-		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Fish": true
-	},
-	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
+		"Name": "Kaisergemüse, vegan, Grilltomate, vegan, Erbsen- Karotten Gemüse, vegan (La), Kroketten (Gl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-10",
 		"Additives": {
-			"1": "Farbstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (Gl), Paprikarahmsoße mit Geflügelstreifen (Gl,La)",
+		"Category": "Pastabar",
+		"Date": "2023-11-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräutersoße (So,Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-10",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -77,13 +72,13 @@
 	},
 	{
 		"Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En)",
-		"Category": "CampusSpezial",
+		"Category": "CampusVital",
 		"Date": "2023-11-10",
 		"Additives": {
 			"En": "Erdnüsse und Erdnusserzeugnisse"
 		},
-		"PriceAttendant": 4.45,
-		"PriceGuest": 5.55,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
 		"PriceStudent": 3.2,
 		"LactoseFree": true,
 		"Poultry": true
