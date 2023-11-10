@@ -1,27 +1,10 @@
 [
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), spanisches Kartoffelgemüse",
 		"Category": "Pastabar",
 		"Date": "2023-11-10",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-10",
-		"Additives": {
-			"1": "Farbstoff",
-			"5": "Geschwefelt",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -45,6 +28,23 @@
 		"Fish": true
 	},
 	{
+		"Name": "Brechbohne in Sojarahm (So), Cajun Gemüse (Sl), gebratene Paprika (1,5,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-10",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-10",
@@ -60,11 +60,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf)",
+		"Name": "Kichererbsen Curry Bowl, Zartweizen, Karotten, Madras Kürbis, Rote Beete, Erbsen Minz Hummus (3,Gl,Nu,Sl,Sf,Se), Indische Kartoffeln (Sf)",
 		"Category": "CampusVital",
 		"Date": "2023-11-10",
 		"Additives": {
-			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
