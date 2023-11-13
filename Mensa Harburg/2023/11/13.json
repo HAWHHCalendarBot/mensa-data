@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-11-13",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (Gl)",
+		"Name": "Linsenbolognese in pikanter Soße (So,Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-13",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Champignons (Sw), Broccoli, Grünkohl (Sl,Sf), gebackene Aubergine (Gl,Sw), Ofengemüse (Sw), Gebackener  Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -70,7 +90,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Mini Frühlingsrollen (Gl,So), Bratnudeln mit Gemüsestreifen (2,Gl,So,Se), scharfer Asia-Dip (1,Sf)",
+		"Name": "Mini Frühlingsrollen (Gl,So), Mi-Nudeln (2,Gl,So,Se), scharfes Asia-Gemüseragout (1,Sf)",
 		"Category": "CampusWorld",
 		"Date": "2023-11-13",
 		"Additives": {
