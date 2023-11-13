@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Spaghetti (Gl), mit Rindfleisch-Bolognese mit Knoblauch und Tomate (Sl)",
+		"Name": "Pasta Pennette (Gl), mit Rindfleisch-Bolognese mit Knoblauch und Tomate (Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-13",
 		"Additives": {
@@ -12,6 +12,21 @@
 		"PriceStudent": 0.75,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Tagliatelle mit Kürbiscreme und gerösteten Kürbiskerne (Gl,So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kokos-Kürbis Curry (Sf,Se), Reis",
@@ -28,26 +43,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tagliatelle mit Kürbiscreme und gerösteten Kürbiskerne (Gl,So,Sl)",
-		"Category": "CampusVital",
-		"Date": "2023-11-13",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.0,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.7,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "4 Röstiecken, Kräuterquark (La), Gurkensalat (La)",
+		"Name": "4 Röstiecken, Gurkensalat, Kräuterquark (La), oder VEGAN mit Sojadip (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-13",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 4.2,
 		"PriceGuest": 5.8,
