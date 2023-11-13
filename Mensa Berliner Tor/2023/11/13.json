@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (Gl)",
+		"Name": "Hühnchen in pikanter Erdnuss-Curry-Soße (En), Reis",
+		"Category": "Pastabar",
+		"Date": "2023-11-13",
+		"Additives": {
+			"En": "Erdnüsse und Erdnusserzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Penne (Gl), Tomatensoße",
 		"Category": "Pastabar",
 		"Date": "2023-11-13",
 		"Additives": {
@@ -13,35 +26,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Broccoli, vegan (La), Grilltomate (La), Basmatireis",
+		"Name": "Broccoli, vegan (La), Grilltomate (La), Blumenkohl in Rahm (Gl,La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-13",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Fusilli (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-13",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Pig": true
 	},
 	{
 		"Name": "Kokos-Kürbis Curry (Sf,Se), Reis",
