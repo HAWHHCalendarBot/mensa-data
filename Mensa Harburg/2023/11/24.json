@@ -57,53 +57,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+		"Name": "Kohlroulade (La,Sf), Rahmsoße (Gl,La,Sl), hausgemachtes Kartoffelpüree (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-24",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"Sf": "Senf und Senferzeugnisse"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.5,
-		"PriceStudent": 4.0,
-		"Beef": true,
-		"LactoseFree": true,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
 		"Pig": true
-	},
-	{
-		"Name": "vegane Currywurst (Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2023-11-24",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"9": "Süßungsmittel",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.4,
-		"PriceGuest": 6.6,
-		"PriceStudent": 4.1,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Röstkartoffeln",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-24",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.7,
-		"PriceStudent": 4.2,
-		"LactoseFree": true,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Feldsalat mit gerösteten Kürbis und Pulled Planted spicy (Gl,Sf,Sw)",
@@ -119,5 +85,20 @@
 		"PriceStudent": 5.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Frische Wok-Gemüsepfanne (2,Sw), Hähnchen Crossies (Gl), Vollkornreis",
+		"Category": "CampusVital",
+		"Date": "2023-11-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
