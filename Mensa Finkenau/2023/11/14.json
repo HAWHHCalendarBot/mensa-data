@@ -1,9 +1,14 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Blumenkohl (2,Gl,So,Sf), gebratene Karotten, gebackene Aubergine, Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-14",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +16,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Curry-Kohlgemüse und Dillkäse überbacken (2,Gl,So,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-14",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kochwurst (2,3,4,8,Sf)",
@@ -67,12 +75,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (La), Bukhari Dajaj - Orientalischer Gewürzreis",
+		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Kräuterdip (La), Bukhari Dajaj - Orientalischer Gewürzreis (Sl)",
 		"Category": "CampusVital",
 		"Date": "2023-11-14",
 		"Additives": {
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
