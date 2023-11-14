@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Crema di funghi ostrica mit Austernpilze, Tomaten und Gemüse (Sl), Farfalle (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-14",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Brechbohnen, Gartengemüse, gebratener Pak Choi (2,Gl,So), gebratene Drillinge",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-14",
@@ -13,20 +27,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Gl,La,Sl), Farfalle (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-14",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Salsa di zucca al curry mit Kürbis, Curry und Kokos (3,Gl,So,Sl,Sf), Farfalle (Gl)",
@@ -58,6 +58,22 @@
 		"PriceAttendant": 3.9,
 		"PriceGuest": 5.1,
 		"PriceStudent": 2.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nudelsalat mit eingelegtem Zwiebeln und Champignons, Cherrytomaten und Bohnendip (3,5,Gl,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2023-11-14",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.85,
+		"PriceGuest": 6.05,
+		"PriceStudent": 3.55,
 		"LactoseFree": true,
 		"Vegan": true
 	},
