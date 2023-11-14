@@ -1,17 +1,19 @@
 [
 	{
-		"Name": "Bunter Gemüsemix mit gelben Karotten, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen, Erbsen-Karotten Gemüse (La), Perlgraupen (Gl)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta Pennette mit Rucola (Gl), und Sauce \"Carbonara\" mit Speck und Kräutern (2,3,8,Gl,La)",
+		"Category": "Pastabar",
 		"Date": "2023-11-20",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
 		"Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
@@ -41,17 +43,5 @@
 		"PriceStudent": 3.1,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La)",
-		"Category": "CampusVital",
-		"Date": "2023-11-20",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.4,
-		"PriceGuest": 8.2,
-		"PriceStudent": 4.1,
-		"Vegetarian": true
 	}
 ]
