@@ -1,21 +1,27 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Vegane Tomaten-Orangensoße mit Linsen (3,Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-15",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Champignons (Sw), gebratene Zucchini, gerösteter Blumenkohl, Prinzessbohnen, Antipasti-Gemüse (Sw), gebratene Paprika (1,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-15",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-15",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,20 +30,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Schinken-Sahnesoße und Pilzen (1,2,3,8,So,La,Sl,Sw), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-15",
 		"Additives": {
-			"4": "Geschmacksverstärker",
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"Poultry": true
+		"Pig": true
 	},
 	{
 		"Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
