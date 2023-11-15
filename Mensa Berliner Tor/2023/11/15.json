@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Penne (Gl)",
+		"Name": "Penne (Gl), Paprikarahmsoße (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-11-15",
 		"Additives": {
@@ -13,32 +13,41 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+		"Name": "Penne (Gl), Kräutersoße mit Hähnchenbrust-Streifen (3,8,Gl,La,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-11-15",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Poultry": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen, Gnocchi",
+		"Name": "Sombrero Gemüse, vegan (Sl), gebratene Champignons (Sw), Sauerkraut (vegan) (Sl), Reissalat mit Sesam und Wakame (1,2,3,5,Gl,So,Se,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-15",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Sojastreifen in süß-saurer Soße (2,So,Sl,Sf), Reis",

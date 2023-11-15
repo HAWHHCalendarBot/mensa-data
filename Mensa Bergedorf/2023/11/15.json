@@ -13,6 +13,20 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-15",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
 		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-15",
@@ -27,18 +41,33 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Blattspinat in Rahm (Gl,La), Prinzessbohnen, Gnocchi",
+		"Name": "Ratatouille (Sl), Karotten (La), gebratene Zucchini, Prinzessbohnen, Fenchelgemüse (Sl), Curryreis (Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-15",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Salsa bianca mit Räuchertofu in Kräutersoße (Gl,So,Sl), Vollkorn Fussili (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-15",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,Gl,So,Sl), Reis",
@@ -87,7 +116,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf)",
+		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-15",
 		"Additives": {
@@ -99,9 +128,9 @@
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.85,
-		"PriceGuest": 5.95,
-		"PriceStudent": 3.6,
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Pig": true
 	}
