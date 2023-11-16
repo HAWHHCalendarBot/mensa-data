@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (6,Sf), Vollkorn Penne (Gl)",
+		"Name": "Pasta Spinaci e olio d'oliva mit Spinat und Oliven (6,Gl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2023-11-17",
 		"Additives": {
@@ -15,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
+		"Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-11-17",
 		"Additives": {
@@ -61,20 +61,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lupinen-Bolognese (Sl,Lu)",
-		"Category": "CampusVital",
-		"Date": "2023-11-17",
-		"Additives": {
-			"Lu": "Lupine und - erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 3.45,
-		"PriceGuest": 4.55,
-		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Hähnchen Cordon Bleu (2,Gl,La), Hollandaise (Ei,La,Sl,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-17",
@@ -93,17 +79,33 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Gl,Fi)",
+		"Name": "Vegane Hack-Bolognese (Sl,Sf), Nudeln (Gl)",
+		"Category": "CampusVital",
+		"Date": "2023-11-17",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Gl,Ei,Fi), Petersiliensoße (Gl,La), Salzkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2023-11-17",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"Fi": "Fisch und Fischerzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 4.9,
-		"PriceGuest": 6.1,
-		"PriceStudent": 3.6,
-		"Fish": true,
-		"LactoseFree": true
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Fish": true
 	}
 ]
