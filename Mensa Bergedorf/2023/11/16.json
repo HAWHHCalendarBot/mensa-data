@@ -1,20 +1,19 @@
 [
 	{
-		"Name": "Frühlingsgemüse (La), Kohlrabigemüse (La), gebratene Champignons (La,Sw), Paprikagemüse mit Mango und Kokosmilch, Kartoffelgratin (Ei,La)",
+		"Name": "Frühlingsgemüse, Kohlrabigemüse, gebratene Champignons (Sw), Paprikagemüse mit Mango und Kokosmilch",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-16",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (Gl)",
+		"Name": "Pasta Boscaiola mit Pilzen (2,3,8,Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-16",
 		"Additives": {
@@ -82,21 +81,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ungarisches Rindergulasch (9,La,Sw)",
-		"Category": "CampusSpezial",
-		"Date": "2023-11-16",
-		"Additives": {
-			"9": "Süßungsmittel",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.55,
-		"PriceGuest": 6.65,
-		"PriceStudent": 4.3,
-		"Beef": true
-	},
-	{
-		"Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl), Tomatensoße",
+		"Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
 		"Category": "CampusSpezial",
 		"Date": "2023-11-16",
 		"Additives": {
@@ -109,5 +94,21 @@
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Ungarisches Rindergulasch (9,La,Sw), Spätzle (Gl,Ei)",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-16",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Beef": true
 	}
 ]
