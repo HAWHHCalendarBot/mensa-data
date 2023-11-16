@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pasta Boscaiola mit Pilzen (Gl,La)",
+		"Category": "Pastabar",
+		"Date": "2023-11-17",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta Spinaci e olio d'oliva mit Spinat und Oliven (6,Gl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2023-11-17",
@@ -15,31 +28,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Carbonara mit Speck (2,3,8,Gl,La)",
+		"Name": "Hausgemachte Gemüselasagne (Gl,So,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-17",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Pig": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Eliche (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-11-17",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -103,9 +116,9 @@
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.5,
-		"PriceGuest": 7.7,
-		"PriceStudent": 5.2,
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
 		"Fish": true
 	}
 ]
