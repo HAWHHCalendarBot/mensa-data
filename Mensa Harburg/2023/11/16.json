@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "Bohnen, Gemüse Reis",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-16",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Gemüsebar des Tages",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-16",
@@ -11,11 +22,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
+		"Name": "gebratene Champignons, Schwarzwurzeln, gebratene Zucchini, Aubergine (Gl,Sw), Blumenkohl",
+		"Category": "Gemüsebar",
 		"Date": "2023-11-16",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,20 +36,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "vegane Pilzsoße (3,So), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-16",
 		"Additives": {
-			"4": "Geschmacksverstärker",
+			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"Poultry": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Süßkartoffel und Tofuragout in Sojasauce (Gl,So,Sl,Sw), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-16",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Gl,So,Sl,Sw)",

@@ -1,11 +1,13 @@
 [
 	{
-		"Name": "Rote Linsensuppe mit Gemüse &amp; Kichererbsen (Sl,Sw)",
+		"Name": "Linsen-Tomaten-Soße (1,Sl,Sf), Penne (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-17",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -14,7 +16,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkohl (Gl,Sl,Sf), Räuchertofu mit Sonnenblumenkernen (Gl,So), Röstkartoffeln",
+		"Name": "Grünkohl (Gl,So,Sl,Sf), Räuchertofu mit Sonnenblumenkernen (Gl,So), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-17",
 		"Additives": {
@@ -30,24 +32,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkohl (Gl,Sl,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-17",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.5,
-		"PriceStudent": 4.0,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Grünkohl (Gl,Sl,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+		"Name": "Grünkohl (2,3,8,Gl,Sl,Sf), Kasselernacken oder Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-17",
 		"Additives": {
@@ -64,5 +49,22 @@
 		"PriceStudent": 4.0,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Hähnchenbrust mit Tomaten &amp; Käse (So,La), Hollandaise (Ei,La,Sl,Sw), Gartengemüse, Kartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-17",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"Alcohol": true,
+		"Poultry": true
 	}
 ]
