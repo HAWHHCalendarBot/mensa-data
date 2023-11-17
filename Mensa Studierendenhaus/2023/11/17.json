@@ -14,22 +14,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Kartoffeln Provencial",
+		"Name": "glasierte rote Beete, Broccoli, Frühlingsgemüse (1), frisches Gemüse aus dem Wok (2,Gl,So), Spitzkohl in Rahm (So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-17",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
+		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Kartoffeln Provencial",
 		"Category": "Pastabar",
 		"Date": "2023-11-17",
 		"Additives": {
@@ -90,6 +91,19 @@
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
 		"Alcohol": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Hähnchenkeulensteak mit Gemüse und Hirtenkäse (9,La), Tomaten-Sahnesoße und Zucchini (La), Basmatireis",
+		"Category": "CampusVital",
+		"Date": "2023-11-17",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
 		"Poultry": true
 	},
 	{

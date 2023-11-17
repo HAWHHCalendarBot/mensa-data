@@ -1,12 +1,24 @@
 [
 	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (6,Sf), Eliche (Gl)",
+		"Name": "Pasta (Gl), Rindergulasch mit Paprika (La)",
 		"Category": "Pastabar",
 		"Date": "2023-11-17",
 		"Additives": {
-			"6": "Geschwärzt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Pasta (Gl), all`Provenzale mit Gemüse (Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-11-17",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -15,31 +27,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Carbonara mit Speck (2,3,8,Gl,La), Vollkorn Penne (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-17",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Pig": true
-	},
-	{
-		"Name": "glasierte rote Beete, Zuckerschoten (La), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (2,Gl,So,La), Gemüse Sesamreis (Se)",
+		"Name": "Broccoli, gebratene Zucchini, Käsespätzle mit Zwiebelschmelze (Gl,Ei,La), Hausgemachter Gemüsebratling (1,Gl,La,Sl,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-17",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
