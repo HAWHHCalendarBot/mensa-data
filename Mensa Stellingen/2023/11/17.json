@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Veganer Kokosmilch-Reis (So), Apfelmus (3), Zimt-Zucker",
+		"Category": "Pottkieker",
+		"Date": "2023-11-17",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.1,
+		"PriceGuest": 3.8,
+		"PriceStudent": 1.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Linsen-Tomaten-Soße mit Tofu (Gl,So,Sl), Penne (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-17",
@@ -15,47 +29,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkohl (Gl,So,Sl,Sf), Räuchertofu mit Sonnenblumenkernen (Gl,So), Röstkartoffeln",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-17",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.5,
-		"PriceStudent": 4.0,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Grünkohl (Gl,Sl,Sf), Kasselernacken (2,3), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-17",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.5,
-		"PriceStudent": 4.0,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Grünkohl (2,3,8,Gl,Sl,Sf), Kasselernacken oder Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-17",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -84,5 +63,23 @@
 		"PriceStudent": 4.0,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Hähnchen Cordon Bleu (2,Gl,La), Hollandaise (Ei,La,Sl,Sw), Gartengemüse, Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"Alcohol": true,
+		"Poultry": true
 	}
 ]
