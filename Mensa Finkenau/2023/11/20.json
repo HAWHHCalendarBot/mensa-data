@@ -1,35 +1,41 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-20",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Lupinenbolognese (Gl,La,Sl,Lu)",
 		"Category": "Pastabar",
 		"Date": "2023-11-20",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
+		"Name": "gerösteter Curry Madras-Blumenkohl (Sf), Süßkartoffeln, Kartoffelstampf (La,Sl), gebratene Bahrat-Zucchini (Se)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-20",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "orientalisches Gemüsecurry mit Reis (Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-20",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -38,11 +44,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La)",
+		"Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La,Sl)",
 		"Category": "CampusVital",
 		"Date": "2023-11-20",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.4,
 		"PriceGuest": 6.6,
@@ -50,11 +57,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Indischer Biryani mit Basmatireis (La)",
+		"Name": "Indischer Biryani mit Basmatireis (La,Se)",
 		"Category": "CampusWorld",
 		"Date": "2023-11-20",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 5.6,
 		"PriceGuest": 6.8,

@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Bunter Gemüsemix mit gelben Karotten, Zuckerschoten, Chili-Kartoffeln aus dem Ofen",
+		"Name": "Bunter Gemüsemix mit gelben Karotten, Zuckerschoten, Chili-Kartoffeln aus dem Ofen, Spanisches Pfannengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-20",
 		"Additives": {},
@@ -40,20 +40,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Chili sin carne (So,Sl)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-20",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 2.9,
-		"PriceGuest": 3.9,
-		"PriceStudent": 1.7,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-20",
@@ -68,7 +54,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pfannengemüse mit Kartoffeln und Quinoa (2,Gl,So), Tomaten-Paprika-Salsa (4)",
+		"Name": "Chili sin carne (So,Sl), Vollkornreis",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-20",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.65,
+		"PriceGuest": 4.75,
+		"PriceStudent": 2.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pfannengemüse mit Kartoffeln und Quinoa und Perlgraupen (2,Gl,So), Tomaten-Paprika-Salsa (4)",
 		"Category": "CampusSpezial",
 		"Date": "2023-11-20",
 		"Additives": {
@@ -94,5 +94,20 @@
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
 		"Poultry": true
+	},
+	{
+		"Name": "Ungarisches Rindergulasch (9,La,Sw), Nudeln (Gl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-11-20",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Beef": true
 	}
 ]
