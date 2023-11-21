@@ -1,17 +1,30 @@
 [
 	{
-		"Name": "Pasta Pennette (Gl), mit Rindfleisch-Bolognese mit Knoblauch und Tomate (Sl)",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-28",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-28",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
@@ -21,41 +34,30 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
-		"PriceGuest": 4.4,
+		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Sojagulasch mit Paprika und Champignons (So,Sl,Sw), Salzkartoffeln",
-		"Category": "CampusKlassiker",
+		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Bete (1,2,3,5,Gl,So,Sl,Se,Sw), Kirschtomaten-Konfit (1,5,Sw), Erbsen Dip (2,3,So,Sf)",
+		"Category": "CampusVital",
 		"Date": "2023-11-28",
 		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 3.5,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Burrito Bowl mit Sonnenblumenhack, Petersilie-Knoblauch Dip (3,Gl,Sl,Sf), Tomaten-Gurken-Salsa (3,5,Sw)",
-		"Category": "CampusVital",
-		"Date": "2023-11-28",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 8.6,
-		"PriceStudent": 4.3,
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -74,7 +76,7 @@
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.4,
-		"PriceGuest": 10.2,
+		"PriceGuest": 7.6,
 		"PriceStudent": 5.1,
 		"Fish": true,
 		"LactoseFree": true

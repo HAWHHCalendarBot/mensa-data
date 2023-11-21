@@ -1,15 +1,29 @@
 [
 	{
-		"Name": "Schupfnudeln mit Austernpilzen, Erbsen und Paprika (Gl,Ei,La)",
-		"Category": "Pastabar",
+		"Name": "Karotten (La), karamellisierte Schwarzwurzeln (La), Kohlrabi in Rahm (Gl,La), Süßkartoffel Gnocchi",
+		"Category": "Gemüsebar",
 		"Date": "2023-11-27",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Conchiglie (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-27",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
 	},
@@ -22,41 +36,24 @@
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
-		"PriceGuest": 4.4,
+		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
+		"Name": "Vegetarische Paella mit Quorn (Ei,Sl)",
 		"Category": "CampusVital",
 		"Date": "2023-11-27",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 8.0,
-		"PriceStudent": 4.0,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), veganes Tzatziki (So,Sf), Gemüsecouscous (Gl,Sl), Rotkrautsalat (3)",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-27",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 9.2,
-		"PriceStudent": 4.6,
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Dönerteller Geflügel mit Krautsalat (4,La,Sf,Sw), Tzatziki (La), Pommes Frites (Sf)",
@@ -69,7 +66,7 @@
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.8,
-		"PriceGuest": 11.0,
+		"PriceGuest": 8.0,
 		"PriceStudent": 5.5,
 		"Poultry": true
 	}
