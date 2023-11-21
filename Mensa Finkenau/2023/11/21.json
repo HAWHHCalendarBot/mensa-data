@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Süßkartoffeln, gebackene Aubergine (Se), Kräuterkartoffeln, Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-21",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-21",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,12 +13,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+		"Name": "Pasta mit Rataouillegemüse (Gl,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-21",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "LowBowl Szegediner Art mit Tofu (Gl,So,Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-21",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -38,11 +43,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsefrikadelle (Gl,Sl), Spitzkohl in veganem Rahm (So), veganes Kartoffelpüree (Gl)",
+		"Name": "Gemüsefrikadelle (Gl,Sl), Spitzkohl in veganem Rahm (So,Sl,Sf), veganes Kartoffelpüree (Gl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-21",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -70,13 +76,14 @@
 		"Pig": true
 	},
 	{
-		"Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (1,5,Sw), Tomatensoße, Couscous (Gl,Sl)",
+		"Name": "Rosmarinhuhn mit Paprika Kichererbsengemüse (1,5,Sw), Tomatensoße, Gewürzreis (Nu,Sl,Se)",
 		"Category": "CampusVital",
 		"Date": "2023-11-21",
 		"Additives": {
 			"1": "Farbstoff",
 			"5": "Geschwefelt",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},

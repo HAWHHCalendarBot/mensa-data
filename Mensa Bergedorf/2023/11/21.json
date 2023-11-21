@@ -1,10 +1,24 @@
 [
 	{
-		"Name": "Pasta Pollo all'Arrabbiata (Gl)",
+		"Name": "Pasta Contadino mit Putenfleisch und Zucchini (Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-21",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta Pollo all'India Style (Gl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2023-11-21",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -27,7 +41,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,Gl,So), Gartengemüse",
+		"Name": "Spanisches Pfannengemüse, gebratener Pak Choi (2,Gl,So), Pfannengemüse mit Quinoa (2,Gl,So), Röstkartoffeln Provencial",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-21",
 		"Additives": {
@@ -40,6 +54,22 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-11-21",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gemüsefrikadelle (Gl,Sl), Spitzkohl in veganem Rahm (So)",
