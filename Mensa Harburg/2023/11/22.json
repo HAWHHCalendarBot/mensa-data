@@ -1,18 +1,7 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Grünkern mit roter Beete (Gl)",
 		"Category": "Gemüsebar",
-		"Date": "2023-11-22",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
 		"Date": "2023-11-22",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
@@ -24,10 +13,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Ratatouille (Sl,Sw), Spitzkohl in Sojarahm (So), Gemüsereis",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-22",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schweinefleisch in Sahnesauce (La,Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-22",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -35,6 +40,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Pig": true
+	},
+	{
+		"Name": "Prinzessbohnen, gebratener Pak Choi (2,Gl,So), gebratene Champignons (Sw), Zuckerschoten, buntes Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-22",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",

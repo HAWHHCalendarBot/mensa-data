@@ -1,47 +1,33 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (Gl)",
+		"Name": "Pasta (Gl), Kräutersoße mit Hähnchenbruststreifen (Gl,So,La)",
 		"Category": "Pastabar",
 		"Date": "2023-11-22",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-22",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Gartengemüse, Schupfnudeln (Gl,Ei), Schwarzwurzeln in Rahm (Gl,La)",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-22",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Poultry": true
+	},
+	{
+		"Name": "Karotten natur, vegan, Broccoli, vegan, Röstkartoffeln, Curryreis mit Backfisch (Gl,Ei,Fi,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-22",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Fish": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (Gl,So,Sl,Sw)",
