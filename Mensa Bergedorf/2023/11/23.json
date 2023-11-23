@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Sl,Sf), buntem Gemüse",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-23",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Bolognese (Sl)",
+		"Name": "Pasta Bolognese (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-23",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -53,6 +42,22 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Bohnen in Rahm (La), Kartoffeln Provencial, gebackene Süßkartoffel, buntem Gemüse, Pfannengemüse Asia (2,Gl,So,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-23",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Minestrone (Gl,Sl,Sw), Ciabatta (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-23",
@@ -66,6 +71,21 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Texashacksteak (Gl,Ei), Auberginen-Zucchini Gemüse (Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-23",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.35,
+		"PriceGuest": 6.45,
+		"PriceStudent": 4.1,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "veganes Sandwich Banh Mi mit Gemüse und kleinem Salat (1,2,Gl,So,Sf,Se)",
@@ -87,7 +107,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putenschnitzel Piccata Milanese (Gl,Ei,La), Tomaten-Basilikumsoße",
+		"Name": "Seelachsfilet im Bierteig (Gl,Ei,Fi), Blattspinat in Rahm (Gl,La), Gemüsenudeln (Gl,Sl)",
+		"Category": "CampusWorld",
+		"Date": "2023-11-23",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Alcohol": true,
+		"Fish": true
+	},
+	{
+		"Name": "Putenschnitzel Piccata Milanese (Gl,Ei,La), Tomatennudeln (Gl)",
 		"Category": "CampusWorld",
 		"Date": "2023-11-23",
 		"Additives": {
@@ -95,9 +132,9 @@
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.15,
-		"PriceGuest": 7.25,
-		"PriceStudent": 4.9,
+		"PriceAttendant": 6.9,
+		"PriceGuest": 8.1,
+		"PriceStudent": 5.6,
 		"Poultry": true
 	}
 ]

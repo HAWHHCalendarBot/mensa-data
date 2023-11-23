@@ -1,19 +1,32 @@
 [
 	{
-		"Name": "Tex-Mex-Bohnen-Suppe mit Räuchertofu (2,Gl,So,Sl)",
+		"Name": "Vegane Kartoffelsuppe mit Gemüse &amp; Räuchertofu (Gl,So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-27",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schweinegeschnetzeltes in Pfefferrahmsoße (La), Penne-Nudeln (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-27",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Pig": true
 	},
 	{
 		"Name": "Tortellini mit Spinat-Ricotta-Füllung (Gl,Ei,La), Kirschtomatenragout (La), Rucola",
