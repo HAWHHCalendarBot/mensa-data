@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "gebratene Champignons (Sw), Brechbohnen, Gartengemüse, Karotten, buntes Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-23",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-23",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,20 +13,65 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Weißkohl in Sojarahm (So,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-23",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Crema di spinaci mit Spinat-Soja-Sahnesoße (So,Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-23",
 		"Additives": {
-			"4": "Geschmacksverstärker",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"Poultry": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grünkern-Bolognese (Gl,So,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-23",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Funghi mit Pilzen in Soja-Sahnesoße (3,Gl,So,Sl,Sw), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-23",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Minestrone (Gl,Sl,Sw), Ciabatta (Gl)",
