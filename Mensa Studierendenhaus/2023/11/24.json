@@ -16,14 +16,33 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Salsiccia e lenticchie mit Wurst und Belugalinsen (2,3,8,So,La,Sl,Sf), Strozzapreti (Gl)",
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Bulgur (Gl,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Salsiccia e lenticchie mit Wurst und Belugalinsen (2,3,8,So,La,Sl,Sf), Kartoffelgratin (Ei,La)",
 		"Category": "Pastabar",
 		"Date": "2023-11-24",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Ei": "Ei und Eierzeugnisse",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -34,27 +53,6 @@
 		"PriceStudent": 0.75,
 		"Beef": true,
 		"Pig": true
-	},
-	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (La,Nu), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,Gl,So,Se), Kartoffelgratin (Ei,La)",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-24",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf), Reis",
@@ -74,7 +72,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rote Beete Gnocchi mit Grillgemüse und Hüttenkäse-Dip (La)",
+		"Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Rote Beete Gnocchi mit Grillgemüse und Schmand-Dip (La)",
 		"Category": "CampusVital",
 		"Date": "2023-11-24",
 		"Additives": {
@@ -83,6 +98,21 @@
 		"PriceAttendant": 5.4,
 		"PriceGuest": 6.6,
 		"PriceStudent": 4.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünkohl (Sl,Sf), vegetarische Bratwurst (Ei), Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-24",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
