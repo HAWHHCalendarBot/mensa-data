@@ -1,0 +1,93 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-06",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2023-12-06",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (La)",
+		"Category": "CampusVital",
+		"Date": "2023-12-06",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
+		"Category": "CampusWorld",
+		"Date": "2023-12-06",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Basil Burger mit pikanter Thai Mayo (2,3,Gl,Ei,Fi,La,Nu,Sf,Se,Lu), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"Beef": true,
+		"Fish": true
+	}
+]

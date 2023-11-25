@@ -1,0 +1,65 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-08",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl Korma, Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-12-08",
+		"Additives": {},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schweinefiletmedaillons, Chimichurri (3), gebratene Karotten, gebratene Drillinge",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-08",
+		"Additives": {
+			"3": "Antioxidationsmittel"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"LactoseFree": true,
+		"Pig": true
+	}
+]
