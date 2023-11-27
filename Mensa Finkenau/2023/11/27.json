@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Pasta mit Rataouillegemüse und Hirtenkäse (Gl,Sl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-27",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Spitzkohl in veganem Rahm (So), Kräuterkartoffeln, Ratatouille (Sl), Kürbisgemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-27",
@@ -26,6 +12,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit Rataouillegemüse und Hirtenkäse (Gl,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-27",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kochwurst (2,3,4,8,Sf)",
