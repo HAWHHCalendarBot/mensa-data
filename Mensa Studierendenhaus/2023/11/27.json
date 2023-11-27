@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
+		"Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Süßkartoffel Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2023-11-27",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -29,19 +28,22 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Karotten (La), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (La), Kohlrabi in Sojarahm (Gl,So,La), Süßkartoffel Gnocchi",
+		"Name": "Ingwermöhrchen mit Sesam (Se), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln, Kohlrabi in Sojarahm (Gl,So), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-27",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw)",
