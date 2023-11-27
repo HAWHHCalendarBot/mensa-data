@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), Rosenkohl",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-27",
-		"Additives": {
-			"1": "Farbstoff",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-27",
@@ -36,6 +22,41 @@
 			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Sojageschnetzeltes in Currysoße (3,Gl,So,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2023-11-27",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "pikantes Grillgemüse (Sl), Auberginen-Zucchini Gemüse (Sw), Rosenkohl (2,Ei,La,48)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,

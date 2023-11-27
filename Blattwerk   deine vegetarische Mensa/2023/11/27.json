@@ -1,11 +1,24 @@
 [
 	{
-		"Name": "Giardinera mit Gemüse in Tomatensoße (Sl), Spaghetti (Gl)",
+		"Name": "Giardinera mit Gemüse in Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-27",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-27",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -28,19 +41,23 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Soia e Porri mit Lauch und Sojasahne (So,Sl), Spaghetti (Gl)",
-		"Category": "Pastabar",
+		"Name": "Asiatischer Nudelsalat mit Frühlingsrolle (2,3,5,Gl,Ei,So,Sw)",
+		"Category": "CampusWorld",
 		"Date": "2023-11-27",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
+		"PriceAttendant": 4.45,
+		"PriceGuest": 5.65,
+		"PriceStudent": 3.15,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tofu süß sauer mit verschiedenen Gemüse (2,3,5,9,Gl,So,Sf,Sw), Reis",
@@ -61,34 +78,6 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gebratene Schupfnudeln mit Rosmarin (Gl), Gartengemüse (Sl), Kräutersoße (Gl,La)",
-		"Category": "CampusSpezial",
-		"Date": "2023-11-27",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.95,
-		"PriceGuest": 6.15,
-		"PriceStudent": 3.65,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Gebratene Schupfnudeln mit Rosmarin (Gl), Gartengemüse (Sl), Kräutersoße (Gl,La)",
-		"Category": "CampusSpezial",
-		"Date": "2023-11-27",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.95,
-		"PriceGuest": 6.15,
-		"PriceStudent": 3.65,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Gebratene Schupfnudeln mit Rosmarin (Gl), Gartengemüse (Sl), Kräutersoße (Gl,La)",

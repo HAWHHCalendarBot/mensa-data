@@ -1,49 +1,31 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-27",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-27",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-27",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Rataouillegemüse und Hirtenkäse (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-27",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Spitzkohl in veganem Rahm (So), Kräuterkartoffeln, Ratatouille (Sl), Kartoffelgratin (La)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-27",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kochwurst (2,3,4,8,Sf)",
@@ -63,10 +45,15 @@
 		"Pig": true
 	},
 	{
-		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw)",
+		"Name": "Sojageschnzeltes mit Mais,Kidneybohnen (3,So,Sl,Sf), Tortilla Chips",
 		"Category": "Pottkieker",
 		"Date": "2023-11-27",
-		"Additives": {},
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
@@ -124,26 +111,5 @@
 		"PriceStudent": 4.2,
 		"LactoseFree": true,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Bibimbap Bowl mit Sonnenblumenhack und Champignons (2,3,5,Gl,So,Sl,Sf,Se,Sw)",
-		"Category": "CampusWorld",
-		"Date": "2023-11-27",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 7.3,
-		"PriceStudent": 4.8,
-		"LactoseFree": true,
-		"Vegan": true
 	}
 ]
