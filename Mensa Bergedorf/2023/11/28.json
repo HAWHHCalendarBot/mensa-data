@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-28",
-		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta all`Provenzale mit Gemüse (Gl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-11-28",
@@ -25,6 +12,35 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Gl,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-28",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Gl,La,48)",
+		"Category": "Pastabar",
+		"Date": "2023-11-28",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
@@ -40,6 +56,26 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "pikantes Grillgemüse (Sl), Auberginen-Zucchini Gemüse (Sw), Rosenkohl (2,Ei,La,48), gebratenem Wirsing (Gl,So), Gemüsebulgur (Gl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",

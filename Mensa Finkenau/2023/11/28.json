@@ -1,40 +1,34 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kartoffeltaschen mit Kräuter Frischkäsefüllung (La), Grünkohl (Gl,Sl,Sf), Gartengemüse, gebackene Aubergine",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-28",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Gorgonzola und Spinat (Gl,La,Sl,48)",
 		"Category": "Pastabar",
 		"Date": "2023-11-28",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
-		"Category": "Pottkieker",
-		"Date": "2023-11-28",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 3.4,
-		"PriceGuest": 4.1,
-		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Vegetarische Paella mit Quorn (Ei,Sl)",

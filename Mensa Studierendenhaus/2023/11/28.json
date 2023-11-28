@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-28",
-		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-28",
@@ -27,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Strozzapreti (Gl)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Bratkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2023-11-28",
 		"Additives": {
@@ -40,6 +27,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (1), Kohlrabi in Sojarahm (1,Gl,So)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-28",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
