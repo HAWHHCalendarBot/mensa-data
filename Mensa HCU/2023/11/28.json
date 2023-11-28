@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "Karotten, Broccoli, Rote Bete, Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-28",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pasta Pennette (Gl), mit Rindfleisch-Bolognese mit Knoblauch und Tomate (Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-28",
@@ -14,6 +25,21 @@
 		"LactoseFree": true
 	},
 	{
+		"Name": "Sojagulasch mit Paprika und Champignons (So,Sl,Sw), Salzkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2023-11-28",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-11-28",
@@ -23,21 +49,6 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Sojagulasch mit Paprika und Champignons (So,Sl,Sw), Salzkartoffeln",
-		"Category": "CampusKlassiker",
-		"Date": "2023-11-28",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 3.5,
 		"LactoseFree": true,
 		"Vegan": true
 	},

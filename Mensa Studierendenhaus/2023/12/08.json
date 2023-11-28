@@ -42,5 +42,70 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Blumenkohl Korma, Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-12-08",
+		"Additives": {},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Spanische Albodigas, Tomaten Paprikasugo (Gl,So,Sw), Knoblauchsoße (Sf), Gemüse- Reis (Sl)",
+		"Category": "CampusVital",
+		"Date": "2023-12-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Walnuss-Senfsoße (3,5,Gl,La,Nu,Sl,Sf,Sw), Salatgarnitur mediterran (6)",
+		"Category": "CampusWorld",
+		"Date": "2023-12-08",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"6": "Geschwärzt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Vegetarian": true
 	}
 ]
