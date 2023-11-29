@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gebratene Zucchini, gebackene Aubergine, Gartengemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-29",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-29",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,7 +13,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",
+		"Name": "Pasta mit Babyspinat,Tomatenwürfel und Ziegenkäse (Gl,La,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-29",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kanarische Reis-Gemüsepfanne mit Karotten,Bohnen und Sellerie (Gl,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-29",
 		"Additives": {
@@ -39,7 +42,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putengulasch (Gl,La,Sl), Penne (Gl)",
+		"Name": "Putengulasch mit Paprika und Champignons (Gl,La,Sl), Penne (Gl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-29",
 		"Additives": {
@@ -69,22 +72,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), veganes Tzatziki (So,Sf), Gemüsecouscous (Gl,Sl), Rotkrautsalat (3)",
+		"Name": "Ägyptische Falafel mit Hummusfüllung (Gl,So,Sl,Se), Tzatziki (La), Gemüsecouscous (Gl,Sl), Rotkrautsalat (3)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-29",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pho GA, kräftiger Hühnereintopf mit gebackener Hähnchenkeule, frischem Gemüse und Reisnudeln (2,Gl,So,Sl,Se)",

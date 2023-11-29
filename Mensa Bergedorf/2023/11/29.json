@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pasta all`Amatriciana mit Rind und Tomaten (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-29",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
 		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-29",
@@ -31,22 +44,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-11-29",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
 		"Name": "Veganer Shepherd's Pie (Gl,So,Sl,Sf,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-11-29",
@@ -65,13 +62,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, gebratenem Wirsing (Gl,So)",
+		"Name": "spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratenem Wirsing (Gl,So), Gemüsecouscous (Gl,Sl), Pfannengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-29",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -82,11 +80,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",
+		"Name": "Pikanter Kartoffel-Bohneneintopf (Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-29",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},

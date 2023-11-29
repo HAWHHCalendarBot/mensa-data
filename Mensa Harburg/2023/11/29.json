@@ -1,18 +1,7 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Gemüse Bulgur (Gl)",
 		"Category": "Gemüsebar",
-		"Date": "2023-11-29",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
 		"Date": "2023-11-29",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
@@ -24,20 +13,46 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Blattspinat in veganen Rahm (So), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-29",
 		"Additives": {
-			"4": "Geschmacksverstärker",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl, Fingermöhrchen, Zuckerschoten, Ratatouille (Sl,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-29",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rinderbrust mit Gemüse (Sf), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-29",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true,
-		"Poultry": true
+		"LactoseFree": true
 	},
 	{
 		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",
