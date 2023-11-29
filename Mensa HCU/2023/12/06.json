@@ -1,5 +1,26 @@
 [
 	{
+		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Walnuss-Senfsoße (3,5,Gl,La,Nu,Sl,Sf,Sw), Salatgarnitur mediterran (6)",
+		"Category": "Pastabar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"6": "Geschwärzt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-06",
@@ -15,15 +36,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schweinefiletmedaillons, Chimichurri (3), gebratene Karotten, gebratene Drillinge",
-		"Category": "CampusSpezial",
+		"Name": "Grünkohl (Sl,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+		"Category": "CampusKlassiker",
 		"Date": "2023-12-06",
 		"Additives": {
-			"3": "Antioxidationsmittel"
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 11.0,
-		"PriceStudent": 5.5,
+		"PriceAttendant": 5.3,
+		"PriceGuest": 8.0,
+		"PriceStudent": 4.0,
+		"Beef": true,
 		"LactoseFree": true,
 		"Pig": true
 	}
