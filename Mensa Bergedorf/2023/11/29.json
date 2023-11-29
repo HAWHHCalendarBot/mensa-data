@@ -1,18 +1,18 @@
 [
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
-		"Category": "Gemüsebar",
+		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl)",
+		"Category": "Pastabar",
 		"Date": "2023-11-29",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true
 	},
 	{
 		"Name": "Pasta Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se)",
@@ -47,6 +47,41 @@
 		"Pig": true
 	},
 	{
+		"Name": "Veganer Shepherd's Pie (Gl,So,Sl,Sf,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-11-29",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, gebratenem Wirsing (Gl,So)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-29",
@@ -62,18 +97,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putengulasch (Gl,La,Sl)",
+		"Name": "Putengulasch (Gl,La,Sl), Spätzle (Gl,Ei)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-11-29",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Poultry": true
+	},
+	{
+		"Name": "Hausgemachte vegetarische Grünkohl-Lasagne (Gl,La,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-11-29",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.45,
-		"PriceGuest": 5.55,
-		"PriceStudent": 3.2,
-		"Poultry": true
+		"PriceAttendant": 5.4,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.1,
+		"Alcohol": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,Gl,So,La,Sl,Sf)",
