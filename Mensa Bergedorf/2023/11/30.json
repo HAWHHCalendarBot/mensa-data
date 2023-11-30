@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl",
-		"Category": "Gemüsebar",
-		"Date": "2023-11-30",
-		"Additives": {
-			"1": "Farbstoff"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Gl,La)",
+		"Name": "Pasta Pollo mit Hähnchen, Mais und Paprika (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-11-30",
 		"Additives": {
@@ -26,21 +13,71 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Pasta Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Gl,La,Sl)",
+		"Name": "Hausgemachte vegetarische Grünkohl-Nudelgratin (Gl,La,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-11-30",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Alcohol": true,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
+		"Name": "Pasta Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se)",
+		"Category": "Pastabar",
+		"Date": "2023-11-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta all`Amatriciana mit Speck und Tomaten (2,3,8,Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-11-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), Spitzkohl, Linsengemüse in Kokoscreme (Sl), Pfannengemüse, Steckrüben-Möhren Gemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2023-11-30",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastinaken-Gemüsesuppe mit Quinoa (Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2023-11-30",
 		"Additives": {
