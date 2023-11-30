@@ -1,19 +1,20 @@
 [
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), bunte Fusilli (Gl)",
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Tagliatelle (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-30",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+		"Name": "Crema di fagioli mit Bohnen, Gemüse und Basilikum (La,Sl), Tagliatelle (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-11-30",
 		"Additives": {
@@ -27,11 +28,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (La), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Gl,Ei,La)",
+		"Name": "Broccolipfanne, Maiskolben (La), Gemüse Reis mit Kibbelinge (Gl,Fi,La), Blumenkohl mit Hollandaise (Ei,La,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-11-30",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -39,7 +41,25 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Fish": true
+	},
+	{
+		"Name": "Vegane Maultaschen (Gl), Peperoni e gremolata Paprikagemüse, Olive und Kräuter (1,5,6,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-11-30",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"6": "Geschwärzt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
