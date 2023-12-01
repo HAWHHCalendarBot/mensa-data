@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Tomatensoße mit bunten Gemüsen (Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-01",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-01",
@@ -14,6 +28,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Paprika (1,5,Sw), Rosenkohl, Kohlrabi in Sojarahm (Gl,So), Karotten, Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-01",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Gl,Sf)",
@@ -46,11 +77,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mac and Cheese (1,Gl,La,Sl,Sf), Eisbergsalat mit Tomate (Sw)",
+		"Name": "Mac and Cheese (1,Gl,La,Sl,Sf), Eisbergsalat mit Tomate (1,5,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-01",
 		"Additives": {
 			"1": "Farbstoff",
+			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
