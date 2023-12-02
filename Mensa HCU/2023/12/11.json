@@ -1,0 +1,60 @@
+[
+	{
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,Gl,So,Sl,Sf), Penne (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-11",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tofu Gemüse Topf (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2023-12-11",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchen Tikka Masala mit Joghurt (La,Sf), Kräuterreis",
+		"Category": "CampusWorld",
+		"Date": "2023-12-11",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 6.8,
+		"PriceStudent": 3.4,
+		"Poultry": true
+	},
+	{
+		"Name": "Hirtenkäse mit mediterranem Gemüse (La), Fladenbrot (Gl,Se)",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-11",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 9.0,
+		"PriceStudent": 4.5,
+		"Vegetarian": true
+	}
+]
