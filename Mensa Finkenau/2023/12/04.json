@@ -1,9 +1,14 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Gartengemüse (Sl), Sauerkraut (vegan) (Sl), Eerbsen, Brechbohnen mit Knoblauch und Sojasauce (2,Gl,So)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-04",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +16,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Babyspinat in Gorgonzolarahm (Gl,La,Sl,48)",
 		"Category": "Pastabar",
 		"Date": "2023-12-04",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (Gl,So,Sl)",
@@ -89,17 +97,19 @@
 		"Pig": true
 	},
 	{
-		"Name": "Hähnchenbrust im Knuspermantel (Gl), Joghurt-Zitronen-Dip (La), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
+		"Name": "Hähnchenbrust im Knuspermantel (Gl), Sojajoghurt-Zitronen-Dip (3,So), glasierte Honigmöhren, Gemüse Bulgur (Gl,Sl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-04",
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
 		"PriceGuest": 7.3,
 		"PriceStudent": 4.8,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
