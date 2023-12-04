@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw)",
+		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
 		"Category": "Pastabar",
 		"Date": "2023-12-14",
 		"Additives": {
@@ -27,7 +27,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kartoffeln Provencial, pikantes Grillgemüse (Gl,Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl)",
+		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Gl,Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-14",
 		"Additives": {
@@ -43,19 +43,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Köfte (Gl), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (La), Reis",
-		"Category": "CampusWorld",
+		"Name": "Erbsensuppe mit Räuchertofu (Gl,So,Sl)",
+		"Category": "Pottkieker",
 		"Date": "2023-12-14",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schupfnudeln mit Champignons, Wirsing und marinierten Tofuscheiben (2,Gl,So,Sf,Sw)",
+		"Category": "CampusVital",
+		"Date": "2023-12-14",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
-		"Beef": true
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
