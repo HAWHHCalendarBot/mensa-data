@@ -1,15 +1,48 @@
 [
 	{
-		"Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Basmatireis",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw), Vollkorn Penne (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Curry-Noodle Bowl Bangkok mit (2,Gl,So,Se), rote Currysoße (3,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2023-12-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2023-12-13",
 		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.4,
-		"PriceGuest": 7.6,
-		"PriceStudent": 5.1,
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Poultry": true
 	}

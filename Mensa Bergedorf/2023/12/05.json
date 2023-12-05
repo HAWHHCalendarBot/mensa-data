@@ -56,11 +56,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blattspinat mit Hirtenkäse (La), Kohlrabigemüse mit Schnittlauch (1), Alte Gemüsesorten Pastinaken, Sellerie, gelbe Karotten, Topinambur in Rahm (Gl,La,Sl), Nusskartoffeln",
+		"Name": "Pasta hausgemachtes Pesto Genovese (2,Gl,La)",
+		"Category": "Pastabar",
+		"Date": "2023-12-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Fenchelgemüse (Sl), Kohlrabigemüse mit Schnittlauch (1), Alte Gemüsesorten Pastinaken, Sellerie, gelbe Karotten, Topinambur in Rahm (Gl,La,Sl), Nusskartoffeln, vegetarischer Zwiebel-Zucchinikuchen (Gl,Ei,La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-05",
 		"Additives": {
 			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -103,6 +118,19 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Reis",
+		"Category": "CampusWorld",
+		"Date": "2023-12-05",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Basil Burger mit pikanter Thai Mayo (2,3,Gl,Ei,Fi,La,Nu,Sf,Se,Lu)",
