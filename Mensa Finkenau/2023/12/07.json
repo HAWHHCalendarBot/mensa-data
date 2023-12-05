@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-12-07",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
+		"Name": "Gartengemüse (Sl), Brechbohnen in Sojarahm (So,Sl), Sauerkraut (vegan) (Sl), Karotten",
+		"Category": "Gemüsebar",
 		"Date": "2023-12-07",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,

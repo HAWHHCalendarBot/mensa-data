@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Gartengemüse (Sl), Brechbohnen in Sojarahm (So,Sl), Sauerkraut (vegan) (Sl), Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-05",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +14,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Cherrytomaten und Pesto rosso (Gl,La,Nu,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-05",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Zartweizen-Tomatentopf mit Pilzen (Gl,Sl,Sw)",
@@ -37,6 +42,41 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Vegetarische Schöpf-Currywurst (9,Ei,Sl), Baguette (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-05",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.2,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Schöpf-Currywurst (3,4,8,9,Sl,Sf), Baguette (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-05",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.2,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (Gl,Ei,La), Kürbiscreme (3,So), Gurkensalat (La)",

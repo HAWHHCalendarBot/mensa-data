@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (Gl)",
+		"Category": "Pastabar",
 		"Date": "2023-12-12",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +14,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
+		"Name": "Brechbohnen, Zartweizen mit Gemüse (Gl,Sl), gebratener Pak Choi (2,Gl,So), Schupfnudeln (Gl)",
+		"Category": "Gemüsebar",
 		"Date": "2023-12-12",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -57,20 +63,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl), Wok-Gemüse, Reis",
-		"Category": "CampusWorld",
+		"Name": "Rinderroulade mit Rotweinsoße (Sf,Sw), Spitzkohl, Salzkartoffeln",
+		"Category": "CampusKlassiker",
 		"Date": "2023-12-12",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]
