@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pasta Aglio e olio mit Tomate und Knoblauch (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-05",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-05",
@@ -41,6 +54,40 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Blattspinat mit Hirtenkäse (La), Kohlrabigemüse mit Schnittlauch (1), Alte Gemüsesorten Pastinaken, Sellerie, gelbe Karotten, Topinambur in Rahm (Gl,La,Sl), Nusskartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Arcobaleno mit Putenbrust und Käse (1,2,3,8,Gl,La,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-12-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
 	},
 	{
 		"Name": "Zartweizen-Tomatentopf mit Pilzen (Gl,Sl,Sw)",
