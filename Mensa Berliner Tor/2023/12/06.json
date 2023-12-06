@@ -1,32 +1,33 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (La), Penne (Gl)",
+		"Name": "Pasta (Gl), Tomatensoße",
 		"Category": "Pastabar",
 		"Date": "2023-12-06",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (La), Prinzessbohnen, Gnocchi",
+		"Name": "Broccoli und Blumenkohl, vegan (Sl), gebratene Zucchini, vegan, Grünkern-Bolognese mit Reis, vegan (Gl,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-06",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (La,Sl), Penne (Gl)",
+		"Name": "Pasta (Gl), Kräuter-Rahmsoße (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-06",
 		"Additives": {
@@ -37,7 +38,7 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",

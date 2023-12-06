@@ -13,20 +13,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten, Mangold mit gerösteten Walnüssen (Nu), Prinzessbohnen",
-		"Category": "Gemüsebar",
-		"Date": "2023-12-06",
-		"Additives": {
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-06",
@@ -39,6 +25,24 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Ratatouille (Sl), Bratreis mit Ei und Gemüse (Ei), Mangold (2,Gl,So), Prinzessbohnen mit Pfifferlingen, indischer Weißkohl (Gl,So,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -74,6 +78,24 @@
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
 			"Sf": "Senf und Senferzeugnisse"
 		},
