@@ -1,16 +1,45 @@
 [
 	{
-		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Walnuss-Senfsoße (3,5,Gl,La,Nu,Sl,Sf,Sw)",
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Reis",
+		"Category": "Pastabar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Reis",
+		"Category": "Pastabar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-12-06",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -20,13 +49,29 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Zartweizen-Tomatentopf mit Pilzen (Gl,Sl,Sw)",
+		"Name": "Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Funghi mit Pilzen in Sahnesoße (3,Gl,La,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüsegulasch (Sl), Baguette (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-06",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -35,18 +80,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So), Vollkornreis",
-		"Category": "CampusVital",
+		"Name": "Gemüsegulasch (Sl), Baguette (Gl)",
+		"Category": "Pottkieker",
 		"Date": "2023-12-06",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.1,
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},

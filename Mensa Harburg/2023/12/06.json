@@ -1,21 +1,11 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Cremespinat (So,Sl), Fenchelgemüse, Zuckerschoten mit Mais",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-06",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-06",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,20 +14,57 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Orientalisches Kichererbsenragout mit Kokosmilch (2,5,Gl,Sl,Sw), Pasta nach Wahl (Gl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sojageschnetzeltes in Tomatensauce (3,So,Sl,Sf), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-06",
 		"Additives": {
-			"4": "Geschmacksverstärker",
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,La,Sl,Sw), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-06",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"Poultry": true
+		"Pig": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
