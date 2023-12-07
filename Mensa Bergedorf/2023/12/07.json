@@ -1,16 +1,30 @@
 [
 	{
-		"Name": "Pasta Boscaiola mit Pilzen (Gl)",
+		"Name": "Pasta Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-12-07",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Gl,Sl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-07",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
 		"Name": "Pasta Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Gl,La,Nu,Sl,48)",
@@ -23,6 +37,24 @@
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-12-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -48,12 +80,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Gl,Sl), Wrap (Gl)",
+		"Name": "Bohnen-Gemüsesuppe mit Kartoffeln und Tofu (Gl,So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-07",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -62,7 +95,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brasato vom Tafelspitz mit Lebkuchenjus (So,Sw), Apfel-Maronenrotkohl (3,5,La,Sw), Kräuterkartoffeln",
+		"Name": "Brasato von der Rinderhüfte mit Lebkuchenjus (So,Sw), Apfel-Maronenrotkohl (3,5,La,Sw), Kräuterkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2023-12-07",
 		"Additives": {

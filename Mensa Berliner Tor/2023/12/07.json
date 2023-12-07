@@ -1,31 +1,45 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (Gl)",
+		"Name": "Pasta (Gl), Dillrahmsoße (Gl,La,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-12-07",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
+		"Alcohol": true,
+		"Vegetarian": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (La,Nu,Sl,48), Eliche (Gl)",
+		"Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-07",
 		"Additives": {
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Gl,Ei,So,La,Sf,Sw), grüne Kokos-Curry-Soße, scharf",
+		"Category": "Pastabar",
+		"Date": "2023-12-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -33,16 +47,16 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,Gl,So,Sw), Kohlrabigemüse (La), Spitzkohl in Rahm (La), Petersilienkartoffeln",
+		"Name": "Knoblauch Zucchini aus dem Ofen (1,5,Sw), Kartoffeltwister (Gl), Curryreis (Sf), Auberginen mit Tomaten (La,Nu,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-07",
 		"Additives": {
 			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
