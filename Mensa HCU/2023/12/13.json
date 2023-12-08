@@ -30,5 +30,52 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Tagliatelle mit Kürbiscreme und gerösteten Kürbiskerne (Gl,So,Sl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.6,
+		"PriceStudent": 2.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Orientalische Steckrübe mit Möhren, Aioli mit Walnuß (Nu,Sf), Gemüse Bulgur (Gl,Sl)",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Ungarisches Rindergulasch (9,La,Sw), Spätzle (Gl,Ei)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-13",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 10.0,
+		"PriceStudent": 5.0,
+		"Beef": true
 	}
 ]
