@@ -1,44 +1,48 @@
 [
 	{
-		"Name": "Broccoli natur, vegan, Käsespätzle mit Zwiebelschmelze (Gl,Ei,La), Gartengemüse, vegan (Sl)",
+		"Name": "Pasta (Gl), Tomatensoße",
+		"Category": "Pastabar",
+		"Date": "2023-12-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (Gl), Champignons in Rahm (Gl,La,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-12-08",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Broccoli natur, vegan (1,5,Sw), Käsespätzle mit Zwiebelschmelze (Gl,Ei,La), Gartengemüse, vegan (Sl), Paprikareis",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-08",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-08",
 		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (6,Sf), Eliche (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-08",
-		"Additives": {
-			"6": "Geschwärzt",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",
