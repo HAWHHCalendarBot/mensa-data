@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Gemüsecouscous (Gl,Sl), Ägyptische Falafel (Gl), Maisgemüse (1), Vegane Kürbispfanne, Pfannengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-08",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +15,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Gemüsecurry mit Tofu (3,So,Sl,Sw), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-08",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
