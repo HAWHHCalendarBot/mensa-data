@@ -98,17 +98,36 @@
 		"Beef": true
 	},
 	{
-		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Gl,La)",
+		"Name": "Flammkuchen mit Truthahn Salami und frischen Tomaten (1,2,3,Gl,La)",
 		"Category": "CampusWorld",
 		"Date": "2023-12-13",
 		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.4,
-		"Vegetarian": true
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Poultry": true
+	},
+	{
+		"Name": "Frisch gebackener Flammkuchen mit Schmand. Speck und Zwiebeln (2,3,8,Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-12-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Pig": true
 	},
 	{
 		"Name": "Schupfnudeln mit Champignons, Wirsing und marinierten Tofuscheiben (2,Gl,So,Sf,Sw)",
@@ -126,5 +145,18 @@
 		"PriceStudent": 4.7,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Flammkuchen mit Rucola und geriebenen Hartkäse (Gl,La)",
+		"Category": "CampusWorld",
+		"Date": "2023-12-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
 	}
 ]
