@@ -1,0 +1,53 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-21",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-21",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsefrikadelle (Gl,Sl), veganes Kartoffelpüree (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-21",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Kartoffelpüree (La)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-21",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Pig": true
+	}
+]
