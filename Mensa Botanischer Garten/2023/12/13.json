@@ -1,17 +1,31 @@
 [
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw), Vollkorn Penne (Gl)",
+		"Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Basmatireis",
 		"Category": "Pastabar",
 		"Date": "2023-12-13",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Hähnchenbrust mit Kokos Currysoße (Gl,So), Basmatireis",
+		"Category": "Pastabar",
+		"Date": "2023-12-13",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (Gl,So,Sl)",
