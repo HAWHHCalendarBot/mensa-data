@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2023-12-11",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta Contadino mit Putenfleisch und Zucchini (Gl,Sl)",
+		"Name": "Pasta Contadino mit Rindfleisch und Paprika (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-11",
 		"Additives": {
@@ -23,8 +10,24 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Apfel-Maronenrotkohl (3,5,La,Sw), Kürbisgemüse, Chili-Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-11",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Alcohol": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw)",

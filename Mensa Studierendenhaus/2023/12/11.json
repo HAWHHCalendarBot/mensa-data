@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Pastabar",
 		"Date": "2023-12-11",
 		"Additives": {
@@ -11,20 +11,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Pig": true
-	},
-	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Erbsen (1), Glacierte Pastinaken mit Agavensirup, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2023-12-11",
-		"Additives": {
-			"1": "Farbstoff",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Gl,La,Sw), Gnocchi",
@@ -41,6 +27,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Erbsen (1), Fingermöhrchen mit Ingwer und Frühlingslauch (1,2,Gl,So), gebratene Zucchini, Orientalisches Linsengemüse (Sl), Kürbis",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-11",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tofu Gemüse Topf (So,Sl)",
