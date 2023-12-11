@@ -1,16 +1,17 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (La), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Blumenkohl, gebackene Aubergine (Gl,Sw), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-11",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Contadino mit Schweinefleisch (La,Sl), Pasta nach Wahl (Gl)",
@@ -27,7 +28,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Rinderbraten (La,Sl,Sw)",
+		"Name": "Rinderbraten in Soße (La,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2023-12-11",
 		"Additives": {
@@ -40,6 +41,21 @@
 		"PriceStudent": 0.75,
 		"Alcohol": true,
 		"Beef": true
+	},
+	{
+		"Name": "Soja Bolognese (So,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-11",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Sw), Pasta nach Wahl (Gl)",
@@ -56,6 +72,21 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Rotkohl (3,5,La,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-11",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tofu Gemüse Topf (So,Sl)",
