@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Pasta Pollo all'Arrabbiata (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-12",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
 		"Name": "Pasta Contadino mit Rindfleisch und Paprika (Gl,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-12",
@@ -25,6 +12,19 @@
 		"PriceStudent": 0.75,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta Pollo all' funghi (Gl,La)",
+		"Category": "Pastabar",
+		"Date": "2023-12-12",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
 	},
 	{
 		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Gl,Sw)",
@@ -70,6 +70,26 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Glasnudel Salat mit Sesam und Wakame (1,2,3,5,Gl,So,Se,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-12-12",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
