@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Gartengemüse (Sl), gebratene Karotten, Kräuterkartoffeln, Grünkohl (Gl,Sl,Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-13",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +15,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta in Gorgonzolarahm (Gl,La,Sl,48)",
 		"Category": "Pastabar",
 		"Date": "2023-12-13",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünkohl-Süßkartoffeltopf mit Erdnusssoße (2,Gl,En,So,Sl,Se,Sw)",
@@ -75,18 +82,5 @@
 		"PriceStudent": 4.9,
 		"Alcohol": true,
 		"Beef": true
-	},
-	{
-		"Name": "Schweinefiletmedaillons, Chimichurri (3), gebratene Karotten, gebratene Drillinge",
-		"Category": "CampusSpezial",
-		"Date": "2023-12-13",
-		"Additives": {
-			"3": "Antioxidationsmittel"
-		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 8.0,
-		"PriceStudent": 5.5,
-		"LactoseFree": true,
-		"Pig": true
 	}
 ]
