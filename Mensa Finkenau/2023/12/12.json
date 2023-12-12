@@ -1,21 +1,29 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-12-12",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta mit Cherrytomaten und Pesto rosso (Gl,La,Nu,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-12",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Karotten, Grünkohl (Gl,Sl,Sf), Bohnen (2,Gl,So), Gartengemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-12",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,12 +32,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Graupentopf mit Kartoffeln und Gemüse (Gl,Sl,Sw)",
+		"Name": "veganes irisches Stew mit Weißkohl,Karotten,Kartoffeln und Räuchertofu (Gl,So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-12",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
@@ -57,13 +66,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl), Wok-Gemüse, Reis",
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl,Se), Wok-Gemüse, Reis",
 		"Category": "CampusWorld",
 		"Date": "2023-12-12",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -74,14 +84,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Gl,Fi), Blattspinat in Rahm (Gl,La,Sf), Salzkartoffeln",
+		"Name": "Gebratenes Seelachsfilet (Gl,Fi), Blattspinat in Rahm (Gl,La,Sl,Sf), Salzkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2023-12-12",
 		"Additives": {
 			"Fi": "Fisch und Fischerzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.3,
 		"PriceGuest": 7.5,
