@@ -1,37 +1,22 @@
 [
 	{
-		"Name": "Pasta Frutti di mare mit Kirschtomaten und Basilikum (Kr,Sl,Wt), Spaghetti (Gl)",
+		"Name": "Pasta Penne (Gl), \"a la Don Pepe\" mit Seelachs und Spinat in Sahnesoße (Gl,Fi,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-12",
 		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Kr": "Krebstiere und Krebstiererzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true
+		"Fish": true
 	},
 	{
-		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
-		"Category": "Pottkieker",
-		"Date": "2023-12-12",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 3.4,
-		"PriceGuest": 4.4,
-		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,Gl,En,So,Sl), Wok-Gemüse, Reis",
-		"Category": "CampusWorld",
+		"Name": "Soja-Geschnetzeltes mit Gemüse mit Erdnusssoße (2,Gl,En,So,Sl), Reis",
+		"Category": "Pastabar",
 		"Date": "2023-12-12",
 		"Additives": {
 			"2": "Konservierungsstoff",
@@ -40,9 +25,9 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.8,
-		"PriceGuest": 9.0,
-		"PriceStudent": 4.5,
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
 	},
