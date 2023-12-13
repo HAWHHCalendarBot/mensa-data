@@ -1,21 +1,21 @@
 [
 	{
-		"Name": "Gartengemüse (Sl), gebratene Karotten, Kräuterkartoffeln, Grünkohl (Gl,Sl,Sf)",
+		"Name": "Gartengemüse (Sl), Karotten, Rosenkohl (La), Grünkohl (Gl,Sl,Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-13",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta in Gorgonzolarahm (Gl,La,Sl,48)",
+		"Name": "Pasta Mac &amp; Cheese (Gl,La,Sl,48)",
 		"Category": "Pastabar",
 		"Date": "2023-12-13",
 		"Additives": {
@@ -31,10 +31,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Tofu Gemüse Topf (So,Sl)",
+		"Name": "Soja Gemüse Curry (En,So,Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-13",
 		"Additives": {
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},

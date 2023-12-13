@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw), Vollkorn Penne (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-13",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Bolognese (Sl), Vollkorn Penne (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-13",
@@ -12,20 +23,6 @@
 		"PriceStudent": 0.75,
 		"Beef": true,
 		"LactoseFree": true
-	},
-	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw), Vollkorn Penne (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-13",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
@@ -130,11 +127,12 @@
 		"Pig": true
 	},
 	{
-		"Name": "Schupfnudeln mit Champignons, Wirsing und marinierten Tofuscheiben (2,Gl,So,Sf,Sw)",
+		"Name": "Spätzle mit Champignons, Wirsing und marinierten Tofuscheiben (2,Gl,Ei,So,Sf,Sw)",
 		"Category": "CampusVital",
 		"Date": "2023-12-13",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
@@ -144,7 +142,7 @@
 		"PriceGuest": 7.2,
 		"PriceStudent": 4.7,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Flammkuchen mit Rucola und geriebenen Hartkäse (Gl,La)",
