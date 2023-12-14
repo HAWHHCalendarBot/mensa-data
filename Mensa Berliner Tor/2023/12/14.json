@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-14",
 		"Additives": {
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,13 +14,13 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Gl,La), Noci di zucchine mit Zucchini-Walnusssoße (Gl,La,Nu)",
+		"Name": "Pasta (Gl), Kokos-Currysoße (La,Sf)",
 		"Category": "Pastabar",
 		"Date": "2023-12-14",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Nu": "Schalenfrüchte (z.B. Mandel, Haselnüsse, Walnuss etc.)/-erzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -27,12 +28,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Gl,Sl,Sf), Edamame (So), Bulgur mit Tomate und Peperoni (Gl,Sl)",
+		"Name": "Baby Möhrchen mit Sesam (Sl,Se), Kroketten (Gl), Blumenkohl, Bratnudeln mit Gemüsestreifen, vegan (2,Gl,So,Se)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-14",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sf": "Senf und Senferzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
