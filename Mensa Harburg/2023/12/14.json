@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Prinzessbohnen, gebratene Zucchini, Fingermöhrchen glasiert, Gartengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-14",
 		"Additives": {},
@@ -11,11 +11,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "all`Arrabbiata mit scharfer Tomatensoße (Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-14",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,20 +25,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Pasta nach Wahl (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-14",
 		"Additives": {
-			"4": "Geschmacksverstärker",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
+		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "veganer Cremespinat (So,Sl), Pasta nach Wahl (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-14",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (Gl,So,Sl)",
@@ -121,20 +136,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "hausgemachte Köfte mit Hirtenkäsefüllung (Gl,Ei,La), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (La), Reis",
-		"Category": "CampusWorld",
+		"Name": "Schweinefilet im Stück gebraten, Dijon-Senfsoße (Gl,La,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
 		"Date": "2023-12-14",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 6.4,
-		"PriceGuest": 7.6,
-		"PriceStudent": 5.1,
-		"Beef": true
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Pig": true
+	},
+	{
+		"Name": "Putensteak frisch gegrillt, Dijon-Senfsoße (Gl,La,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-14",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Poultry": true
 	}
 ]
