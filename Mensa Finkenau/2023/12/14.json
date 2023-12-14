@@ -1,21 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Karotten (Se), Kräuterkartoffeln, Gartengemüse (Sl), Grünkohl (Gl,Sl,Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-14",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-14",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,11 +16,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (Gl,So,Sl)",
+		"Name": "Pasta mit Spinat in Gorgonzolarahm (Gl,La,Sl,48)",
+		"Category": "Pastabar",
+		"Date": "2023-12-14",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüse-Sojagoulasch (2,Gl,En,So,Sl,Se), Reis",
 		"Category": "Pottkieker",
 		"Date": "2023-12-14",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -37,6 +48,25 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schwedische Köttbullar (Gl,Ei), Apfelrotkohl (3,5,Gl,Sw), Kartoffelpüree (La), Rahmsoße (Gl,La,Sl)",
+		"Category": "CampusWorld",
+		"Date": "2023-12-14",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.5,
+		"PriceStudent": 3.0,
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Indisches Buttercurry (La), mariniertes Quorn (Ei,La), Basmatireis",
@@ -52,13 +82,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchen Crossies (Gl), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Name": "Hähnchen Crossies (Gl), BBQ Soße (2,9,Sl,Sf), Perlgraupen (Se)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-14",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"9": "Süßungsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -69,7 +100,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "XXL Rindfleischburger mit Guacamole,Cheddar und Rucola (1,3,Gl,La,Sf), Kartoffeltwister (Gl)",
+		"Name": "XXL Rindfleischburger mit Guacamole,Cheddar und Rucola (1,3,Gl,La,Sf), Kartoffelspalten (Gl)",
 		"Category": "CampusSpezial",
 		"Date": "2023-12-14",
 		"Additives": {
