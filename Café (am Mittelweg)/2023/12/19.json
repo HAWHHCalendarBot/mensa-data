@@ -1,7 +1,7 @@
 [
 	{
 		"Name": "Salatteller (Gl)",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
@@ -14,7 +14,7 @@
 	},
 	{
 		"Name": "Kartoffelgratin Broccoli (Ei,La)",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
@@ -27,7 +27,7 @@
 	},
 	{
 		"Name": "Kartoffelgratin mit Spinat und Hirtenkäse (Ei,La)",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
@@ -40,7 +40,7 @@
 	},
 	{
 		"Name": "Pomodoro Soße",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {},
 		"PriceAttendant": 4.6,
@@ -51,7 +51,7 @@
 	},
 	{
 		"Name": "Bolognese Soße (Gl,So,Sl)",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
@@ -66,7 +66,7 @@
 	},
 	{
 		"Name": "Flammkuchen Elsässer Art mit Speck, Zwiebeln und Schmand (2,3,Gl,La)",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {
 			"2": "Konservierungsstoff",
@@ -81,7 +81,7 @@
 	},
 	{
 		"Name": "Flammkuchen Griechische Art mit Peperoni und Hirtenkaese (2,3,5,Gl,La)",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {
 			"2": "Konservierungsstoff",
@@ -96,8 +96,27 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "scharfe Kokos-Limonen Suppe mit Udon-Nudeln (2,3,Gl,So,Sl,Se,Sw)",
+		"Category": "CampusVital",
+		"Date": "2023-12-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Gl,Ei,La,Sf,Sw,48)",
-		"Category": "Kartoffelgratin Broccoli (Ei,La)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2023-12-19",
 		"Additives": {
 			"2": "Konservierungsstoff",
@@ -114,5 +133,26 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 5.1,
 		"Poultry": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Gl,Fi), milde, Chipotlesoße (1,2,5,9,Gl,So,Sw), pikanter Karottensalat (3), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-19",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
