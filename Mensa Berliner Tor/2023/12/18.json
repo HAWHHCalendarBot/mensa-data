@@ -1,47 +1,49 @@
 [
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
-		"Category": "Pastabar",
+		"Name": "Kaisergemüsepfanne, vegan, Prinzessbohnen, vegan, Rosmarinkartoffeln, vegan, Linsen-Tomaten-Curry mit Reis, vegan (1,Sl,Sf)",
+		"Category": "Gemüsebar",
 		"Date": "2023-12-18",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"1": "Farbstoff",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Conchiglie (Gl)",
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Mi-Nudeln (Gl,Ei)",
 		"Category": "Pastabar",
 		"Date": "2023-12-18",
 		"Additives": {
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, Kohlrabi in Rahm (Gl,La)",
-		"Category": "Gemüsebar",
+		"Name": "Würzige Thai-Soja-Bolognese (2,Gl,So), Mi-Nudeln (Gl,Ei)",
+		"Category": "Pastabar",
 		"Date": "2023-12-18",
 		"Additives": {
-			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
