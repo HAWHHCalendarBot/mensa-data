@@ -1,11 +1,26 @@
 [
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw)",
-		"Category": "Gemüsebar",
+		"Name": "Mie-Nudeln mit Kurkuma und Gemüse (Gl,Ei)",
+		"Category": "Pastabar",
 		"Date": "2023-12-18",
 		"Additives": {
-			"1": "Farbstoff",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Chili sin carne (Gl,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2023-12-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -14,7 +29,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (La,Sl), Conchiglie (Gl)",
+		"Name": "Pasta Funghi di bosco e basilico mit Waldpilzen und Basilikum (Gl,La,Sw)",
+		"Category": "Pastabar",
+		"Date": "2023-12-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Saporita mit Rindfleisch und Paprika (Gl,La,Sl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-18",
 		"Additives": {
@@ -26,6 +55,21 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Auberginen-Zucchini Gemüse (Sw), Brechbohnen in Rahm (La), gerösteter Broccoli, Zartweizen mit Gemüse (Gl,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (La,48), Conchiglie (Gl)",

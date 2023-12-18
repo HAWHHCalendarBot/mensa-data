@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pasta Frutti di mare mit Kirschtomaten und Basilikum (Kr,Sl,Wt), Spaghetti (Gl)",
+		"Name": "Pasta Frutti di mare mit Kirschtomaten und Basilikum (Kr,Sl,Wt), mit Farfalle (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-18",
 		"Additives": {
@@ -13,5 +13,53 @@
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Asiatische schwarze Bohnenpfanne mit Wokgemüse (Gl,So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2023-12-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Spanische Albodigas, Tomaten Paprikasugo (Gl,So), Knoblauchsoße (Sf), Gemüse- Reis (Sl)",
+		"Category": "CampusVital",
+		"Date": "2023-12-18",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 6.6,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rinderschmorbraten mit Jus (So,Sw), Apfel-Maronenrotkohl (3,5,La,Sw), Kartoffelklöße",
+		"Category": "CampusWorld",
+		"Date": "2023-12-18",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 11.8,
+		"PriceStudent": 5.9,
+		"Alcohol": true,
+		"Beef": true
 	}
 ]
