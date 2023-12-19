@@ -1,11 +1,26 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (La), Bratkartoffeln",
+		"Name": "Bunte Gemüsepfanne mit Naturfiletstreifen (Ei,Sw), Reis",
+		"Category": "Pastabar",
+		"Date": "2023-12-19",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Broccoli natur, vegan, Tortellini mit Spinat Ricottafüllung (Gl,Ei,La), Karotten (La)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-19",
 		"Additives": {
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,33 +28,34 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-19",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Gl,La,Sl), Vollkorn Penne (Gl)",
+		"Name": "Kokos-Currysoße (3,La,Sf), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-19",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Rahmsoße mit Hähnchenbruststreifen (Gl,So,La,Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-19",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
 	},
 	{
 		"Name": "Chili con Corn (Gl,Sl), Basmatireis",
