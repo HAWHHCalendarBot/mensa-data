@@ -78,6 +78,21 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Pizza Hähnchengyros und Broccoli (1,Gl,La,Sf)",
+		"Category": "CampusWorld",
+		"Date": "2023-12-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 3.8,
+		"PriceGuest": 5.0,
+		"PriceStudent": 2.5,
+		"Poultry": true
+	},
+	{
 		"Name": "Paniertes Schweineschnitzel (Gl), Champignonrahmsoße (Gl,La,Sl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-20",
@@ -90,5 +105,19 @@
 		"PriceGuest": 5.05,
 		"PriceStudent": 2.7,
 		"Pig": true
+	},
+	{
+		"Name": "gebackenes Rotbarschfilet (Gl,Fi), Blattspinat in Rahm (Gl,La), Reis",
+		"Category": "CampusVital",
+		"Date": "2023-12-20",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"Fish": true
 	}
 ]
