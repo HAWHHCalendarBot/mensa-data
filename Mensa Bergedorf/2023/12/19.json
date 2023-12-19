@@ -1,12 +1,12 @@
 [
 	{
-		"Name": "Ratatouille (Sl,Sw), Brechbohnen in Rahm (La), gebratenem Wirsing, Süßkartoffeln",
+		"Name": "Sesammöhrchen (Se), Brechbohnen in Rahm (La), gebratenem Wirsing, Süßkartoffeln, Mexikanisches Gemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-19",
 		"Additives": {
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -103,5 +103,19 @@
 		"PriceStudent": 3.5,
 		"Pig": true,
 		"Poultry": true
+	},
+	{
+		"Name": "gebackenes Rotbarschfilet (Gl,Fi), Blattspinat in Rahm (Gl,La), Reis",
+		"Category": "CampusVital",
+		"Date": "2023-12-19",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"Fish": true
 	}
 ]
