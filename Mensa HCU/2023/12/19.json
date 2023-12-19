@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Ungarisches Rindergulasch (9,La,Sw), bunte Fusilli (Gl)",
+		"Name": "Ungarisches Rindergulasch (9,La,Sw), mit Pasta Conchiglie (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-19",
 		"Additives": {
@@ -13,5 +13,40 @@
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "All in one pot: Reis, Grünkohl-Hanf-Bratling, EisbergSalat, Birne, Gurke und Kürbischutney (2,Gl,So,Sf,Sw)",
+		"Category": "CampusVital",
+		"Date": "2023-12-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Steckrüben-Kartoffelmus mit Kochwurst und Senf (2,3,4,8,La,Sl,Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2023-12-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 8.8,
+		"PriceStudent": 4.4,
+		"Pig": true
 	}
 ]
