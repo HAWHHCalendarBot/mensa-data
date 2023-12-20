@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Rosenkohl, Kohlrabigemüse, Gartengemüse (Sl), Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-21",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
-		"Category": "Pastabar",
-		"Date": "2023-12-21",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,20 +13,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Gl,La,Sf)",
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-21",
 		"Additives": {
-			"4": "Geschmacksverstärker",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Gl,Fi,La,Sl), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-21",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"Poultry": true
+		"Fish": true
 	},
 	{
 		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
