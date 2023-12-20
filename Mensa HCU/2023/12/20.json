@@ -14,10 +14,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffel-Kürbis-Curry (Sl)",
+		"Name": "Kartoffel-Kürbis-Curry (Sl), Fladenbrot (Gl,Se)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-20",
 		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -27,8 +29,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel (Gl), veganes Tzatziki (So,Sf), Bulgur (Gl,Sl), Rotkrautsalat (3)",
+		"Name": "Chili con Carne mit Rindfleisch, Mais und Kidneybohnen (2), Reis, Creme Fraiche (La)",
 		"Category": "CampusKlassiker",
+		"Date": "2023-12-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 9.2,
+		"PriceStudent": 4.6,
+		"Beef": true
+	},
+	{
+		"Name": "Ägyptische Falafel (Gl), veganes Tzatziki (So,Sf), Bulgur (Gl,Sl), Rotkrautsalat (3)",
+		"Category": "CampusWorld",
 		"Date": "2023-12-20",
 		"Additives": {
 			"3": "Antioxidationsmittel",
@@ -37,9 +52,9 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 6.6,
-		"PriceStudent": 3.3,
+		"PriceAttendant": 5.9,
+		"PriceGuest": 9.2,
+		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Vegan": true
 	}

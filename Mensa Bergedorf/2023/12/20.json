@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pasta pollo mit Hähnchen und Mais (Gl,La)",
+		"Category": "Pastabar",
+		"Date": "2023-12-20",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
 		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-20",
@@ -15,7 +28,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se), Reis",
+		"Name": "Pasta Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se)",
 		"Category": "Pastabar",
 		"Date": "2023-12-20",
 		"Additives": {
@@ -62,22 +75,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So)",
-		"Category": "CampusVital",
-		"Date": "2023-12-20",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 3.65,
-		"PriceGuest": 4.75,
-		"PriceStudent": 2.4,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pizza Hähnchengyros und Broccoli (1,Gl,La,Sf)",
 		"Category": "CampusWorld",
 		"Date": "2023-12-20",
@@ -107,7 +104,23 @@
 		"Pig": true
 	},
 	{
-		"Name": "gebackenes Rotbarschfilet (Gl,Fi), Blattspinat in Rahm (Gl,La), Reis",
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,Gl,En,So)",
+		"Category": "CampusVital",
+		"Date": "2023-12-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.1,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebackenes Rotbarschfilet (Gl,Fi), Blattspinat in Rahm (Gl,La)",
 		"Category": "CampusVital",
 		"Date": "2023-12-20",
 		"Additives": {
@@ -115,9 +128,9 @@
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.6,
-		"PriceGuest": 7.8,
-		"PriceStudent": 5.3,
+		"PriceAttendant": 5.85,
+		"PriceGuest": 6.95,
+		"PriceStudent": 4.6,
 		"Fish": true
 	}
 ]
