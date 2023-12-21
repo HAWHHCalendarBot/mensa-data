@@ -1,27 +1,34 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2023-12-21",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta des Tages (Gl), Käsesoße \"Salsa al formaggio\" (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-12-21",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüse des Tages, Blumenkohl Tandori \"Cavolfiore Tandori\", Gemüsepatty (1,5,Gl,La,Sw), Weiße Bohnen in Rahm (So), Gartengemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-21",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Chili con Corn (Gl,Sl), Reis",
@@ -38,58 +45,59 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pulled Kasseler (2,3), Sauerkraut (vegan) (Sl), Rosmarinkartoffeln",
+		"Name": "Pulled Kasseler (2,3), Sauerkraut (vegan) (Sl), Rosmarinkartoffeln (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-21",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
-		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "Pulled Kasseler (2,3), Sauerkraut (vegan) (Sl), Rosmarinkartoffeln",
+		"Name": "Pulled Kasseler (2,3), Sauerkraut (vegan) (Sl), Rosmarinkartoffeln (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-21",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
-		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "Pulled Kasseler (2,3), Sauerkraut (vegan) (Sl), Rosmarinkartoffeln",
+		"Name": "Pulled Kasseler (2,3), Sauerkraut (vegan) (Sl), Rosmarinkartoffeln (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-21",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
-		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "Bratwurst, Apfelrotkohl (3,5,Sw), Kartoffelpüree (La)",
+		"Name": "Bratwurst, Bratensoße (Sl), Apfelrotkohl (3,5,Sw), Kartoffelpüree (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-21",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.2,
@@ -98,7 +106,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "vegetarische Bratwurst (Ei), Apfelrotkohl (3,5,Sw), Kartoffelpüree (La)",
+		"Name": "vegetarische Bratwurst (Ei), Bratensoße (Sl), Apfelrotkohl (3,5,Sw), Kartoffelpüree (La)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-21",
 		"Additives": {
@@ -106,6 +114,7 @@
 			"5": "Geschwefelt",
 			"Ei": "Ei und Eierzeugnisse",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.2,

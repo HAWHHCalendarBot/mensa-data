@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Spanisches Pfannengemüse, gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2023-12-21",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-21",
@@ -13,7 +24,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (La), Eliche (Gl)",
+		"Name": "Pasta pollo mit Hähnchen und Mais (Gl,La)",
 		"Category": "Pastabar",
 		"Date": "2023-12-21",
 		"Additives": {
@@ -26,28 +37,30 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (La,Sl), Eliche (Gl)",
+		"Name": "Pasta Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,Gl,So,Se)",
 		"Category": "Pastabar",
 		"Date": "2023-12-21",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
+		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (Gl)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-21",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -56,7 +69,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Hackbällchen in Tomatensugo (Gl,So,Sw), Vollkornnudeln (Gl)",
+		"Name": "vegane Hackbällchen in Tomatensugo (Gl,So,Sw), Penne (Gl)",
 		"Category": "CampusKlassiker",
 		"Date": "2023-12-21",
 		"Additives": {
@@ -79,9 +92,9 @@
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.15,
-		"PriceGuest": 6.25,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
 		"Poultry": true
 	}
 ]
