@@ -11,30 +11,74 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (Gl)",
+		"Name": "Pasta des Tages (Gl), Käsespätzle mit Zwiebelschmelze (Gl,Ei,La), Salsa al gorgonzola mit Gorgonzola-Sahnesoße (La,48)",
 		"Category": "Pastabar",
 		"Date": "2023-12-22",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+		"Name": "Vegane Erbsensuppe (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2023-12-22",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indisches rotes Linsencurry (Gl,Sf), Reis",
+		"Category": "Pottkieker",
+		"Date": "2023-12-22",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsefrikadelle (Gl,Sl), helle Gemüsesoße (Gl,La,Sl), Reis",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-22",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Soja Bolognese (So,Sl), Pasta (Gl)",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-22",
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
 		"LactoseFree": true,
 		"Vegan": true
 	}

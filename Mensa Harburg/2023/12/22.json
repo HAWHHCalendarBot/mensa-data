@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "gebratene Champignons (Sw), Kohlrabigemüse (1), Prinzessbohnen, gebratenes Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2023-12-22",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +14,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veg. Pastabar des Tages (Gl)",
+		"Name": "Soja Kokos Curry mit Bohnen (Gl,So,Sl), Pasta (Gl)",
 		"Category": "Pastabar",
 		"Date": "2023-12-22",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja-Kürbiscremesoße (3,So), Pasta (Gl)",
+		"Category": "Pastabar",
+		"Date": "2023-12-22",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
