@@ -29,13 +29,44 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Kohlroulade (La,Sf), Kümmelsoße (Sl), Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-21",
+		"Additives": {
+			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 8.0,
+		"PriceStudent": 4.0,
+		"Beef": true,
+		"Pig": true
+	},
+	{
+		"Name": "Vegetarisch gefüllte Kohlroulade (Gl,Ei,So), Kümmelsoße (Sl), Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2023-12-21",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 8.0,
+		"PriceStudent": 4.0,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
 		"Name": "Vegane Gnocchi mit Ratatouille und Rucola",
 		"Category": "CampusSpezial",
 		"Date": "2023-12-21",
 		"Additives": {},
-		"PriceAttendant": 6.9,
-		"PriceGuest": 11.2,
-		"PriceStudent": 5.6,
+		"PriceAttendant": 5.4,
+		"PriceGuest": 8.2,
+		"PriceStudent": 4.1,
 		"LactoseFree": true,
 		"Vegan": true
 	}
