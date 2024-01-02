@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Salatteller (Gl)",
+		"Name": "Salatteller (GlW)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-01-04",
 		"Additives": {
@@ -26,12 +26,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffelgratin Broccoli (Ei,La)",
+		"Name": "Kartoffelgratin Broccoli (Ei,Mi)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-01-04",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Ei": "Ei und Eierzeugnisse"
 		},
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.1,
@@ -39,12 +38,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffelgratin mit Spinat und Hirtenkäse (Ei,La)",
+		"Name": "Kartoffelgratin mit Spinat und Hirtenkäse (Ei,Mi)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-01-04",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Ei": "Ei und Eierzeugnisse"
 		},
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.1,
@@ -52,30 +50,33 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pomodoro Soße",
+		"Name": "Bolognese Soße (Sl,GlW)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-01-04",
-		"Additives": {},
+		"Additives": {
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.9,
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pomodoro Soße (1,GlW)",
+		"Category": "Food Angebot im Café Mittelweg",
+		"Date": "2024-01-04",
+		"Additives": {
+			"1": "Farbstoff",
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Bolognese Soße (Gl,So,Sl)",
-		"Category": "Food Angebot im Café Mittelweg",
-		"Date": "2024-01-04",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.2,
-		"PriceStudent": 3.9,
-		"Beef": true,
-		"LactoseFree": true
 	},
 	{
 		"Name": "Thüringer Bratwurst (8,Sl,Sf), Kartoffelsalat und grünen Bohnen (2,Sf)",
@@ -94,14 +95,13 @@
 		"Pig": true
 	},
 	{
-		"Name": "Flammkuchen Elsässer Art mit Speck, Zwiebeln und Schmand (2,3,Gl,La)",
+		"Name": "Flammkuchen Elsässer Art mit Speck, Zwiebeln und Schmand (2,3,Mi,GlW)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-01-04",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 4.9,
 		"PriceGuest": 5.5,
@@ -109,15 +109,14 @@
 		"Pig": true
 	},
 	{
-		"Name": "Flammkuchen Griechische Art mit Peperoni und Hirtenkaese (2,3,5,Gl,La)",
+		"Name": "Flammkuchen Griechische Art mit Peperoni und Hirtenkaese (2,3,5,Mi,GlW)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-01-04",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 5.8,
@@ -125,7 +124,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Gl,Ei,La,Sf,Sw,48)",
+		"Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Ei,Mi,Sf,Sw,48,GlW)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-01-04",
 		"Additives": {
@@ -135,7 +134,6 @@
 			"8": "Phosphat",
 			"Ei": "Ei und Eierzeugnisse",
 			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
-			"La": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
