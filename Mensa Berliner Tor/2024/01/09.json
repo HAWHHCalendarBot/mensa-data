@@ -7,7 +7,7 @@
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 2.3,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
 	},
@@ -16,11 +16,10 @@
 		"Category": "Pastabar",
 		"Date": "2024-01-09",
 		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 2.3,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
@@ -31,11 +30,10 @@
 		"Date": "2024-01-09",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
-		"PriceGuest": 2.3,
+		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
 	},
@@ -61,7 +59,6 @@
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -79,8 +76,7 @@
 		"Category": "CampusWorld",
 		"Date": "2024-01-09",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"3": "Antioxidationsmittel"
 		},
 		"PriceAttendant": 5.55,
 		"PriceGuest": 6.75,
@@ -94,8 +90,7 @@
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
+			"8": "Phosphat"
 		},
 		"PriceAttendant": 5.55,
 		"PriceGuest": 6.75,
@@ -112,7 +107,6 @@
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -123,6 +117,16 @@
 		"Beef": true
 	},
 	{
+		"Name": "Flammkuchen mit Chicken Asia Style (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-01-09",
+		"Additives": {},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Poultry": true
+	},
+	{
 		"Name": "Schweinenackensteak, Kräuterbutter (Mi), Brechbohnen, Bratkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-09",
@@ -131,17 +135,5 @@
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
 		"Pig": true
-	},
-	{
-		"Name": "Flammkuchen mit Chicken Asia Style (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-01-09",
-		"Additives": {
-			"Gl": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (z. B. Weizen, Roggen, Gerste etc.)"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
-		"Poultry": true
 	}
 ]
