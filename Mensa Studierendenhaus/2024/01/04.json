@@ -1,15 +1,5 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
-		"Date": "2024-01-04",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-01-04",
@@ -23,6 +13,18 @@
 		"Poultry": true
 	},
 	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Category": "Pastabar",
+		"Date": "2024-01-04",
+		"Additives": {
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl, Tahinisoße, Birne, Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa), Bulgur mit Tomate und Peperoni (Sl,GlW), Edamame (So)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-04",
@@ -30,6 +32,8 @@
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -90,7 +94,8 @@
 		"Category": "CampusWorld",
 		"Date": "2024-01-04",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 6.9,
 		"PriceGuest": 8.1,
