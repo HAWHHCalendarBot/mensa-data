@@ -12,19 +12,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-09",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true
-	},
-	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-09",
@@ -37,6 +24,21 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-09",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
@@ -79,6 +81,8 @@
 		"Date": "2024-01-09",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 5.9,
