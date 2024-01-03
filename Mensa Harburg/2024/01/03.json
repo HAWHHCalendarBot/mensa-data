@@ -1,42 +1,45 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
+		"Name": "Soja Kokos Curry mit Zucherschoten (So,Mi,Sl,GlW,GlG), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-03",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-03",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Champignons (Sw), Karottengemüse in Kräuterrahm (Mi,GlW), gerösteter Blumenkohl, Zwiebel-Paprika Gemüse, Couscous (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-03",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Mi,Sf,GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-03",
-		"Additives": {
-			"4": "Geschmacksverstärker",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (So,Sl,Sw,GlW)",
@@ -89,7 +92,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Bowl Prik Nahm Pla mit gebackenem Kabeljau in (2,3,Fi,So,Sw,GlW), Backteig Asia (GlW), Chili-Soja-Dressing (2,3,Fi,So,GlW)",
+		"Name": "Bowl Prik Nahm Pla mit gebackenem Seelachs in (2,3,Fi,So,Sw,GlW), Backteig Asia (GlW), Chili-Soja-Dressing (2,3,Fi,So,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-01-03",
 		"Additives": {

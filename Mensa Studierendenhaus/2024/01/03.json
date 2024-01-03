@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Bolognese (Sl), Süßkartoffelwürfel gebacken",
+		"Category": "Pastabar",
+		"Date": "2024-01-03",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-03",
 		"Additives": {
@@ -12,21 +25,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-03",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Sesammöhrchen (Se)",
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Sesammöhrchen (Se)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-03",
 		"Additives": {
@@ -86,6 +85,19 @@
 		"PriceStudent": 3.0,
 		"Beef": true,
 		"Pig": true
+	},
+	{
+		"Name": "Hausgemachte Pasta (GlW), Pollo all'Arrabbiata, Rucola, Cherrytomaten",
+		"Category": "CampusKlassiker",
+		"Date": "2024-01-03",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Hausgemachte Pasta (GlW), hausgemachtes Pesto Genovese (2,Mi), Rucola, Cherrytomaten",
