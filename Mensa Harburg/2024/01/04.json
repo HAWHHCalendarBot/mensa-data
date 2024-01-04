@@ -1,50 +1,58 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-01-04",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veg. Pastabar des Tages (GlW)",
+		"Name": "Hähnchenstreifen in pikanter Tomaten-Gemüsesoße (Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-04",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pastabar Fleisch oder Hähnchen des Tages (4,Mi,Sf,GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-04",
-		"Additives": {
-			"4": "Geschmacksverstärker",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
+		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
+		"Name": "Funghi mit Pilzen in Soja-Sahnesoße (3,So,Sl,Sw,GlW), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-04",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Karotten, gebratene Paprika (1,5,Sw), gebratenes Gemüse, pikanter Grünkern (So,GlD)",
+		"Category": "Gemüsebar",
+		"Date": "2024-01-04",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Minestrone (Sl,Sw,GlW), Baguette Brötchen (GlW,GlR)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-04",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlR": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -72,7 +80,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Champignonrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
+		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Pilzrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-04",
 		"Additives": {
