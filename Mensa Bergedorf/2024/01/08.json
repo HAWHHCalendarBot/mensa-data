@@ -1,17 +1,5 @@
 [
 	{
-		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Mi,Sl,GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-08",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true
-	},
-	{
 		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-08",
@@ -26,17 +14,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,48,GlW)",
+		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-08",
 		"Additives": {
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-08",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
 	},
 	{
 		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw)",
@@ -58,6 +60,7 @@
 		"Date": "2024-01-08",
 		"Additives": {
 			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -70,12 +73,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Fladenbrot (Se,GlW)",
+		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Reis",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-08",
 		"Additives": {
 			"4": "Geschmacksverstärker",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -92,6 +95,7 @@
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",

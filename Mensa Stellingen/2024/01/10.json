@@ -6,6 +6,7 @@
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"4": "Geschmacksverstärker",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -20,6 +21,8 @@
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-10",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
@@ -31,7 +34,9 @@
 		"Name": "Schweinenackensteak, Kräuterbutter (Mi), Brechbohnen, kleine Ofenkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-10",
-		"Additives": {},
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
@@ -45,6 +50,8 @@
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"6": "Geschwärzt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
