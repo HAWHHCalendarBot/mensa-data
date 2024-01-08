@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Pasta Conchiglie (GlW),  mit Gorgonzola und Zucchini und Aubergine (Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-01-08",
 		"Additives": {
@@ -13,12 +13,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw)",
+		"Name": "Veganer Erbseneintopf mit Kartoffel und Fladenbrot (So,Sl,Se,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-08",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -41,25 +43,23 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
+		"Name": "Vegetarisches Schnitzel in Knusperpanade (Ei,Mi,GlW,GlH), Kräutersoße (Mi,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-08",
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 9.2,
-		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 5.7,
+		"PriceGuest": 8.8,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
 	},
 	{
-		"Name": "Bibimbap Bowl mit Sonnenblumenhack und Champignons (2,3,5,So,Sl,Sf,Se,Sw,GlW)",
+		"Name": "Bibimbap Bowl mit Sojastreifen und Champignons (2,3,5,So,Sl,Sf,Se,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-01-08",
 		"Additives": {
