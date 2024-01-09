@@ -1,26 +1,25 @@
 [
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Pasta Pennette (GlW), mit Hähnchenstreifen ,Pilzen und Kräutern in Sahnesauce (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-09",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Poultry": true
 	},
 	{
-		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
+		"Name": "Veganes Sojagulasch mit Kartoffeln, Paprika und Pilzen (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-09",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -29,60 +28,48 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojagulasch mit Paprika und Champignons (So,Sl,Sw), Salzkartoffeln",
+		"Name": "Vegane Maultaschen (GlW), mit Tomatensoße, und Rucola",
 		"Category": "CampusVital",
 		"Date": "2024-01-09",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 3.5,
+		"PriceAttendant": 5.7,
+		"PriceGuest": 8.8,
+		"PriceStudent": 4.4,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Bete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen Dip (2,3,So,Sf)",
-		"Category": "CampusVital",
-		"Date": "2024-01-09",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 8.4,
-		"PriceStudent": 4.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Seelachsfilet in Kürbispanade (Ei,Fi,GlW), Kartoffel-Kürbis-Salat (3,5,Sl,Sf,Sw)",
+		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Vollkornreis, Rotkrautsalat (3)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-09",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
-			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.4,
-		"PriceGuest": 10.2,
-		"PriceStudent": 5.1,
-		"Fish": true,
-		"LactoseFree": true
+		"PriceAttendant": 5.9,
+		"PriceGuest": 9.2,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Frisch gerilltes Schweinenackensteak, Bratensoße (Sl), Brechbohnen, Kroketten (GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-09",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Pig": true
 	}
 ]

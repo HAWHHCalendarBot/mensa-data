@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen, gebratenem Wirsing, Blattspinat",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-09",
 		"Additives": {
@@ -11,6 +11,19 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Pollo mit Hähnchen und Spinat (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-09",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
 	},
 	{
 		"Name": "Pasta all`Provenzale mit Gemüse (Sw,GlW)",
@@ -27,10 +40,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Mi,Sl,GlW)",
+		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-01-09",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -54,10 +69,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putengulasch (Mi,Sl,GlW), Penne (GlW)",
+		"Name": "Putengulasch (Mi,Sl,GlW), Spätzle (Ei,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-09",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
