@@ -1,5 +1,21 @@
 [
 	{
+		"Name": "Pasta Penne (GlW), \"a la Don Pepe\" mit Wildlachs und Spinat in Sahnesoße (Fi,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-01-18",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Fish": true
+	},
+	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-18",
@@ -25,12 +41,26 @@
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.1,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 6.6,
+		"PriceStudent": 3.3,
 		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "vegetarischer Zwiebel-Kürbiskuchen (Ei,Mi,GlW), Schnittlauchdip (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-18",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 7.4,
+		"PriceStudent": 3.7,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Frisch gegrilltes Putensteak, mit Röstkartoffeln und Ofengemüse mit Schafskäse (Mi)",
@@ -39,9 +69,9 @@
 		"Additives": {
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 9.6,
-		"PriceStudent": 4.8,
+		"PriceAttendant": 7.1,
+		"PriceGuest": 11.6,
+		"PriceStudent": 5.8,
 		"Poultry": true
 	}
 ]

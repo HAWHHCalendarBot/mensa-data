@@ -1,16 +1,12 @@
 [
 	{
-		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Kürbiscreme (3,So), Gurkensalat (Mi)",
+		"Name": "Schupfnudeln mit Salbei, Champignons und Austernpilzen in Rahm (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-17",
 		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -31,6 +27,24 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Kürbiscreme (3,So), Gurkensalat (Mi)",
+		"Category": "CampusVital",
+		"Date": "2024-01-17",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 7.8,
+		"PriceStudent": 3.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünkohl (2,3,8,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
@@ -67,5 +81,21 @@
 		"Beef": true,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Orientalische Steckrübe mit Möhren, Aioli mit Walnuß (Sf,NWa), Gemüse Bulgur (Sl,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-17",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	}
 ]
