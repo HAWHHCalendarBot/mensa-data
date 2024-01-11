@@ -1,20 +1,5 @@
 [
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-11",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Steckrübeneintopf mit einem Brötchen (Sl,Sw,GlW,GlR)",
 		"Category": "CampusVital",
 		"Date": "2024-01-11",
@@ -31,12 +16,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "bockaufWOK..., Putengeschnetzeltes auf WOK-Gemüse Terrijaki (2,So,GlW), Curcumareis",
+		"Name": "bockaufWOK..., Putengeschnetzeltes auf WOK-Gemüse Terrijaki (2,So,Sl,GlW), Curcumareis",
 		"Category": "CampusWorld",
 		"Date": "2024-01-11",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
@@ -44,5 +30,20 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
+		"Category": "CampusVital",
+		"Date": "2024-01-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

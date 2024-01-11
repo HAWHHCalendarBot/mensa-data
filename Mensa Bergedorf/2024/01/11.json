@@ -13,6 +13,19 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Pasta Pollo mit Hähnchen (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
 		"Name": "Pasta Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-11",
@@ -33,6 +46,22 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-11",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -68,7 +97,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Grillgemüse Burger (3,Se,Sw,GlW,GlH)",
+		"Name": "Grillgemüse Burger (3,Se,Sw,GlW,GlH), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-11",
 		"Additives": {
@@ -76,11 +105,12 @@
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.25,
-		"PriceGuest": 6.35,
-		"PriceStudent": 4.0,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
 		"LactoseFree": true,
 		"Vegan": true
 	},
