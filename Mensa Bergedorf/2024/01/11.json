@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl",
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, gebratene Zucchini, spanisches Kartoffelgemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-11",
 		"Additives": {
@@ -55,32 +55,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl)",
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-11",
 		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.45,
-		"PriceGuest": 5.55,
-		"PriceStudent": 3.2,
-		"LactoseFree": true,
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
 		"Pig": true
-	},
-	{
-		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Reis",
-		"Category": "CampusSpezial",
-		"Date": "2024-01-11",
-		"Additives": {
-			"4": "Geschmacksverstärker",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.25,
-		"PriceGuest": 6.35,
-		"PriceStudent": 4.0,
-		"Poultry": true
 	},
 	{
 		"Name": "Grillgemüse Burger (3,Se,Sw,GlW,GlH)",
@@ -98,5 +83,22 @@
 		"PriceStudent": 4.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), dazu Fladenbrot (Se,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-11",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"Poultry": true
 	}
 ]
