@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
-		"Category": "Pastabar",
+		"Name": "Zucchini, gebraten, Grillgemüse mit Quinoa, Blumenkohl, Bratkartoffeln",
+		"Category": "Gemüsebar",
 		"Date": "2024-01-12",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -13,39 +11,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "Champignonrahmsoße (Mi,Sl,GlW), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-12",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), Kidneybohnen in Erdnußcreme, kandierte Chili Erdnüsse (2,En,So,GlW), gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9), spanisches Kartoffelgemüse",
-		"Category": "Gemüsebar",
+		"Name": "mediterrane Tomaten-Gemüsesoße (Mi,Sw,NCa), Pasta (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-01-12",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
