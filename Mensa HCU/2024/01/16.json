@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "tägliche Gemüseauswahl:, Gartenbohnen mit Pfifferlingen, glasierte Steckrüben und Möhren (Sl), gegrillte Maiskolben (1)",
+		"Category": "Pastabar",
+		"Date": "2024-01-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Käsespätzle mit Röstzwiebeln (Ei,Mi,GlW), und cremiger Käsesoße (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-16",
@@ -14,13 +28,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Zartweizen-Tomatentopf mit Pilzen (Sl,Sw,GlW)",
+		"Name": "Schwarze Bohnensuppe mit Tomate und Gemüse (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -29,41 +41,39 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Basil Burger mit pikanter Thai Mayo (2,3,Ei,Fi,Mi,Sf,Se,Lu,GlW,GlG,NCa), Pommes Frites (Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2024-01-16",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Lu": "Lupine und - erzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 11.0,
-		"PriceStudent": 5.5,
-		"Beef": true,
-		"Fish": true
-	},
-	{
-		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl, Sojajoghurt-Minz Dip (3,So)",
+		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl, Sojajoghurt-Kräuter Dip (3,So)",
 		"Category": "CampusVital",
 		"Date": "2024-01-16",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 7.1,
-		"PriceGuest": 11.6,
-		"PriceStudent": 5.8,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Basil Burger mit pikanter Thai Mayo (1,2,3,9,Ei,Mi,Sf,Lu,GlW,GlG), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 11.0,
+		"PriceStudent": 5.5,
+		"Beef": true
 	},
 	{
 		"Name": "Lachsfilet auf Kartoffel-Bouillongemüse (3,5,Fi,Sl,Sw,GlW), Petersilienpesto mit geräuchertem Knoblauch",
