@@ -1,20 +1,17 @@
 [
 	{
-		"Name": "Tagliatelle (GlW), Rindfleischstreifen Hot Spice (2,5,Sl,Sw)",
+		"Name": "Tagliatelle mit Rucola und Raddicchio (GlW), Lauch- Sojasahne (So)",
 		"Category": "Pastabar",
 		"Date": "2024-01-23",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
@@ -31,6 +28,58 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchen Tikka Masala mit Joghurt (Mi,Sf), Kräuterreis",
+		"Category": "CampusVital",
+		"Date": "2024-01-23",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 6.8,
+		"PriceStudent": 3.4,
+		"Poultry": true
+	},
+	{
+		"Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Ei,Mi,Sf,Se,Sw,GlW), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-01-23",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 8.0,
+		"PriceStudent": 4.0,
+		"Beef": true
+	},
+	{
+		"Name": "Wir kochen was Sie lieben..., Ramen mit Udon-Nudeln (2,3,So,Sl,Sw,GlW), Geräuchertes Tofusteak (So,GlW), gebratener Pak Choi mit Cashewkerne (2,So,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-23",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 11.8,
+		"PriceStudent": 5.9,
 		"LactoseFree": true,
 		"Vegan": true
 	}
