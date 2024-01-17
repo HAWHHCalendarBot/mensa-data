@@ -1,17 +1,47 @@
 [
 	{
-		"Name": "Schupfnudeln mit Salbei, Champignons und Austernpilzen in Rahm (Ei,Mi,GlW)",
+		"Name": "tägliche Gemüseauswahl:, Rosenkohl, buntem Gemüse, Zuckerschoten, glasiertes Wurzelgemüse (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-01-17",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), mit veganer Soja-Bolognese mit Gemüse und Kräutern (So)",
+		"Category": "Pastabar",
+		"Date": "2024-01-17",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kochwurst (2,3,4,8,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-01-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 2.15,
+		"PriceGuest": 2.3,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -29,21 +59,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Kürbiscreme (3,So), Gurkensalat (Mi)",
-		"Category": "CampusVital",
+		"Name": "Grünkohl (Sl,Sf), Salzkartoffeln",
+		"Category": "CampusKlassiker",
 		"Date": "2024-01-17",
 		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 7.8,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 4.0,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indisches Buttercurry (Mi), mariniertes Quorn (Ei,Mi), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2024-01-17",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 8.0,
+		"PriceStudent": 4.0,
 		"Vegetarian": true
 	},
 	{
@@ -81,5 +120,19 @@
 		"Beef": true,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Schupfnudeln mit Salbei, Champignons und Austernpilzen in Rahm (Ei,Mi,GlW), mit Rucola",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-17",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 10.8,
+		"PriceStudent": 5.4,
+		"Vegetarian": true
 	}
 ]
