@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-24",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
 		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-24",
@@ -42,6 +28,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Fi,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-01-24",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Fish": true
 	},
 	{
 		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
