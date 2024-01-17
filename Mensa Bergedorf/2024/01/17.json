@@ -14,12 +14,13 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen",
+		"Name": "Ratatouille (Sl), pikantes Grillgemüse (Sl,Sf,GlW), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-17",
 		"Additives": {
-			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -89,6 +90,19 @@
 		"PriceGuest": 6.7,
 		"PriceStudent": 4.2,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Hähnchen Drum Sticks auf Pfannengemüse, Ajvar Dip (Mi), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-01-17",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Poultry": true
 	},
 	{
 		"Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonnenblumenhack und Skyr (3,So,Sl,Sf,GlW)",
