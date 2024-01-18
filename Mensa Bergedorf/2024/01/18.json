@@ -3,9 +3,7 @@
 		"Name": "Pasta Boscaiola mit Pilzen und Speck (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-18",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -16,16 +14,29 @@
 		"Name": "Pasta Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,GlW,NHa)",
 		"Category": "Pastabar",
 		"Date": "2024-01-18",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonnenblumenhack (1,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-18",
 		"Additives": {
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
@@ -46,11 +57,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Ei,So,Mi,Sf,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Erbsensuppe (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-18",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -92,16 +120,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-18",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
+		"LactoseFree": true,
 		"Pig": true
 	}
 ]
