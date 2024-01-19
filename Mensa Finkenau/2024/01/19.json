@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kürbisgemüse, gebratene Karotten, gerösteter Blumenkohl (Se), Gartengemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-19",
-		"Additives": {},
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta mit pikanter Tomatensauce und Cherrytomaten (GlW)",
+		"Name": "Pasta mit pikanter Tomatensauce und Cherrytomaten (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-19",
 		"Additives": {
@@ -36,7 +39,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja Bolognese mit Gemüse (So,Sl), bunte Fusilli (GlW)",
+		"Name": "Soja Bolognese mit Gemüse (So,Sl), Pasta (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-01-19",
 		"Additives": {
@@ -68,16 +71,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Buttercurry (Mi), mariniertes Quorn (Ei,Mi), Basmatireis",
+		"Name": "Indisches Buttercurry, mariniertes Quorn (Ei), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2024-01-19",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Ei": "Ei und Eierzeugnisse"
 		},
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
 		"PriceStudent": 4.0,
+		"LactoseFree": true,
 		"Vegetarian": true
 	}
 ]
