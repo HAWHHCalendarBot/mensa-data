@@ -32,32 +32,34 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Arrabbiata Soße (GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-01-22",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.2,
-		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Gemüse-Bolognese (So,Sl,GlW)",
+		"Name": "Bolognese Soße (Sl,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-01-22",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pesto Rosso (Mi,GlW,NCa)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-01-22",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.9,
+		"Beef": true
 	},
 	{
 		"Name": "Schwarzwurzel Sesam Rösti mit Sour Cream (4,Ei,Mi,Sf,Se,GlW)",
@@ -112,23 +114,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Sweet Aloha Bowl mit frischen Hähnchenstreifen, Reisnudeln, Avocado, Erdnüsse, Honig Senf Dressing (2,3,Ei,En,So,Sf,Se,GlW)",
+		"Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (So,Sl,Sf,Se,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-01-22",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 7.6,
-		"PriceGuest": 8.2,
-		"PriceStudent": 6.9,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 6.6,
+		"PriceStudent": 5.3,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	}
 ]
