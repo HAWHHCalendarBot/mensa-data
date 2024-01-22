@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebackene Aubergine, Süßkartoffeln, Broccoli, gebratene Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-22",
 		"Additives": {},
@@ -11,25 +11,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Mais in Käsesahnesauce (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-01-22",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Tofu-Gemüse-Topf (So,Sl)",
+		"Name": "Tofu-Gemüse-Topf (2,5,So,Sl,Sf,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-22",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -38,12 +44,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Tikka Masala mit Joghurt (Mi,Sf), Kräuterreis",
+		"Name": "Hähnchen Tikka Masala mit Joghurt (Mi,Sl,Sf), Kräuterreis",
 		"Category": "CampusVital",
 		"Date": "2024-01-22",
 		"Additives": {
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.7,
 		"PriceGuest": 5.9,
@@ -65,13 +72,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Frisches Wokgemüse mit Erdnusssoße und Basmaitreis (2,En,So,Sl,Sw,GlW)",
+		"Name": "Frisches Wokgemüse mit Erdnusssoße und Basmaitreis (1,2,En,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-01-22",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -79,17 +88,20 @@
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratene Hähnchenstreifen mit frischem Wokgemüse, Erdnusssoße und Basmaitreis (2,En,So,Sl,Sw,GlW)",
+		"Name": "Gebratene Hähnchenstreifen mit frischem Wokgemüse, Erdnusssoße und Basmaitreis (1,2,En,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-01-22",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -97,6 +109,7 @@
 		"PriceAttendant": 6.5,
 		"PriceGuest": 7.7,
 		"PriceStudent": 5.2,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Poultry": true
 	}
