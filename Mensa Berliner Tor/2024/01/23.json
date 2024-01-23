@@ -1,46 +1,31 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-23",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-23",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Gebratene Aubergine, vegan, Grilltomate (Mi), Salzkartoffeln, Gemüse der Saison mit Hollandaise (Ei,Mi,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-23",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuter-Gemüserahmsoße (Mi,GlW,GlG), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-23",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
