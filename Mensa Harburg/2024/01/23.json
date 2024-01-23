@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Pollo all'Arrabbiata",
 		"Category": "Pastabar",
 		"Date": "2024-01-23",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -13,11 +11,10 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-01-23",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -88,6 +85,24 @@
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Currybratwurst (3,4,8,Sf), Pommes Frites (Sf), Grillsoße (9,Sl,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-01-23",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Kalter Teller, Fladenbrot mit veganen Pulled BBQ, Asiasauce, veganer Mayo, Rotkohl und Rucola (2,Sf,Se,GlW,GlH)",
