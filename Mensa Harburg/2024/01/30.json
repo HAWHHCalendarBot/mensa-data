@@ -72,21 +72,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-01-30",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.7,
-		"PriceGuest": 5.9,
-		"PriceStudent": 3.4,
-		"Pig": true
-	},
-	{
 		"Name": "scharfe Kokos-Limonen Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-01-30",
@@ -104,5 +89,19 @@
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Paniertes Putenschnitzel (GlW), Ratatouille (Sl), Rosmarinkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
