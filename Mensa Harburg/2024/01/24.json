@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-		"Category": "Gemüsebar",
+		"Name": "Pasta Funghi di bosco e basilico mit Waldpilzen und Basilikum (So,Sw)",
+		"Category": "Pastabar",
 		"Date": "2024-01-24",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -13,21 +12,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-24",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Don Pepe mit Räucherlachs und Spinat in Sahnesoße (Fi,Mi,Sl,GlW,GlG)",
@@ -46,16 +30,28 @@
 		"Fish": true
 	},
 	{
-		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
-		"Category": "Pottkieker",
+		"Name": "gerösteter Blumenkohl,,  frisches Wok Gemüse, (2,Sw), mediterranes Gemüse mit Kidneybohnen, (6), Süßkartoffelwürfel gebacken,,  Weizen-Gemüsepfanne mit Oliven (Sl,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-01-24",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
+			"6": "Geschwärzt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2024-01-24",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -100,7 +96,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "Bowl Tulum, geschmorte, magere Schweinshaxe, Schoko-Chilisoße, Wirsing Slaw, scharfe Gurken (1,2,3,5,9,Ei,So,Mi,Sf,Sw,GlW)",
+		"Name": "Bowl Tulum, geschmorte, magere Schweinshaxe, Schoko-Chilisoße, Wirsing Slaw, Gurken (1,2,3,5,9,Ei,So,Mi,Sf,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-24",
 		"Additives": {
