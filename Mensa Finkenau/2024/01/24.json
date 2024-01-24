@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Karotten mit Ingwer, Rosenkohl, Süßkartoffeln, gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-24",
 		"Additives": {},
@@ -11,17 +11,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Paprika-Tomatensauce und Hirtenkäse (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-24",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
@@ -71,21 +72,6 @@
 		"PriceGuest": 6.6,
 		"PriceStudent": 4.1,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
-		"Category": "CampusWorld",
-		"Date": "2024-01-24",
-		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Poultry": true
 	},
 	{
 		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Wok-Gemüse, Reis",
