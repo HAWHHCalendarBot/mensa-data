@@ -32,17 +32,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,GlW), Tomatensoße",
-		"Category": "CampusKlassiker",
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Penne (GlW), Sesammöhrchen (Se)",
+		"Category": "CampusWorld",
 		"Date": "2024-01-25",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"Beef": true
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Penne (GlW), Sesammöhrchen (Se)",
+		"Category": "CampusWorld",
+		"Date": "2024-01-25",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
