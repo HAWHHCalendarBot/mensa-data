@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Pasta Bolognese (Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-25",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
 		"Name": "Pasta Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-25",
@@ -29,7 +43,24 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl, Tahinisoße, Birne, Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa)",
+		"Name": "Pasta mit Soja-Geschnetzeltes in Erdnusssoße und Gemüse (2,En,So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-25",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl, Röstkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl, Tahinisoße, Birne, Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa), Sauerkraut (vegan) (Mi,Sl), Gemüse Korma",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-25",
 		"Additives": {
@@ -37,6 +68,7 @@
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
@@ -47,8 +79,7 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
@@ -62,23 +93,6 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2024-01-25",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.7,
-		"PriceGuest": 5.9,
-		"PriceStudent": 3.4,
 		"LactoseFree": true,
 		"Vegan": true
 	},
