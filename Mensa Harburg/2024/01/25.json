@@ -13,7 +13,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Nußsoße mit Basilikum (Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2024-01-25",
 		"Additives": {
@@ -28,20 +28,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl, Tahinisoße, Birne, Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa)",
+		"Name": "Bohnen-Blumenkohl-Gemüse (Sl), Chilikartoffeln,  pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl (2,So,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-25",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -68,21 +63,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
+		"Name": "All in one pot: Reisnudeln, gebackene Champignons, Salat, Erdnüsse, Apfel, Röstzwiebeln (1,2,3,9,Ei,En,So,Mi,Sf,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-25",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.7,
 		"PriceGuest": 5.9,
 		"PriceStudent": 3.4,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,GlW), Tomatensoße",

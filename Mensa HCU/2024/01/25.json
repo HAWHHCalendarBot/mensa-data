@@ -1,19 +1,22 @@
 [
 	{
-		"Name": "Pasta Penne in pikanter Tomatensauce mit Chorizo und Fenchel (GlW)",
+		"Name": "Pierogi mit Quarkfüllung (1,Ei,Mi,Sl,GlW), mit pikanter Tomatensauce mit Chorizo und Fenchel",
 		"Category": "Pastabar",
 		"Date": "2024-01-25",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Name": "Erbsensuppe mit Kartoffeln und Gemüse (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-25",
 		"Additives": {
@@ -64,7 +67,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften und Gorgonzolakäse (3,Ei,Mi,Sw,GlW), Pfeffer Knoblauchmayonaise (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
+		"Name": "Burger mit Blumenkohlbratling,Eisbergsalat, Karottenstiften (3,Ei,Mi,Sw,GlW), Gorgonzola-Knoblauchmayonaise (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-25",
 		"Additives": {
@@ -83,7 +86,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "hausgemachte Köfte mit Hirtenkäsefüllung (Ei,Mi,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (Mi), Reis",
+		"Name": "Rindfleisch-Köfte (Ei,Mi,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Hirtenkäse-Kräuterquark (Mi), pikanter Reis (Sl)",
 		"Category": "CampusWorld",
 		"Date": "2024-01-25",
 		"Additives": {
@@ -92,6 +95,7 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.4,
