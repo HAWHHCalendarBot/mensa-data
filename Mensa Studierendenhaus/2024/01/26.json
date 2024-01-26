@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (1,Ei,Mi,GlW), Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG)",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-26",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
@@ -33,14 +34,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Mais in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Bulgur mit Tomate und Peperoni (Sl,GlW), Pasta al forno della nonn",
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Mais in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Bulgur mit Tomate und Peperoni (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-26",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -50,7 +49,8 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Linsen-Chili mit Grünkern und Grünkohl (Sl,Sf,GlD)",
