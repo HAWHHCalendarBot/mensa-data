@@ -1,29 +1,11 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (1,Ei,Mi,GlW)",
+		"Name": "Pasta Spinaci (So,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-26",
 		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-26",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -33,31 +15,44 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Mais in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Gemüse Sesamreis (Se), Kartoffelgratin (Ei,Mi)",
+		"Name": "Bohnen, pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl mit Sesampaste (Se), Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-26",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schupfnudeln mit Champignons, Wirsing (1,2,So,Sf,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-26",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Linsen-Chili mit Grünkern und Grünkohl (Sl,Sf,GlD)",
+		"Name": "Linsen-Chili mit Grünkohl (Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-26",
 		"Additives": {
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -78,9 +73,26 @@
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Veganes Knusperschnitzel (GlW), Gurkensalat (3,5,Sw), Korianderdip (So)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-01-26",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.95,
+		"PriceGuest": 6.05,
+		"PriceStudent": 3.7,
 		"LactoseFree": true,
 		"Vegan": true
 	}
