@@ -1,13 +1,13 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (1,Ei,Mi,GlW)",
+		"Name": "Pasta al forno della nonna mit Käse überbacken (1,Ei,Mi,GlW), Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-01-26",
 		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -33,12 +33,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Mais in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW)",
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Mais in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Bulgur mit Tomate und Peperoni (Sl,GlW), Pasta al forno della nonn",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-26",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -48,8 +50,7 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Linsen-Chili mit Grünkern und Grünkohl (Sl,Sf,GlD)",
@@ -101,18 +102,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkern-Käse Medaillons (Ei,So,Mi,Se,GlW,GlD), Schnittlauchdip (Mi), Blechkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
+		"Name": "Hausgemachte Linsen Taler (GlW), Schnittlauchdip (Mi), Blechkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2024-01-26",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.9,

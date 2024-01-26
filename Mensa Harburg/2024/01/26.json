@@ -1,21 +1,20 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (1,Ei,Mi,GlW)",
+		"Name": "veganer überbackener Pastaauflauf al forno della nonna mit Pilzen (1,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-26",
 		"Additives": {
 			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Pasta Tomaten Soja Creme (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
+		"Name": "Pasta Tomaten Soja Creme (2,En,So,Sl,GlW,NMa)",
 		"Category": "Pastabar",
 		"Date": "2024-01-26",
 		"Additives": {
@@ -33,7 +32,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Mais in Tomatenrahm (2,So), gerösteter Rosenkohl Tahinisoße Birne und Haselnüsse (1,2,5,En,So,Se,Sw,GlW), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Kartoffelgratin (Ei,Mi)",
+		"Name": "Kohlrabi-Mais Gemüse (Mi), buntes Gartengemüse,  Rosenkohl in Erdnusssoße (1,2,5,En,So,Se,Sw,GlW), Grüne Bohnen (2,So,Se,GlW), Marinierter Tofu (2,So,GlW), Kartoffelgratin (Ei,Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2024-01-26",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kohlrabi-Mais Gemüse (Mi), buntes Gartengemüse,  Rosenkohl in Erdnusssoße (1,2,5,En,So,Se,Sw,GlW), Grüne Bohnen (2,So,Se,GlW), Marinierter Tofu (2,So,GlW), Kartoffelgratin (Ei,Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-26",
 		"Additives": {
