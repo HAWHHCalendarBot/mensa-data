@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Cherrytomaten und Kräuterpesto und Sonnenblumenkernen (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-01-29",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Röstkartoffeln, gebackene Aubergine (Sw,GlW), Erbsen, gerösteter Blumenkohl",
+		"Category": "Gemüsebar",
 		"Date": "2024-01-29",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,

@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Petersilie",
+		"Name": "Vegane Maultaschen mit Rucola (GlW), mit Ratatouille (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-01-29",
 		"Additives": {
@@ -13,6 +13,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "tägliches Gemüse:, glasiertes Wurzelgemüse (Sl), Blattspinat (Sl), buntem Gemüse, Maisgemüse (1,Mi), Tricolore Gemüse (Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-01-29",
+		"Additives": {
+			"1": "Farbstoff",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
@@ -28,7 +42,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,GlW), Vollkornreis",
+		"Name": "Grüne Gemüsepfanne mit Brokkoli, Edamame und Zuckerschoten, Erdnusssoße (2,En,So,GlW), Reis",
 		"Category": "CampusVital",
 		"Date": "2024-01-29",
 		"Additives": {
@@ -44,7 +58,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegane Köfte-Bowl (So,GlW,GlG), mit Reis, veganes Tzatziki (So,Sf), Tomatensalat mit Minze (3,5,Sw)",
+		"Name": "Vegane Köfte-Bowl (So,GlW,GlG), mit Reis, veganes Tzatziki (So,Sf), Tomatensalat mit Petersilie (3,5,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2024-01-29",
 		"Additives": {
@@ -61,5 +75,22 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Putenbraten mit Bratensauce (Sw), und \"Stuffing\" aus Weißbrot, getrockneten Aprikosen und Thymian (3,5,Mi,Sw,GlW), Rosenkohl, Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-29",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 11.8,
+		"PriceStudent": 5.9,
+		"Alcohol": true,
+		"Poultry": true
 	}
 ]
