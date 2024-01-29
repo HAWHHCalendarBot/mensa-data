@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2024-01-29",
-		"Additives": {
-			"1": "Farbstoff",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-29",
@@ -39,6 +25,24 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), Spanisches Pfannengemüse, Reisnudeln (Sl,Sf,Se,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-01-29",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
@@ -83,5 +87,17 @@
 		"PriceStudent": 4.4,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Putengyros, Tzatziki (Mi), Djuvecreis",
+		"Category": "CampusWorld",
+		"Date": "2024-01-29",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.05,
+		"PriceGuest": 7.15,
+		"PriceStudent": 4.8,
+		"Poultry": true
 	}
 ]

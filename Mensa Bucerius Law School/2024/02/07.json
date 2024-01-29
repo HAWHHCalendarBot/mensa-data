@@ -13,25 +13,10 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-07",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-07",
 		"Additives": {
-			"1": "Farbstoff",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -74,14 +59,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Crossies (GlW,GlG), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-02-07",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
 			"9": "Süßungsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -89,33 +75,6 @@
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-02-07",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.4,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2024-02-07",
-		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.3,
-		"PriceGuest": 7.5,
-		"PriceStudent": 5.0,
-		"Fish": true
+		"Pig": true
 	}
 ]

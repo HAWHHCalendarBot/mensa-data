@@ -1,22 +1,6 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Bunte Nudeln (GlW)",
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-08",
 		"Additives": {
@@ -31,7 +15,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), pikantes Grillgemüse (Sl,Sf,GlW), Spitzkohl in Rahm (So), Petersilienkartoffeln",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So)",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-08",
 		"Additives": {
@@ -39,8 +23,6 @@
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -67,19 +49,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Tom Kha Gai Suppe mit Tofu und Basmatireis (2,3,So,Sw,GlW)",
-		"Category": "CampusWorld",
+		"Name": "Wrap mit Glasnudeln und Sonnenblumenhack (1,2,So,Sl,Sf,Sw,GlW)",
+		"Category": "CampusVital",
 		"Date": "2024-02-08",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.3,
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -100,20 +84,5 @@
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Poultry": true
-	},
-	{
-		"Name": "bockaufWOK..,, Rind aus dem WOK mit frischen Gemüse (2,Sw), Szechuansoße (Se), Basmatireis",
-		"Category": "CampusWorld",
-		"Date": "2024-02-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"Beef": true,
-		"LactoseFree": true
 	}
 ]
