@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Broccoli, gebackene Aubergine, Prinzessbohnen, gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-01-30",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-01-30",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,7 +13,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Name": "Pasta mit Cherrytomaten und Pesto Rosso (Mi,GlW,NCa)",
+		"Category": "Pastabar",
+		"Date": "2024-01-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünkohl-Kichererbsencurry mit Sonnenblumenkernen (Sl,GlD)",
 		"Category": "Pottkieker",
 		"Date": "2024-01-30",
 		"Additives": {
@@ -34,23 +37,6 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Sojageschnetzeltes Stroganoff mit Waldpilzen (So,Sl,Sf,Sw), Röstiecken",
-		"Category": "CampusWorld",
-		"Date": "2024-01-30",
-		"Additives": {
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.8,
-		"PriceStudent": 3.3,
-		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -85,6 +71,21 @@
 		"PriceAttendant": 5.6,
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Petersilie",
+		"Category": "CampusSpezial",
+		"Date": "2024-01-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
 		"LactoseFree": true,
 		"Vegan": true
 	},
