@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
-		"Category": "Gemüsebar",
-		"Date": "2024-01-30",
-		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-30",
@@ -52,6 +39,21 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Möhrchen (Se), Spanisches Pfannengemüse, gebratenem Wirsing, Zucchini-Auberginegemüse mit Sesam-Hirtenkäse (Mi,Se,Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-01-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Linsen-Grünkohl-Topf (1,Sl,Sf,GlD), Reis",
