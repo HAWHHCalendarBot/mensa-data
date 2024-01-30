@@ -13,7 +13,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta all`Provenzale mit Gemüse (Sw,GlW)",
+		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-01-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pastataschen all`Provenzale mit Gemüse (Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-30",
 		"Additives": {
@@ -27,12 +40,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
+		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-30",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -43,11 +54,13 @@
 		"Beef": true
 	},
 	{
-		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Name": "Linsen-Grünkohl-Topf (1,Sl,Sf,GlD), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-01-30",
 		"Additives": {
+			"1": "Farbstoff",
 			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -55,20 +68,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (Mi,Sl,GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-01-30",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 3.95,
-		"PriceGuest": 5.05,
-		"PriceStudent": 2.7,
-		"Pig": true
 	},
 	{
 		"Name": "Sojageschnetzeltes Stroganoff mit Waldpilzen (So,Sl,Sf,Sw), Röstiecken",
@@ -86,6 +85,24 @@
 		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2024-01-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "scharfe Kokos-Limonen Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
