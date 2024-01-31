@@ -1,6 +1,21 @@
 [
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
+		"Name": "Gegrillte Gemüse mediterraneo, Zartweizen-Tomatentopf mit Pilzen (Sl,Sw,GlW), Blumenkohl-Broccoli natur, vegan, Basmatireis",
+		"Category": "Gemüsebar",
+		"Date": "2024-01-31",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja (2,So,Se,GlW), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-31",
 		"Additives": {
@@ -16,38 +31,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
+		"Name": "Bami Goreng mit Hähnchenbruststreifen (1,2,Kr,Ei,So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-01-31",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
-		"Date": "2024-01-31",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Kr": "Krebstiere und Krebstiererzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
 		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
