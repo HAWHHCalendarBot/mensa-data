@@ -29,5 +29,51 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Omelette gratiniert mit Tomate und Käse (Ei,Mi), Blattspinat in Rahm (Mi,GlW), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-02-09",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 7.4,
+		"PriceStudent": 3.7,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Broccoli Nuggets (Ei,So,Mi,Sl,GlW,GlG), auf Pfannengemüse, Curryreis (Sf), Ajvar Dip (Mi)",
+		"Category": "CampusVital",
+		"Date": "2024-02-09",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 9.2,
+		"PriceStudent": 4.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "VEGAN Chili Fries sin carne (Pommes mit Chili und Sojadip) (So,Sl)",
+		"Category": "CampusSpezial",
+		"Date": "2024-02-09",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
