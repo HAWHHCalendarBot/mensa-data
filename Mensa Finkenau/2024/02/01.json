@@ -1,21 +1,10 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Rosenkohl, Kräuterkartoffeln, Gartengemüse (Sl), Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-01",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-01",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,11 +13,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Korianderdip (So)",
+		"Name": "Pasta Spitzkohl in Curryrahm (2,So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-01",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffel Gemüsecurry (2,So,Sl,Sf,GlW), Korianderdip (So)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-01",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -59,13 +65,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,Sf,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-02-01",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,

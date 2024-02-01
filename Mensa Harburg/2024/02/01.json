@@ -1,11 +1,23 @@
 [
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
+		"Name": "Brasilianische Rindfleischsoße mit Oliven (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-01",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta salsa di noci mit Paprikasoße, getrocknete Tomaten (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-01",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -15,31 +27,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-01",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW)",
+		"Name": "gerösteter Broccoli,  Blattspinat in Rahm (So),  Zucchini gebraten,  Gartengemüse (Mi),  Spätzle (Ei,Mi,GlW),  Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-01",
 		"Additives": {
-			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -63,15 +58,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Ei,En,So,Sl,Sf,Se,GlW)",
+		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (2,En,So,Sl,Sf,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-02-01",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
@@ -83,10 +74,10 @@
 		"PriceGuest": 5.7,
 		"PriceStudent": 3.2,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	},
 	{
-		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und Limetten-Senf-Dressing (3,Sf,NMa)",
+		"Name": "Süßkartoffel-Linsengemüse mit marinierten Tomaten und Römersalat (3,Sf,NMa)",
 		"Category": "CampusVital",
 		"Date": "2024-02-01",
 		"Additives": {
@@ -101,17 +92,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schweinenackensteak vom Grill, Paprikarahmsoße (Mi,GlW,GlG), Bratkartoffeln",
+		"Name": "Schweinenackensteak vom Grill, Paprikarahmsoße (Mi,Sw,GlW,GlG), Bratkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-01",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
+		"Alcohol": true,
 		"Pig": true
 	}
 ]
