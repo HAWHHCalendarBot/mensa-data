@@ -1,21 +1,26 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Gartengemüse (Sl), Hausgemachtes Kartoffel-Butterstampf (Mi), Rosenkohl (Mi), Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-02",
-		"Additives": {},
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta Spitzkohl in Curryrahm (2,So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-02",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,12 +29,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+		"Name": "Mexikanischer Bohnentopf mit Reis,Paprika,Kidneybohnen und grünen Bohnen (2,So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-02",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
@@ -39,13 +46,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf)",
+		"Name": "Belugalinsen-Tomaten-Curry (1,2,So,Sl,Sf,GlW), Indische Kartoffeln (Sf)",
 		"Category": "CampusVital",
 		"Date": "2024-02-02",
 		"Additives": {
 			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.8,
 		"PriceGuest": 5.0,
@@ -54,14 +64,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegane Bällchen in Kapernsoße (1,So,Sl,Sw,GlW,GlG), Reis, Rote Beete Salat (9)",
+		"Name": "Vegane Bällchen in Kapernsoße (1,2,5,So,Sl,Sf,Sw,GlW,GlG), Rote Beete Salat (9), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-02-02",
 		"Additives": {
 			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
 			"9": "Süßungsmittel",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -69,7 +82,6 @@
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
-		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	}
