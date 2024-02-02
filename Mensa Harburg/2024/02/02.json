@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Name": "Pasta pomodoro mit Tomate und Basilikum",
 		"Category": "Pastabar",
 		"Date": "2024-02-02",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -13,11 +11,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "Pasta Lenticchie mit Linsen in pikanter Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-02-02",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -27,16 +24,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), Kidneybohnen in Erdnußcreme, kandierte Chili Erdnüsse (2,En,So,GlW), gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
+		"Name": "gerösteter Broccoli,  Cajun Gemüse (Sl),  pikante Kidneybohnen (2,En,So,GlW),  gebratene Paprika (1,5,Sw),  gebratene Zucchini,  Spitzkohl,  Spätzle-Spinat-Auflauf (Ei,Mi,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-02",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -44,16 +42,16 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+		"Name": "Kartoffel-Gemüseeintopf (2,So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-02",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
@@ -98,18 +96,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Feldsalat mit gerösteten Kürbis und veganem Pulled spicy (Sf,Sw,GlH)",
+		"Name": "Feldsalat mit gerösteten Kürbis und veganem Pulled spicy (Sf,Sw,GlH), Knoblauchbaguette (Mi,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-02",
 		"Additives": {
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
