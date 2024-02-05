@@ -1,23 +1,9 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Name": "Crema di funghi mit Champignons in Cremesoße (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-05",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Mais (1,Mi), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2024-02-05",
-		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -28,16 +14,34 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (1,2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Name": "Dillrahmsoße (Mi,Sw,GlW,GlG), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-05",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Alcohol": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Broccoli, vegan, Kräuter-Chili-Kartoffeln, vegan, Linsengemüse (2,3,5,8,Sl,Sw), Crepe mit Gemüse-Hummusfüllung (Ei,Mi,Sl,Se,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-02-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
