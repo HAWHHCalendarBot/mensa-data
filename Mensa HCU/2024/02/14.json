@@ -1,18 +1,18 @@
 [
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Spaghetti (GlW),  mit Muscheln, Kirschtomaten und Knoblauch (Kr,Sl,Wt)",
 		"Category": "Pastabar",
 		"Date": "2024-02-14",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Kr": "Krebstiere und Krebstiererzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true
 	},
 	{
 		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (So,Sl,Sw,GlW)",
@@ -29,22 +29,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl,GlW), Preiselbeeren, Salzkartoffeln",
-		"Category": "CampusWorld",
-		"Date": "2024-02-14",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.3,
-		"PriceGuest": 6.0,
-		"PriceStudent": 3.0,
-		"Beef": true,
-		"Pig": true
 	},
 	{
 		"Name": "Amaranth Burger (3,GlW), Rotkraut Coleslaw (1,3,5,So,Sf,Sw), Walnuss Senf Soße (Sf,NWa), Pommes Frites (Sf)",

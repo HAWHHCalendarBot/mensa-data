@@ -1,20 +1,19 @@
 [
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli",
-		"Category": "Gemüsebar",
+		"Name": "Griechische Pasta Gyros Style (Mi,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-02-06",
 		"Additives": {
-			"6": "Geschwärzt",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
-		"Name": "Pasta Pollo al pomodoro mit Rinderstreifen in Tomatensoße (Sl,GlW)",
+		"Name": "Pasta al pomodoro mit Rinderstreifen in Tomatensoße (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-06",
 		"Additives": {
@@ -26,6 +25,37 @@
 		"PriceStudent": 0.75,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta vegane Spanische Albondigas, Tomaten-Paprikasugo (So,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-02-06",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Fenchelgemüse (Sl), Spanisches Pfannengemüse, gerösteter Broccoli, gebratener Pak Choi (2,So,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-02-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta mit Zucchini und Champignon (1,Mi,Sl,GlW)",
