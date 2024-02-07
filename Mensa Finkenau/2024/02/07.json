@@ -1,21 +1,14 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Karotten, Kürbisgemüse (Sf), Sellerie-Karotten Gemüse (3,5,Sl,Sf,Sw), Kräuterkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-07",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-07",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,7 +17,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
+		"Name": "Pasta mit Grünkohl-Sahnesauce (3,5,Mi,Sf,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-02-07",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüse-Kokoscurry (3,So,Sl,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-02-07",
 		"Additives": {
