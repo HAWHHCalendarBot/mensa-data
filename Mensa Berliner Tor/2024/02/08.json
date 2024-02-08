@@ -1,29 +1,25 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
-		"Category": "Pastabar",
+		"Name": "Beluga Linsen Ragout, Frühlingsgemüse (1), Bohnen, Sesamkarotten (Se)",
+		"Category": "Gemüsebar",
 		"Date": "2024-02-08",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"1": "Farbstoff",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-08",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -31,22 +27,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, gebratene Champignons (Mi,Sw)",
-		"Category": "Gemüsebar",
+		"Name": "Geflügelrahmsoße mit Hähnchenbruststreifen (3,8,Mi,Sw), Pasta (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-02-08",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Poultry": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (So,Sl,Sw,GlW)",
@@ -83,28 +77,6 @@
 		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Currybratwurst oder (3,4,8,9,Sf), Geflügel Bratwurst oder (9,Sf), vegetarische Bratwurst mit (9,Ei,Sf), Grillsoße oder (2,9,Sl,Sf), scharfe Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-02-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.5,
-		"PriceGuest": 5.7,
-		"PriceStudent": 3.2,
-		"Beef": true,
-		"LactoseFree": true,
-		"Pig": true,
-		"Poultry": true
 	},
 	{
 		"Name": "Flammkuchen mit geschmolzenen Camembert und Apfelwürfel (3,Mi,GlW)",
@@ -152,6 +124,28 @@
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Currybratwurst oder (3,4,8,9,Sf), Geflügel Bratwurst oder (9,Sf), vegetarische Bratwurst mit (9,Ei,Sf), Grillsoße oder (2,9,Sl,Sf), scharfe Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-02-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Flammkuchen mit Sucuk, Zwiebeln und frischen Tomaten (2,3,4,Mi,GlW)",

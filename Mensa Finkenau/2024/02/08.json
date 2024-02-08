@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Karotten, gebratene Champignons, Röstkartoffeln, Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-08",
 		"Additives": {},
@@ -11,27 +11,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Grünkohl-Sahnesauce (3,5,Mi,Sf,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-02-08",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Holsteiner Kartoffeltopf (So,Sl,Sw,GlW)",
+		"Name": "Kartoffel-Tomaten-Linseneintopf (So,Sf,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-08",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -75,7 +79,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos (2,3,4,Ei,So,Mi,Sf), Kräuter Dip (3,GlH)",
+		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos (2,3,4,Ei,So,Mi,Sf), Joghurt Sesam Dip (Mi,Se)",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-08",
 		"Additives": {
@@ -83,8 +87,8 @@
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},

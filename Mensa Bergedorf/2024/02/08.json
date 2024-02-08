@@ -1,29 +1,27 @@
 [
 	{
-		"Name": "Pasta Boscaiola mit Pilzen und Speck (2,3,8,GlW)",
+		"Name": "Orientalisches Reisfleisch mit Hähnchen , Sesam und Gemüse (Mi,Sl,Se)",
 		"Category": "Pastabar",
 		"Date": "2024-02-08",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
+		"Poultry": true
 	},
 	{
-		"Name": "Pasta Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,GlW,NHa)",
-		"Category": "Pastabar",
+		"Name": "Knoblauch Champignons aus dem Ofen (Sw), Kartoffelgratin (Ei,Mi), Prinzessbohnen, Spitzkohl in Rahm (Mi,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-02-08",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -31,22 +29,21 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta formaggio mit Käse und getrockneten Tomaten (2,5,Mi,Sl,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-02-08",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (So,Sl,Sw,GlW)",

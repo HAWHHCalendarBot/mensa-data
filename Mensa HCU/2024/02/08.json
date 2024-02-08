@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Pasta Conchiglie (GlW), \"a la pollo\" mit Hähnchenstreifen und Brokkoli in Sahnesauce (Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-02-08",
 		"Additives": {
@@ -10,10 +10,28 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Poultry": true
 	},
 	{
-		"Name": "Holsteiner Kartoffeltopf (So,Sl,Sw,GlW)",
+		"Name": "tägliches Gemüse:, Erbsen, Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), Tricolore Gemüse (Sl), Orientalisches Gemüse (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2024-02-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Holsteiner Kartoffeltopf mit Gemüse und Tofu (So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-08",
 		"Additives": {
