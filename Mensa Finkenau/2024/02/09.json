@@ -1,17 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-02-09",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Tomaten-Basilikumsoße (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-09",
 		"Additives": {
@@ -24,10 +13,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Prinzessbohnen, Süßkartoffeln, Weißkohlgemüe (EM), frisches Gemüse aus dem Wok (2,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2024-02-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili sin Carne (So,Sl), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2024-02-09",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
