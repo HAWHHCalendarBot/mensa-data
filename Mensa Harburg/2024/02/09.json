@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Pasta in Basilikumpesto mit getrockneten Tomaten (Sl,Sf)",
-		"Category": "Pastabar",
-		"Date": "2024-02-09",
-		"Additives": {
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta Tomatensoße mit Gemüsen und Sonnenblumenhack (Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-09",
@@ -36,6 +22,22 @@
 			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta in Basilikumpesto mit getrockneten Tomaten (2,Ei,Mi,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2024-02-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
