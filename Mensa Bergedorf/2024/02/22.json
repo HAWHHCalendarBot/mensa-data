@@ -14,31 +14,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Kartoffelpüree (Mi)",
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-02-22",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 4.45,
+		"PriceGuest": 5.55,
+		"PriceStudent": 3.2,
+		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW), Tomatensoße",
-		"Category": "CampusKlassiker",
+		"Name": "Grillgemüse Burger (3,Se,Sw,GlW,GlH)",
+		"Category": "CampusSpezial",
 		"Date": "2024-02-22",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.3,
-		"PriceGuest": 7.5,
-		"PriceStudent": 5.0,
-		"Vegetarian": true
+		"PriceAttendant": 5.25,
+		"PriceGuest": 6.35,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
