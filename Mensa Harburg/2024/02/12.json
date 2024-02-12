@@ -1,24 +1,10 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "pikanter Blumenkohl aus dem Ofen, Buttererbsen (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-12",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Contadino mit Hackbällchenalternative und Zucchini (So,Sl,GlW,GlG), Gnocchi",
-		"Category": "Pastabar",
-		"Date": "2024-02-12",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"1": "Farbstoff",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -29,7 +15,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Rahmgulasch vom Rind mit grünem Pfeffer (Mi,Sl), Spätzle (Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-12",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "vegane Pasta Polpette mit Hackbällchenalternative in Tomatencreme (2,5,So,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-02-12",
 		"Additives": {
@@ -37,16 +38,17 @@
 			"5": "Geschwefelt",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
+		"Name": "Curryeintopf Madras mit Gemüse (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-12",
 		"Additives": {
