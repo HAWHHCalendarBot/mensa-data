@@ -1,23 +1,117 @@
 [
 	{
-		"Name": "Beef-Sandwich Banh Mi mit Gemüse und kleinem Salat (1,2,Fi,So,Sf,Se,GlW,GlG)",
-		"Category": "CampusSpezial",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-02-20",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-20",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-20",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
+		"Category": "Pottkieker",
+		"Date": "2024-02-20",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Bete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Dip (2,3,So,Sf)",
+		"Category": "CampusVital",
 		"Date": "2024-02-20",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nasi Goreng mit Rindfleischstreifen (2,So,Sl,Sf,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-02-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
-		"Alcohol": true,
 		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Seelachsfilet in Kürbispanade (Ei,Fi,GlW), Kartoffel-Kürbis-Salat (3,5,Sl,Sf,Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-02-20",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
 		"Fish": true,
 		"LactoseFree": true
 	}
