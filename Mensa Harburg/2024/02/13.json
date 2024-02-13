@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Pasta Pollo all'Arrabbiata (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-13",
 		"Additives": {
@@ -13,11 +13,12 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Lupinen-Gemüseragout mit Hummuscreme (So,Sw,Lu)",
 		"Category": "Pastabar",
 		"Date": "2024-02-13",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -27,25 +28,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW), Schwarzwurzeln in Rahm (Mi,GlW)",
+		"Name": "Soja Gemüse Pfanne (So), gebratener Pak Choi in Kokos Curry Soße (2,So,GlW), Ofenkartoffel mit Gemüse und Quinoa, Reis, Kohlrabi mit Kräutern",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-13",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+		"Name": "Marokkanische Kichererbsensuppe mit Lupine (Sl,Sw,Lu)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-13",
 		"Additives": {
+			"Lu": "Lupine und - erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -95,7 +97,7 @@
 		"Fish": true
 	},
 	{
-		"Name": "Kasseler Nackensteak vom Grill (2,3), Biersoße (Sl), Bayrisch Kraut (3,5,Sw), Salzkartoffeln",
+		"Name": "Kasseler Nackensteak vom Grill (2,3), Bratensoße (Sl), Bayrisch Kraut (3,5,Sw), Salzkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2024-02-13",
 		"Additives": {
