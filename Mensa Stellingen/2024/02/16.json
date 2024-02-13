@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Möhren-Kichererbsen-Curry, Tortilla-Chips",
+		"Name": "Möhren-Kichererbsen-Curry (Sl), Tortilla-Chips",
 		"Category": "Pottkieker",
 		"Date": "2024-02-16",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
@@ -11,10 +13,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Käsespätzle mit Röstzwiebeln (Ei,Mi,GlW), Kräutersoße (Mi,GlW,GlG)",
+		"Name": "Käsespätzle mit Röstzwiebeln (1,Ei,Mi,GlW), Kräutersoße (Mi,GlW,GlG)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-02-16",
 		"Additives": {
+			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
@@ -26,21 +29,23 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganer Hamburger mit Amaranth-Süßkartoffel-Patty, Tomate (3,GlW), Zwiebeln, Rotkrautsalat mit Sesam (1,3,5,Se,Sw), Dijon-Senf-Sauce (Sf), Pommes Frites (Sf)",
+		"Name": "Veganer Hamburger mit Jackfruit-Patty, Tomate (3,So,GlW,GlH), Zwiebeln, Rotkrautsalat mit Sesam (1,3,5,Se,Sw), Dijon-Senf-Majo (Sf), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-16",
 		"Additives": {
 			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 7.0,
-		"PriceGuest": 8.2,
-		"PriceStudent": 5.7,
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
 		"LactoseFree": true,
 		"Vegan": true
 	}
