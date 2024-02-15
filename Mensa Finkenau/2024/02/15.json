@@ -1,21 +1,26 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-02-15",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Spinat-Gorgonzolasoße (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-02-15",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gerösteter Broccoli, gebackene Süßkartoffel, Grünkern-Tomatenragout (GlD), Mangold Gemüse (So), Champignon-Zwiebel Gemüse (Sw), Röstkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-02-15",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,12 +29,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
+		"Name": "Minestrone (9,Sl,Sw,GlW), Fladenbrot (Se,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-15",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"9": "Süßungsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -72,7 +78,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "veganes Sandwich Banh Mi mit Gemüse und kleinem Salat (1,2,So,Sf,Se,GlW,GlG,GlH)",
+		"Name": "veganes Sandwich Banh Mi mit Gemüse und kleinem Salat (1,2,So,Mi,Sf,Se,GlW,GlG,GlH)",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-15",
 		"Additives": {
@@ -81,6 +87,7 @@
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -89,7 +96,6 @@
 		"PriceGuest": 7.8,
 		"PriceStudent": 5.3,
 		"Alcohol": true,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]

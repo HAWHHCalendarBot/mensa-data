@@ -1,26 +1,12 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Rahmsoße (Mi,Sl,GlW), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-15",
 		"Additives": {
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
-		"Date": "2024-02-15",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -28,26 +14,35 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl, Tahinisoße, Birne, Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa), Bulgur mit Tomate und Peperoni (Sl,GlW), Edamame (So)",
-		"Category": "Gemüsebar",
+		"Name": "Salsa bianca mit Räuchertofu in Kräutersoße (So,Sl,GlW), Pasta (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-02-15",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Rosenkohl (Sl), Bunte Tortellini mit Käsefüllung (Ei,Mi,Sl,GlW), gebratene Zucchini, Gemüse-Reis mit gebackenen Kabeljau-Nuggets (Ei,Fi,Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-02-15",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Fish": true
 	},
 	{
 		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
