@@ -11,28 +11,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta des Tages, Pesto-Rosso-Sahnesoße (Mi,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-02-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (3,So,Sl,Sf,GlW), Reis",
+		"Name": "Minestrone (9,Sl,Sw,GlW), Ciabatta (GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-16",
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -41,19 +41,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Käsespätzle mit Röstzwiebeln (Ei,Mi,GlW), Salat (Sf,Sw)",
-		"Category": "CampusKlassiker",
+		"Name": "Penne alla Norma mit Auberginen-Tomatensoße und Ricotta (Mi,Sw,GlW)",
+		"Category": "CampusWorld",
 		"Date": "2024-02-16",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
 		"Vegetarian": true
 	},
 	{
