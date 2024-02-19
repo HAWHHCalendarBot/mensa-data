@@ -1,5 +1,34 @@
 [
 	{
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-29",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Category": "Pottkieker",
+		"Date": "2024-02-29",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "vegane Spanische Albondigas, Tomaten-Paprikasugo (So,GlW,GlG), vegane Aioli (Sf), Gemüse-Reis (Sl)",
 		"Category": "CampusVital",
 		"Date": "2024-02-29",
@@ -15,5 +44,38 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "All in one Pot: Bulgur, Soja, Weißkohl, Cranberries, Ananas, Asia-Majo, Cashew (2,So,Sl,Sf,Sw,GlW,NCa)",
+		"Category": "CampusWorld",
+		"Date": "2024-02-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 8.6,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Paniertes Putenschnitzel (GlW), Ratatouille (Sl), Rosmarinkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-02-29",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 9.6,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
