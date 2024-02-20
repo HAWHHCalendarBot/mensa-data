@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Pasta (GlW), mit Rindfleisch-Bolognese mit Knoblauch und Tomate (Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-02-28",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-28",
@@ -11,6 +25,38 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl Broccoli Mix mit Sesam und Tomatenragout mit schwarzen Bohnen (Sl,Sf,Se), Kurkuma Reis",
+		"Category": "CampusVital",
+		"Date": "2024-02-28",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.8,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gebratene Polentaschnitte mit gebratenem Rosenkohl-Pilz-Gemüse (1,5,So,Sw,NHa)",
+		"Category": "CampusSpezial",
+		"Date": "2024-02-28",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 7.2,
+		"PriceStudent": 3.6,
 		"LactoseFree": true,
 		"Vegan": true
 	},
