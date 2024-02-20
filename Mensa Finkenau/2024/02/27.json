@@ -2,7 +2,7 @@
 	{
 		"Name": "Gemüse des Tages",
 		"Category": "Gemüsebar",
-		"Date": "2024-02-29",
+		"Date": "2024-02-27",
 		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,7 +13,7 @@
 	{
 		"Name": "Pasta des Tages (GlW)",
 		"Category": "Pastabar",
-		"Date": "2024-02-29",
+		"Date": "2024-02-27",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
@@ -24,12 +24,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
-		"Date": "2024-02-29",
+		"Date": "2024-02-27",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -38,19 +40,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
+		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (Mi), glasierte Honigmöhren, Gemüse Bulgur (Sl,GlW)",
 		"Category": "CampusKlassiker",
-		"Date": "2024-02-29",
+		"Date": "2024-02-27",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"Sf": "Senf und Senferzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.8,
-		"PriceStudent": 3.3,
-		"LactoseFree": true,
-		"Pig": true
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Poultry": true
 	}
 ]
