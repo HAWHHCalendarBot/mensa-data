@@ -1,21 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Broccoli, gebratene Champignons (Sw), Rosenkohl mit Chili, gerösteter Blumenkohl (Sf), gebackene Süßkartoffel",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-21",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-21",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,14 +14,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf mit Reis,Paprika,Kidneybohnen und grünen Bohnen (2,So,Sl,Sw,GlW), Tortilla Chips",
+		"Name": "Pasta mit (GlW), Pesto-Rossosoße (Mi,Sl,GlW,NCa)",
+		"Category": "Pastabar",
+		"Date": "2024-02-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Mexikanischer Bohnentopf,Paprika und Kidneybohnen (2,Sl,Sw), Tortilla Chips",
 		"Category": "Pottkieker",
 		"Date": "2024-02-21",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
