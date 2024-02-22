@@ -1,17 +1,33 @@
 [
 	{
-		"Name": "Tortellini mit Rinderhackfüllung und Basilikum (GlW), mit Käsesauce mit getrockneten Tomaten und Frühlingskräutern (Mi,GlW,GlG)",
+		"Name": "Pasta Pennette (GlW), a la \"Toscana\" mit Seelachs und Oliven in Tomatensoße (6,Fi)",
 		"Category": "Pastabar",
 		"Date": "2024-02-22",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"6": "Geschwärzt",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Fish": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "tägliche Gemüseauswahl:, Rosenkohl, glasiertes Wurzelgemüse (Sl), Sojawürfel mit Spinat, Oliven und roten Zwiebeln (So,Sl),  Brokkoli (Se)",
+		"Category": "Pastabar",
+		"Date": "2024-02-22",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Chili sin carne mit Soja, Mais und Kidneybohnen (So,Sl), mit Tortilla Chips",
