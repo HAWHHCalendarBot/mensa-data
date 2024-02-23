@@ -57,14 +57,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganes Kebap, Pommes Frites (Sf), Krautsalat (3,5,Sw), Kräuterquark (Mi)",
+		"Name": "Veganes Kebap, Fladenbrot (Se,GlW), Krautsalat (3,5,Sw), Kräuterquark (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-23",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.85,
@@ -73,7 +74,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Linsen Burger (3,Sl,GlW,GlH), Wasabi-Kräuter-Dip (1,3,9,So,Sf), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
+		"Name": "Blumenkohl-Käse-Bratling Burger (Ei,Mi,GlW), Wasabi-Kräuter-Dip (1,3,9,So,Sf), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-23",
 		"Additives": {
@@ -81,17 +82,16 @@
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"9": "Süßungsmittel",
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
