@@ -57,7 +57,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganes Kebap, Fladenbrot (Se,GlW), Krautsalat (3,5,Sw), Kräuterquark (Mi)",
+		"Name": "Veganes Soja-Gyros (So), Fladenbrot (Se,GlW), Krautsalat (3,5,Sw), Kräuterquark (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-23",
 		"Additives": {
@@ -66,6 +66,7 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.85,
@@ -92,6 +93,27 @@
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Champignon im Backteig (Ei,GlW), Wasabi Dip (1,9,So,Sf), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
+		"Category": "CampusVital",
+		"Date": "2024-02-23",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
 		"Vegetarian": true
 	}
 ]
