@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "vegane Crema di Zucchine Cremesoße, Zucchini, Räuchertofu (So,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-28",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-28",
@@ -14,21 +28,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "vegane Crema di Zucchine Cremesoße, Zucchini, Räuchertofu (So,Mi,GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-28",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Zucchini (1), Mangold nature, vegane Kohlrabi in Rahm (So), Spätzle (Ei,Mi,GlW)",
+		"Name": "Ratatouille (Sl), Zucchini (1), Mangold nature,  vegane Kohlrabi in Rahm (So), Spätzle (Ei,Mi,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-02-28",
 		"Additives": {
@@ -45,10 +45,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "veganer Kartoffel-Gemüseeintopf (So,Sl,Sw)",
+		"Name": "veganer Kartoffel-Gemüseeintopf (So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-28",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -70,24 +71,6 @@
 		"PriceGuest": 5.4,
 		"PriceStudent": 2.9,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Lachsfilet auf buntem Gemüse-Couscous (3,5,Fi,Sl,Sw,GlW), Joghurt-Zitronen-Dip (3,Mi)",
-		"Category": "CampusVital",
-		"Date": "2024-02-28",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
-		"Fish": true
 	},
 	{
 		"Name": "Königsberger Klopse, Reis, Kapernsoße (Mi,GlW,GlG), Rote Beete Salat (9)",
@@ -121,5 +104,23 @@
 		"Beef": true,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Lachsfilet auf buntem Gemüse-Couscous (3,5,Fi,Sl,Sw,GlW), Joghurt-Zitronen-Dip (3,Mi)",
+		"Category": "CampusVital",
+		"Date": "2024-02-28",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.3,
+		"PriceStudent": 5.8,
+		"Fish": true
 	}
 ]
