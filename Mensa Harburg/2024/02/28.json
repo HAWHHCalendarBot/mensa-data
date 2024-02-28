@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-02-28",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-28",
@@ -27,22 +14,38 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "vegane Crema di Zucchine Cremesoße, Zucchini, Räuchertofu (So,Mi,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-02-28",
 		"Additives": {
-			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Asiatisches Gemüsecurry mit Süßkartoffel (So,Sl,Sw)",
+		"Name": "Ratatouille (Sl), Zucchini (1), Mangold nature, vegane Kohlrabi in Rahm (So), Spätzle (Ei,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-02-28",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "veganer Kartoffel-Gemüseeintopf (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-28",
 		"Additives": {
