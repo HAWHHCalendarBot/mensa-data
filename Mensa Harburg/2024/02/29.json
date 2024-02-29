@@ -3,17 +3,40 @@
 		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-29",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Pollo mit Hähnchenstreifen und frischen Champignons (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-29",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-02-29",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
 	},
 	{
 		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
@@ -49,7 +72,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Name": "Indischer rote Linsen-Süßkartoffeteintopf (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-02-29",
 		"Additives": {
@@ -63,7 +86,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf Dip (Sf), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-02-29",
 		"Additives": {
