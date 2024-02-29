@@ -1,14 +1,16 @@
 [
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-02-29",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "tägliche Gemüseauswahl:, Prinzessbohnen mit Tofuwürfeln (2,So,GlW), Röstkartoffeln, Karotten Pastinakenmix mit frischer Petersilie, Orientalisches Gemüse mit Kichererbsen (Sl,Sw)",
@@ -59,7 +61,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paniertes Putenschnitzel (GlW), Ratatouille (Sl), Rosmarinkartoffeln",
+		"Name": "Hähnchenbrust natur gebraten (GlW), Ratatouille (Sl), Rosmarinkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2024-02-29",
 		"Additives": {
