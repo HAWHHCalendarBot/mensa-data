@@ -48,19 +48,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Bolognese Soße (Sl,GlW)",
+		"Name": "Arrabbiata Soße (GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-03-05",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
-		"Alcohol": true,
-		"Beef": true,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüse-Bolognese (So,Sl,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-03-05",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pesto Rosso (Mi,GlW,NCa)",
@@ -78,58 +91,71 @@
 		"Beef": true
 	},
 	{
-		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
+		"Name": "Baked Potato \"Root garden\" mit Senf-Wurzelgemüse, Spinat, Feta, Rote Beete, Sour Cream (3,4,Ei,So,Mi,Sl,Sf,Sw)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-03-05",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.7,
-		"PriceGuest": 5.3,
-		"PriceStudent": 4.0,
+		"PriceAttendant": 5.0,
+		"PriceGuest": 5.6,
+		"PriceStudent": 4.3,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gransole mit Ricottafüllung, Basilkum und Zitrusfrucht (Ei,GlW)",
+		"Name": "Back to the roots, Senf-Wurzelgemüse,Madras-Kürbis,Rote Beete, Ziegenkäse,Birne,Balsamico-Dressing (3,Mi,Sl,Sf,Sw)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-03-05",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.2,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Rustico Pecorino &amp; Fico (2,Ei,Mi,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-03-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 5.7,
 		"PriceGuest": 6.3,
 		"PriceStudent": 5.0,
-		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veggie Power Bowl, Tofu, Basmatireis, Süßkartoffeln, Avocado, Koriander, Cashew und Wasabi Dressing (1,2,3,5,Ei,So,Sf,Se,Sw,GlW,NCa)",
-		"Category": "Highlight",
+		"Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (So,Sl,Sf,Se,GlW)",
+		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-03-05",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 7.8,
-		"PriceStudent": 6.5,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 6.6,
+		"PriceStudent": 5.3,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	}
 ]
