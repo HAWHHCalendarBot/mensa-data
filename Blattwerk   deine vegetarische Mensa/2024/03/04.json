@@ -59,15 +59,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Süßkartoffelpommes (1), Rahmwirsing (Mi,Sl,GlW), Erbsen-Dip (2,3,So,Sf)",
+		"Name": "Zartweizensalat mit Aubergine, eingelegtem Sellerie und Hirtenkäse (Mi,Sl,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-03-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Süßkartoffelpommes (1), geschmortes Gemüse mit Tomate (Sl), Erbsen-Dip (2,3,So,Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-03-04",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -75,7 +88,8 @@
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.7,
 		"PriceStudent": 4.2,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "All in one Pot: Bulgur, Soja, Weißkohl, Cranberries, Ananas, Asia-Majo, Cashew (2,So,Sl,Sf,Sw,GlW,NCa)",
