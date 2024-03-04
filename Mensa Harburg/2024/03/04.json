@@ -8,7 +8,7 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	},
 	{
 		"Name": "Pasta Milano in Pilz-Sahnesoße (Mi,Sl)",
@@ -38,21 +38,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Pesto Rosso mit Tomatenpesto (2,5,Mi,Sw,GlW,NCa), Gnocchi",
+		"Name": "Pasta Pesto Rosso mit Tomatenpesto (2,5,Sw,GlW,NCa), Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2024-03-04",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Dithmarscher Kartoffeleintopf mit Rosenkohl (Sl)",
@@ -82,7 +82,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Ei,Mi,Sf,Se,Sw,GlW), Pommes Frites (Sf)",
+		"Name": "Hamburger mit Gurken, Tomaten und Salat (1,2,3,9,Ei,Sf,Se,Sw,GlW), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-03-04",
 		"Additives": {
@@ -92,7 +92,6 @@
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -100,7 +99,8 @@
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
 		"PriceStudent": 4.0,
-		"Beef": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Wok-Gemüse, Reis",
