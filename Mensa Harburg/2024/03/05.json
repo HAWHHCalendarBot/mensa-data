@@ -27,14 +27,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen in Pefferrahmsoße (Mi,Sl,GlW), Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi mit Haselnüssen (2,So,GlW,NHa), Gartengemüse, Zuckerschoten (1)",
+		"Name": "Brechbohnen in Pfefferrahm (Mi,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-03-05",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi mit Haselnüssen (2,So,GlW,NHa), Gartengemüse,  Zuckerschoten (1)",
 		"Category": "Gemüsebar",
 		"Date": "2024-03-05",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -42,7 +56,8 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
