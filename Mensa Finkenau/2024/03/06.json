@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "gerösteter Blumenkohl, gebackene Süßkartoffel, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Rosenkohl",
+		"Name": "gerösteter Blumenkohl, gebackene Süßkartoffel, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Rosenkohl, Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-03-06",
 		"Additives": {},
@@ -22,6 +22,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Kochwurst (2,3,4,8,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-03-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 2.15,
+		"PriceGuest": 2.3,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
