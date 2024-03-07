@@ -1,6 +1,32 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Chili con Carne (2)",
+		"Category": "Pastabar",
+		"Date": "2024-03-07",
+		"Additives": {
+			"2": "Konservierungsstoff"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Kurkumareis,  Rosenkohl (Se),  Gartengemüse,  kleine Salzkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-03-07",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Geflügelcurry mit Kokos und Gemüse (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-03-07",
 		"Additives": {
@@ -13,35 +39,14 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Pasta spinaci mit Sonnenblumenhack und Karotten (2,So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-03-07",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl Tahinisoße Birne und Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa), Bulgur mit Tomate und Peperoni (Sl,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2024-03-07",
-		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -50,11 +55,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Name": "Sojastreifen Bombay mit Reis (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-07",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},

@@ -1,21 +1,35 @@
 [
 	{
-		"Name": "Spaghetti (GlW), mit Meeresfrüchten, Kirschtomaten und Knoblauch (Kr,Sl,Wt)",
+		"Name": "tägliches Gemüse:, Prinzessbohnen, Blumenkohl, Orientalisches Gemüse (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-03-07",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Kr": "Krebstiere und Krebstiererzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Wt": "Weichtiere (z.B. Muscheln und Weinbergschnecken) und Weichtiererzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Name": "Hausgemachter Nudelauflauf \"al forno\"  mit Rindfleisch, buntem Gemüse und Käse und Sahnesoße (1,Mi,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-03-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Mexicanischer Schwarze-Bohneneintopf mit Räuchertofu (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-07",
 		"Additives": {
@@ -30,7 +44,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
+		"Name": "All in one pot: Udonnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-03-07",
 		"Additives": {
@@ -47,7 +61,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frisch zubereitet: Veganer Wok \"Süß Sauer\" mit Sojastreifen und Gemüse (So), Basmatireis",
+		"Name": "Frisch zubereitet: Veganer Wok \"Honey Pepper\" mit Sojastreifen und Gemüse (So), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2024-03-07",
 		"Additives": {
@@ -60,7 +74,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rindfleisch Köfte (Ei,Mi,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (Mi), Reis",
+		"Name": "Rindfleisch Köfte (Ei,Mi,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Knoblauch-Aioli (Sf), Röstkartoffeln Provencial",
 		"Category": "CampusWorld",
 		"Date": "2024-03-07",
 		"Additives": {
@@ -69,6 +83,7 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.4,

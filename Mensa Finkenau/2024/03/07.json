@@ -1,9 +1,14 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit (GlW), Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-03-07",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +16,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Rosenkohl, Sesammöhrchen (Se), Auberginen mit Balsamico Bianco (3,5,Sw), Gemüsereis, buntem Gemüse, Süßkartoffeln",
+		"Category": "Gemüsebar",
 		"Date": "2024-03-07",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -42,13 +50,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,GlW), Tomatensoße",
+		"Name": "Hausgemachte Lasagne Bolognese (2,So,Mi,Sl,GlW), Tomatensoße",
 		"Category": "CampusKlassiker",
 		"Date": "2024-03-07",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
