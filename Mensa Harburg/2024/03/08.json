@@ -1,10 +1,37 @@
 [
 	{
-		"Name": "Kurkumareis",
+		"Name": "Gemüsepfanne in Tomatensauce",
+		"Category": "Gemüsebar",
+		"Date": "2024-03-08",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grillkartoffeln, Erbsen (1), Karotten in Minze und Chili, Zucchinigemüse in Rahm mit Zitro Pikant (So), Rahmwirsing (So,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-03-08",
 		"Additives": {
 			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta all`Amatriciana Art vegan mit Tomatensoße, Paprika und Soja Chunks (2,So,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-03-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -31,14 +58,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Linsen-Chili mit Grünkern und Grünkohl (1,Sl,Sf,GlD)",
+		"Name": "Mexikanischer Feuereintopf (2,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-08",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"2": "Konservierungsstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
