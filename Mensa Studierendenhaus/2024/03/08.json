@@ -52,14 +52,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Linsen-Chili mit Grünkern und Grünkohl (1,Sl,Sf,GlD)",
+		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-08",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -82,6 +81,23 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-03-08",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Broccoli Nuggets (Ei,So,Mi,Sl,GlW,GlG), Joghurt-Zitronen-Dip (Mi), Pommes Frites (Sf)",
