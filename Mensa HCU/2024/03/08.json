@@ -1,13 +1,23 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "tägliches Gemüse:, buntem Gemüse, Broccoli, Prinzessbohnen, Röstkartoffeln Provencial",
+		"Category": "Pastabar",
+		"Date": "2024-03-08",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), mit Käsesoße und Zucchini (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-03-08",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -15,14 +25,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Linsen-Chili mit Grünkern und Grünkohl (1,Sl,Sf,GlD)",
+		"Name": "Asiatische Sojastreifen mit Gemüse in Currysoße (So,Sl,Sf,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-03-08",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -31,12 +41,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fritten Oriental mit Falaffel und Grillgemüse (GlW), Hummus (Se)",
+		"Name": "Fritten Oriental mit veganen Bällchen und Grillgemüse (So,GlW,GlG), Hummus (Se)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-03-08",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.5,
 		"PriceGuest": 8.4,
@@ -45,17 +57,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkern-Käse-Medaillons (Ei,So,Mi,Se,GlW,GlD), Schnittlauch-Dip (Mi), Salzkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
+		"Name": "Broccoli Nuggets (Ei,So,Mi,Sl,GlW,GlG), Kräuter-Dip (Mi), Salzkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2024-03-08",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
