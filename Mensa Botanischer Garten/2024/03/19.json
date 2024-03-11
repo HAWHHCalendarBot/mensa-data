@@ -1,5 +1,35 @@
 [
 	{
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-03-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Holsteiner Kartoffeltopf (So,Sl,Sw,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2024-03-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Planted Nuggets (GlW), Pommes Frites (Sf), Grillsoße (2,9,Sl,Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-03-19",
@@ -15,5 +45,19 @@
 		"PriceStudent": 3.8,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-03-19",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Fish": true
 	}
 ]
