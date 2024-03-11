@@ -24,11 +24,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-12",
 		"Additives": {
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -36,22 +35,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Thüringer Bratwurst (8,Sl,Sf), Kartoffelsalat mit grünen Bohnen (2,Sf)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-03-12",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"8": "Phosphat",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.8,
-		"PriceStudent": 3.3,
-		"LactoseFree": true,
-		"Pig": true
 	},
 	{
 		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Petersilie",
@@ -62,10 +45,31 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.4,
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-03-12",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
