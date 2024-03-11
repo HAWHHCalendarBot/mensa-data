@@ -42,6 +42,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
+		"Category": "Pottkieker",
+		"Date": "2024-03-20",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hausgemachte Pasta (GlW), Pesto di noci e pomodoro mit Pesto von Walnuss und Tomate (Mi,NWa), geschmolzene Kirschtomaten, gebratene Zucchinischeiben mit weißem Balasmico (1,5,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-03-20",
@@ -57,5 +73,35 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-03-20",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Fish": true
+	},
+	{
+		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Spätzle (Ei,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-03-20",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Beef": true
 	}
 ]
