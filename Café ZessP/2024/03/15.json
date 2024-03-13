@@ -48,20 +48,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pomodoro Soße (1,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-03-15",
-		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.2,
-		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pesto Rosso (Mi,GlW,NCa)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-03-15",
@@ -75,6 +61,23 @@
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
 		"Beef": true
+	},
+	{
+		"Name": "Carbonara Soße (1,2,3,8,Mi,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-03-15",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.9,
+		"Pig": true
 	},
 	{
 		"Name": "Baked Potato \"Root garden\" mit Senf-Wurzelgemüse, Spinat, Feta, Rote Beete, Sour Cream (3,4,Ei,So,Mi,Sl,Sf,Sw)",
