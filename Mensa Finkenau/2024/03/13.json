@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Broccoli, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, gerösteter Blumenkohl, Zwiebelgemüse, Karotten Rustica",
 		"Category": "Gemüsebar",
 		"Date": "2024-03-13",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +15,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit einer (GlW), Erdnusssoße (En,Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-03-13",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
@@ -54,7 +60,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brasilianisches Picadillo (3,5,Sw), Penne (GlW)",
+		"Name": "Brasilianisches Picadillo (3,5,Sw), Farfalle (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-03-13",
 		"Additives": {
