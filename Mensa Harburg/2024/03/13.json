@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
+		"Name": "spanisches Kartoffelgemüse,  gebratener Wirsing,  gebratene Zucchini,  Karotten aus dem Ofen,  Anti Pasti Gemüse,  Spätzle (Ei,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-03-13",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8)",
 		"Category": "Pastabar",
 		"Date": "2024-03-13",
 		"Additives": {
@@ -15,7 +29,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-03-13",
 		"Additives": {
@@ -23,24 +37,6 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen, Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
-		"Date": "2024-03-13",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -95,20 +91,35 @@
 		"Beef": true
 	},
 	{
-		"Name": "Zweierlei von der Rehkeule, gegrillt und geschmort, Portwein Jus (Sw), Apfelrotkohl (3,5,Sw), Kroketten (GlW)",
-		"Category": "Zweierlei von der Rehkeule, gegrillt und geschmort, Portwein Jus (Sw), Apfelrotkohl (3,5,Sw), Kroketten (GlW)",
+		"Name": "Zweierlei von der Rehkeule, gegrillt und geschmort, Preiselbeerschmand (Mi), Apfelrotkohl (3,5,Sw), Kroketten (GlW)",
+		"Category": "Zweierlei von der Rehkeule, gegrillt und geschmort, Preiselbeerschmand (Mi), Apfelrotkohl (3,5,Sw), Kroketten (GlW)",
 		"Date": "2024-03-13",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.6,
 		"PriceGuest": 8.2,
 		"PriceStudent": 6.9,
-		"Alcohol": true,
-		"Game": true,
-		"LactoseFree": true
+		"Game": true
+	},
+	{
+		"Name": "Zweierlei von der Rehkeule, gegrillt und geschmort, Preiselbeerschmand (Mi), Apfelrotkohl (3,5,Sw), Kroketten (GlW)",
+		"Category": "Zweierlei von der Rehkeule, gegrillt und geschmort, Preiselbeerschmand (Mi), Apfelrotkohl (3,5,Sw), Kroketten (GlW)",
+		"Date": "2024-03-13",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.6,
+		"PriceGuest": 8.2,
+		"PriceStudent": 6.9,
+		"Game": true
 	}
 ]
