@@ -1,17 +1,20 @@
 [
 	{
-		"Name": "Gnocchi mit Kirschtomaten, Champignons und Thymian, hausgemachtes Pesto Genovese (vegan)",
+		"Name": "Gnocchi mit Basilikumöl und Rucola, Kräutersauce mit getrockneten Tomaten (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-03-15",
-		"Additives": {},
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+		"Name": "Linsen-Bohnen-Eintopf mit Tomate (2,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-15",
 		"Additives": {
@@ -26,7 +29,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Ei,En,So,Sl,Sf,Se,GlW)",
+		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Erdnüsse und Chilimajo (1,2,3,9,Ei,En,So,Sl,Sf,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-03-15",
 		"Additives": {

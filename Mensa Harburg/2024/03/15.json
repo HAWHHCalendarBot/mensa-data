@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Name": "Pasta Maiscremesoße mit grünem Pfeffer",
 		"Category": "Pastabar",
 		"Date": "2024-03-15",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -13,11 +11,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-03-15",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -27,13 +24,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cajun Gemüse (Sl), gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9), spanisches Kartoffelgemüse",
+		"Name": "Wok-Gemüse (Sl),  Spitzkohl,  grünes Gartengemüse,  gebratene Paprika (1,5,Sw),  Spätzle (Ei,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-03-15",
 		"Additives": {
 			"1": "Farbstoff",
 			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -41,7 +39,7 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
@@ -75,16 +73,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Wrap mit Falafel, rote Beete Hummus (9,Se,GlW), Krautsalat (3,5,Sw)",
+		"Name": "Wrap mit Ajvarcreme, Rotkohlsalat und  Falafel (9,Se,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-03-15",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
 			"9": "Süßungsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.8,
@@ -93,18 +88,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Feldsalat mit gerösteten Kürbis und veganem Pulled spicy (Sf,Sw,GlH)",
+		"Name": "Feldsalat mit gerösteten Kürbis und veganem Pulled spicy (Sf,Sw,GlH), Knoblauchbaguette (Mi,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-03-15",
 		"Additives": {
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
