@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "buntem Gemüse, gebratene Paprika, Karotten Rustica, Weißkohlgemüe (EM)",
-		"Category": "Gemüsebar",
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-03-18",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "buntem Gemüse, Asiatische Champignons (2,So,Sw,GlW), Karotten Rustica, Weißkohlgemüe (EM)",
+		"Category": "Gemüsebar",
 		"Date": "2024-03-18",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
