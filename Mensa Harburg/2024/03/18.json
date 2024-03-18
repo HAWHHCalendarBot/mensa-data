@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Name": "Aglio e olio mit Tomate und Knoblauch",
 		"Category": "Pastabar",
 		"Date": "2024-03-18",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -26,27 +24,30 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Nusskartoffeln",
+		"Name": "Blattspinat in Sojarahm (So),  Blumenkohl natur,  Nusskartoffeln,  gebratene Karotten,  Koko-Curry-Gemüseragout (2,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-03-18",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"2": "Konservierungsstoff",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8)",
+		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-03-18",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat"
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -55,25 +56,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-03-18",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Pig": true
-	},
-	{
-		"Name": "Kokos-Kürbis-Curry (Sf,Se), Reis",
+		"Name": "Kokos-Kürbis-Süßkartoffel-Curry (Sf,Se), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-03-18",
 		"Additives": {
@@ -103,15 +86,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Mini Frühlingsrollen (So,GlW), Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), scharfer Asia-Dip (1,Sf)",
+		"Name": "Mini Frühlingsrollen (So,GlW), Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), rote Currysoße (3,Sl)",
 		"Category": "CampusWorld",
 		"Date": "2024-03-18",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.4,
