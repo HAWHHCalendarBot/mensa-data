@@ -26,18 +26,37 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Mi,Sl), Fusilli (GlW)",
+		"Name": "Crema di fagioli  weißen Bohnen, Gemüse, Tomate und Basilikum (Sl), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-03-20",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nudelsalat, mit veganem Geschnetzeltem und Salsa (3,4,5,Sf,Sw,GlW,GlH)",
+		"Category": "CampusWorld",
+		"Date": "2024-03-20",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"5": "Geschwefelt",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.25,
+		"PriceGuest": 6.45,
+		"PriceStudent": 3.95,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Vegetarisches Schnitzel in Knusperpanade (Ei,Mi,GlW,GlH), Paprikarahmsoße (Mi,GlW,GlG), Pommes Frites (Sf)",
