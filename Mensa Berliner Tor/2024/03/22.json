@@ -1,20 +1,5 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-03-22",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-22",
@@ -27,5 +12,36 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Lupinen-Bolognese (1,Sl,Lu), Penne (GlW)",
+		"Category": "CampusVital",
+		"Date": "2024-03-22",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kidneybohnen-Frikadelle (Sl,GlW,GlH), gebratene Zwiebeln, Kräuterquark (Mi), hausgemachtes Kartoffelpüree (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-03-22",
+		"Additives": {
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Vegetarian": true
 	}
 ]
