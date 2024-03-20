@@ -1,22 +1,28 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-03-20",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Maccaroni (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-03-20",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl, Kohlrabigemüse, Weißkohlgemüe (EM), gebackene Süßkartoffel, Tomatenreis, Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), Käsespätzle mit Zwiebelschmelze (Ei,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-03-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -40,13 +46,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "One Pot Quinoa (3,Sl,GlH)",
+		"Name": "One Pot Quinoa (3,So,Sl,GlH)",
 		"Category": "CampusSpezial",
 		"Date": "2024-03-20",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.4,
 		"PriceGuest": 5.6,
