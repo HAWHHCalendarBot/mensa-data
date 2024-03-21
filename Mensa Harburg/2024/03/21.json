@@ -1,44 +1,58 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Name": "Pollo con panna mit Hähnchenstreifen in Rahmsoße (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-03-21",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-03-21",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Poultry": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So)",
+		"Name": "vegane Waldpilzsoße (So,Sl), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-03-21",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rindfleischwürfel \"Wiener Art\" mit Paprika und Cornichons (Mi,Sl,Sf,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-03-21",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW),  Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6),  Fenchelgemüse (Sl),  Spitzkohl in Rahm (So),  Asiatisches Mangold Gemüse (2,So,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-03-21",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
+			"6": "Geschwärzt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -101,7 +115,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Schweinenackensteak vom Grill, Paprikarahmsoße (Mi,Sw,GlW,GlG), gebratene Drillinge",
+		"Name": "Schweinenackensteak vom Grill, Zwiebel-Paprikasoße (Mi,Sw,GlW,GlG), gebratene Drillinge",
 		"Category": "CampusSpezial",
 		"Date": "2024-03-21",
 		"Additives": {
