@@ -1,18 +1,17 @@
 [
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
+		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (So), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-03-22",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
@@ -45,11 +44,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Mini Frühlingsrollen (So,GlW), Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), scharfer Asia-Dip",
+		"Name": "Mini Frühlingsrollen (So,GlW), Bratnudeln mit Gemüsestreifen (2,Ei,So,Se,GlW), scharfer Asia-Dip",
 		"Category": "CampusWorld",
 		"Date": "2024-03-22",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -58,6 +58,6 @@
 		"PriceGuest": 6.6,
 		"PriceStudent": 4.1,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
