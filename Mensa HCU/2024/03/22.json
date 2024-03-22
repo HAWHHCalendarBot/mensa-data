@@ -1,17 +1,20 @@
 [
 	{
-		"Name": "Gnocchi mit Kirschtomaten, Champignons und Thymian, hausgemachtes Pesto Genovese (vegan)",
+		"Name": "Butterspätzle mit Petersilie (Ei,Mi,GlW), und cremiger Pilzsauce (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-03-22",
-		"Additives": {},
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Gemüsegulasch (Sl), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-22",
 		"Additives": {
@@ -25,14 +28,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kidneybohnen-Frikadelle (Sl,GlW,GlH), gebratene Zwiebeln, Kräuterquark (Mi), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Erbsen-Quinoa-Frikadelle, gebratene Zwiebeln, Kräuterquark (Mi), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-03-22",
 		"Additives": {
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 7.8,
