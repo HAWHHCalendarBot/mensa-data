@@ -15,17 +15,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milchreis (Mi), Apfelkompott (3)",
+		"Name": "gerösteter Broccoli, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-04",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2024-04-04",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), Kartoffelpüree (Mi)",
@@ -41,22 +57,20 @@
 		"Pig": true
 	},
 	{
-		"Name": "veganer Burger Pulled BBQ (2,3,9,So,Sf,Sw,GlW,GlH), Spicy Wedges",
-		"Category": "CampusVital",
+		"Name": "Grillgemüse Burger (3,Se,Sw,GlW,GlH), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
 		"Date": "2024-04-04",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
 		"LactoseFree": true,
 		"Vegan": true
 	}

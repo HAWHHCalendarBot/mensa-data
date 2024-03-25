@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Chili sin carne (So,Sl)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-03-25",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 2.9,
-		"PriceGuest": 3.9,
-		"PriceStudent": 1.7,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "LowBowl Szegediner Art mit Sauerkraut, Kartoffeln und Tofu (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-03-25",
@@ -26,5 +12,33 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Chili sin carne (So,Sl), Reis",
+		"Category": "CampusKlassiker",
+		"Date": "2024-03-25",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.1,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rindfleischburger mit Guacamole,gebackene Zwiebelringe (3,Mi,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-03-25",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.3,
+		"Beef": true
 	}
 ]
