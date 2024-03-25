@@ -50,6 +50,21 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Graupentopf mit Kartoffeln und Gemüse (Sl,Sw,GlG)",
+		"Category": "Pottkieker",
+		"Date": "2024-04-03",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hausgemachte Pasta (GlW), Bolognese (Sl), Hartkäse (2,Ei,Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-04-03",
@@ -64,5 +79,44 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Beef": true
+	},
+	{
+		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,So,Mi,Sl,Sf,GlW)",
+		"Category": "CampusVital",
+		"Date": "2024-04-03",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"Poultry": true
+	},
+	{
+		"Name": "veganer Grillteller (2,So,GlW,GlG), Ajvar Dip (3,So,Sf), Reis, bunter Weißkrautsalat (3,5,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-03",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
