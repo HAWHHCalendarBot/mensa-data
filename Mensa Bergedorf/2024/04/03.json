@@ -47,7 +47,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Graupentopf mit Kartoffeln und Gemüse (Sl,Sw,GlG)",
+		"Name": "Graupentopf mit Gemüse (Sl,Sw,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2024-04-03",
 		"Additives": {
@@ -79,24 +79,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "veganer Grillteller (2,So,GlW,GlG), Ajvar Dip (3,So,Sf)",
-		"Category": "CampusWorld",
-		"Date": "2024-04-03",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.7,
-		"PriceGuest": 5.7,
-		"PriceStudent": 3.5,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Putengulasch (Mi,Sl,GlW), Reis",
 		"Category": "CampusKlassiker",
 		"Date": "2024-04-03",
@@ -109,5 +91,26 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Poultry": true
+	},
+	{
+		"Name": "veganer Grillteller (2,So,GlW,GlG), Ajvar Dip (3,So,Sf), Krautsalat (3,5,Sw), Fladenbrot (Se,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-03",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
