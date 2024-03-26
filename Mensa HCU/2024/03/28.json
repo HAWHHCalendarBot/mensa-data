@@ -1,14 +1,19 @@
 [
 	{
-		"Name": "Gnocchi mit Kirschtomaten, Champignons und Thymian, hausgemachtes Pesto Genovese (vegan)",
+		"Name": "Käsespätzle mit Röstzwiebeln (Ei,Mi,GlW), Salat (Sf,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-03-28",
-		"Additives": {},
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",

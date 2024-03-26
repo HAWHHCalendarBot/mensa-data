@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-03-26",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-03-26",
@@ -22,6 +11,34 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gemüse des Tages, Kartoffel-Kürbis-Ragout (Sl), Grilltomate (Mi), gebackene Süsskartoffel, pikantes Möhrengemüse (Sl), gebratene Champignons (Sw), gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2024-03-26",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüse des Tages, Kartoffel-Kürbis-Ragout (Sl), Grilltomate (Mi), gebackene Süsskartoffel, pikantes Möhrengemüse (Sl), gebratene Champignons (Sw), gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2024-03-26",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
