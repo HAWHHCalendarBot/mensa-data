@@ -1,5 +1,17 @@
 [
 	{
+		"Name": "Ofenkartoffel mit Spinat und Cherrytomaten (Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-04-05",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Mac and Cheese (1,Mi,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-05",
@@ -46,15 +58,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ofenkartoffel mit Spinat und Cherrytomaten überbacken (Mi)",
-		"Category": "CampusVital",
+		"Name": "VEGAN Chili Fries sin carne (Pommes mit Chili und Sojadip) (So,Sl)",
+		"Category": "CampusSpezial",
 		"Date": "2024-04-05",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 4.5,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.2,
-		"Vegetarian": true
+		"PriceAttendant": 6.2,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
