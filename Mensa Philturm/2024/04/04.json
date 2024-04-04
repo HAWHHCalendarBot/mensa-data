@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit orientalischer Tomaten-Paprikasauce (Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-04-04",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +14,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Brechbohnen mit Sesam (2,So,Se,GlW), Weißkohl mit Cranberries, Kräuterkartoffeln, gerösteter Broccoli, Asiagemüse (So), gebratener Pak Choi (2,So,GlW,NCa)",
+		"Category": "Gemüsebar",
 		"Date": "2024-04-04",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
