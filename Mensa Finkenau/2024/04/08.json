@@ -24,19 +24,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-04-08",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-04-08",
@@ -48,6 +35,21 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl), Fusilli (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-04-08",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -64,20 +66,5 @@
 		"PriceGuest": 7.3,
 		"PriceStudent": 4.8,
 		"Poultry": true
-	},
-	{
-		"Name": "Soja-Bolognese mit Gemüse (So,Sl), bunte Fusilli (GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-04-08",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 7.3,
-		"PriceStudent": 4.8,
-		"LactoseFree": true,
-		"Vegan": true
 	}
 ]
