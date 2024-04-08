@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Name": "salsa di pomodoro con aglio mit Tomaten und Knoblauch",
 		"Category": "Pastabar",
 		"Date": "2024-04-08",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -13,37 +11,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
+		"Name": "Hähnchenstreifen in Sahnesoße (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-04-08",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Mais (1), Blumenkohl natur (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln,  gebratene Champignons",
 		"Category": "Gemüsebar",
 		"Date": "2024-04-08",
 		"Additives": {
 			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-04-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Pig": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
