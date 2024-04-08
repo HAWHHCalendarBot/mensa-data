@@ -88,6 +88,19 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Pizza Margherita Large (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-08",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Gebackene Blattspinat-Quiche mit frischem Blattsalat (2,5,Ei,Mi,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-04-08",
@@ -105,6 +118,36 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Pizza Margeritha vegan Large (1,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-08",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pizza Salami Large (1,2,3,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-08",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Pig": true
+	},
+	{
 		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (Mi), glasierte Honigmöhren, Gemüse Bulgur (Sl,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-04-08",
@@ -117,5 +160,20 @@
 		"PriceGuest": 7.3,
 		"PriceStudent": 4.8,
 		"Poultry": true
+	},
+	{
+		"Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Ei,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"Vegetarian": true
 	}
 ]
