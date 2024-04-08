@@ -1,5 +1,36 @@
 [
 	{
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-04-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Germknödel gefüllt mit Pflaumenmus (Ei,Mi,GlW), Vanillesoße (Mi)",
+		"Category": "Pottkieker",
+		"Date": "2024-04-15",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Tortellini mit Rinderhackfüllung (GlW), Tomatensoße",
 		"Category": "CampusKlassiker",
 		"Date": "2024-04-15",
@@ -11,5 +42,22 @@
 		"PriceStudent": 2.95,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Wok-Gemüse, Reis",
+		"Category": "CampusWorld",
+		"Date": "2024-04-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

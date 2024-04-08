@@ -1,5 +1,37 @@
 [
 	{
+		"Name": "Bolognese (Sl), Maccaroni (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-04-17",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2024-04-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf)",
 		"Category": "CampusVital",
 		"Date": "2024-04-17",
@@ -13,5 +45,20 @@
 		"PriceStudent": 2.5,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2024-04-17",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
