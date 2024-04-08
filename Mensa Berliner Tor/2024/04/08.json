@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "Blumenkohl, buntem Gemüse, Kroketten (GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-04-08",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
@@ -13,11 +13,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Geflügelrahmsoße mit Hähnchenstreifen (Mi), Penne (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-04-08",
 		"Additives": {
-			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Rahmsoße (Mi,Sl,GlW), Penne (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-04-08",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -28,22 +40,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Name": "Mac and Cheese (1,Mi,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-08",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Pig": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
