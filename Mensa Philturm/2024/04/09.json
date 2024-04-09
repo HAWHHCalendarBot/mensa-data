@@ -1,21 +1,28 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-04-09",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Cherrytomaten und Kräuterpesto (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-09",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, Chilli-Brechbohnen (2), gebratene Honig-Karotten, Asiagemüse (So), gebratener Pak Choi (2,So,GlW), Ratatouille (Sl,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -36,12 +43,16 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (Mi), Bukhari Dajaj - Orientalischer Gewürzreis",
+		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (Mi,Se), Bukhari Dajaj - Orientalischer Gewürzreis (Sl,Sf,GlW,NMa)",
 		"Category": "CampusVital",
 		"Date": "2024-04-09",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
@@ -49,13 +60,15 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (2,So,Mi,GlW), Salzkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2024-04-09",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
