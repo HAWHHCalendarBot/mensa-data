@@ -77,5 +77,34 @@
 		"PriceGuest": 5.65,
 		"PriceStudent": 3.3,
 		"Beef": true
+	},
+	{
+		"Name": "Hirtenkäse mit mediterranem Gemüse (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2024-04-15",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.15,
+		"PriceStudent": 3.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.15,
+		"PriceStudent": 3.8,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
