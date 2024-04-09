@@ -1,5 +1,30 @@
 [
 	{
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-04-10",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Crema di fagioli bianchi mit getrocknetem Tomaten, Basilikum und weißen Bohne (Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-04-10",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Karotten Rustica, Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
 		"Category": "Gemüsebar",
 		"Date": "2024-04-10",
@@ -13,34 +38,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-04-10",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Mi,Sl), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-04-10",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Südstaaten Jambalaja (Sl,Sw)",
+		"Name": "Pikantes Südstaaten Jambalaja mit Reis, Gemüse und Chili (Sl,Sw)",
 		"Category": "CampusVital",
 		"Date": "2024-04-10",
 		"Additives": {
@@ -52,6 +50,19 @@
 		"PriceStudent": 2.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Bulgursalat mit Basilikum, confierter Cherrytomate, Mozzarella und Rucola (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-04-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Penne mit frischem Gemüse, Walnusspesto und Parmesan (1,2,3,5,Mi,Sw,GlW,NWa)",
