@@ -11,15 +11,76 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "all`Arrabbiata mit scharfer Tomatensoße und Sojastreifen (So,Sl), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-15",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tofu-Gemüse-Topf (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2024-04-15",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchen Tikka Masala mit Joghurt (Mi,Sf), Kräuterreis",
+		"Category": "CampusVital",
+		"Date": "2024-04-15",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"Poultry": true
+	},
+	{
+		"Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (So,Sl,GlW)",
+		"Category": "CampusVital",
+		"Date": "2024-04-15",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Wok-Gemüse, Reis",
+		"Category": "CampusWorld",
+		"Date": "2024-04-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Vegan": true
 	}
