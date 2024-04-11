@@ -1,22 +1,6 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-04-11",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-11",
 		"Additives": {
@@ -31,14 +15,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
+		"Name": "Geflügelrahmsoße mit Hähnchenbruststreifen (3,8,Mi,Sw), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-04-11",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Knoblauch Karotten aus dem Ofen (1,2,5,So,Sw,GlW), Broccoli, Reispfanne mit Sojastreifen und buntem Gemüse (Ei,Se), Frühlingsgemüse in Rahm (So)",
 		"Category": "Gemüsebar",
 		"Date": "2024-04-11",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -46,7 +48,7 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
