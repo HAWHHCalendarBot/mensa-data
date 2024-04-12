@@ -25,10 +25,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-04-12",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
@@ -62,5 +66,23 @@
 		"PriceStudent": 3.1,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei), frisches Gemüse aus dem Wok (2,Sw), rote Currysoße und geschmorter Tofu (3,So,Sl)",
+		"Category": "CampusVital",
+		"Date": "2024-04-12",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.15,
+		"LactoseFree": true,
+		"Vegetarian": true
 	}
 ]
