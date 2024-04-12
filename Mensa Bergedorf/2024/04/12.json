@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Pasta Pesto (Mi,GlW,NCa)",
+		"Category": "Pastabar",
+		"Date": "2024-04-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta Saporita mit Soja und Pilzen (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-12",
@@ -28,22 +42,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Pasta Crema di funghi ostrica mit Austernpilze in Sahnesoße (So,Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2024-04-12",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",
