@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Belugalinsen und geräucherten Tofuwürfeln (So,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-04-12",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +15,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta mit Belugalinsen und geräucherten Tofuwürfeln (GlW)",
-		"Category": "Pastabar",
+		"Name": "vegane Schupfnudeln mit Kaisergemüse (Sl,GlW), Kräuterkartoffeln, Sellerie-Shawarma (Sl), Edamame (So), Gebratene Sprossen (2,So,Se,GlW), gebratene Aubergine mit Knoblauch (3,Sw)",
+		"Category": "Gemüsebar",
 		"Date": "2024-04-12",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -38,10 +48,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Geschmortes Masala - Champignoncurry (Sw), Basmatireis",
+		"Name": "Geschmortes Masala - Champignoncurry (2,So,Sl,Sw,GlW), Basmatireis",
 		"Category": "CampusVital",
 		"Date": "2024-04-12",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.1,
