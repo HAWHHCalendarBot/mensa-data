@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Pesto und Cherrytomaten (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-04-15",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Röstkartoffeln, gebratene Zucchini, gebackene Aubergine (Sw), Süßkartoffeln, Quinoa Erbsen Bratling, gebratene Zucchini",
+		"Category": "Gemüsebar",
 		"Date": "2024-04-15",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Röstkartoffeln, gebratene Zucchini, gebackene Aubergine (Sw), Süßkartoffeln, Quinoa Erbsen Bratling, gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-15",
+		"Additives": {
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -52,12 +67,14 @@
 		"Pig": true
 	},
 	{
-		"Name": "Frisches Wokgemüse mit Teriyaki - Soße, Koriander und Basmaitreis (2,So,Sw,GlW)",
+		"Name": "Frisches Wokgemüse mit Teriyaki - Soße, Koriander und Basmaitreis (2,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-04-15",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -68,12 +85,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratene Hähnchenstreifen mit frischem Wokgemüse, Teriyakisoße, Koriander und Basmaitreis (2,So,Sw,GlW)",
+		"Name": "Gebratene Hähnchenstreifen mit frischem Wokgemüse, Teriyakisoße, Koriander und Basmaitreis (2,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-04-15",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
