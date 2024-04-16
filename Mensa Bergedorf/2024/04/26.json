@@ -1,21 +1,63 @@
 [
 	{
-		"Name": "Brotsalat mit Hirtenkäse und Gemüserelish (3,5,9,Mi,Sl,Sf,Sw,GlW)",
-		"Category": "CampusSpezial",
+		"Name": "Broccoli e pomodoro mit Broccoli und Tomate (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-04-26",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-04-26",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Brechbohne, Kidneybohnen in Erdnußcreme, kandierte Chili Erdnüsse (2,En,So,GlW), gebratene Paprika (1,5,Sw), spanisches Kartoffelgemüse",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-26",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2024-04-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.4,
-		"Vegetarian": true
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
