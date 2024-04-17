@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Kokos Milchreis Vegan (3,So), Apfelkompott (3), Zimt und Zucker",
+		"Name": "Veganer Kokosmilch-Reis (3,So), Apfelkompott (3), Zimt und Zucker",
 		"Category": "Pottkieker",
 		"Date": "2024-04-19",
 		"Additives": {
@@ -10,6 +10,24 @@
 		"PriceAttendant": 3.1,
 		"PriceGuest": 3.8,
 		"PriceStudent": 1.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "WarmBowl Kokos-Curry (3,Sl), Gemüse &amp; Nudeln (2,So,Sl,Se,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2024-04-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -28,18 +46,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Falafel-Teller mit Ofengemüse &amp; Pommes frites (GlW), Tofunese (So,Sf)",
+		"Name": "Falafel-Teller mit Ofengemüse &amp; Pommes frites (GlW), pikante Mayonnaise mit Ei (Ei,So,Mi,Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-04-19",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.7,
 		"PriceStudent": 4.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]

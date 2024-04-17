@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Broccoli, Süßkartoffeln, gerösteter Blumenkohl, Gartengemüse (Sl), Kräuterkartoffeln, gebackene Aubergine (Sw,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-04-17",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +15,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta orientalischer Tomaten-Parprikasauce (2,So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-17",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -58,7 +65,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,So,GlW)",
+		"Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,So,GlW), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2024-04-17",
 		"Additives": {

@@ -14,7 +14,22 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), Brechbohnen, Edamame (So)",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Süßkartoffelwürfel gebacken",
 		"Category": "Pastabar",
 		"Date": "2024-04-17",
 		"Additives": {
@@ -27,22 +42,6 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
-	},
-	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Edamame (So)",
-		"Category": "Gemüsebar",
-		"Date": "2024-04-17",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
@@ -105,6 +104,23 @@
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Schaschliksoße (9,Sl), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-04-17",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Poultry": true
 	}
