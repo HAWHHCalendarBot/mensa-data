@@ -1,27 +1,35 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-04-18",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Zucchini,Mozzarella in Basilikumpesto (2,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-18",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "mexikanisches Bohnengemüse (2,3,8), gebratene Zucchini, gebackene Aubergine (Sw,GlW), gerösteter Blumenkohl, Süßkartoffeln, Kräuterkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (So,Sl,Sf,GlW), Reis",
@@ -74,6 +82,21 @@
 		"PriceGuest": 7.9,
 		"PriceStudent": 5.4,
 		"Fish": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pikantes Rindfleischcurry Massaman mit Kartoffeln, Karotten und Mungsprossen (2,So,GlW), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2024-04-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"Beef": true,
 		"LactoseFree": true
 	}
 ]
