@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
-		"Category": "Pastabar",
+		"Name": "Kartoffelgratin (Ei,Mi)",
+		"Category": "Gemüsebar",
 		"Date": "2024-04-19",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
@@ -14,15 +13,26 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
+		"Name": "Pikantes Sojagemüse (2,Sl), Reis",
 		"Category": "Pastabar",
 		"Date": "2024-04-19",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Lauch-Käse-Kräuter Soße (1,So), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-04-19",
+		"Additives": {
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -32,7 +42,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
+		"Name": "Rosenkohl (Mi), frisches Wok-Gemüse Lauch, Paprika und Champignons (2,Sw), buntes Gemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Linsensuppe mit Mango und Tofuwürfeln (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-04-19",
 		"Additives": {
@@ -45,12 +70,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Würzige Thai-Soja-Bolognese (2,So,GlW), Mie-Nudeln (Ei,GlW)",
+		"Name": "Würzige Thai-Soja-Geschnetzeltes (2,So,GlW), Reis",
 		"Category": "CampusWorld",
 		"Date": "2024-04-19",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -58,7 +82,7 @@
 		"PriceGuest": 5.8,
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	},
 	{
 		"Name": "Wrap mit Glasnudeln und Sonnenblumenhack (2,So,Sl,Sf,Sw,GlW)",

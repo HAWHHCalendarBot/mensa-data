@@ -1,20 +1,15 @@
 [
 	{
-		"Name": "Gemüse des Tages, Zucchini, gebackene Süßkartoffel, Blumenkohl",
+		"Name": "Zucchini, Sesammöhrchen (Se), Blumenkohl, gebackene Süßkartoffel, Pasta Nudelauflauf (GlW), Würzige Thai-Soja-Bolognese (2,So,GlW), Brat-Curryreis (Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2024-04-19",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Gemüse des Tages, Zucchini, gebackene Süßkartoffel, Blumenkohl",
-		"Category": "Gemüsebar",
-		"Date": "2024-04-19",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -53,21 +48,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
-		"Category": "Pottkieker",
-		"Date": "2024-04-19",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 3.4,
-		"PriceGuest": 4.1,
-		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pikantes Rührei mit Libanesischen Kartoffeln (Ei,Se)",
 		"Category": "CampusVital",
 		"Date": "2024-04-19",
@@ -96,5 +76,22 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-04-19",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
