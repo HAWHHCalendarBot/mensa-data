@@ -123,26 +123,38 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Spicy Pastrami Bowl mit Rinds-Pastrami, Reis, Rotkohl, Erbsen, Madras-Kürbis, Wurzelgemüse, Wasabi (1,2,3,5,Ei,En,So,Sl,Sf,Sw,GlW)",
+		"Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (2,Ei,Mi,Sl,Sf,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-04-25",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
 			"Ei": "Ei und Eierzeugnisse",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 6.5,
+		"PriceStudent": 5.2,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Ei,So,Mi,Sl,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-04-25",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 7.3,
-		"PriceGuest": 7.9,
-		"PriceStudent": 6.6,
-		"Beef": true,
-		"LactoseFree": true
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.3,
+		"PriceStudent": 6.0,
+		"Poultry": true
 	}
 ]
