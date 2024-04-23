@@ -1,16 +1,17 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (1)",
 		"Category": "Gemüsebar",
 		"Date": "2024-04-23",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"1": "Farbstoff",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
@@ -27,7 +28,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Bratkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2024-04-23",
 		"Additives": {
@@ -93,83 +94,6 @@
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
 		"Poultry": true
-	},
-	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2024-04-23",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2024-04-23",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
-		"Alcohol": true,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Spargel mit Vinaigrette (3,5,Sw), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2024-04-23",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Knackiger Spargelsalat (3,5,Sf,Sw)",
-		"Category": "CampusSpezial",
-		"Date": "2024-04-23",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Spargel mit Remoulade, Remoulade (1,3,9,Ei,Mi,Sf,Sw), Garnitur für kalte Teller",
-		"Category": "CampusSpezial",
-		"Date": "2024-04-23",
-		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
