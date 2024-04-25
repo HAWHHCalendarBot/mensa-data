@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-04-25",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-25",
@@ -18,6 +7,22 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili con Corn (Sl,GlD), Kräuterbohnen, Paprika-Zwiebelgemüse, Kürbisgemüse mit Zwiebeln und Knoblauch, Grünkohl-Topping, gebackene Aubergine (Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-25",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
