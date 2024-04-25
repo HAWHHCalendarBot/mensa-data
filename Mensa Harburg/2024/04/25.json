@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi), bunte Fusilli (GlW)",
+		"Name": "Kartoffelauflauf mit Broccoli (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-04-25",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Salsa rucola di pollo mit Putenstreifen in Sahnesoße (Mi), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-25",
 		"Additives": {
@@ -13,12 +26,26 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
+		"Name": "Tomaten Belugalinsenragout (Sl,GlW), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-25",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta salsa di noci mit Paprika-Erdnuss-Soße, getrocknete Tomaten (En,Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-04-25",
+		"Additives": {
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
