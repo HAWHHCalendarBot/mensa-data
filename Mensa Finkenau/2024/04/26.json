@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-04-26",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-04-26",
@@ -23,6 +12,31 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "geschmorter Sellerie (Sl,Sw), Kürbisgemüse mit Zwiebeln und Knoblauch, Grünkohl-Topping, Kräuterbohnen, gerösteter Blumenkohl, Blechkartoffeln, Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Ei,En,",
+		"Category": "Gemüsebar",
+		"Date": "2024-04-26",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
