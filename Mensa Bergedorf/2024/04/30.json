@@ -45,10 +45,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
+		"Name": "LowBowl mit Nudeln, Erbsen, Kürbis und Kokos (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-04-30",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -70,18 +71,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW)",
+		"Name": "Gebratenes Seelachsfilet mit Kräuterkruste (Fi,Mi,GlW), Kartoffelgratin (Ei,Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2024-04-30",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"Fi": "Fisch und Fischerzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.3,
-		"PriceStudent": 3.1,
-		"Fish": true,
-		"LactoseFree": true
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.15,
+		"PriceStudent": 3.8,
+		"Fish": true
 	},
 	{
 		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (Mi), Bukhari Dajaj - Orientalischer Gewürzreis",
@@ -97,7 +99,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "vegane Tom Kha Gai Suppe mit Tofu und Basmatireis (2,3,So,Sw,GlW)",
+		"Name": "vegane Tom Kha Gai Suppe mit Tofu und bunten Glasnudeln (2,3,So,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-04-30",
 		"Additives": {
