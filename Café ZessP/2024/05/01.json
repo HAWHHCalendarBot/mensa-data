@@ -65,21 +65,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pesto Rosso (Mi,GlW,NCa)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-05-01",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.2,
-		"PriceStudent": 3.9,
-		"Beef": true
-	},
-	{
 		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-05-01",
@@ -98,6 +83,24 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Baked Potato \"Italian\" Grillgemüse, Feta, Rucola, Sonnenblumenkerne, Sour Cream (3,4,Ei,So,Mi,Sf,Sw)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-05-01",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 5.6,
+		"PriceStudent": 4.3,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Gransole mit Ricottafüllung, Basilkum und Zitrusfrucht (Ei,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-05-01",
@@ -112,38 +115,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (2,Ei,Mi,Sl,Sf,GlW)",
+		"Name": "Chicken Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Hummus, Süßkartoffel, Karachi-Dressing (So,Sl,Sf,Se,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-05-01",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 6.5,
-		"PriceStudent": 5.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Ei,So,Mi,Sl,Sf,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-05-01",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.3,
-		"PriceStudent": 6.0,
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.0,
+		"PriceStudent": 5.7,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
