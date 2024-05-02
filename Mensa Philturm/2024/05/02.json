@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "gerösteter Broccoli, gebratene Champignons, Kräuterkartoffeln, Süßkartoffeln, gebratene Karotten, gerösteter Blumenkohl",
-		"Category": "Gemüsebar",
-		"Date": "2024-05-02",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta mit Tomaten-Paprikasauce und Hirtenkäse (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-02",
@@ -23,6 +12,21 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Kichererbsencurry, Kräuterkartoffeln, Süßkartoffeln, gebratene Paprika (1,5,Sw), gerösteter Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-02",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW), Pasta (GlW)",
