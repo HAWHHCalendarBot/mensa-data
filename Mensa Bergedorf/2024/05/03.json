@@ -1,11 +1,41 @@
 [
 	{
-		"Name": "Pasta Saporita mit Soja und Paprika (So,Sl,GlW)",
+		"Name": "Pasta Pesto di noci e pomodoro mit Pesto von Walnuss und Tomate (Mi,GlW,NHa)",
 		"Category": "Pastabar",
 		"Date": "2024-05-03",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,GlW,NHa)",
+		"Category": "Pastabar",
+		"Date": "2024-05-03",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "bunte Sesam Glasnudel (2,So,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-03",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -13,21 +43,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Pasta Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2024-05-03",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1,2,So), Kartoffelgratin (Ei,Mi)",
@@ -75,28 +90,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "One Pot Quinoa (3,Sl,GlH)",
-		"Category": "CampusSpezial",
-		"Date": "2024-05-03",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 5.6,
-		"PriceStudent": 3.1,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Kidneybohnen-Frikadelle (Sl,GlW,GlH), Grünkohl (Sl,Sf), Nusskartoffeln",
+		"Name": "Kidneybohnen-Frikadelle (Sl,GlW,GlH), Rahmwirsing, Nusskartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-05-03",
 		"Additives": {
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
