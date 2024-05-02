@@ -31,15 +31,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, gebratene Champignons (Mi,Sw)",
+		"Name": "Tomaten Belugalinsenragout (Sl), Spitzkohl in Rahm (So), Pestokartoffeln, gebratene Champignons (Mi,Sw), Fenchel-Tomaten-Bulgur (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-02",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -99,7 +97,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Ei,Mi,Sf,Se,Sw,GlW), Pommes Frites (Sf)",
+		"Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Ei,Fi,Mi,Sf,Se,Sw,GlW), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-05-02",
 		"Additives": {
@@ -108,6 +106,7 @@
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
@@ -117,6 +116,7 @@
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
 		"PriceStudent": 4.0,
-		"Beef": true
+		"Beef": true,
+		"Fish": true
 	}
 ]
