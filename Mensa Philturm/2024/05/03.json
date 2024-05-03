@@ -1,17 +1,20 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, gerösteter Blumenkohl (Se), gebratene Zucchini, gebratene Champignons (Sw), Erbsen (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-03",
-		"Additives": {},
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Cherrytomaten und Tomatenpesto (Mi,Sl,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-05-03",
 		"Additives": {
