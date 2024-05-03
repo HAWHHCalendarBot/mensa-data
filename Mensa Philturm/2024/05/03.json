@@ -24,10 +24,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Blumenkohl Korma (2,En,So,Sl,Se,GlW), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-05-03",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
