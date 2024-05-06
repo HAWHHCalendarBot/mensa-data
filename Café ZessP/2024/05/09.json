@@ -118,20 +118,38 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Chicken Shawarma Bowl mit Bulgur, Blumenkohl, Rübengemüse, Hummus, Süßkartoffel, Karachi-Dressing (So,Sl,Sf,Se,GlW)",
+		"Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (2,Ei,Mi,Sl,Sf,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-05-09",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 6.5,
+		"PriceStudent": 5.2,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Ei,So,Mi,Sl,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-05-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.4,
-		"PriceGuest": 7.0,
-		"PriceStudent": 5.7,
-		"LactoseFree": true,
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.3,
+		"PriceStudent": 6.0,
 		"Poultry": true
 	}
 ]
