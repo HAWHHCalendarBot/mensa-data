@@ -51,21 +51,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Carbonara Soße (1,2,3,8,Mi,GlW)",
+		"Name": "Bolognese Soße (Sl,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-05-08",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
-		"Pig": true
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
@@ -116,40 +114,5 @@
 		"PriceStudent": 5.0,
 		"LactoseFree": true,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (2,Ei,Mi,Sl,Sf,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-05-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 6.5,
-		"PriceStudent": 5.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Ei,So,Mi,Sl,Sf,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-05-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.3,
-		"PriceStudent": 6.0,
-		"Poultry": true
 	}
 ]
