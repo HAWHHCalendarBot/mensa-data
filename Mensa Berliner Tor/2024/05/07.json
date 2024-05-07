@@ -1,24 +1,26 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Bratkartoffeln mit, Frikadellen-Streifen (Ei,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-07",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Beef": true,
 		"LactoseFree": true,
-		"Poultry": true
+		"Pig": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "Broccoli natur, vegan, Prinzessbohnen, Schupfnudeln (GlW), Gemüsereis (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2024-05-07",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -27,15 +29,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW), Schwarzwurzeln in Rahm (Mi,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit (GlW), Putengulasch (Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-05-07",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta con Crema di funghi mit Champignons in Cremesoße (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-07",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
