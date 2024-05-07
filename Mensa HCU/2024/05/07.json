@@ -1,17 +1,32 @@
 [
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Brokkoli-Edamame-Curry mit Udonnudeln (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-07",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Strozzapreti (GlW), a la \"Primavera\" mit Auberginen, Tomaten, Zucchini und Kapern (Mi,Sw)",
+		"Category": "Pastabar",
+		"Date": "2024-05-07",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -24,20 +39,6 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Brokkoli-Edamame-Curry mit Reisnudeln (So,Sl)",
-		"Category": "CampusVital",
-		"Date": "2024-05-07",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.1,
 		"LactoseFree": true,
 		"Vegan": true
 	},

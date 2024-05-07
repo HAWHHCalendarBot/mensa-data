@@ -30,6 +30,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, Kohlrabi in Rahm (Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-05-07",
@@ -42,6 +58,21 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-07",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"Poultry": true
 	},
 	{
 		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Fladenbrot (Se,GlW)",
@@ -63,6 +94,20 @@
 		"PriceStudent": 3.8,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Vegetarische Paella mit Quorn (Ei,Sl)",
+		"Category": "CampusVital",
+		"Date": "2024-05-07",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gemischter Salat mit gebratenem Cajun-Hähnchen, Quinoa-Vollkornreis,Cranberries und Mangodressing (3,5,Sf,Sw)",
