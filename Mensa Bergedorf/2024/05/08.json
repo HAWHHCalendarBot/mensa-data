@@ -1,35 +1,20 @@
 [
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
+		"Name": "Pasta mit Rind und Gemüse (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-08",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
+		"Beef": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-		"Category": "Gemüsebar",
-		"Date": "2024-05-08",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Pasta Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-05-08",
 		"Additives": {
@@ -42,6 +27,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), Grillgemüse mit Quinoa, gebratener Pak Choi (2,So,GlW), Karotten-Ingwer Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-08",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (So,Sl,Sw,GlW)",
@@ -106,7 +107,7 @@
 		"PriceGuest": 5.95,
 		"PriceStudent": 3.6,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	},
 	{
 		"Name": "Currybratwurst (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",

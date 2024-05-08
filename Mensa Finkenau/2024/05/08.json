@@ -1,29 +1,38 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-05-08",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (So,Mi,Sw,GlW,GlG), Maccaroni (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-08",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (So,Sw,GlW,GlG), gerösteter Blumenkohl, Chinagemüse (2,So,GlW), Erbsen (1), geschmorter Sellerie (Sl,Sw), gebratene Karotten",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-08",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "LowBowl mit Süßkartoffel und Räuchertofu (So,Sl,Sw,GlW)",
@@ -58,7 +67,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften und Gorgonzolakäse (3,Ei,Mi,GlW), Pfeffer Knoblauchmayonaise (1,3,9,Ei,Mi,Sf), Röstiecken",
+		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften und Gorgonzolakäse (3,Ei,Mi,GlW), Pfeffer Knoblauchmayonaise (1,3,9,Ei,Mi,Sf), Belgische Pommes",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-08",
 		"Additives": {
