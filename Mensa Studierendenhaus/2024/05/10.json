@@ -18,18 +18,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maisgemüse in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Kartoffelgratin (Ei,Mi)",
+		"Name": "Maisgemüse in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-10",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomatisierte Pilzsoße (2,3,5,Mi,Sw,GlW,GlG), Kartoffelgratin (Ei,Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-05-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -71,32 +89,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne alla Norma mit Auberginen-Tomatensoße und Ricotta (Mi,Sw,GlW)",
-		"Category": "CampusWorld",
+		"Name": "Pfannengemüse mit Kartoffeln und Quinoa, Tomaten-Paprika-Salsa (4)",
+		"Category": "CampusVital",
 		"Date": "2024-05-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"4": "Geschmacksverstärker"
 		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6.0,
-		"PriceStudent": 3.5,
-		"Vegetarian": true
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Veganes Knusperschnitzel (GlW), Korianderdip (So), Karotten (1), Kartoffelspalten (GlW)",
+		"Name": "Veganes Knusperschnitzel oder (GlW), Blumenkohl-Käse-Bratling (Ei,Mi,GlW), Knoblauchdip (So), Karotten (1), Kartoffelspalten (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-10",
 		"Additives": {
 			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]

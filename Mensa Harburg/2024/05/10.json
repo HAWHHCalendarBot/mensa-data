@@ -1,10 +1,24 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken mit Spätzle (Ei,Mi,GlW)",
-		"Category": "Pastabar",
+		"Name": "Spätzlegratin mit Käse überbacken (Ei,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-05-10",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Käsesauce mit Pilzen (1,Mi), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-10",
+		"Additives": {
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -12,6 +26,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Fingermöhrchen, Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Gemüsecouscous pikant (Sl,GlW), Antipasti misti frisch (6,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-10",
+		"Additives": {
+			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Pasta (GlW)",
@@ -32,26 +63,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maisgemüse in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Gemüse Sesamreis (Se), Kartoffelgratin (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2024-05-10",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Sojageschnetzeltes in Currysoße (So,Sl,Sf,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-05-10",
@@ -64,6 +75,21 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili sin carne (So,Sl), vegane Mi-Nudeln (So,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-05-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -98,25 +124,6 @@
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "vegane Sesamnudeln mit Spargel und Pilzen (2,3,5,So,Se,Sw,GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-05-10",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
 		"LactoseFree": true,
 		"Vegan": true
 	}
