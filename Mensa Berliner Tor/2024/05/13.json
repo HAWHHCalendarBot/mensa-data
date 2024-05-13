@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, Kohlrabi in Rahm (Mi,GlW)",
+		"Name": "Gemüsereis mit Hähnchen",
+		"Category": "Pastabar",
+		"Date": "2024-05-13",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Aubergine natur, vegan (1), Broccoli, vegan, Röstiecken, vegan",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-13",
 		"Additives": {
@@ -13,20 +24,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Pasta (GlW), Putengulasch (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-13",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
+		"Name": "Pasta con Crema di spinaci mit Spinat in Käse-Sahnesoße (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-13",
 		"Additives": {
@@ -37,7 +49,7 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw)",
