@@ -27,6 +27,20 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Vegetarische Paella mit Quorn (Ei,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-05-14",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-05-14",
@@ -54,6 +68,18 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schweinenackensteak, Kräuterbutter (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-05-14",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.5,
+		"Pig": true
 	},
 	{
 		"Name": "Veganer Shepherd's Pie (1,So,Sl,Sf,Sw,GlW)",
