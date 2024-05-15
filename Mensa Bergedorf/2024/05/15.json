@@ -1,18 +1,16 @@
 [
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
+		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, gebratenem Wirsing, gebratene Zucchini, Sesamkarotten (Se), Gartenbohnen mit Pfifferlingen",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-15",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW)",
@@ -31,6 +29,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-05-15",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
 		"Name": "Thailändische Curry-Linsen Suppe (Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-05-15",
@@ -41,6 +55,23 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüse Bulgur (Sl,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-15",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.15,
+		"PriceGuest": 6.25,
+		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -59,36 +90,21 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), Gemüse Bulgur (Sl,GlW), veganes Tzatziki (So,Sf)",
-		"Category": "CampusSpezial",
+		"Name": "veganer Grillteller (2,So,GlW,GlG), Salat (Sf,Sw), Pommes Frites (Sf), Ajvar Dip (3,So,Sf)",
+		"Category": "CampusWorld",
 		"Date": "2024-05-15",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), Gemüse Bulgur (Sl,GlW), veganes Tzatziki (So,Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2024-05-15",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
 		"LactoseFree": true,
 		"Vegan": true
 	}
