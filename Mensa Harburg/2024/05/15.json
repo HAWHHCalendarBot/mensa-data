@@ -1,13 +1,13 @@
 [
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
-		"Category": "Pastabar",
+		"Name": "Dicke Bohnen, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Zartweizen mit Gemüse (GlW), gebratene Karotten, gebratener Wirsing",
+		"Category": "Gemüsebar",
 		"Date": "2024-05-15",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -16,32 +16,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
+		"Name": "Geflügelsauce Döner Style mit Tomaten (So,Mi,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-15",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
+		"Poultry": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen, Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-05-15",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -65,27 +62,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Champignonrahmsoße (Mi,Sl,GlW), Röstkartoffeln",
+		"Name": "Putensteak, Paprikasoße, Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-05-15",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
+		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
+		"Name": "Ägyptische Falafel mit Tahini und Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous mit Mandeln, Pininienkernen und Rosinen (Sl,GlW,NMa), Rotkrautsalat (3)",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-15",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",

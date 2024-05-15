@@ -1,15 +1,16 @@
 [
 	{
-		"Name": "Conchiglie mit Brunnenkresse (GlW), mit Kochschinken und Erbsen in Sahnesauce (2,3,8,Mi,GlW,GlG)",
+		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-15",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -17,12 +18,12 @@
 		"Pig": true
 	},
 	{
-		"Name": "Graupentopf mit Kartoffeln und Gemüse (Sl,Sw,GlG)",
+		"Name": "Kartoffel-Gemüsecurry mit Sojastreifen (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-05-15",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
@@ -32,7 +33,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,So,Mi,Sl,Sf,GlW)",
+		"Name": "All in one pot: Reis, Tandoori Chicken, Avocado, Kichererbsen, Cranberries, Dip (1,2,3,So,Mi,Sl,Sf,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-05-15",
 		"Additives": {
@@ -51,16 +52,15 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Bunte Gnocchi mit Champignons und Kräutern, Joghurt-Dip (Mi)",
+		"Name": "Bunte Gnocchi mit Champignons in Gemüsesugo mit Brunnenkressepesto",
 		"Category": "CampusVital",
 		"Date": "2024-05-15",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
+		"Additives": {},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 9.0,
 		"PriceStudent": 4.5,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
