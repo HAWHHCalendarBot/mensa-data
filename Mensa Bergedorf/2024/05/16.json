@@ -1,18 +1,7 @@
 [
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl",
+		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl in Rahm (Mi,GlW)",
 		"Category": "Gemüsebar",
-		"Date": "2024-05-16",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Pasta Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,GlW)",
-		"Category": "Pastabar",
 		"Date": "2024-05-16",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
@@ -21,7 +10,7 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,GlW,NHa)",
@@ -37,6 +26,26 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Beef Banh Mi mit Gemüse und Udon Nudeln (1,2,Fi,So,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Alcohol": true,
+		"Beef": true,
+		"Fish": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
