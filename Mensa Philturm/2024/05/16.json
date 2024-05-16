@@ -1,21 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gebratene Champignons, gebratene Karotten, Grünes Wokgemüse mit Sojasoße (2,So,GlW), gebratene Zucchini, gebackene Aubergine",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-16",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-05-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,7 +15,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und Limetten-Senf-Dressing (3,Ei,Mi,Sf,NMa)",
+		"Name": "Mie-Nudeln mit Pak Choi, Karotten und Teryakisauce (2,Ei,So,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und Honig-Senf-Dressing (3,Ei,Mi,Sf,NMa)",
 		"Category": "CampusVital",
 		"Date": "2024-05-16",
 		"Additives": {
@@ -40,7 +48,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Zhu Rou Chao Mian - Gebratene Nudeln aus dem Wok mit Schweinefleisch (1,2,4,Ei,So,Se,Wt,GlW,NCa)",
+		"Name": "Zhu Rou Chao Mian - Gebratene Nudeln aus dem Wok mit Schweinefleisch,Cashewkernen,Pak Choi,Sprossen (1,2,4,Ei,So,Se,Wt,GlW,NCa)",
 		"Category": "CampusWorld",
 		"Date": "2024-05-16",
 		"Additives": {

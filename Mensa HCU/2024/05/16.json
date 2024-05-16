@@ -1,19 +1,48 @@
 [
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi), bunte Fusilli (GlW)",
+		"Name": "Gemüsebar:, Gebratene Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-05-16",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Bärlauch-Petersilienöl und Rucola",
 		"Category": "Pastabar",
 		"Date": "2024-05-16",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Poultry": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
+		"Name": "Pasta Strozzapreti (GlW),  mit Rindfleisch, Pfifferlingen und Waldpilzen in Sahnesauce (3,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-05-16",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Pastinaken-Süßkartoffelsuppe mit Sonnenblumenkernen (Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2024-05-16",
 		"Additives": {
@@ -56,20 +85,5 @@
 		"PriceGuest": 8.6,
 		"PriceStudent": 4.3,
 		"Poultry": true
-	},
-	{
-		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Petersilienöl und Rucola",
-		"Category": "CampusSpezial",
-		"Date": "2024-05-16",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 8.8,
-		"PriceStudent": 4.4,
-		"LactoseFree": true,
-		"Vegan": true
 	}
 ]
