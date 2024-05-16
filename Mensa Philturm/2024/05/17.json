@@ -1,21 +1,26 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-05-17",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Pilzrahmsauce (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-17",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Karotten, gerösteter Broccoli, gebratener Pak Choi (2,So,GlW), gebratene Zucchini, gebackene Aubergine, gebratene Paprika",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -60,13 +65,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kokos - Blumenkohlcurry mit Udonnudeln und Koriander (En,Se,GlW)",
+		"Name": "Kokos - Blumenkohlcurry mit Mie-Nudeln und Koriander (2,En,So,Sl,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-05-17",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.7,
