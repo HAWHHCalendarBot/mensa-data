@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Name": "Perlgraupen mit Curcuma (GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-05-17",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,39 +13,48 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "veganes Kartoffelpüree (GlH)",
 		"Category": "Pastabar",
 		"Date": "2024-05-17",
 		"Additives": {
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsepfanne mit Aubergine und Blumenkohl, vegan, Karotten Rustica, vegan, gebratenem Wirsing, vegan, Cremespinat (Mi,Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-17",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), Kidneybohnen in Erdnußcreme, kandierte Chili Erdnüsse (2,En,So,GlW), gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9), spanisches Kartoffelgemüse",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit frischem Grillgemüse und Hirtenkäse (1,3,5,Mi,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-05-17",
 		"Additives": {
 			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
