@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-05-17",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
-		"Category": "Pastabar",
+		"Name": "Gemüse des Tages, Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
+		"Category": "Gemüsebar",
 		"Date": "2024-05-17",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüse des Tages, Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-17",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
