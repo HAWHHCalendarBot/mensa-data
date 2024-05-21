@@ -62,21 +62,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne in Gemüse-Basilikum-Creme mit Linsenbällchen (So,Sl,GlW)",
-		"Category": "CampusVital",
-		"Date": "2024-05-29",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Hühnchen in Kokos Soße (So,Sl)",
 		"Category": "CampusWorld",
 		"Date": "2024-05-29",
@@ -89,5 +74,40 @@
 		"PriceStudent": 3.1,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Hähnchen Crossies (GlW,GlG)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-05-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.85,
+		"PriceGuest": 5.95,
+		"PriceStudent": 3.6,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-05-29",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
