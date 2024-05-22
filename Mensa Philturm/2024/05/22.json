@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Pasta mit Oliven und Tomatensauce (6,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-22",
-		"Additives": {},
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,7 +14,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kräuterkartoffeln, gebratene Karotten, persischer Gewürzreis (Sl,Se,GlW), gebratener Pak Choi (2,So,GlW), gebratene Zucchini, Champignon Lauchpfanne (Sw)",
+		"Name": "Kräuterkartoffeln, Rösti, gebratene Karotten, persischer Gewürzreis (Sl,Se,GlW), gebratener Pak Choi (2,So,GlW), Champignon Lauchpfanne (Sw)",
+		"Category": "Pastabar",
+		"Date": "2024-05-22",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, Rösti, gebratene Karotten, persischer Gewürzreis (Sl,Se,GlW), gebratener Pak Choi (2,So,GlW), Champignon Lauchpfanne (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-05-22",
 		"Additives": {
