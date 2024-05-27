@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Süßkartoffelwürfel gebacken, Stangenbrechbohnen Provencial, Spitzkohl, gerösteter Broccoli, Soja-Bolognese mit Gemüse (So,Sl), Saporita mit Soja und Paprika (So,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-27",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -52,17 +55,17 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Hirtenkäse mit mediterranem Gemüse (Mi), Fladenbrot (Se,GlW)",
+		"Name": "Gemüsefrikadelle (Sl,GlW), mediterranes Gemüse, Kräuterreis",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-27",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

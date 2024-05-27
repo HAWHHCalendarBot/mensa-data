@@ -1,15 +1,30 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Mi,Sl), Tortellini mit Käsefüllung (Mi,GlW), Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2024-05-27",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Mi,Sl), Tortellini mit Käsefüllung (Mi,GlW), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-05-27",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"Pig": true
 	},
 	{
@@ -40,13 +55,25 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Hirtenkäse mit mediterranem Gemüse (Mi), Fladenbrot (Se,GlW)",
+		"Name": "Hirtenkäse mit mediterranem Gemüse (Mi), Wrap (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-27",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hirtenkäse mit mediterranem Gemüse (Mi), Wrap (GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-27",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
