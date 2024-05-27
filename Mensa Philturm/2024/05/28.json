@@ -24,24 +24,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta mit geschmortem Chili-Kürbis, Champignons. Babyspinat, Hartkäse und Pinienkernen (1,2,3,5,Mi,Sw,GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2024-05-28",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6.0,
-		"PriceStudent": 3.5,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Rosmarinhuhn mit Paprika-Kichererbsengemüse (1,5,Sw), Tomatensoße, Couscous (Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-05-28",
@@ -57,6 +39,48 @@
 		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-28",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, zerlassene Margarine (1), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-28",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw,GlW), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-28",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Alcohol": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Salatschüssel mit frischen Babyspinat, Karotten, Kichererbsen, Tofu, Minze, Koriander,Wasabidressing (1,2,3,5,So,Sf,Se,Sw,GlW)",
