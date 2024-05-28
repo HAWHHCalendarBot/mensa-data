@@ -42,24 +42,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln, Schnitzel zum Spargel  1,95 € / 2,10 € */ 2,25 € ** (GlW)",
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln, Hähnchenschnitzel zum Spargel  1,95 € / 2,10 € */ 2,25 € ** (GlW,GlG)",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-28",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 2.1,
 		"PriceGuest": 2.25,
 		"PriceStudent": 1.95,
-		"Pig": true
+		"Poultry": true
 	},
 	{
-		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln, Schnitzel zum Spargel   1,95 € / 2,10 € */ 2,25 € ** (GlW)",
+		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln, Hähnchenschnitzel zum Spargel   1,95 € / 2,10 € */ 2,25 € ** (GlW,GlG)",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-28",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -69,7 +71,21 @@
 		"PriceGuest": 2.25,
 		"PriceStudent": 1.95,
 		"Alcohol": true,
-		"Pig": true
+		"Poultry": true
+	},
+	{
+		"Name": "Tofu-Gemüse-Topf (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2024-05-28",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
