@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "tägliches Gemüse:, Kohlrabigemüse, Fingermöhrchen, Erbsen, Blumenkohl",
-		"Category": "Pastabar",
-		"Date": "2024-05-28",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta (GlW), mit Rindfleisch-Bolognese mit Tomate und Thymian (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-05-28",
@@ -25,7 +14,21 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Asiatische Reispfanne mit Rinderhack und buntem Gemüse (1,2,So,Se,GlW)",
+		"Name": "tägliches Gemüse:, Prinzessbohnen, Mexikanisches Gemüse (Sl), Orientalisches Gemüse (Sl,Sw), buntem Gemüse",
+		"Category": "Pastabar",
+		"Date": "2024-05-28",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Asiatische Reispfanne mit Rinderhack und buntem Gemüse (1,2,So,Se,GlW), Kräuterdip (Sf)",
 		"Category": "Pastabar",
 		"Date": "2024-05-28",
 		"Additives": {
@@ -33,6 +36,7 @@
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -57,7 +61,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wir kochen was Sie lieben..., Frisch gegrilltes Tofusteak (2,So,GlW), veganem Kräuterdip (Sf), und buntem Bulgursalat und Rucola (3,5,Sw,GlW)",
+		"Name": "Wir kochen was Sie lieben..., Frisch gegrilltes Tofusteak (2,So,GlW), veganem Paprikadip (Sf), und buntem Bulgursalat und Rucola (3,5,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-05-28",
 		"Additives": {
