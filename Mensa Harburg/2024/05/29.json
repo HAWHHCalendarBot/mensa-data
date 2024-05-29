@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
+		"Name": "Pikante Bolognese, Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-29",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -14,34 +13,34 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
+		"Name": "Kohlrabi, Broccoli, Blumenkohl, Fingermöhrchen (Mi), Prinzessbohnen, Sommergemüse, Spätzle (Ei,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-29",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Asiatischer Soja-Currysoße mit Soja Chunks (2,So,Se,GlW), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-29",
+		"Additives": {
 			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-05-29",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
