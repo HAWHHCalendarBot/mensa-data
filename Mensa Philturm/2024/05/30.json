@@ -1,21 +1,27 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-05-30",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Brocclirahm,Cherrytomaten,Ruccola (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-30",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Süßkartoffeln, Asiatische Gemüsepfanne (2,So,GlW), gebratene Karotten, gebratene Zucchini, gebackene Aubergine (Sw), Kräuterkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -73,7 +79,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Green Hope BOWL mit gebratenen Hähnchenstreifen (So), Zitronengras - Basmatireis, Kräuterbohnen, Spicy Limetten-Edamame (3,So), gebratener Ingwer-Broccoli (2,So,Se,GlW), Gurken-Kimchi (2,So,GlW), Babyspinat, Erdnuss-Creme (En,So,GlW), gehackte Erdnüsse (E",
+		"Name": "Green Hope BOWL mit gebratenen Hähnchenstreifen (So), Green Hope BOWL mit gebratenen Hähnchenstreifen, Zitronengras - Basmatireis, Kräuterbohnen, Spicy Limetten-Edamame (3,So), gebratener Ingwer-Broccoli (2,So,Se,GlW), Gurken-Kimchi (2,So,GlW), Babyspinat",
 		"Category": "CampusWorld",
 		"Date": "2024-05-30",
 		"Additives": {
@@ -89,5 +95,23 @@
 		"PriceStudent": 5.9,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Green Hope BOWL mit gebratenen Hähnchenstreifen (So), Green Hope BOWL mit gebratenen Hähnchenstreifen, Zitronengras - Basmatireis, Kräuterbohnen, Spicy Limetten-Edamame (3,So), gebratener Ingwer-Broccoli (2,So,Se,GlW), Gurken-Kimchi (2,So,GlW), Babyspinat",
+		"Category": "CampusWorld",
+		"Date": "2024-05-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

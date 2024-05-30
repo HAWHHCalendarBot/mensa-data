@@ -1,16 +1,29 @@
 [
 	{
-		"Name": "Vegane Pasta (GlW), mit weißem und grünem Spargel, Kirschtomaten, und Bärlauchpesto",
-		"Category": "Pastabar",
+		"Name": "Brechbohnen, Sommergemüse, Tricolore Gemüse (Sl), glasiertes Wurzelgemüse (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2024-05-30",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta alla Saporita Hackfleischsoße mit Erbsen und Kartoffeln (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-05-30",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true
 	},
 	{
 		"Name": "Risotto mit Bärlauch (Mi,Sl,Sw), Austernpilze mit roten Zwiebeln",
@@ -28,7 +41,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (Sl)",
+		"Name": "Erbsensuppe mit Kartoffeln (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-05-30",
 		"Additives": {
