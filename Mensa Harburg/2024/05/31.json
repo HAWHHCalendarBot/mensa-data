@@ -1,5 +1,35 @@
 [
 	{
+		"Name": "Kidneybohnenpfanne mit Tomaten (2,Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-31",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Süßkartoffelgulasch mit Sojasahne (So,Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-05-31",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Karottenstifte (1), Sommergemüse, gebratene Zucchini, gebratene Aubergine (Sw,GlW), Broccoli, Erbsen-Sellerie Gemüse (1,Sl,Sw), Basmatireis",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-31",
@@ -29,10 +59,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wrap mit Ajvarcreme, Rotkohlsalat und  Falafel (9,Se,GlW)",
+		"Name": "Wrap mit Gemüsecreme, Rotkohlsalat und Falafel (2,9,Se,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-05-31",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"9": "Süßungsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
@@ -44,13 +75,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "3 Kartoffeltaschen mit Kräuter Frischkäsefüllung (Mi), Krautsalat (3,5,Sw), Kräuterquark (Mi)",
+		"Name": "3 Kartoffeltaschen mit Kräuter Frischkäsefüllung (Mi), Krautsalat (3,5,Sw), Cocktailsoße mit Kräutersoße (1,3,5,9,Ei,Mi,Sf,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-31",
 		"Additives": {
+			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.1,
@@ -76,6 +111,22 @@
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-31",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Alcohol": true,
 		"Vegetarian": true
 	}
 ]
