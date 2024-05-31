@@ -1,21 +1,29 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-05-31",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Wirsing in Rahm und Dill-Käse (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-05-31",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, gebratene Champignons (Sw), gebratene Zucchini, gebratene Paprika (1,5,Sw), gebackene Aubergine (Sw,GlW), gebratener Pak Choi (2,So,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-05-31",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -41,19 +49,18 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganes Knusperschnitzel (GlW), Korianderdip (So), Gartengemüse (Sl), Kartoffelspalten (GlW)",
+		"Name": "Veganes Knusperschnitzel (GlW), Kartoffelpüree (Mi), Korianderdip (So), Bohnensalat",
 		"Category": "CampusSpezial",
 		"Date": "2024-05-31",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "vegane Sesamnudeln mit Sprossen,Sojabohnenkerne und Pilzen (2,3,5,So,Se,Sw,GlW)",
