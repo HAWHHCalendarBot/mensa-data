@@ -18,18 +18,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maisgemüse in Tomatenrahm (2,So), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Kartoffelgratin (Ei,Mi)",
+		"Name": "Maisgemüse in Tomatenrahm (2,So), Bulgur mit Tomate und Peperoni (Sl,GlW), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-05-31",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomatiesierte Pilzsoße (2,3,5,Mi,Sw,GlW,GlG), Kartoffelgratin (Ei,Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-05-31",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -65,12 +83,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Würzige Thai-Soja-Bolognese (2,So,GlW), Mie-Nudeln (Ei,GlW)",
+		"Name": "Würzige Thai-Soja-Bolognese (2,So,GlW), Maccaroni (GlW),  oder Glasnudeln",
 		"Category": "CampusWorld",
 		"Date": "2024-05-31",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -78,7 +95,7 @@
 		"PriceGuest": 5.8,
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	},
 	{
 		"Name": "Grünkern-Käse-Medaillons (Ei,So,Mi,Se,GlW,GlD), Schnittlauch-Dip (Mi), Blechkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
@@ -98,6 +115,34 @@
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-31",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-05-31",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Alcohol": true,
 		"Vegetarian": true
 	}
 ]
