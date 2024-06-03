@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Tomatensoße, Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-03",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta al forno: überbackene Hackfleisch Nudel-Gemüsepfanne (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-03",
 		"Additives": {
@@ -10,23 +23,38 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Beef": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, Kohlrabi in Rahm (Mi,GlW)",
+		"Name": "Curry-Kokosnuss Sauce mit Hähnchenstreifen (So,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-03",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Karotten natur, vegan (1), Broccoli natur, vegan, Orientalisches Kichererbsengemüse (2,5,Sw), Blechkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-03",
 		"Additives": {
 			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
