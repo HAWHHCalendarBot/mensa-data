@@ -1,19 +1,46 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Gnocchi, Zucchini-Auberginen Gemüse, Broccoli, Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-03",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomaten  Belugalinsenragout (Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-03",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
+		"Name": "Cremespinat (So,Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-03",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-03",
 		"Additives": {
@@ -25,22 +52,6 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
-	},
-	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, Kohlrabi in Rahm (Mi,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2024-06-03",
-		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
