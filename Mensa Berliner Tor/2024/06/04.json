@@ -1,11 +1,39 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Name": "Pasta (GlW), Tomatensoße mit Spargelspitzen",
+		"Category": "Pastabar",
+		"Date": "2024-06-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Geflügelrahmsoße und Putenbruststreifen (Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-06-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Bunte Sommergemüse natur, vegan (Se), Maiskolben natur, vegan (Mi), Reis natur, vegan, Wok Gemüse natur, vegan (2,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-04",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
