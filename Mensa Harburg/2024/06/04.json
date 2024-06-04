@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2024-06-04",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "Primavera mit Auberginen, Tomaten und Zucchini (Sw), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-04",
 		"Additives": {
@@ -25,6 +12,19 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-04",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
@@ -41,6 +41,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Sl,Se,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-04",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Chili con Corn (Sl,GlD), Basmatireis",

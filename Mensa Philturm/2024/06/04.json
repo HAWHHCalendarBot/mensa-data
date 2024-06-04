@@ -1,27 +1,32 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-06-04",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Babyspinat in Rahm (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-04",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, gebackene Aubergine, Rahmwirsing (Mi,Sl,GlW), gebratene Champignons (Sw), gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl), Reis",
@@ -48,21 +53,6 @@
 		"PriceGuest": 6.3,
 		"PriceStudent": 3.8,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2024-06-04",
-		"Additives": {
-			"4": "Geschmacksverstärker",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.1,
-		"PriceGuest": 6.3,
-		"PriceStudent": 3.8,
-		"Poultry": true
 	},
 	{
 		"Name": "Matjesfilets (2,Fi), Matjessoße Hausfrauen Art (9,Mi,Sw), Salzkartoffeln",
@@ -97,5 +87,20 @@
 		"PriceStudent": 4.3,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-04",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"Poultry": true
 	}
 ]

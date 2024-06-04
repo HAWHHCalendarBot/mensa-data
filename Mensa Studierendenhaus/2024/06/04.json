@@ -1,24 +1,24 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "all`Provenzale mit Gemüse (Sw), Bratkartoffeln",
+		"Category": "Pastabar",
 		"Date": "2024-06-04",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
-		"Category": "Pastabar",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (1)",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-04",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"1": "Farbstoff",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -95,6 +95,34 @@
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
 		"Poultry": true
+	},
+	{
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-04",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-04",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Alcohol": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), Salzkartoffeln",
