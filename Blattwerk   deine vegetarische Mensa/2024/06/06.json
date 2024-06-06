@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pikanter Nudelauflauf mit Tomaten, Mozzarella, Weizen und Spinat (3,Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-06-06",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Saporita mit Soja und Paprika (So,Sl), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-06",
@@ -15,22 +28,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (3,Sf), Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-06-06",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Spätzle (Ei,Mi,GlW)",
+		"Name": "gerösteter Broccoli, Möhren, Spitzkohl, Spätzle (Ei,Mi,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-06",
 		"Additives": {
@@ -41,6 +39,25 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünkernsalat mit Gemüsefrikadelle, Weißkohlsalat und Chilidip (2,Ei,Sl,Sf,Sw,GlW,GlD)",
+		"Category": "CampusWorld",
+		"Date": "2024-06-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.5,
+		"PriceStudent": 3.0,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
