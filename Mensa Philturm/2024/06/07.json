@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gebratene Karotten, gebratene Zucchini, gebackene Aubergine (Sw,GlW), gerösteter Broccoli, Sauerkraut (vegan) (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-07",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +15,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Mie-Nudeln mit Mais, Mu Err Pilzen, Erbsen in Teriakysauce (2,Ei,So,Se,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-07",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
@@ -38,18 +46,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salat mit Wassermelone, Hüttenkäse und Sonnenblumenkernen (5,Mi,Sw)",
-		"Category": "CampusVital",
+		"Name": "Mac and Cheese (1,Mi,Sl,Sf,GlW), Krautsalat (3)",
+		"Category": "CampusKlassiker",
 		"Date": "2024-06-07",
 		"Additives": {
-			"5": "Geschwefelt",
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6.0,
-		"PriceStudent": 3.5,
-		"Alcohol": true,
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
 		"Vegetarian": true
 	},
 	{
