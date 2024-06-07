@@ -1,17 +1,66 @@
 [
 	{
-		"Name": "Gemüsefrikadelle (Sl,GlW), Spitzkohl in veganem Rahm (So), veganes Kartoffelpüree (GlH)",
-		"Category": "CampusKlassiker",
+		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-06-13",
 		"Additives": {
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-13",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, gebratene Champignons (Mi,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-13",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Holsteiner Kartoffeltopf (So,Sl,Sw,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2024-06-13",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.1,
-		"PriceGuest": 5.3,
-		"PriceStudent": 2.8,
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -27,31 +76,41 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.8,
-		"PriceStudent": 3.3,
+		"PriceAttendant": 3.9,
+		"PriceGuest": 5.1,
+		"PriceStudent": 2.6,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Original english Fish and Chips, Seelachsfilet im Bierteig (Ei,Fi,GlW), Belgische Pommes, Remoulade (1,3,9,Ei,Mi,Sf,Sw), Zitronenspalte",
-		"Category": "CampusSpezial",
+		"Name": "Gebackenes Alaska Seelachsfilet (Fi,GlW)",
+		"Category": "CampusKlassiker",
 		"Date": "2024-06-13",
 		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
 			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 7.0,
-		"PriceGuest": 8.2,
-		"PriceStudent": 5.7,
-		"Alcohol": true,
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
 		"Fish": true
+	},
+	{
+		"Name": "Gemüsefrikadelle (Sl,GlW), Spitzkohl in veganem Rahm (So), veganes Kartoffelpüree (GlH)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-06-13",
+		"Additives": {
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
