@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Penne (GlW), Gemüse in Tomatensoße Arrabiata (Sl)",
+		"Name": "Penne (GlW), Gemüse in Tomatensoße Arrabiata (4,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-06-11",
 		"Additives": {
+			"4": "Geschmacksverstärker",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -14,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Falafelbällchen mit Gemüsereis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney",
+		"Name": "Falafelbällchen mit würzigem Gemüsereis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney",
 		"Category": "CampusWorld",
 		"Date": "2024-06-11",
 		"Additives": {
@@ -29,20 +30,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rindergulasch mit Paprika (9,Mi,Sw), Spätzle mit Gemüsestreifen (Ei,Sl,GlW)",
+		"Name": "Rindergulasch mit Paprika, Spätzle mit Gemüsestreifen (Ei,Sl,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-06-11",
 		"Additives": {
-			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.3,
 		"PriceGuest": 7.5,
 		"PriceStudent": 5.0,
-		"Beef": true
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]
