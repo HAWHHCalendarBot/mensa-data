@@ -1,40 +1,32 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-06-10",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Kapern,Babyspinat und Tomatenpesto (Mi,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-06-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
-		"Category": "Pottkieker",
+		"Name": "Kräuterkartoffeln, gebackene Aubergine, gebratene Zucchini, gebratener Pak Choi (2,So,GlW), Gebratene Sprossen (2,So,Se,GlW), Sauerkraut (vegan) (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-10",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 3.4,
-		"PriceGuest": 4.1,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
 	},

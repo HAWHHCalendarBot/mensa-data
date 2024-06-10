@@ -1,10 +1,12 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "Buntes Gartengemüse (1,Sl), Blattspinat in veganer Gemüsesoße (Sl), gebackener Blumenkohl mit Kokosraspeln (1,GlW), Rote Beete mit Kohlrabi",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,22 +15,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Vegane Hackbällchen in veganer Kapernsoße (So,GlW,GlG), Nusskartoffeln",
+		"Category": "Pastabar",
 		"Date": "2024-06-10",
 		"Additives": {
-			"1": "Farbstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-10",
 		"Additives": {
@@ -46,7 +48,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Kokos-Kürbis-Curry (Sf,Se), Reis",
+		"Name": "Kokos-Kürbis-Curry mit Kartoffelwürfel (Sf,Se)",
 		"Category": "Pottkieker",
 		"Date": "2024-06-10",
 		"Additives": {

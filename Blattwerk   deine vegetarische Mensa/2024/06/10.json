@@ -29,19 +29,36 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-HAselnusssoße (Mi,GlW,GlG,NHa)",
 		"Category": "Pastabar",
 		"Date": "2024-06-10",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Salat aus Couscous mit Champignons, Falafel und Mayonnaise mit Sesam (Sl,Sf,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-06-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.25,
+		"PriceStudent": 3.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Fussili mit grünem und weißem Spargel (2,5,Mi,Sw,GlW,NCa)",
