@@ -104,5 +104,52 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Falafel mit Tabouleh und Hummus (Se,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-06-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Remy‘s Ratatouille in Grillpaprikasoße auf Grünkernbett (GlD)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-06-19",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)"
+		},
+		"PriceAttendant": 6.15,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Coco’s Burrito Bowl “al pastor” (1,5,So,Sl,Sf,Sw), mit Sojageschnetzeltem, Tortillas, Sour Cream und Guacamole (So,GlW,NCa)",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-19",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.15,
+		"PriceGuest": 8.35,
+		"PriceStudent": 5.85,
+		"LactoseFree": true,
+		"Vegetarian": true
 	}
 ]

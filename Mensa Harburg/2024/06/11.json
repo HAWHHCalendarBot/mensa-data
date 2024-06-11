@@ -31,15 +31,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Schwarzwurzeln, Orangen-Senfcreme (1,3,So,Sf), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Reis, Fenchelgemüse (Sl)",
+		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Schwarzwurzeln, Orangen-Senfcreme (1,3,So,Sf), Süßkartoffelwürfel gebacken, gerösteter Broccoli mit Mandelsplitter (NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-11",
 		"Additives": {
 			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
 			"6": "Geschwärzt",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -47,6 +47,24 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-11",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
 	},
 	{
 		"Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
