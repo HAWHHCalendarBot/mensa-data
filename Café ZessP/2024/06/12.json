@@ -1,23 +1,19 @@
 [
 	{
-		"Name": "Karotten Rösti mit Sour Cream oder veganen Dip (3,4,Ei,So,Mi,Sf,GlW,GlR,GlH,GlD)",
+		"Name": "Ruccola Süßkartoffel Taler mit Sour Cream (4,Ei,Mi,Sf,GlW,GlG)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-06-12",
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"GlR": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 4.0,
-		"PriceGuest": 4.6,
-		"PriceStudent": 3.3,
+		"PriceAttendant": 3.9,
+		"PriceGuest": 4.5,
+		"PriceStudent": 3.2,
 		"Vegetarian": true
 	},
 	{
@@ -37,21 +33,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Carbonara Soße (1,2,3,8,Mi,GlW)",
+		"Name": "Pesto Rosso (Mi,GlW,NCa)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-06-12",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
-		"Pig": true
+		"Beef": true
 	},
 	{
 		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
@@ -90,20 +84,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Melon Mint Salat, Blattsalat, Wasserm., Edamame, Karotte, Minze, Koriander, Erdnüsse, Mango-Dressing (En,So)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-06-12",
-		"Additives": {
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 5.8,
-		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Rustico Porcini (2,Ei,Mi,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-06-12",
@@ -117,5 +97,25 @@
 		"PriceGuest": 6.3,
 		"PriceStudent": 5.0,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Hello Chicken Bowl, Hähnchenbrust, Mango, Ananas, Zucchini, Avocado, Reis, Mandarinen Dressing (1,2,3,9,Ei,So,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-06-12",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 7.8,
+		"PriceStudent": 6.5,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
