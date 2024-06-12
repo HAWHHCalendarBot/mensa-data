@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (So), Penne (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-06-12",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +14,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
-		"Category": "Pastabar",
+		"Name": "Kokos-Kürbis-Curry (Sf,Se), Fenchelgemüse (Sl), gerösteter Blumenkohl, Spitzkohl in Rahm (So), Rosmarinkartoffeln, Pasta Auflauf mit Sonnenblumenhack-Lauchsoße (1,So,Sl,Sf,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-12",
 		"Additives": {
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
@@ -69,5 +77,19 @@
 		"PriceGuest": 7.5,
 		"PriceStudent": 5.0,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-12",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Fish": true
 	}
 ]
