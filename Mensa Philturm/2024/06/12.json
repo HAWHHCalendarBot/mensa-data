@@ -1,9 +1,15 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "gebratene Mie-Nudeln mit asiatischem Gemüse und Kokos-Currysauce (2,So,Sl,Se,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-06-12",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +17,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Kräuterkartoffeln, Gemüse-Kartoffelauflauf (Ei,Mi), gebratene Karotten, gerösteter Broccoli, gerösteter Blumenkohl, Gebackener Blumenkohl mit Sesam und Knoblauch (9,Sl,Se,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-12",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "mexikanischer Bohneneintopf (So,Sl,GlW), Basmatireis",

@@ -1,19 +1,20 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-12",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-12",
 		"Additives": {
@@ -27,12 +28,29 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi,Sl,Sf), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Ratatouille (Sl), Karotten \"India Style\" (1,Sf), Mangold mit gerösteten Mandelsplittern (NMa), Prinzessbohnen, Gnocchi, Schupfnudeln (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-12",
 		"Additives": {
 			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
