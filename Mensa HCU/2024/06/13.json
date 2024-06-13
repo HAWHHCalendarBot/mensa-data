@@ -1,9 +1,25 @@
 [
 	{
-		"Name": "Vegane Süßkartoffel-Gnocchi mit Tomatensauce mit Brokkoli und Blumenkohl",
+		"Name": "Rindergulasch mit Paprika (Mi), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-13",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Tomaten-Kürbis-Ragout (Sl), Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-13",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
@@ -11,34 +27,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Karotten Pastinakenmix mit frischer Petersilie, Erbsen (1), Broccoli (Mi), mediterranes Gemüse (6)",
+		"Name": "Karotten Pastinakenmix mit frischer Petersilie, Erbsen (1), Nudelgratin (1,Mi,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-13",
 		"Additives": {
 			"1": "Farbstoff",
-			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-06-13",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.5,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (So,Sl,Sw,GlW)",
@@ -57,7 +57,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Kräuterdip (So,Sf,GlH)",
+		"Name": "Ägyptische Falafel mit Reis (Sl,Se,GlW), Kräuterdip (So,Sf,GlH)",
 		"Category": "CampusWorld",
 		"Date": "2024-06-13",
 		"Additives": {
