@@ -1,37 +1,33 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Name": "Pasta al napoli, vegan (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-13",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Pasta con Pollo e crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (So,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-13",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Poultry": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Mi,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, gebratene Champignons (Mi,Sw)",
+		"Name": "Zucchini mit Gouda aus dem Ofen (1,2,5,So,Mi,Sw,GlW), Broccoli natur, vegan, Karotten natur, vegan (Mi), Röstkartoffeln Provencial, vegan",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-13",
 		"Additives": {
@@ -122,6 +118,27 @@
 		"PriceGuest": 6.75,
 		"PriceStudent": 4.25,
 		"Pig": true
+	},
+	{
+		"Name": "Currybratwurst oder (3,4,8,9,Sf), Geflügel Bratwurst oder (9,Sf), vegane Currybratwurst mit (Sf), scharfe Grillsoße (2,9,Sl,Sf), Grillsoße oder (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-06-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Flammkuchen mit Rucola und geriebenen Hartkäse (Mi,GlW)",
