@@ -11,13 +11,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
-		"Category": "Pastabar",
+		"Name": "Mexikanisches Gemüse (Sl), Blumenkohl, buntem Gemüse, Pikante Gemüsepfanne mit Bohnen (Sw)",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-14",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -26,14 +25,41 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kidneybohnen-Frikadelle (Sl,GlW,GlH), gebratene Zwiebeln, Kräuterquark (Mi), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Gemüseragout mit Tofu (So,Mi,Sl,GlW), Süßkartoffel-Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-06-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Veganer Gemüseeintopf (Sl), Reis",
+		"Category": "Pottkieker",
+		"Date": "2024-06-14",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.4,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl-Käse-Bratling (Ei,Mi,GlW), Kräuterquark (Mi), hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-06-14",
 		"Additives": {
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 7.8,
