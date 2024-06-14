@@ -1,19 +1,21 @@
 [
 	{
-		"Name": "Pasta mit Spargel,Tomaten und Basilikumpesto (GlW)",
+		"Name": "Pasta mit Spargel,Tomaten und Basilikumpesto (Ei,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-14",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Kräuterkartoffeln, gebratene Champignons (Sw), gebratene Paprika (1,5,Sw), Spinatknödel mit Käse überbacken (Ei,Mi,GlW), gerösteter Broccoli, gerösteter Blumenkohl",
+		"Name": "Kräuterkartoffeln, Champignon Lauchpfanne (Sw), gebratene Paprika (1,5,Sw), Spinatknödel mit Käse überbacken (Ei,Mi,GlW), gerösteter Broccoli, gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-14",
 		"Additives": {
@@ -30,10 +32,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Blumenkohl Korma (2,So,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-06-14",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
@@ -41,7 +47,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Bolognese mit Gemüse (2,So,Sl,GlW), bunte Fusilli (GlW)",
+		"Name": "Soja-Bolognese mit Gemüse (2,So,Sl,GlW), Pasta (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-06-14",
 		"Additives": {
