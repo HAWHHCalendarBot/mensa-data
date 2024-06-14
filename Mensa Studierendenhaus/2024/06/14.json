@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Farfalle (GlW)",
-		"Category": "Pastabar",
+		"Name": "glasierte rote Beete, Spitzkohl in Rahm (So), Broccoli, Frühlingsgemüse (1)",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-14",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"1": "Farbstoff",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -13,20 +12,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "glasierte rote Beete, Zuckerschoten (1), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Kartoffelgratin (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2024-06-14",
-		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
@@ -37,6 +22,21 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Saporita mit Soja und Paprika (So,Sl), Kartoffelgratin (Ei,Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-06-14",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -58,6 +58,23 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Kartoffelsalat mit vegetarischem Schnitzel (Ei,Mi,Sl,Sf,GlW,GlH)",
+		"Category": "CampusVital",
+		"Date": "2024-06-14",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.8,
+		"PriceGuest": 5.0,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Lupinen-Bolognese (1,Sl,Lu), Penne (GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-06-14",
@@ -74,13 +91,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spargelgemüse aus dem Wok mit, geschmolzene Kirschtomaten, Pesto di noci e pomodoro mit Pesto von Walnuss und Tomate (Mi,NWa), Maccaroni (GlW)",
+		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW), Tomatensoße",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spargelgemüse aus dem Wok mit (Sl,Sw), geschmolzene Kirschtomaten, Pesto di noci e pomodoro mit Pesto von Walnuss und Tomate (Mi,NWa), Maccaroni (GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-06-14",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.3,
 		"PriceGuest": 7.5,
