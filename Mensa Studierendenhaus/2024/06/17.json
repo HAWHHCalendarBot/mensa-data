@@ -13,20 +13,22 @@
 		"Pig": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Glacierte Pastinaken mit Agavensirup, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Orientalisches Gemüse (Sl,Sw), Erbsen (1), Glacierte Pastinaken mit Agavensirup, Orientalisches Linsengemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-17",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Pastabar",
 		"Date": "2024-06-17",
 		"Additives": {
@@ -108,5 +110,20 @@
 		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Knackiger Spargelsalat (3,5,Sw), Quinoa-Erbsen-Bratling, Joghurt Dip (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-06-17",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Vegetarian": true
 	}
 ]

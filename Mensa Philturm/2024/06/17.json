@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebackene Aubergine, gebratene Tandoori Zucchini, Baharat Süßkartoffeln, Kräuterkartoffeln, gebratener Pak Choi (2,So,GlW), gerösteter Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-17",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +15,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Blumenkohl-Currysauce und veganen Hackbällchen (2,So,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-06-17",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -67,7 +74,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gebackener Panko - Tofu (2,Ei,So,GlW), Pakchoi - Sprossengemüse (2,So,Se,GlW), Spicy Pepper Sauce (Ei,Mi), Basmatireis",
+		"Name": "gebackener Panko - Tofu mit Pakchoi - Sprossengemüse, Spicy Pepper Sauce (2,Ei,So,Mi,Se,GlW), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2024-06-17",
 		"Additives": {
