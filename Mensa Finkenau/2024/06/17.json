@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Aglio e olio Tomatesoße, Olivenöl und Knoblauch, Stortelli Rigati (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-06-17",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Aglio e olio Tomatesoße, Olivenöl und Knoblauch, Stortelli Rigati (GlW)",
-		"Category": "Pastabar",
+		"Name": "Gemüse des Tages, Drillinge, Gemüsegulasch (Sl), Soja-Bolognese (1,So,Sl), Gemüse (Sw)",
+		"Category": "Gemüsebar",
 		"Date": "2024-06-17",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüse des Tages, Drillinge, Gemüsegulasch (Sl), Soja-Bolognese (1,So,Sl), Gemüse (Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-17",
+		"Additives": {
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
