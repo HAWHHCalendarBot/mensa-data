@@ -13,7 +13,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), Schupfnudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-18",
 		"Additives": {
@@ -27,20 +27,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW), Schwarzwurzeln in Rahm (Mi,GlW)",
+		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-18",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -55,6 +55,19 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Kalter Teller Tomate Mozzarella (2,Mi)",
+		"Category": "CampusVital",
+		"Date": "2024-06-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Soja-Bolognese mit Gemüse (So,Sl), Penne (GlW), Hartkäse (2,Ei,Mi)",
@@ -72,6 +85,24 @@
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pute in Paprika-Tomaten-Gemüse (1,2,5,9,Sf,Sw), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Pfefferrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
