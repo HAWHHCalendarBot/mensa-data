@@ -1,24 +1,11 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-06-18",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Zartweizen mit Quinoa-Gemüse, vegan (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-18",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -27,20 +14,49 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW), Schwarzwurzeln in Rahm (Mi,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Putengulasch (Mi,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-06-18",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Spaghetti (GlW), Chili sin carne, vegan (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-06-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gegrillte Aubergne mit frischen Tomaten, vegan, Mediterraner Gemüsegulasch mit Räuchertofu, vegan (So,Sl,Sw,GlW), gebratene Zucchini mit Champignon, vegan, Röstkartoffeln Provencial, vegan",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -57,7 +73,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Fladenbrot (Se,GlW)",
+		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Vollkornreis",
 		"Category": "CampusSpezial",
 		"Date": "2024-06-18",
 		"Additives": {
@@ -65,7 +81,6 @@
 			"5": "Geschwefelt",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
