@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
+		"Name": "Pasta al Arrabiata, vegan (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-19",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,18 +13,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Pasta con Pollo al pomodoro mit Hähnchenstreifen in Tomaten-Sahnesoße (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-19",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
-		"Name": "Blumenkohl, vegan, Kichererbsen Bohnenpfanne mit Paprika, Zucchini und Auberginen, vegan (Sw)",
+		"Name": "Blumenkohl, vegan, Kichererbsen Bohnenpfanne mit Paprika, Zucchini und Auberginen, vegan (Sw), Vollkornreis, vegan, Linsengemüse, vegan (2,3,5,8,Sl,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-19",
 		"Additives": {
