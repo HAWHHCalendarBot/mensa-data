@@ -1,5 +1,99 @@
 [
 	{
+		"Name": "Pasta all`Provenzale mit Gemüse (Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-25",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-25",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-06-25",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Kartoffel-Kürbis-Ragout (Sl)",
+		"Category": "Pottkieker",
+		"Date": "2024-06-25",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Matjesfilets (2,Fi), Matjessoße Hausfrauen Art (9,Mi,Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-06-25",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Fish": true
+	},
+	{
+		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Bete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Dip (2,3,So,Sf)",
+		"Category": "CampusVital",
+		"Date": "2024-06-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (3,So,Se,NMa)",
 		"Category": "CampusWorld",
 		"Date": "2024-06-25",
@@ -14,5 +108,27 @@
 		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Beef-Sandwich Banh Mi mit Gemüse und kleinem Salat (1,2,Fi,So,Sf,Se,GlW,GlG)",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Alcohol": true,
+		"Beef": true,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
