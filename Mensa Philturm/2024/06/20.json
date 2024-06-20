@@ -1,21 +1,28 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-06-20",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Champignons, Cherrytomaten,Ruccola und Tomatenpesto (Mi,Sl,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-06-20",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spanisches Kartoffeln mit Paprika de la vera, Kräuterkartoffeln, gebackene Aubergine, gebratene Tandoori Zucchini, Gebratene Sprossen (2,So,Se,GlW), Cajun Süßkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -56,11 +63,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenstreifen,gebratener Blumenkohl mit Kokosmilch, geröstete Sonnenblumenkerne und Basmatireis (Sl)",
+		"Name": "Hähnchenstreifen,gebratener Blumenkohl mit Kokosmilch, geröstete Sonnenblumenkerne und Basmatireis (2,So,Sl,Se,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-06-20",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.8,
 		"PriceGuest": 8.0,
