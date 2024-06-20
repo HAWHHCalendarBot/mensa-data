@@ -45,12 +45,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
+		"Name": "Blumenkohl Golpi (Sl), Linsengemüse (2,3,5,8,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-06-20",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -58,22 +60,24 @@
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
-		"Name": "Thüringer Bratwurst (8,Sl,Sf)",
+		"Name": "Thüringer Bratwurst",
 		"Category": "CampusKlassiker",
 		"Date": "2024-06-20",
 		"Additives": {
-			"8": "Phosphat",
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.85,
 		"PriceGuest": 4.95,
 		"PriceStudent": 2.6,
+		"Beef": true,
 		"LactoseFree": true,
-		"Pig": true
+		"Poultry": true
 	},
 	{
 		"Name": "Kumpir \"France\" (1,Sw), Blattsalat mit Karotte (3,5,Sw)",
