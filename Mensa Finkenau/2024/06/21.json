@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratene Champignons (Sw), Erbsen (1), geschmorter Sellerie (Sl,Sw), buntem Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-21",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -62,7 +66,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "vegane Sesamnudeln mit Spargel und Pilzen (2,3,5,So,Se,Sw,GlW)",
+		"Name": "vegane Sesamnudeln mit Pilzen (2,3,5,So,Se,Sw,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-06-21",
 		"Additives": {
