@@ -32,17 +32,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Arrabbiata Soße (GlW)",
+		"Name": "Pesto Rosso (Mi,GlW,NCa)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-06-27",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true
 	},
 	{
 		"Name": "Tortellini Verdi Verdura (1,2,Ei,Mi,Sl,GlW)",
@@ -62,16 +64,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
+		"Name": "Baked Potato \"Oriental\" mit Bulgur, Rosinen, Kichererbsen, Mandelsplitter, Granatapfel, Sour Cream (3,4,Ei,So,Mi,Sl,Sf,Se,GlW,NMa)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-06-27",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.7,
@@ -99,19 +104,16 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Green Bowl mit Prinzeßbohnen, rote Beete, Avocado, frischem Blattspinat, Erdnuss-Dressing (2,3,En,So,GlW)",
-		"Category": "Highlight",
+		"Name": "Melon Mint Salat, Blattsalat, Wasserm., Edamame, Karotte, Minze, Koriander, Erdnüsse, Mango-Dressing (En,So)",
+		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-06-27",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 6.8,
-		"PriceStudent": 5.5,
+		"PriceAttendant": 5.2,
+		"PriceGuest": 5.8,
+		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Vegan": true
 	}
