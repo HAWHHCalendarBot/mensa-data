@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-07-03",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-03",
@@ -25,21 +12,6 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2024-07-03",
-		"Additives": {
-			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -71,29 +43,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), Pollo all'Arrabbiata",
-		"Category": "CampusKlassiker",
-		"Date": "2024-07-03",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Schweinefiletmedaillons, Chimichurri (3), gebratene Karotten, gebratene Drillinge",
+		"Name": "Schweinefiletmedaillons, Hollandaise (Ei,Mi,Sl,Sw), gebratene Karotten, Herzoginkartoffeln (Ei,Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2024-07-03",
 		"Additives": {
-			"3": "Antioxidationsmittel"
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.8,
 		"PriceGuest": 8.0,
 		"PriceStudent": 5.5,
-		"LactoseFree": true,
+		"Alcohol": true,
 		"Pig": true
 	}
 ]
