@@ -1,16 +1,17 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (1)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-25",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"1": "Farbstoff",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
@@ -27,7 +28,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Bratkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2024-06-25",
 		"Additives": {
@@ -54,6 +55,20 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Vegetarische Paella mit Quorn (Ei,Sl)",
+		"Category": "CampusVital",
+		"Date": "2024-06-25",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Matjesfilets (2,Fi), Matjessoße Hausfrauen Art (9,Mi,Sw), Salzkartoffeln",
