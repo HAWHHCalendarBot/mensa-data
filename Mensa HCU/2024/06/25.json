@@ -1,10 +1,36 @@
 [
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Brechbohnen, Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Mi,Sl), Blumenkohl, buntem Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-25",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Contadino mit Schweinefleisch und Kidneybohnen (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-25",
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Pig": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Kidneybohnen (Mi,Sl,GlW,GlG), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-25",
+		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
@@ -63,22 +89,6 @@
 		"PriceAttendant": 5.5,
 		"PriceGuest": 8.4,
 		"PriceStudent": 4.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (3,So,Se,NMa)",
-		"Category": "CampusWorld",
-		"Date": "2024-06-25",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 9.6,
-		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Vegan": true
 	}
