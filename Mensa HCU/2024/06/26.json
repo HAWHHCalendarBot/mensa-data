@@ -1,17 +1,33 @@
 [
 	{
-		"Name": "Erbsen (1), Steckrüben-Möhren Gemüse (1), Schwarzwurzeln (Mi), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Mi,Sl)",
+		"Name": "Würzige Thai-Soja-Bolognese (2,So,GlW), vegane Mi-Nudeln (So,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zucchini, Maisgemüse (1), Blattspinat (Sl), Perlgraupen (GlG)",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-26",
 		"Additives": {
 			"1": "Farbstoff",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
@@ -30,32 +46,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Graupentopf mit Kartoffeln und Gemüse (Sl,Sw,GlG)",
+		"Name": "Eintopf mit Kartoffeln und Gemüse (Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-06-26",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Würzige Thai-Soja-Bolognese (2,So,GlW), vegane Mi-Nudeln (So,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-06-26",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 6.6,
-		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegan": true
 	},
