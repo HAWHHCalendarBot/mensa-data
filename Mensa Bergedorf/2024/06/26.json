@@ -65,37 +65,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2024-06-26",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 5.4,
-		"PriceStudent": 3.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Putengulasch (Mi,Sl,GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-06-26",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.45,
-		"PriceGuest": 5.55,
-		"PriceStudent": 3.2,
-		"Poultry": true
-	},
-	{
 		"Name": "Würzige Thai-Soja-Bolognese (2,So,GlW), vegane Mi-Nudeln (So,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-06-26",
@@ -109,6 +78,20 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Putengulasch (Mi,Sl,GlW), Nudeln (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-06-26",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Poultry": true
 	},
 	{
 		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,So,Mi,Sl,Sf,GlW)",
@@ -128,5 +111,23 @@
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.3,
 		"Poultry": true
+	},
+	{
+		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Salat mit Italian Dressing (Sf,Sw), Couscous (Sl,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-06-26",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
