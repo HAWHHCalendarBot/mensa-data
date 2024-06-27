@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gerösteter Blumenkohl, gebratene Karotten, gebratene Paprika (1,5,Sw), gebackene Aubergine, Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-06-27",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +15,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Blattspinat in Rahmsauce (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-06-27",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und körnigem Frischkäse (3,Mi,Sf,NMa)",
@@ -39,13 +45,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), Kräutersoße (Mi,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (1,So)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-06-27",
 		"Additives": {
+			"1": "Farbstoff",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
