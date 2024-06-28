@@ -1,41 +1,48 @@
 [
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), Kidneybohnen in Erdnußcreme, kandierte Chili Erdnüsse (2,En,So,GlW), gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9), spanisches Kartoffelgemüse",
-		"Category": "Gemüsebar",
-		"Date": "2024-06-28",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-06-28",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "Broccoli e pomodoro mit Broccoli und Tomate (Mi), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-06-28",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zucchini mit Knoblauchöl, vegan, Grilltomate mit Cheddar (1,Mi), Cremespinat (Mi,Sl,GlW), Kroketten, vegan (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-06-28",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Würzige Thai-Soja-Bolognese (2,So,GlW), Bulgur natur, vegan (Sl,GlW), Mie-Nudeln (Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-06-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
