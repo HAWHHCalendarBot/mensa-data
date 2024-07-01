@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-07-01",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-01",
@@ -24,7 +13,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Name": "Fenchelgemüse (Sl,Sf), Broccoli, Porreegemüse, buntem Gemüse, gratinierter Blumenkohl (1,Mi,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-01",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Weiße Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-07-01",
 		"Additives": {
@@ -39,7 +45,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl, Sojajoghurt-Minz Dip (3,So)",
+		"Name": "3 Röstiecken mit geröstetem Blumenkohl, Sojajoghurt-Minz Dip (3,So)",
 		"Category": "CampusVital",
 		"Date": "2024-07-01",
 		"Additives": {

@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Kräuterkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2024-07-01",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta mit Käsesauce,Ruccola und Cherrytomaten (1,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-01",
@@ -19,6 +8,23 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, Porreegemüse in Rahm (Mi,GlW), Edamame (So), gerösteter Blumenkohl (Se), gebackene Aubergine, gebratener Pak Choi (2,So,GlW,NCa)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-01",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
