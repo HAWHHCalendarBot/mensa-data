@@ -1,27 +1,52 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-07-02",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Käsesauce,Ruccola und Cherrytomaten (1,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-02",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta mit Kürbis in Rahm (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-07-02",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, gebratener Pak Choi (2,So,GlW), Spicy Erbsen (2,Mi), gebratene Karotten Madras (Sf), gebratene Paprika (1,5,Sw), Ingwer-Knoblauch Brechbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-02",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "4 Röstiecken, Kräuterquark (Mi), Gurkensalat (Mi)",
