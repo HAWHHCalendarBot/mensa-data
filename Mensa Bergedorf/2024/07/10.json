@@ -76,19 +76,37 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisnudeln (2,So,Sl,GlW)",
-		"Category": "CampusVital",
+		"Name": "Bruschetta (Ei,Mi,Sf,GlW,GlG)",
+		"Category": "CampusSpezial",
 		"Date": "2024-07-10",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "hausgemachte Köfte mit Hirtenkäsefüllung (Ei,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-07-10",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true
 	}
 ]
