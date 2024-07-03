@@ -1,11 +1,43 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße, gezupfter Lachs und Zucchini (Fi,Mi), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-03",
 		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Fish": true
+	},
+	{
+		"Name": "Makkaroni-Tomatenauflauf mit Gorgonzola und Basilikumsoße (Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-03",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Mexikanisches Gemüse (Sl), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Mi,Sl), Karotten Pastinakenmix mit frischer Petersilie, Gebratener Brokkoli (2,So,Se,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-03",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -26,20 +58,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Makkaroni-Tomatenauflauf mit Basilikumsoße (Ei,Mi,GlW)",
-		"Category": "CampusVital",
-		"Date": "2024-07-03",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.1,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonnenblumenhack und veganem Skyr (1,3,So,Sl,Sf,GlW)",
