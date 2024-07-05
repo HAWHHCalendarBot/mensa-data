@@ -1,9 +1,40 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Gemüsepfanne mit Kidneybohnen, Prinzessbohnen und Paprika, Ofengemüse mit Balsamico pikant (3,5,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-05",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "veganer Pilzrahm (3,So), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-05",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Asiatisches Gemüseragout (2,So,Sl,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -15,34 +46,39 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
+		"Name": "Süßkartoffel mit Spinat und veganen Käse (So,Sl,Sf,NCa), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-05",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (1), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Kartoffelgratin (Ei,Mi), Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
+		"Name": "Perlgraupenrisotto mit roten Linsen, Kürbis, Mais und Rucola (1,2,So,Sl,GlW,GlG), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-07-05",
 		"Additives": {
 			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"2": "Konservierungsstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",
@@ -86,7 +122,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "vegane Spanische Hackbällchen in Tomaten Dattelsoße (So,Sl,GlW,GlG), vegane Aioli (Sf), Röstkartoffelwürfel",
+		"Name": "vegane Spanische Hackbällchen in Tomaten Dattelsoße (So,Sl,GlW,GlG), vegane Aioli (Sf), Röstkartoffeln",
 		"Category": "CampusVital",
 		"Date": "2024-07-05",
 		"Additives": {
