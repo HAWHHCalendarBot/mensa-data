@@ -1,5 +1,33 @@
 [
 	{
+		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-16",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Category": "Pottkieker",
+		"Date": "2024-07-16",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Sojastreifen mit Pilzen und Bambussprossen (2,So,Sl,Sw,GlW), Reis",
 		"Category": "CampusVital",
 		"Date": "2024-07-16",
@@ -15,5 +43,20 @@
 		"PriceStudent": 3.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-07-16",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"Pig": true
 	}
 ]
