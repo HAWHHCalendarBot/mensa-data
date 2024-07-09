@@ -1,40 +1,58 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Pasta al forno con Polpettine (Hackfleisch) (Ei,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-09",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Beef": true,
 		"LactoseFree": true,
-		"Poultry": true
+		"Pig": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Basmatireis, mediterrane Tomaten-Gemüsesoße (Mi,Sw,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-07-09",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Pasta (GlW), Senfsauce mit Hähnchenbruststreifen (Mi,Sf,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-07-09",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Champignon gebraten, vegan, Sojastreifen mit Gemüse, vegan (So,Sl,Sf), frisches Gemüse aus dem Wok, vegan (2,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-07-09",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
