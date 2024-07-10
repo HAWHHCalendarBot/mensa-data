@@ -1,47 +1,44 @@
 [
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
+		"Name": "Rosenkohl natur, vegan, Röstkartoffeln, vegan, Spargelgemüse (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-10",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Nerone mit Schweinefleisch und Gemüse (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-10",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
+		"Pig": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-		"Category": "Gemüsebar",
+		"Name": "Vegane Süßkartoffel-Kokos-Soja-Curry (So,Sl,Sf), Kurkumareis",
+		"Category": "Pastabar",
 		"Date": "2024-07-10",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-07-10",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
