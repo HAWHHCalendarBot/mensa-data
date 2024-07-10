@@ -14,7 +14,38 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
+		"Name": "Hühnchen in Kokos Soße (So,Mi,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Category": "Pastabar",
+		"Date": "2024-07-10",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Brokkoli (2,So,Se,GlW), Gemüsemix Balance, Zucchini, Blattspinat mit Hirtenkäse (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Sl,Se,Sw,GlW), rote Currysoße (3,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-07-10",
 		"Additives": {
@@ -23,7 +54,8 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -32,11 +64,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf,GlH)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-07-10",
 		"Additives": {
 			"6": "Geschwärzt",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
@@ -49,22 +82,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
-		"Category": "CampusWorld",
-		"Date": "2024-07-10",
-		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.8,
-		"PriceGuest": 9.0,
-		"PriceStudent": 4.5,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisnudeln (2,So,Sl,GlW)",
+		"Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Sojastreifen, frischem Gemüse und Reisnudeln (2,So,Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-07-10",
 		"Additives": {
