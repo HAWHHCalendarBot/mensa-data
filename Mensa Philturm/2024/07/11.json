@@ -1,32 +1,27 @@
 [
 	{
-		"Name": "Pasta mit Zitronen-Kapernsauce und Ruccola (Mi,Sl,GlW)",
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-11",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-11",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "gebackene Aubergine mit orientalischen Tomatenragout und Hirtenkäse (Mi), gebratene Paprika, Backkartoffel mit Basilikumpesto, gebratene Karotten Madras, Cajun Süßkartoffeln, gebratener Pak Choi (2,So,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2024-07-11",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl, Sojajoghurt-Minz Dip (3,So)",
@@ -43,34 +38,40 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Thüringer Bratwurst (8,Sl,Sf), Karottengemüse in Kräuterrahm (Mi,GlW), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Thüringer Bratwurst (8,Sl,Sf), Buttererbsen (Mi), Hausgemachtes Kartoffel-Butterstampf (Mi), Hollandaise (Ei,Mi,Sl,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-07-11",
 		"Additives": {
 			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.9,
 		"PriceGuest": 6.1,
 		"PriceStudent": 3.6,
+		"Alcohol": true,
 		"Pig": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), Karottengemüse in Kräuterrahm (Mi,GlW), Hausgemachtes Kartoffel-Butterstampf (1,So)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), Erbsen- Karotten Gemüse (Mi), Hausgemachtes Kartoffel-Butterstampf (1,So), Hollandaise (Ei,Mi,Sl,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-07-11",
 		"Additives": {
 			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
+		"Alcohol": true,
 		"Poultry": true
 	},
 	{
