@@ -14,7 +14,7 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Süßkartoffelwürfel gebacken",
 		"Category": "Pastabar",
 		"Date": "2024-07-10",
 		"Additives": {
@@ -29,12 +29,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Edamame (So)",
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Edamame (So), Zartweizen mit Gemüse (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-07-10",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -61,6 +63,19 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Griechischer Salat (6,Mi)",
+		"Category": "CampusVital",
+		"Date": "2024-07-10",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Pasta (GlW), Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi), Cherrytomaten",
