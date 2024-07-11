@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw)",
+		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Kräuterkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2024-07-11",
 		"Additives": {
@@ -11,6 +11,22 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Blattspinat (Sl), pikantes Grillgemüse (Sl,Sf,GlW), Rosenkohl (1), Bulgur mit Tomate und Peperoni (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-11",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
@@ -28,23 +44,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Rosenkohl (1), Bulgur mit Tomate und Peperoni (Sl,GlW), Edamame (So)",
-		"Category": "Gemüsebar",
-		"Date": "2024-07-11",
-		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Erbsensuppe (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-07-11",
@@ -56,6 +55,39 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pikanter Bulgursalat mit vegetarischen Schnitzel (4,Ei,Mi,GlW,GlH)",
+		"Category": "CampusVital",
+		"Date": "2024-07-11",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Asiatische Reispfanne mit Rinderhack und buntem Gemüse (1,2,So,Se,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-07-11",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
