@@ -1,18 +1,19 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Vegane Maultaschen (GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Vegane Maultaschen (GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa), Contadino mit Schweinefleisch und Zucchini (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-07-11",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
@@ -48,13 +49,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "hausgemachte Köfte mit Hirtenkäsefüllung (Ei,Mi,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
+		"Name": "Köfte (GlW), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2024-07-11",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",

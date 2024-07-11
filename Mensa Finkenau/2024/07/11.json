@@ -1,14 +1,18 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Broccoli, gerösteter Blumenkohl, gebratene Karotten, Bohnen mit Speck (2,3,8), gebratene Zucchini, mexikanisches Bohnengemüse (2,3,8)",
 		"Category": "Gemüsebar",
 		"Date": "2024-07-11",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
 		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
