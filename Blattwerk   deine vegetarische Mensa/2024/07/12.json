@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Maccaroni (GlW)",
+		"Name": "Sojabolognese mit Tomate und Gemüse (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-07-12",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -44,6 +45,24 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Sojagyros (So,Sl), veganes Tzatziki (So,Sf), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2024-07-12",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonnenblumenhack und veganem Skyr (1,3,So,Sl,Sf,GlW)",
