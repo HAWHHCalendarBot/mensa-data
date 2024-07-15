@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-15",
 		"Additives": {
@@ -13,7 +13,21 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
+		"Name": "Zucchinigemüse in Paprikarahm (So), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-15",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-15",
 		"Additives": {
@@ -27,20 +41,22 @@
 		"Beef": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, Kohlrabi in Rahm (Mi,GlW)",
+		"Name": "Auberginen in Sojarahm mit Tomaten (Sw), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, vegane Hackbällchen in Tomatensoße (So,Sl,GlW,GlG), gebratene Champignons",
 		"Category": "Gemüsebar",
 		"Date": "2024-07-15",
 		"Additives": {
-			"1": "Farbstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
@@ -71,13 +87,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frische Wok-Gemüsepfanne (2,Sw), Hähnchen Crossies (GlW,GlG), Reis",
+		"Name": "Frische Wok-Gemüsepfanne (2,Sw), Hähnchen Crossies (GlW,GlG), Asiatische Soße (2,Sl), Reis",
 		"Category": "CampusVital",
 		"Date": "2024-07-15",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.5,

@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Broccoli e Pasta mit Käsesoße und Broccoli (Mi), Conchiglie (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-15",
 		"Additives": {
@@ -11,6 +11,21 @@
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Petersilie",
+		"Category": "Pastabar",
+		"Date": "2024-07-15",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
@@ -26,14 +41,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gebackener Hirtenkäse mit Sesamkruste (Mi,Se,GlW), Minz-Joghurt-Soße (Mi), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
+		"Name": "Gebackener Weichkäse (Mi,GlW), Minz-Joghurt-Soße (Mi), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
 		"Category": "CampusVital",
 		"Date": "2024-07-15",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.1,
@@ -58,20 +72,5 @@
 		"PriceStudent": 4.3,
 		"Beef": true,
 		"LactoseFree": true
-	},
-	{
-		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Petersilie",
-		"Category": "CampusSpezial",
-		"Date": "2024-07-15",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 8.8,
-		"PriceStudent": 4.4,
-		"LactoseFree": true,
-		"Vegan": true
 	}
 ]
