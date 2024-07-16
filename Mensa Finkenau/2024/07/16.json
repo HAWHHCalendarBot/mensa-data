@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-07-16",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-16",
@@ -23,6 +12,19 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Broccoli, gebratene Zucchini, Brechbohnen in Rahm (Mi), Maultaschenauflauf (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-16",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Chili con Corn (Sl,GlD), Wrap (GlW)",
