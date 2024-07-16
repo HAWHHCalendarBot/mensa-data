@@ -1,5 +1,65 @@
 [
 	{
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-22",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mais (1)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-22",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-22",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
+	},
+	{
+		"Name": "Kokos-Kürbis-Curry (Sf,Se), Reis",
+		"Category": "Pottkieker",
+		"Date": "2024-07-22",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Makkaroni-Tomatenauflauf mit Basilikumsoße (Ei,Mi,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-07-22",
@@ -12,6 +72,21 @@
 		"PriceGuest": 5.6,
 		"PriceStudent": 3.1,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Texashacksteak (Ei,GlW), Pfefferrahmsoße (Mi,Sl,GlW), Kartoffelspalten (GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-07-22",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Beef": true
 	},
 	{
 		"Name": "Vegane Currybratwurst, zur Auswahl, BBQ Soße (2,9,Sl,Sf), hot BBQ Soße (9), fruchtige BBQ Soße (1,3,5,Sl,Sf,Sw), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
