@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "gerösteter Broccoli, Spitzkohl",
-		"Category": "Gemüsebar",
+		"Name": "all`Provenzale mit Gemüse (Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-07-18",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,23 +14,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi)",
+		"Name": "Pasta Chili con Corn (Sl,Lu,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-18",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Poultry": true
-	},
-	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa)",
-		"Category": "Pastabar",
-		"Date": "2024-07-18",
-		"Additives": {
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -35,6 +27,36 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Orientalisches Kichererbsengemüse (2,5,Sw), Spitzkohl, gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastapfanne mit Salami und Käse (1,2,3,Mi)",
+		"Category": "Pastabar",
+		"Date": "2024-07-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
 	},
 	{
 		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf)",
@@ -67,16 +89,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), Spaghetti (GlW), Tomatensoße",
 		"Category": "CampusKlassiker",
 		"Date": "2024-07-18",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.15,
-		"PriceGuest": 6.25,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
 		"Poultry": true
 	}
 ]
