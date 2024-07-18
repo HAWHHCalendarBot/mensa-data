@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "hausgemachtes Rucola Pesto (NHa), Gnocchi",
+		"Category": "Pastabar",
 		"Date": "2024-07-18",
-		"Additives": {},
+		"Additives": {
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,13 +13,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
-		"Category": "Pastabar",
+		"Name": "gebackene Süßkartoffel, gebratene Paprikastreifen, gebackene Aubergine (Sw,GlW), gebratene Drillinge, Grüne Gemüsepfanne (2,So,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-07-18",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -40,6 +43,20 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Nudel-Bologneseauflauf (Mi,Sl,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-07-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Beef": true
 	},
 	{
 		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und Limetten-Senf-Dressing (3,Sf,NMa)",
