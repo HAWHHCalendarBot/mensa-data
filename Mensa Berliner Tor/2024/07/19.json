@@ -1,9 +1,22 @@
 [
 	{
-		"Name": "Bohnengemüse natur, vegan, buntem Gemüse, vegan, Broccoli mit Hirtenkäse (Mi)",
-		"Category": "Gemüsebar",
+		"Name": "Bratreis mit veganen Döner-Streifen und Frühlingszwiebeln",
+		"Category": "Pastabar",
+		"Date": "2024-07-19",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Paprikarahmsoße (Mi,GlW,GlG)",
+		"Category": "Pastabar",
 		"Date": "2024-07-19",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
@@ -12,31 +25,35 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Name": "Pasta al forno con Crema di spinaci mit Spinat-Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-07-19",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-07-19",
-		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zucchinigemüse natur, vegan, Blumenkohl natur, vegan, Crepe mit Gemüse-Hummusfüllung (Ei,Mi,Sl,Se,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-19",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
