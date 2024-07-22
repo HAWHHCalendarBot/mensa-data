@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-22",
 		"Additives": {
@@ -13,14 +13,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Crema di spinaci mit Spinat-Sojasahnesoße (So,Mi,Sl,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-07-22",
 		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -28,7 +28,39 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Name": "vegane Spanische Hackbällchen (So,Sl,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-22",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Erbsen-Mais Gemüse, Blumenkohl gebacken (1,GlW), Altes Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln, gebratene Champignons (Mi,Sw), Couscousgemüse (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-22",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-22",
 		"Additives": {
@@ -46,12 +78,12 @@
 		"Pig": true
 	},
 	{
-		"Name": "Kokos-Kürbis-Curry (Sf,Se), Reis",
+		"Name": "Blumenkohl Broccoli Low Bowl (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-07-22",
 		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
