@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (GlW)",
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße mit Bohnen und Erbsen (Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-23",
 		"Additives": {
@@ -14,18 +14,39 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Möhren (Se), Spinat (Sl), dicke Bohnen (Mi,GlW), Blumenkohl",
+		"Name": "Möhren mit Curry (Se), Brokkoli mit Mandeln (2,So,Se,GlW,NMa), Couscous mit Kartoffeln (Sl,GlW), Erbsen- Karotten Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-07-23",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Möhren mit Curry (Se), Brokkoli mit Mandeln (2,So,Se,GlW,NMa), Couscous mit Kartoffeln (Sl,GlW), Erbsen- Karotten Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-23",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
@@ -42,11 +63,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "4 Röstiecken, Kräuterquark (Mi), Gurkensalat (Mi)",
+		"Name": "4 Röstiecken, Kräuterquark (Ei,So,Mi,Sf,GlW), Gurkensalat (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-07-23",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.2,
 		"PriceGuest": 5.8,
