@@ -1,9 +1,14 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gebratener Pak Choi (2,So,GlW), gebratene Zucchini, gerösteter Broccoli, Süßkartoffeln, gebackene Aubergine (Sw,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-07-24",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +16,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Spinat-Käsesauce (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-07-24",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünkern-Chilli mit Mais und Kidneybohnen (Sl,GlD), Curryreis (Sf)",
@@ -80,9 +87,9 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
 		"Fish": true
 	},
 	{
