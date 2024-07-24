@@ -1,5 +1,62 @@
 [
 	{
+		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW), Schwarzwurzeln in Rahm (Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2024-07-30",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Fladenbrot (Se,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-07-30",
@@ -34,6 +91,23 @@
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Gemischter Salat mit gebratenem Cajun-Hähnchen, Quinoa-Vollkornreis,Cranberries und Mangodressing (3,5,Sf,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2024-07-30",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Poultry": true
 	}
