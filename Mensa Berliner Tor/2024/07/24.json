@@ -1,11 +1,25 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Pasta al Arrabiata, vegan (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-07-24",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta con Crema di spinaci mit Spinat in Käse-Sahnesoße (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-24",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,7 +27,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Ragù funghi bianco mit Rindleisch und Kräutern (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-24",
 		"Additives": {
@@ -27,13 +41,17 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Name": "Grill-Tomaten mit Käse gratiniert (1,Mi), Gartengemüse, vegan (Sl), Bratreis und Frühlingszwiebeln, vegan, Bratnudeln mit Soja- und Gemüsestreifen, vegan (2,So,Se,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-07-24",
 		"Additives": {
 			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
