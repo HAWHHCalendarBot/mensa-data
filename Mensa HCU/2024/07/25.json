@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Spätzle mit Käse (Ei,Mi,GlW), buntem Gemüse, Gemüsemix Eskorial, Blattspinat mit Schafskäse (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2024-07-25",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss/Rindergulasch mit Paprika und P (Mi,Sl,NHa), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-07-25",
 		"Additives": {
@@ -31,16 +45,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
+		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Pfirsich- Soja-Dip (3,So)",
 		"Category": "CampusWorld",
 		"Date": "2024-07-25",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 7.8,
@@ -49,15 +62,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Susländer grobe Bratwurst (8), Ananas Sauerkraut, Bratkartoffeln",
+		"Name": "Frikadelle (Ei,GlW), Ananas Sauerkraut, Bratkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2024-07-25",
 		"Additives": {
-			"8": "Phosphat"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 5.6,
 		"PriceGuest": 8.6,
 		"PriceStudent": 4.3,
+		"Beef": true,
 		"LactoseFree": true,
 		"Pig": true
 	},
