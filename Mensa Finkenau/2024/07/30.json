@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-07-30",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +14,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "geschmorter Sellerie (Sl,Sw), Fenchelgemüse (Sl), Röstkartoffeln, Aubergine (Sw), gebratene Zucchini",
+		"Category": "Gemüsebar",
 		"Date": "2024-07-30",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -52,6 +55,24 @@
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
+		"Poultry": true
+	},
+	{
+		"Name": "Pute in Paprika-Tomaten-Gemüse (1,2,5,9,Sf,Sw), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2024-07-30",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
