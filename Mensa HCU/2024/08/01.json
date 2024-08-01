@@ -1,13 +1,12 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchinisoße (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-08-01",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -47,7 +46,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Ofenkartoffel mit Ratatouille gratiniert (1,Sw), Blattsalat mit Karotte (3,5,Sw)",
+		"Name": "Ofenkartoffel mit Ratatouille gratiniert, Blattsalat und Italien Dressing (1,Sw), Italian Dressing (Sf), Blattsalat mit Karotte (3,5,Sw)",
 		"Category": "CampusVital",
 		"Date": "2024-08-01",
 		"Additives": {
@@ -64,17 +63,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten-Basilikumsoße, Spaghetti (GlW)",
+		"Name": "Ofenkartoffel mit Ratatouille gratiniert, Blattsalat und Italien Dressing (1,Sw), Italian Dressing (Sf), Blattsalat mit Karotte (3,5,Sw)",
+		"Category": "CampusVital",
+		"Date": "2024-08-01",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 8.0,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Putenschnitzel, Tomaten-Basilikumsoße und Pasta, Tomaten-Basilikumsoße, Pasta (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-08-01",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 6.9,
 		"PriceGuest": 11.2,
 		"PriceStudent": 5.6,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
