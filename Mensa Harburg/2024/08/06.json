@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Karotten Rustica, gerösteter Broccoli, gebackene Aubergine (Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-06",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Vegane Käsesoße mit Tomaten (1,So,GlW), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-06",
@@ -60,20 +74,18 @@
 		"Fish": true
 	},
 	{
-		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (3,So,Se,NMa)",
+		"Name": "Ofengemüse mit vegtarischer Tahin Joghurt Creme und gerösteten Mandeln (Mi,Se,NMa)",
 		"Category": "CampusWorld",
 		"Date": "2024-08-06",
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
 		"PriceGuest": 7.3,
 		"PriceStudent": 4.8,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Homemade Pulled Beef-Sandwich mit Zwiebeln, Aioli und kleinem Salat (1,3,9,Ei,Mi,Sf,GlW,GlR), Pommes Frites (Sf)",
