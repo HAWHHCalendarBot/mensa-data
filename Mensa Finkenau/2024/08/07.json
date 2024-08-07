@@ -1,17 +1,32 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Gemüse des Tages, Blattspinat in Rahm (Mi,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-07",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
+		"Name": "Gemüse des Tages, Blattspinat in Rahm (Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-07",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-07",
 		"Additives": {
@@ -41,7 +56,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust im Knuspermantel (GlW), Sour Cream (4,Ei,Mi,Sf), glasierte Honigmöhren, Gemüse Bulgur (Sl,GlW)",
+		"Name": "Hähnchenbrust im Knuspermantel (GlW), Sour Cream (4,Ei,Mi,Sf), Gartengemüse (Mi), Kartoffelspalten (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-08-07",
 		"Additives": {
@@ -49,8 +64,7 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.1,
 		"PriceGuest": 7.3,

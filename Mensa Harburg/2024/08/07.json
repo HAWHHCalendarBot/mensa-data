@@ -1,30 +1,9 @@
 [
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
+		"Name": "5 Nürnberger Bratwürstchen",
 		"Category": "Pastabar",
 		"Date": "2024-08-07",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-08-07",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -32,15 +11,41 @@
 		"Pig": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
+		"Name": "Pollo all'Arrabbiata mit Hähnchen und Paprika (Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-08-07",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Schwedische Köttbullar (Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-08-07",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Porreegemüse in Rahm (So), Paprika-Zwiebel Pfanne, Rote Beete mit Kichererbsen und dicken Bohnen (9), gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-07",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"9": "Süßungsmittel",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -48,6 +53,22 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Spinat in Käsesoße (Mi,Sl,GlW,NCa)",
+		"Category": "Pastabar",
+		"Date": "2024-08-07",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
