@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Pastabar",
-		"Date": "2024-08-08",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Saporita mit Soja und Paprika (So,Sl), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-08",
@@ -26,19 +15,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (3,Sf), Fusilli (GlW)",
+		"Name": "Spinaci e olio d'oliva mit Sahne, Spinat und Oliven (3,Mi,Sf), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-08",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Spätzle (Ei,Mi,GlW), Steckrüben-Möhren Gemüse (1)",
@@ -56,7 +45,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), con crema di peperoni e ricotta in einer Paprikacreme mit Ricotta Salata (Mi)",
+		"Name": "Cremiger Reissalat mit veganem Geschnetzeltem und Sonnenblumenkern-Salsa (Sf)",
+		"Category": "CampusWorld",
+		"Date": "2024-08-08",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Strozzapreti (GlW), \"con crema di peperoni e ricotta\" in einer Paprikacreme mit Ricotta Salatacreme (Mi)",
 		"Category": "CampusWorld",
 		"Date": "2024-08-08",
 		"Additives": {
