@@ -1,25 +1,15 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Blattspinat in Pilz-Rahm (Mi,GlW), Orientalisches Kichererbsengemüse (2,5,Sw), Gartengemüse (Mi,Sl), Gemüse Lauchpfanne (Sw), Karotten Rustica",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-08",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Crema di pesto mit Gemüse und Pestocreme (Mi,Sl,GlW,GlG,NCa), Vollkorn Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-08-08",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -27,11 +17,29 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw), Tortilla Chips",
+		"Name": "Crema di pesto in  Pestocreme (So,Mi,Sl,GlW,GlG,NCa), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-08-08",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Feijoada vegana, brasilianische Bohnensuppe mit Gemüse (Sl,Sw), Sojajoghurt Dip (So), Tortilla Chips",
 		"Category": "Pottkieker",
 		"Date": "2024-08-08",
 		"Additives": {
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
@@ -41,10 +49,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Mi,Se), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2024-08-08",
 		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -52,7 +61,6 @@
 		"PriceAttendant": 6.4,
 		"PriceGuest": 7.6,
 		"PriceStudent": 5.1,
-		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
