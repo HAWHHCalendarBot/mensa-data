@@ -13,7 +13,41 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
+		"Name": "Mac and Cheese (1,Mi,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-08-09",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Maisgemüse (1), buntem Gemüse, Gebratener Brokkoli (2,So,Se,GlW), mediterranes Gemüse (6)",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-09",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indische Tomaten-Linsensuppe mit Rucola (Sf,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-08-09",
 		"Additives": {
@@ -27,14 +61,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Colcannon, Irisches Kartoffelgericht, kandierte Cashewkerne (1,2,So,GlW,NCa), gebratene Karotten",
+		"Name": "Colcannon, Irisches Kartoffelgericht (1,2,So,GlW), gebratene Karotten",
 		"Category": "CampusWorld",
 		"Date": "2024-08-09",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.4,
@@ -51,23 +84,6 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.0,
-		"PriceGuest": 7.4,
-		"PriceStudent": 3.7,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Mac and Cheese (1,Mi,Sl,Sf,GlW), Eisbergsalat mit Tomate (Sw)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-08-09",
-		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.0,
 		"PriceGuest": 7.4,
