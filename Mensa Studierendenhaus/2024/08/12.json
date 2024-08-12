@@ -1,10 +1,12 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-12",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,20 +15,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), Fusilli (GlW)",
+		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), Nusskartoffeln",
 		"Category": "Pastabar",
 		"Date": "2024-08-12",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"8": "Phosphat"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Blattspinat mit Sojarahm und veganem Käse (So), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), gebratenem Wirsing",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-12",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
@@ -59,6 +76,22 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Matjesfilets (2,Fi), Matjessoße Hausfrauen Art (9,Mi,Sw), Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2024-08-12",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Fish": true
 	},
 	{
 		"Name": "Vegane Currybratwurst, zur Auswahl, BBQ Soße (2,9,Sl,Sf), hot BBQ Soße (9), fruchtige BBQ Soße (1,3,5,Sl,Sf,Sw), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
