@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (So), Süßkartoffel Gnocchi",
+		"Category": "Pastabar",
 		"Date": "2024-08-14",
-		"Additives": {},
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,16 +13,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Süßkartoffel Gnocchi",
-		"Category": "Pastabar",
+		"Name": "Paprika-Zwiebelgemüse, Karotten (1), gebratene Zucchini, Fenchelgemüse (Sl), Kurkumareis",
+		"Category": "Gemüsebar",
 		"Date": "2024-08-14",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
@@ -38,13 +42,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), Mais-Polenta (Ei,Mi,Sl)",
 		"Category": "CampusSpezial",
 		"Date": "2024-08-14",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.5,
 		"PriceGuest": 7.7,
