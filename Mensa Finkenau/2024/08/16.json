@@ -1,16 +1,16 @@
 [
 	{
-		"Name": "Blattspinat, Stangenbrechbohnen Provencial, gebratene Champignons (Sw), buntem Gemüse",
+		"Name": "Blattspinat (Mi), Stangenbrechbohnen Provencial, gebratene Champignons (Sw), buntem Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-16",
 		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Saporita mit Soja und Paprika (So,Sl), bunte Fusilli (GlW)",
@@ -39,12 +39,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Spanische Hackbällchen in Tomaten Dattelsoße (So,Sl,GlW,GlG), vegane Aioli (Sf), Gemüse Bulgur (Sl,GlW)",
+		"Name": "vegane Spanische Hackbällchen in Tomaten Dattelsoße (So,Sl,GlW,GlG), vegane Aioli (1,3,9,Ei,Mi,Sf), Gemüse Bulgur (Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-08-16",
 		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -52,7 +57,6 @@
 		"PriceAttendant": 5.45,
 		"PriceGuest": 6.65,
 		"PriceStudent": 4.15,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
