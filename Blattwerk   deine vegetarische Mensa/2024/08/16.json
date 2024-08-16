@@ -14,14 +14,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di spinaci mit Spinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG), Vollkorn Penne (GlW)",
+		"Name": "Crema di porchini mi Sahne und Soja (So,Mi,Sl,GlW,GlG), Vollkorn Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-16",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -29,7 +30,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crespelle mit Gemüse, Sahne und Creme Fraiche (Ei,Mi,GlW), Tomate",
+		"Name": "Crespelle mit Gemüse, Sahne und Ricotta (Ei,Mi,GlW), Tomate",
 		"Category": "CampusWorld",
 		"Date": "2024-08-16",
 		"Additives": {
@@ -43,7 +44,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Sesam Udon Nudeln mit Blattspinat, Pilzen, Mungobohnen und schwarzer Sesam (2,So,Sl,Se,Sw,GlW)",
+		"Name": "Sesam Udon Nudeln mit Blattspinat, Pilzen, Mungobohnen, MInze und schwarzer Sesam (2,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-08-16",
 		"Additives": {
@@ -59,5 +60,25 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pommes Frites (Sf), Broccoli Nuggets (Ei,So,Mi,Sl,GlW,GlG), pikante BBQ Soße (2,9,Sl,Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2024-08-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.25,
+		"PriceGuest": 6.45,
+		"PriceStudent": 3.95,
+		"Vegetarian": true
 	}
 ]
