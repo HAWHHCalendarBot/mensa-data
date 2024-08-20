@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Schweinebauch asiatisch mit Frühlingszwiebel und Limone",
-		"Category": "Pastabar",
-		"Date": "2024-08-20",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
 		"Name": "Kichererbsenragout mit Kokos und Tomaten (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-08-20",
@@ -53,6 +42,22 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schweinebauch asiatisch mit Frühlingszwiebel und Limone (1,2,So,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-08-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
