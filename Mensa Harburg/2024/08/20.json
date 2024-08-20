@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "Schweinebauch asiatisch mit Frühlingszwiebel und Limone",
+		"Category": "Pastabar",
+		"Date": "2024-08-20",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
 		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-20",
@@ -13,11 +24,11 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Kichererbsenragout mit Kokos und Tomaten (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-08-20",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -27,7 +38,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Sojageschnetzeltes mit Gemüse in Erdnusscreme (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-08-20",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rosenkohl, Couscous mit Gemüse (Sl,GlW), Wok-Gemüse süß-sauer (2,So,GlW), Karotten natur, Schupfnudeln (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-20",
 		"Additives": {
