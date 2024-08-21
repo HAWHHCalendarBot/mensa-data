@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Erbsen (1), Brechbohnen, Gemüsemix Eskorial, Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-21",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Bolognese (Sl), Maccaroni (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-21",
@@ -12,6 +25,23 @@
 		"PriceStudent": 0.75,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Spaghetti in Basilikum Knoblauchsoße mit Melanzane Bällchen (1,3,5,Mi,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-08-21",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Curry-Noodle-Bowl Bangkok mit (2,So,Se,GlW), rote Currysoße (3,Sl)",
@@ -47,23 +77,6 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Spaghetti in Basilikum Knoblauchsoße mit Melanzane Bällchen (1,3,5,Mi,Sw,GlW)",
-		"Category": "CampusVital",
-		"Date": "2024-08-21",
-		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 7.8,
-		"PriceStudent": 3.9,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Schweinefilet im Stück gebraten, Dijon-Senfsoße (Mi,Sf,GlW,GlG), Prinzessbohnen, Kroketten (GlW)",
