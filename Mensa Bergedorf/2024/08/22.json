@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Name": "Erbsensuppe mit gerösteten Kickererbsen und Croutons (So,Sl,GlW,GlR,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2024-08-22",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlR": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -29,7 +31,24 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Schupfnudeln mit Champignons, Wirsing und marinierten Tofuscheiben (1,2,So,Sf,Sw,GlW)",
+		"Name": "hausgemachte Köfte mit Hirtenkäsefüllung (Ei,Mi,GlW), Tzatziki (Mi), Weißkrautsalat (3,5,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2024-08-22",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Beef": true
+	},
+	{
+		"Name": "Schupfnudeln mit Champignons, Grünkohl und marinierten Tofuscheiben (1,2,So,Sl,Sf,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-08-22",
 		"Additives": {
@@ -37,6 +56,7 @@
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
