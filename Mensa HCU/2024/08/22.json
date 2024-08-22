@@ -1,13 +1,12 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
+		"Name": "Karotten Rustica, Kohlrabigemüse (1), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Mi,Sl), Prinzessbohnen",
+		"Category": "Gemüsebar",
 		"Date": "2024-08-22",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"1": "Farbstoff",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
@@ -15,13 +14,29 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Name": "Pasta (Mi,GlW), Geschnetzteltes vom Schwein und Huhn mit Zucchini (3,8,Mi,Sf,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-08-22",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "herzhafte Erbsensuppe (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-08-22",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -30,13 +45,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
+		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Haselnüsse, Apfel, Röstzwiebeln (2,So,Sw,GlW,NHa)",
 		"Category": "CampusSpezial",
 		"Date": "2024-08-22",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -65,13 +80,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "hausgemachte Köfte mit Hirtenkäsefüllung (Ei,Mi,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (Mi), Reis",
+		"Name": "Köfte (Mi,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Tzatziki (Mi), Reis",
 		"Category": "CampusWorld",
 		"Date": "2024-08-22",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
