@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
+		"Name": "Tortellini mit Käsefüllung und Tomatensoße (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-23",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -14,11 +13,25 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
+		"Name": "Karotten Rustica, Kohlrabigemüse (1), Buntes Gemüse mit Staudensellerie und Schwarzwurzeln (Mi,Sl),  gebackener Rosenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-23",
+		"Additives": {
+			"1": "Farbstoff",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Chili con soja mit Reis (So)",
 		"Category": "Pottkieker",
 		"Date": "2024-08-23",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -27,15 +40,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bowl mit gebratenen Soja- Streifen, Edamame, Erdnüsse, Staudensellerie, Orange, und schwarzem Sesam (2,3,5,En,So,Sl,Se,Sw,GlW), Udon-Nudeln (GlW)",
+		"Name": "Bowl mit gebratenen Soja- Streifen, Edamame, Mandeln, Staudensellerie, Orange, und schwarzem Sesam (2,3,5,So,Sl,Se,Sw,GlW,NMa), Udon-Nudeln (GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-08-23",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
@@ -48,7 +61,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkern-Käse-Medaillons (Ei,So,Mi,Se,GlW,GlD), Schnittlauch-Dip (Mi), Blechkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
+		"Name": "Grünkern-Käse-Medaillons (Ei,So,Mi,Se,GlW,GlD), Petersilien-Dip (Mi), Blechkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2024-08-23",
 		"Additives": {
