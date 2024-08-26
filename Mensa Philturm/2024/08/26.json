@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Kräuterkartoffeln, gebratene Karotten, gerösteter Broccoli, gebratene Zucchini, gebratene Champignons (Sw), gebackene Aubergine",
-		"Category": "Gemüsebar",
-		"Date": "2024-08-26",
-		"Additives": {
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta mit Spinatsahnesauce,Cherrytomaten,Ruccola (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-26",
@@ -25,6 +12,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, gebratene Karotten, gerösteter Broccoli, gebratene Champignons (Sw), Gartengemüse, Bohnen (2,So,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
