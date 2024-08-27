@@ -1,5 +1,78 @@
 [
 	{
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-02",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-02",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-02",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
+	},
+	{
+		"Name": "Kokos-Kürbis-Curry (Sf,Se), Reis",
+		"Category": "Pottkieker",
+		"Date": "2024-09-02",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kräuterrührei (Ei,Mi), Bratkartoffeln, Salatgarnitur",
+		"Category": "CampusKlassiker",
+		"Date": "2024-09-02",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Gebratene Mie-Nudeln mit Wok Gemüse, Tofuwürfeln und Omelettestreifen (1,Ei,So,Mi,Sf,Sw,GlW), grüne Kokos-Curry-Soße, scharf",
 		"Category": "CampusWorld",
 		"Date": "2024-09-02",
@@ -16,5 +89,20 @@
 		"PriceGuest": 6.7,
 		"PriceStudent": 4.2,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Texashacksteak (Ei,GlW), Mexikanischer Bohnensalat (Sf), Kartoffelspalten (GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-09-02",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]
