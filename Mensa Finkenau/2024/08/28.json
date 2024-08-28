@@ -1,14 +1,17 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Blumenkohl, Chili con Corn (Sl,GlD), Kartoffelpüree (Mi), Stangenbrechbohnen Provencial",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-28",
-		"Additives": {},
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
