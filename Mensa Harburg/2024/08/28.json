@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-28",
 		"Additives": {
@@ -16,7 +16,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
+		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-28",
 		"Additives": {
@@ -32,7 +32,23 @@
 		"Pig": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
+		"Name": "Pasta Milano mit Rindfleisch, Pilzen und Bohnen (3,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-08-28",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Karotten-Kohlrabigemüse in Sojacreme, (So),  spanisches Kartoffelgemüse,,  Orientalisches Kichererbsengemüse, (2,5,So,Sw),  Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-28",
 		"Additives": {
@@ -41,6 +57,7 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -94,24 +111,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat natur, Senfsoße (Mi,Sf,GlW,GlG), Röstkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2024-08-28",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
 			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.7,
 		"PriceGuest": 7.9,
 		"PriceStudent": 5.4,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
 	}
 ]

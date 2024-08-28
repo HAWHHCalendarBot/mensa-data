@@ -16,6 +16,21 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Weiße Bohnen mediterraneo, Maiskolben (Mi), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-28",
@@ -30,24 +45,6 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Pig": true
-	},
-	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
-		"Date": "2024-08-28",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
@@ -113,5 +110,26 @@
 		"PriceGuest": 6.7,
 		"PriceStudent": 4.2,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-08-28",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
