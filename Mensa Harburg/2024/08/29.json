@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,GlW,NHa)",
+		"Name": "Tomaten-Belugalinsenragout mit Kokosmilch (Sl), Reis",
 		"Category": "Pastabar",
 		"Date": "2024-08-29",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -15,12 +13,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), bunte Fusilli (GlW)",
+		"Name": "gerösteter Paprika,,  Zucchini-Karottengemüse pikant,,  Champignons in Sojarahm (So,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-29",
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Salsa noci di pollo mit Hähnchenstreifen, Nüssen und getrockneten Tomaten (Mi,Sl,GlW,NHa)",
 		"Category": "Pastabar",
 		"Date": "2024-08-29",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -29,20 +42,20 @@
 		"Poultry": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW), Steckrüben-Möhren Gemüse (1)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta all`Amatriciana mit Speck und Tomaten (2,3,8,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-08-29",
 		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Kartoffel Gemüsecurry (2,Sl,Sf), Kräuterdip (So)",
