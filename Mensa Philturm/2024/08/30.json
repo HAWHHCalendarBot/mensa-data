@@ -1,21 +1,27 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-08-30",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit gebratenen Pfifferlingen,Petersilie in Rahm (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-30",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, Gemüse Bulgur (Sl,GlW), gerösteter Broccoli, gebratene Karotten, Asiagemüse (So,Se), gerösteter Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,10 +30,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "rote Linsen Suppe mit Kreuzkümmel (Sl,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-08-30",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
@@ -35,7 +44,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW), Conchiglie (GlW)",
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW), Pasta (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-08-30",
 		"Additives": {
@@ -52,7 +61,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Bolognese mit Gemüse (So,Sl), bunte Fusilli (GlW)",
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl), Pasta (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-08-30",
 		"Additives": {
@@ -67,13 +76,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kokos - Blumenkohlcurry mit Udonnudeln und Koriander (En,Se,GlW)",
+		"Name": "Kokos - Blumenkohlcurry mit Udonnudeln und Koriander (En,Sf,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-08-30",
 		"Additives": {
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.7,
