@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Romanesco (Sl), buntem Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2024-08-30",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-08-30",
@@ -14,12 +27,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl)",
+		"Name": "Vegane Bällchen in Kräutersauce (1,So,Sl,GlW,GlG), Reis, Rote Beete Salat (9)",
+		"Category": "Pastabar",
+		"Date": "2024-08-30",
+		"Additives": {
+			"1": "Farbstoff",
+			"9": "Süßungsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mexikanischer Bohnentopf (2,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-08-30",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
@@ -28,7 +60,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crepe mit Gemüse-Hummusfüllung (Ei,Mi,Sl,Se,GlW), Rotkrautsalat Levante (3,Se)",
+		"Name": "Crepe mit Gemüse und Käse gratiniert dazu Hummus (Ei,Mi,Sl,Se,GlW), Rotkrautsalat Levante (3,Se)",
 		"Category": "CampusWorld",
 		"Date": "2024-08-30",
 		"Additives": {
@@ -43,26 +75,6 @@
 		"PriceGuest": 6.8,
 		"PriceStudent": 3.4,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Vegane Bällchen in Kapernsoße (1,So,Sl,Sw,GlW,GlG), Reis, Rote Beete Salat (9)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-08-30",
-		"Additives": {
-			"1": "Farbstoff",
-			"9": "Süßungsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 7.8,
-		"PriceStudent": 3.9,
-		"Alcohol": true,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Mariniertes Tofusteak (2,So,GlW), Gurken-Sprossen-Salat (2,9,So,Se,GlW), Udon-Nudeln (GlW)",
