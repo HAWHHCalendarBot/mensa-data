@@ -1,23 +1,9 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Name": "Pasta Lenticchie mit Linsen in pikanter Tomaten-Kokossoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-08-30",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-08-30",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -27,16 +13,41 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), Kidneybohnen in Erdnußcreme, kandierte Chili Erdnüsse (2,En,So,GlW), gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9), spanisches Kartoffelgemüse",
+		"Name": "pikante Tomatensahnesoße mit Erbsen (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-08-30",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Asiatisches Ragout süß-sauer (2,So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-08-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl-Broccolipfanne geröstet, Champignons in Sojarahm (So,Mi,Sw), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2024-08-30",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -44,8 +55,7 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl)",
@@ -62,7 +72,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crepe mit Gemüse-Hummusfüllung (Ei,Mi,Sl,Se,GlW), Rotkrautsalat Levante (3,Se)",
+		"Name": "Crepe mit Gemüse-Hummusfüllung (Ei,Mi,Sl,Se,GlW), Rotkrautsalat Levante (3)",
 		"Category": "CampusWorld",
 		"Date": "2024-08-30",
 		"Additives": {
