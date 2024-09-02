@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata",
+		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-10",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw)",
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-10",
 		"Additives": {
@@ -27,19 +27,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen",
+		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW), Schwarzwurzeln in Rahm (Mi,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-10",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -56,60 +57,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG)",
-		"Category": "CampusSpezial",
+		"Name": "Pfannengemüse mit Kartoffeln und Quinoa, Tomaten-Paprika-Salsa (4)",
+		"Category": "CampusVital",
 		"Date": "2024-09-10",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"4": "Geschmacksverstärker"
 		},
-		"PriceAttendant": 5.1,
-		"PriceGuest": 6.3,
-		"PriceStudent": 3.8,
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Gebackene Seelachsfiletwürfel (Fi,Mi,GlW)",
-		"Category": "CampusKlassiker",
+		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften (3,Ei,Mi,GlW), Gorgonzola-Pfeffer-Aioli (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
 		"Date": "2024-09-10",
 		"Additives": {
 			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
-			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
-		"Fish": true
-	},
-	{
-		"Name": "Hähnchenkeule (Sf)",
-		"Category": "CampusVital",
-		"Date": "2024-09-10",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 4.5,
-		"Poultry": true
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Vegetarian": true
 	}
 ]

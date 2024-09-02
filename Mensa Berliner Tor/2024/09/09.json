@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl)",
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen",
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-09",
 		"Additives": {
@@ -26,7 +26,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
@@ -43,7 +43,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffel-Lauch Suppe (So,Sl)",
+		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-09-09",
 		"Additives": {
@@ -58,51 +58,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganes Jailhouse-Chili (So,Sl)",
+		"Name": "Gebackene Seelachsfiletwürfel (Fi,Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-09-09",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.5,
-		"PriceGuest": 5.7,
-		"PriceStudent": 3.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pfannengemüse mit Kartoffeln und Quinoa",
-		"Category": "CampusVital",
-		"Date": "2024-09-09",
-		"Additives": {
-			"4": "Geschmacksverstärker"
-		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.8,
-		"PriceStudent": 3.3,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pute in Paprika-Tomaten-Gemüse (1,2,5,9,Sf,Sw)",
-		"Category": "CampusSpezial",
-		"Date": "2024-09-09",
-		"Additives": {
 			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
+			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 4.5,
-		"LactoseFree": true,
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Fish": true
+	},
+	{
+		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten-Basilikumsoße, Spaghetti (GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-09",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 561.3,
+		"PriceGuest": 562.5,
+		"PriceStudent": 560.0,
 		"Poultry": true
 	}
 ]

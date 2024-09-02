@@ -63,6 +63,24 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Wrap mit Glasnudeln und Sonnenblumenhack (2,So,Sl,Sf,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2024-09-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Currybratwurst oder (3,4,8,9,Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-09-05",
@@ -82,5 +100,50 @@
 		"LactoseFree": true,
 		"Pig": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Pizza Funghi Large (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-05",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pizza Proscuitto e Funghi Large (2,3,8,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Pig": true
+	},
+	{
+		"Name": "Pizza Sucuk Large (2,3,4,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-05",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"Beef": true
 	}
 ]
