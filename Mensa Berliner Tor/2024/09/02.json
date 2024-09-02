@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "Bohnengemüse, vegan, Blumenkohl, vegan, Gnocchi, Bratkartoffeln, vegan",
+		"Category": "Gemüsebar",
 		"Date": "2024-09-02",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -13,14 +11,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Geflügelrahmsoße (Mi,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-09-02",
 		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -28,22 +24,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-02",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Pig": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta mit Kräuter-Kresserahmsoße (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-09-02",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kokos-Kürbis-Curry (Sf,Se), Reis",
@@ -76,6 +82,19 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Pizza Margherita Large (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-02",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Texashacksteak (Ei,GlW), Mexikanischer Bohnensalat (Sf), Kartoffelspalten (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-09-02",
@@ -89,5 +108,36 @@
 		"PriceStudent": 4.4,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Pizza Salami Large (1,2,3,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-02",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Pig": true
+	},
+	{
+		"Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Ei,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-02",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"Vegetarian": true
 	}
 ]
