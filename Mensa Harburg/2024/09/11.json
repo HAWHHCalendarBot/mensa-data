@@ -1,20 +1,21 @@
 [
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-11",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
+		"Name": "gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-11",
 		"Additives": {
@@ -29,22 +30,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-09-11",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Bohnen-Lauch-Curry mit Brech Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
+		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2024-09-11",
 		"Additives": {
@@ -75,29 +61,39 @@
 		"Pig": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), hausgemachtes Pesto Genovese (2,Mi), Rucola mit Tomatenwürfeln",
-		"Category": "CampusKlassiker",
+		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften (3,Ei,Mi,GlW), Gorgonzola-Pfeffer-Aioli (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
 		"Date": "2024-09-11",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Indischer Biryani mit Basmatireis (Mi)",
-		"Category": "CampusWorld",
+		"Name": "Bowl Prik Nahm Pla mit gebackenem Kabeljau in (2,3,Fi,So,Sw,GlW), Backteig Asia (GlW), Chili-Soja-Dressing (2,3,Fi,So,GlW)",
+		"Category": "CampusVital",
 		"Date": "2024-09-11",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.3,
-		"Poultry": true
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
