@@ -1,11 +1,26 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Pasta (GlW), Soße Arrabiata",
 		"Category": "Pastabar",
 		"Date": "2024-09-04",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Champignon, vegan, Röstiecken, Gartengemüse, vegan (Sl), gebackene Aubergine (Mi,Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-04",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,33 +28,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Chili-Rahmsoße mit Geflügel (So,Mi,Sl,GlW), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-04",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2024-09-04",
-		"Additives": {
-			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
