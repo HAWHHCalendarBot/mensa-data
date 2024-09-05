@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-09-12",
 		"Additives": {
@@ -28,26 +28,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), gerösteter Rosenkohl Tahinisoße Birne und Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa), Bulgur mit Tomate und Peperoni (Sl,GlW), Edamame (So)",
+		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Rosenkohl (Mi), Bulgur mit Tomate und Peperoni (Sl,GlW), Edamame (So)",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-12",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
@@ -66,6 +60,19 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Veganes Knusperschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",
+		"Category": "CampusSpezial",
+		"Date": "2024-09-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten-Basilikumsoße, Spaghetti (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-09-12",
@@ -78,5 +85,21 @@
 		"PriceGuest": 8.1,
 		"PriceStudent": 5.6,
 		"Poultry": true
+	},
+	{
+		"Name": "Wok mit Rindfleischstreifen, Stir Fry Gemüse (So,Mi,Sl,Sw,GlW), Kurkumareis",
+		"Category": "CampusKlassiker",
+		"Date": "2024-09-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.3,
+		"PriceStudent": 5.8,
+		"Beef": true
 	}
 ]

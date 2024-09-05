@@ -1,29 +1,40 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Name": "Pasta vegane Gemüsecremesoße (So,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-05",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "geschmorte Rindfleischwürfel mit Paprika (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-09-05",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
+	},
+	{
+		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-05",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -31,7 +42,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, gebratene Champignons (Mi,Sw)",
+		"Name": "Knoblauch Champignons aus dem Ofen, (1,2,5,So,Sw,GlW),  Kohlrabigemüse in Sojarahm, (1,So),  Spitzkohl natur, (Sl),  pikante Ofenkartoffel",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-05",
 		"Additives": {
@@ -39,14 +50,15 @@
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -96,13 +108,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
+		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW,NHa), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2024-09-05",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"

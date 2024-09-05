@@ -1,29 +1,24 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Name": "Pasta (GlW), Tomatensoße",
 		"Category": "Pastabar",
 		"Date": "2024-09-05",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Pasta (GlW), Geflügelrahmsoße mit Hähnchenbruststeifen (Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-09-05",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -31,7 +26,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, gebratene Champignons (Mi,Sw)",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Broccoli, Spicy Kartoffelspalten",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-05",
 		"Additives": {
@@ -39,14 +34,14 @@
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -79,6 +74,22 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pizza Salami Large (1,2,3,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Pig": true
 	},
 	{
 		"Name": "Currybratwurst oder (3,4,8,Sf), Geflügel Bratwurst oder, vegane Currybratwurst mit, scharfe Grillsoße (2,9,Sl,Sf), Grillsoße oder (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
