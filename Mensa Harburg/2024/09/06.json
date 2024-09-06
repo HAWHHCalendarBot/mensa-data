@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-09-06",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -15,29 +14,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
+		"Name": "Spitzkohl in Sojarahm (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-09-06",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (1), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Kartoffelgratin (Ei,Mi), Gemüse Sesamreis (Se)",
+		"Name": "glasierte rote Beete, Chili-Kartoffeln aus dem Ofen, Rosenkohl (Mi), gebratene Champignons (Mi,Sw), Weiße Bohnen mediterraneo in Tomatensoße",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-06",
 		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -45,11 +41,27 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Sonnenblumenhack in Cremesoße (So,Sl,Sf), Spätzle (Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-06",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Ungarisches Gemüsegulasch mit Kartoffeln (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-09-06",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -59,7 +71,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "One Pot Quinoa mit Avocado, Paprika und veganem Joghurt (3,Sl,GlH)",
+		"Name": "One Pot Quinoa mit Avocado und Paprika (3,Sl,GlH), Tomaten Pfirsich Relish (3)",
 		"Category": "CampusSpezial",
 		"Date": "2024-09-06",
 		"Additives": {
@@ -74,7 +86,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften (3,Ei,Mi,GlW), Gorgonzola-Pfeffer-Aioli (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
+		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften (3,Ei,Mi,GlW), Gorgonzola-Aioli Dip (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-09-06",
 		"Additives": {
@@ -92,11 +104,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Quinoa-Erbsen-Bratling, Orientalisches Gemüse (Sl,Sw), Hummus mit Sesam (Se)",
+		"Name": "Quinoa-Erbsen-Bratling, Orientalisches Gemüse (Sl,Sw), Hummus mit Sesam (Se), Gewürzreis mit Nüssen (Sf,NHa)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-09-06",
 		"Additives": {
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
