@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gerösteter Broccoli, gebackene Süßkartoffel, Erbsen-Mais Gemüse, Spitzkohl",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-06",
 		"Additives": {},
@@ -11,19 +11,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (So,Sl), Farfalle (GlW)",
+		"Name": "Pasta sugo di porri mit Sonnenblumenhack-Käse-Lauchsoße (1,So,Mi,Sl,Sf,GlW,GlG), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-06",
 		"Additives": {
+			"1": "Farbstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
