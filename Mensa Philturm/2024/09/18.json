@@ -1,0 +1,47 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-18",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-09-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"Fish": true,
+		"LactoseFree": true
+	}
+]
