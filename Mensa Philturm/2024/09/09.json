@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Süßkartoffeln, Kräuterkartoffeln, gerösteter Blumenkohl, gebratene Zucchini, Kürbisgemüse, gebackene Aubergine",
-		"Category": "Gemüsebar",
-		"Date": "2024-09-09",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta in Spinat-Käsesauce (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
@@ -23,6 +12,24 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Süßkartoffeln, Kräuterkartoffeln, gebratene Zucchini, gebratene Karotten, gebratene Paprika (1,5,Sw), gebratener Pak Choi (2,So,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-09",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Hähnchen Tikka Masala mit Joghurt (Mi,Sf), Kräuterreis",
