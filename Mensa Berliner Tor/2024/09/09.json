@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "Zucchini, vegan, Broccoli, vegan, Röstiecken, vegan",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-09",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gnocchi, Giardinera mit Gemüse in Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
@@ -10,37 +21,38 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
+		"Name": "Reispfanne mit Sojastreifen und buntem Gemüse (Ei,Se)",
+		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Ei": "Ei und Eierzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Kartoffel-Gnocchi, Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
 		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
@@ -58,7 +70,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Bratkartoffeln, Süßer Senf (Sf)",
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Röstkartoffeln, Süßer Senf (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-09-09",
 		"Additives": {
@@ -67,9 +79,9 @@
 			"8": "Phosphat",
 			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6.0,
-		"PriceStudent": 3.5,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.2,
 		"LactoseFree": true,
 		"Pig": true
 	},
