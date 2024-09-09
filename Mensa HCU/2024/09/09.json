@@ -1,15 +1,43 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "Gemüse-Kokos Curry (So,Sl), Basmatireis",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüse-Kokos Curry (So,Sl), Basmatireis",
+		"Category": "Pastabar",
+		"Date": "2024-09-09",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Mamma Mia mit Schweinefleisch und Zucchini (Mi,GlW), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-09-09",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
 		"Pig": true
 	},
 	{
@@ -43,18 +71,6 @@
 		"PriceStudent": 3.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Indischer Biryani mit Basmatireis (Mi)",
-		"Category": "CampusWorld",
-		"Date": "2024-09-09",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 8.6,
-		"PriceStudent": 4.3,
-		"Poultry": true
 	},
 	{
 		"Name": "Pute in Paprika-Tomaten-Gemüse (1,2,5,9,Sf,Sw), Reis",

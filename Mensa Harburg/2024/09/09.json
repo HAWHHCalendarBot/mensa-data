@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "bunte Gemüsepfanne,,  Broccoli und Bohnen,,  Mais nature,,  Chili-Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-09",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Linsenragout mit Kokosmilch, Koriander und Lauchzwiebel (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
@@ -10,44 +21,47 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2024-09-09",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Crema Porcini e pomodori secchi mit getrockneten Steinpilzen und Tomaten in Kräutersoße (2,5,So,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-09-09",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Pasta Grünkohl in Rahm mit Hackbällchen (2,Ei,Mi,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"Pig": true
+	},
+	{
+		"Name": "Kartoffel-Gemüsepott mit Lauch (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-09-09",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
