@@ -1,33 +1,32 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Fingermöhren in Cremesoße (3,Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-09-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Pasta Austernpilze mit Lauch (Mi,Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-09-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Mexican Reispfanne,,  gebratener Pak Choi Asia Style, (2,So,GlW),  Grillgemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-10",
 		"Additives": {
@@ -42,10 +41,43 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+		"Name": "Pasta Nerone mit Schweinefleisch in Tomaten-Sahnesoße (Mi,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
+	},
+	{
+		"Name": "Pasta Grünkohl in Rahm mit Hackbällchen (2,Ei,Mi,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true,
+		"Pig": true
+	},
+	{
+		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw), Croutons (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-09-10",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -56,13 +88,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Fladenbrot (Se,GlW)",
+		"Name": "Pikanter Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG,GlH), Fladenbrot (Se,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-09-10",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
@@ -97,7 +130,7 @@
 		"Fish": true
 	},
 	{
-		"Name": "Hähnchenkeule (Sf), grüner Couscous-Salat (Sl,GlW), Joghurt-Limetten-Dip (3,Mi), Limette",
+		"Name": "Hähnchenkeule vom Grill (Sf), grüner Couscous-Salat (Sl,GlW), Joghurt-Limetten-Dip (3,Mi), Limette",
 		"Category": "CampusVital",
 		"Date": "2024-09-10",
 		"Additives": {
