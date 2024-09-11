@@ -1,5 +1,32 @@
 [
 	{
+		"Name": "Vegane Maultaschen (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Linsenragout mit Austernpilzen und Zucchini (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-09-11",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Sojaragout in Gemüse-Steinpilzsoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-09-11",
@@ -14,19 +41,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Basmatireis",
+		"Name": "Pasta Geflügelgulasch mit Paprika (Mi,Sl,GlW,NHa)",
+		"Category": "Pastabar",
+		"Date": "2024-09-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl und Broccoli,,  frisches Gemüse aus dem Wok, (2,Sw),  Karotten und Zuckerschoten in Currysoße (6,Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-11",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"6": "Geschwärzt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Reis",
