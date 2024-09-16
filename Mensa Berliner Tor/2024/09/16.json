@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Pasta al forno (GlW), mit Gorgonzola und Gouda (Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-09-16",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
+		"Name": "Saporita mit Rindfleisch ala Creme (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-16",
 		"Additives": {
@@ -27,15 +27,30 @@
 		"Beef": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi Pommes (Sf), Süßkartoffel Gnocchi, Kohlrabi in Rahm (Mi,GlW)",
+		"Name": "Pasta (GlW), Currysoße (Mi,Sf,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-09-16",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Auberginen Ragout, vegan, Blattspinat in Rahm (Mi,GlW), Bratkartoffeln, vegan, Sojageschnetzeltes in Currysoße mit Reis (So,Sl,Sf,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-16",
 		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -54,6 +69,62 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Flammkuchen mit Rahmspinat (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-16",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Flammkuchen mit geschmolzenen Camembert und Apfelwürfel (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-16",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Flammkuchen Elsässer Art mit Speck, Zwiebeln und Schmand (2,3,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Pig": true
+	},
+	{
+		"Name": "Flammkuchen Teriyaki mit Räuchertofu, asiatischem Gemüse, Sesam (2,So,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-09-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Salad with baked sweet potatoes and shepherd's cheese (Mi,Sf,Se)",
@@ -84,19 +155,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pizza Margherita Large (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-09-16",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.4,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Kartoffelklöße, Rindergeschnetzeltes mit Pilzen in Rahm (3,Mi), Butterbrösel (Mi,GlW)",
 		"Category": "Salad with baked sweet potatoes and shepherd's cheese (Mi,Sf,Se)",
 		"Date": "2024-09-16",
@@ -122,53 +180,6 @@
 		"PriceAttendant": 6.2,
 		"PriceGuest": 6.8,
 		"PriceStudent": 5.5,
-		"Beef": true
-	},
-	{
-		"Name": "Pizza Proscuitto e Funghi Large (2,3,8,Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-09-16",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
-		"Pig": true
-	},
-	{
-		"Name": "Pizza Rucola mit Rucola, Grana Padano, Knoblauch und Käse Large (2,Ei,Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-09-16",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.6,
-		"PriceGuest": 7.8,
-		"PriceStudent": 5.3,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Pizza Sucuk Large (2,3,4,Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-09-16",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4,
 		"Beef": true
 	},
 	{
