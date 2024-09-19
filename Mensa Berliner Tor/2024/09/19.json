@@ -1,21 +1,20 @@
 [
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
-		"Category": "Pastabar",
+		"Name": "gerösteter Broccoli, Honigmöhren, Spicy Kartoffelspalten, Vegetarische Paella mit Quorn (Ei,Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2024-09-19",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Ei": "Ei und Eierzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), bunte Fusilli (GlW)",
+		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-19",
 		"Additives": {
@@ -29,15 +28,29 @@
 		"Poultry": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW), Steckrüben-Möhren Gemüse (1)",
-		"Category": "Gemüsebar",
+		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-09-19",
 		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-09-19",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
