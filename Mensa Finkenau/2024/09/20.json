@@ -1,14 +1,16 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Fenchelgemüse (Sl), gebratene Paprikastreifen, Stangenbrechbohnen Provencial, Backkartoffel (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-20",
-		"Additives": {},
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Penne mit hausgemachtem Tomatenpesto (2,5,Mi,Sw,GlW,NCa)",
@@ -25,6 +27,22 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Süßkartoffel-Orangenkuchen mit süßer Creme (Ei,Mi,35,GlW)",
+		"Category": "Süßkartoffelpommes (1), Gurkensalat mit Chili und schwarzem Sesam (3,5,Se,Sw), Bohnenmus (Sl,Se), Kräuterdip (Sf), Limette",
+		"Date": "2024-09-20",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.6,
+		"PriceGuest": 3.2,
+		"PriceStudent": 1.9,
 		"Vegetarian": true
 	},
 	{
