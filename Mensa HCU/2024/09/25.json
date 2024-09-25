@@ -1,17 +1,75 @@
 [
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Bolognese (Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-25",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.5,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonnenblumenhack und veganem Skyr (1,3,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Maisgemüse (1), Zartweizenragout (Sl,Sw,GlW), mediterranes Gemüse (6), Brokkoli (2,So,Se,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Maisgemüse (1), Zartweizenragout (Sl,Sw,GlW), mediterranes Gemüse (6), Brokkoli (2,So,Se,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -48,13 +106,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bratwurst Chorizo Art, Weizenrisotto mit Erbsen (Mi,Sl,GlW), Tomaten-Karottensalat (3,5,Sw), Pimento Senf (2,Sf)",
+		"Name": "Bratwurst Chorizo Art, Weizenrisotto mit Erbsen (Mi,Sl,GlW), Tomaten-Karottensalat (3,5,Sw), Pimento Senf (2,4,Ei,Mi,Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-09-25",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
 			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
@@ -65,23 +125,5 @@
 		"PriceGuest": 10.2,
 		"PriceStudent": 5.1,
 		"Pig": true
-	},
-	{
-		"Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonnenblumenhack und veganem Skyr (1,3,So,Sl,Sf,GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-09-25",
-		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 10.8,
-		"PriceStudent": 5.4,
-		"LactoseFree": true,
-		"Vegan": true
 	}
 ]
