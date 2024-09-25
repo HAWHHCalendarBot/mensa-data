@@ -14,7 +14,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gebratene Aubergine mit Zimt, Röstiecken, Asiatische Gemüsepfanne (2,So,GlW), Spicy-Erbsen (Mi), gebratene Paprika (1,5,Sw), gerösteter Blumenkohl-Brocoligemüse, Kräuterkartoffeln",
+		"Name": "gebratene Aubergine mit Zimt, Asiatische Gemüsepfanne (2,So,GlW), Spicy-Erbsen (Mi), gebratene Paprika (1,5,Sw), gerösteter Blumenkohl-Brocoligemüse, Kräuterkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-25",
 		"Additives": {
@@ -47,15 +47,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rindergeschnetzeltes Ungarische Art, Kartoffelklöße",
+		"Name": "Rindergeschnetzeltes Ungarische Art (Mi,GlW), Spätzle (Ei,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-09-25",
-		"Additives": {},
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true
 	},
 	{
 		"Name": "Frisches Putensteak vom Grill mit Taboulé - Salat, Hummus und Sesamcreme (Mi,Sl,Se,GlW)",
