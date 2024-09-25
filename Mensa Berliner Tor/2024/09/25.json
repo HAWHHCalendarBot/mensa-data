@@ -1,38 +1,23 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Pasta Broccoli e pomodoro mit Broccoli und Tomate (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-25",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-09-25",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Beef": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Name": "Erbsen-Karotten Gemüsepfanne (Sl), gerösteter Blumenkohl, Spicy Kartoffelspalten, Curryreis mit Broccoli, vegan (Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2024-09-25",
 		"Additives": {
-			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -40,6 +25,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-09-25",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
