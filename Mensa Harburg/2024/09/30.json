@@ -1,46 +1,60 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "Zucchini-Tomaten Soße, Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-30",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
+		"Name": "Bayrischer Schweinegulasch mit Champignons (Mi,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-09-30",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Soja-Bolognese mit Paprika (So,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-09-30",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Erbsen (1), Kichererbsengemüse (2,5,Sw), Zuckerschoten, Broccolimix, Prinzessbohnen, Chili-Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
+		"Date": "2024-09-30",
+		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tofu-Gemüse-Topf (So,Sl)",
