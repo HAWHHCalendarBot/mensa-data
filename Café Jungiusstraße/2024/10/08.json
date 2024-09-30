@@ -1,17 +1,38 @@
 [
 	{
-		"Name": "Hähnchenbrust im Knuspermantel (GlW), Currysoße (Mi,Sf,GlW,GlG), Paprikareis",
-		"Category": "CampusKlassiker",
+		"Name": "scharfe Kokos-Limonen-Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
+		"Category": "CampusVital",
 		"Date": "2024-10-08",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Guacamole Bites (3,Mi,Sf,Sw,GlW), Mexican Reispfanne, Chili Dip (4,Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2024-10-08",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.7,
-		"PriceGuest": 5.9,
-		"PriceStudent": 3.4,
-		"Poultry": true
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.95,
+		"Vegetarian": true
 	}
 ]
