@@ -14,7 +14,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW)",
+		"Name": "Hamburger mit Tomate, Gurke und Salat (1,2,3,9,Ei,Sf,Se,GlW), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-09-30",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Reis",
 		"Category": "CampusWorld",
 		"Date": "2024-09-30",
 		"Additives": {
@@ -24,10 +44,24 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.05,
-		"PriceGuest": 6.15,
-		"PriceStudent": 3.8,
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schweinekotelette gebraten, Pilzsoße (3,Mi), Kartoffelspalten (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-09-30",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"Pig": true
 	}
 ]
