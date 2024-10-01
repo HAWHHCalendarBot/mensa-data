@@ -31,18 +31,34 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pesto Genovese (Mi,GlW,NCa)",
+		"Name": "Pesto Rosso (Mi,GlW,NCa)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-10-01",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.9,
+		"Beef": true
+	},
+	{
+		"Name": "Back to the roots, Senf-Wurzelgemüse,Madras-Kürbis,Rote Beete, Ziegenkäse,Birne,Balsamico-Dressing (3,Mi,Sl,Sf,Sw)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-10-01",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.2,
+		"PriceStudent": 4.9,
 		"Vegetarian": true
 	},
 	{
@@ -76,23 +92,6 @@
 		"PriceStudent": 5.2
 	},
 	{
-		"Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (So,Sl,Sf,Se,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-10-01",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.0,
-		"PriceGuest": 6.6,
-		"PriceStudent": 5.3,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Ei,So,Mi,Sl,Sf,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-10-01",
@@ -108,6 +107,26 @@
 		"PriceAttendant": 6.7,
 		"PriceGuest": 7.3,
 		"PriceStudent": 6.0,
+		"Poultry": true
+	},
+	{
+		"Name": "Sweet Aloha Bowl mit frischen Hähnchenstreifen, Reisnudeln, Avocado, Erdnüsse, Honig Senf Dressing (2,3,Ei,En,So,Sf,Se,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2024-10-01",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.6,
+		"PriceGuest": 8.2,
+		"PriceStudent": 6.9,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
