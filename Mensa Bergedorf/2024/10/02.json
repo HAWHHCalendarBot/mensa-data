@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl)",
+		"Name": "Fasolada Griechischer Bohnensuppe mit Zuccini und Knobibrot (Sl,GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2024-10-02",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -13,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pommes mit Chili Cheese Soße und Röstzwiebeln (1,Mi,GlW)",
+		"Name": "Wegdes mit Chili Cheese Soße und Röstzwiebeln (1,Mi,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-10-02",
 		"Additives": {
@@ -27,21 +29,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hühnchen in Kokos Soße (So,Sl)",
-		"Category": "CampusWorld",
-		"Date": "2024-10-02",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.3,
-		"PriceStudent": 3.1,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Spaghetti in Basilikum Knoblauchsoße mit Melanzane Bällchen (1,3,5,Mi,Sw,GlW)",
+		"Name": "Strozzapetti in Basilikum Knoblauchsoße mit Quinoa Bällchen (1,3,5,Mi,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-10-02",
 		"Additives": {
@@ -56,5 +44,19 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Reis",
+		"Category": "CampusWorld",
+		"Date": "2024-10-02",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
