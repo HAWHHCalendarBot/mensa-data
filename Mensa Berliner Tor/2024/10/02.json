@@ -1,6 +1,18 @@
 [
 	{
-		"Name": "Bolognese (Sl), Maccaroni (GlW)",
+		"Name": "Broccoli, Blumenkohl Korma mit Reis, Karotten (Mi), Röstkartoffeln, vegan",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-02",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta con Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-02",
 		"Additives": {
@@ -10,38 +22,20 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-02",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Pasta con Salsa al gorgonzola mit Gorgonzola-Sahnesoße (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-02",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"PriceStudent": 0.75
 	},
 	{
 		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl)",
