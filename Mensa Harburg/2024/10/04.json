@@ -1,27 +1,52 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
-		"Category": "Pastabar",
+		"Name": "frische gebackene Karotten, gebratene Champignons (Mi,Sw), Gartengemüse, Prinzessbohnen",
+		"Category": "Gemüsebar",
 		"Date": "2024-10-04",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
+		"Name": "Tomaten-Kapern-Ragout mit Gemüse und Paprika (Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-04",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Scharfe Grünkern-Bolognese (Sl,GlD), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-10-04",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Austernpilzsoße (So,Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-10-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
