@@ -1,35 +1,35 @@
 [
 	{
-		"Name": "Pasta mit Spinat in Rahm,Cherrytomaten,Ruccola (Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2024-10-04",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Kräuterkartoffeln, Spitzkohl, Gebratene Sprossen (2,So,Se,GlW), gebratene Karotten, gebratener Pak Choi (2,So,GlW,NCa), Asiatische Gemüsepfanne (2,So,GlW)",
+		"Name": "Kürbisgemüse, gebratene Karotten, gebratene Karotten, gebratene Paprika (1,5,Sw), Maisgemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-04",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Mie-Nudeln mit asiatischem Gemüse (2,Ei,So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-10-04",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (So,Sl,Sf,GlW), Reis",
