@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "all`Provenzale mit Gemüse (Sw), Conchiglie (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-10-08",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +14,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
-		"Category": "Pastabar",
+		"Name": "gebratene Zucchini, gebratene Champignons (Sw), Süßkartoffeln, Fenchelgemüse (Sl), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Chili-Karotten, Röstiecken",
+		"Category": "Gemüsebar",
 		"Date": "2024-10-08",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
