@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, Zwiebelgemüse, gebratene Karotten, Weißkohlgemüse, gebratene Paprika (1,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-09",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +15,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Zucchini-Champignons, Basilikumpesto (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-09",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Afrikanische Gemüse Kartoffel Tajine (Sl)",
