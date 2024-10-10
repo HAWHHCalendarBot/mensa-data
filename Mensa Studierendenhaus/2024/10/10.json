@@ -15,22 +15,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Eliche (GlW)",
-		"Category": "Pastabar",
+		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa), Steckrüben-Möhren Gemüse (1)",
+		"Category": "Gemüsebar",
 		"Date": "2024-10-10",
 		"Additives": {
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW), Steckrüben-Möhren Gemüse (1)",
-		"Category": "Gemüsebar",
+		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Spätzle (1,Ei,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-10-10",
 		"Additives": {
 			"1": "Farbstoff",
@@ -42,7 +44,23 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Beef": true
+	},
+	{
+		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Spätzle (1,Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-10-10",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
 	},
 	{
 		"Name": "Kürbis Spinat Stew (3,Sl), Reis",
@@ -59,10 +77,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganes Gemüse aus dem Wok mit Wasserkastanie, Lotuswurzel, Bambussprossen in Soja Pflaumen Soße (So,Sl,Sw), Basmatireis",
+		"Name": "Veganes Gemüse aus dem Wok, Wasserkastanie, Lotuswurzel, Sesam in Soja Pflaumen Soße (So,Sl,Se,Sw), Basmatireis",
 		"Category": "CampusSpezial",
 		"Date": "2024-10-10",
 		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
