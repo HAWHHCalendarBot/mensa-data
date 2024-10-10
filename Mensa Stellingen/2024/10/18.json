@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
+		"Name": "WarmBowl mit Reis, Edamame, Kürbis &amp; Kokos (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-10-18",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -13,29 +14,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Omelette (Ei,Mi), pikante Kartoffeln mit Sesam, Tomate &amp; Gurke (Se)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-10-18",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.5,
-		"PriceStudent": 4.0,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Gemüsefrikadelle (Sl,GlW), Rosenkohl in Rahm (So,Sl,GlW), Petersilienkartoffeln",
+		"Name": "Blumenkohl-Käse-Bratling (Ei,Mi,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-10-18",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.1,
+		"PriceGuest": 5.3,
+		"PriceStudent": 2.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Omelette (Ei,Mi)",
+		"Category": "CampusVital",
+		"Date": "2024-10-18",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
