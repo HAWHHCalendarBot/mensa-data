@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-11",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-11",
@@ -23,6 +12,22 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Kürbis-Zucchinigemüse (Sl), Wokgemüse mit Kokos-Sojasoße (2,So,GlW), Karotten Lauchpfanne, Broccoli (Mi), Gemüsemix Eskorial, Gemüsereis (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-11",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl)",
@@ -56,14 +61,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili Cheeze Nuggets mit Honig-Senf Dip (3,Mi,Sf,GlW), Süßkartoffelpüree mit Kokos, Weißer Bohnensalat",
+		"Name": "vegane Hackbällchen mit Honig-Senf Dip (3,So,Mi,Sf,GlW,GlG), Süßkartoffelpüree mit Kokos, Weißer Bohnensalat",
 		"Category": "CampusSpezial",
 		"Date": "2024-10-11",
 		"Additives": {
 			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.25,
 		"PriceGuest": 7.45,
