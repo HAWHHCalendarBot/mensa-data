@@ -1,0 +1,83 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-21",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-10-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "2 Fischfrikadellen (Fi,Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Schnittlauchkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2024-10-21",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.9,
+		"PriceGuest": 5.1,
+		"PriceStudent": 2.6,
+		"Fish": true
+	},
+	{
+		"Name": "Hirtenkäse mit mediterranem Gemüse (Mi), Fladenbrot (Se,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-10-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Let's WOK, Frisches Gemüse aus dem WOK (2,So,Sl,Sw,GlW), würzige Teriyaki - Sauce (2,So,GlW), cremige Erdnussbutter - Kokosnuss- Sauce (2,En,So,GlW), feurige grüne Kokossauce (2,3,So,GlW), pikante Ingwer - Sauce (1,2,5,En,So,Sw,GlW), spicy sweet&amp;sauer Sau",
+		"Category": "CampusWorld",
+		"Date": "2024-10-21",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.9,
+		"PriceGuest": 8.1,
+		"PriceStudent": 5.6,
+		"LactoseFree": true,
+		"Poultry": true
+	}
+]
