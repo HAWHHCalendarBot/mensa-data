@@ -70,21 +70,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Mediteranen Ofengemüse mit Kartoffeln, Kräutersoße (Mi,GlW,GlG)",
-		"Category": "CampusSpezial",
-		"Date": "2024-10-15",
-		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 4.3,
-		"PriceGuest": 5.3,
-		"PriceStudent": 3.1,
-		"Fish": true
-	},
-	{
 		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (Mi), Bukhari Dajaj - Orientalischer Gewürzreis",
 		"Category": "CampusVital",
 		"Date": "2024-10-15",
@@ -113,5 +98,20 @@
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet auf (Fi,GlW), Mediteranen Ofengemüse, Gemüsecouscous (Sl,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-10-15",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]
