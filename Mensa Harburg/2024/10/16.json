@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
-		"Category": "Pastabar",
+		"Name": "Fingermöhrchen mit Erbsen und Ingwer pikant (Mi), Prinzessbohnen mit Paprikagewürz, Maisgemüse (1)",
+		"Category": "Gemüsebar",
 		"Date": "2024-10-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"1": "Farbstoff",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
@@ -13,12 +13,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Pilzsoße mit Gemüsestreifen (3,So,Sl), Gnocchi-Mix (Gnocchi und Gnocchi Rote Beete)",
+		"Category": "Pastabar",
 		"Date": "2024-10-16",
 		"Additives": {
-			"1": "Farbstoff",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"3": "Antioxidationsmittel",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -27,7 +28,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-16",
 		"Additives": {
@@ -39,6 +40,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
+	},
+	{
+		"Name": "Pasta sugo mit Sonnenblumenhack, Gemüse in Sojasahne (1,So,Sl,Sf,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-10-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
