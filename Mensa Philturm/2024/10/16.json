@@ -14,20 +14,34 @@
 		"PriceStudent": 0.75
 	},
 	{
-		"Name": "gebratene Zucchini, gerösteter Blumenkohl, Kräuterkartoffeln, Asiatische Gemüsepfanne (2,So,GlW), gebratene Karotten, gebratene Paprika (1,5,Sw)",
+		"Name": "gebratene Karotten, gebratene Paprika (1,5,Sw), gebratene Zucchini, Bayrisch Kraut (3,5,Sw), Süßkartoffel Gnocchi, Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-16",
 		"Additives": {
 			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffeleintopf mit Karotten,Erbsen und Räuchertofu (2,So,Sl,GlW), Reis",
+		"Category": "Pottkieker",
+		"Date": "2024-10-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -45,20 +59,6 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Pig": true
-	},
-	{
-		"Name": "Paniertes Putenschnitzel (GlW), Ratatouille (Sl), Kartoffelspalten (GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2024-10-16",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 7.3,
-		"PriceStudent": 4.8,
-		"LactoseFree": true,
-		"Poultry": true
 	},
 	{
 		"Name": "Schupfnudeln mit Spitzkohl, Rote Bete,Sonnenblumenhack und veganem Skyr (1,3,9,So,Sl,Sf,GlW)",
