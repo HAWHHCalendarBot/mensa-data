@@ -1,21 +1,27 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-16",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Cherrytomaten und Pesto Rosso (Mi,Sl,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-10-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75
+	},
+	{
+		"Name": "gebratene Zucchini, gerösteter Blumenkohl, gebratene Champignons (Sw), Weißkohl, Kräuterkartoffeln, Asiatische Gemüsepfanne (2,So,GlW), gebratene Karotten",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -53,12 +59,13 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Schupfnudeln mit Spitzkohl, gebratener Paprika, Sonnenblumenhack und veganem Skyr (1,3,So,Sl,Sf,GlW)",
+		"Name": "Schupfnudeln mit Spitzkohl, Rote Bete,Sonnenblumenhack und veganem Skyr (1,3,9,So,Sl,Sf,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-10-16",
 		"Additives": {
 			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",

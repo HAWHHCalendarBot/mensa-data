@@ -13,6 +13,20 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Ratatouille (Sl), gerösteter Broccoli, Mangold mit gerösteten Walnüssen (NWa)",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-16",
+		"Additives": {
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-16",
@@ -25,21 +39,6 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Beef": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-16",
-		"Additives": {
-			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Erbsensuppe (Sl)",
@@ -89,21 +88,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Ungarisches Rindergulasch (9,Mi,Sw)",
-		"Category": "CampusWorld",
-		"Date": "2024-10-16",
-		"Additives": {
-			"9": "Süßungsmittel",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.55,
-		"PriceGuest": 6.65,
-		"PriceStudent": 4.3,
-		"Beef": true
-	},
-	{
-		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW), Tomatensoße",
+		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-10-16",
 		"Additives": {
@@ -116,5 +101,21 @@
 		"PriceGuest": 7.5,
 		"PriceStudent": 5.0,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Spätzle (Ei,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-10-16",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Beef": true
 	}
 ]
