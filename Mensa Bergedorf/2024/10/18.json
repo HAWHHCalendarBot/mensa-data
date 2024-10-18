@@ -61,17 +61,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lupinen-Bolognese (1,Sl,Lu)",
+		"Name": "Lupinen-Bolognese (1,Sl,Lu), Nudeln (GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-10-18",
 		"Additives": {
 			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Lu": "Lupine und - erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 3.45,
-		"PriceGuest": 4.55,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Wrap mit Glasnudeln und Sonnenblumenhack (2,So,Sl,Sf,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2024-10-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},

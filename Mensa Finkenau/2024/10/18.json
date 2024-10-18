@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Prinzessbohnen, Fenchelgemüse (Sl), Blumenkohl, Ägyptische Falafel-Bällchen (GlW), Rosmarinkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-18",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
+		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-18",
 		"Additives": {
@@ -26,11 +29,10 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Gemüsegulasch (Sl), Gemüsereis (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-10-18",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
@@ -40,18 +42,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lupinen-Bolognese (1,Sl,Lu), Penne (GlW)",
-		"Category": "CampusVital",
+		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
+		"Category": "Pottkieker",
 		"Date": "2024-10-18",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Lu": "Lupine und - erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
