@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "glasierte rote Beete, Spitzkohl in Rahm (So), Broccoli, Frühlingsgemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-18",
@@ -15,29 +29,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
+		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Kartoffelgratin (Ei,Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-10-18",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "glasierte rote Beete, Zuckerschoten (1), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Kartoffelgratin (Ei,Mi), Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-18",
-		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -74,6 +74,21 @@
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
 		"Alcohol": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW), Tomatensoße",
+		"Category": "CampusSpezial",
+		"Date": "2024-10-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
 		"Vegetarian": true
 	},
 	{
