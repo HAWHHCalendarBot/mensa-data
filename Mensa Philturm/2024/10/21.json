@@ -1,21 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-21",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Spitzkohl in Rahm (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-21",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,16 +15,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Linsen-Kokoseintopf (Sl,Sw)",
-		"Category": "Pottkieker",
+		"Name": "Kräuterkartoffeln, gebratene Paprika (1,5,Sw), gebratene Karotten, gebratener Pak Choi (2,So,GlW), Süßkartoffeln, Edamame (So)",
+		"Category": "Gemüsebar",
 		"Date": "2024-10-21",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 3.4,
-		"PriceGuest": 4.1,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
 	},

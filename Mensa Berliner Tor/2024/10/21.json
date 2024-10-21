@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Name": "Zucchini-Aubergine Pfanne, vegan, Broccoli, vegan",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-21",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Linsengemüse in Kokoscreme (Sl), Reis",
 		"Category": "Pastabar",
 		"Date": "2024-10-21",
 		"Additives": {
@@ -10,37 +21,22 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Rahm (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-21",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Pasta Soia e Porri mit Lauch, Hähnchenstreifen und Sojasahne (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-21",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
@@ -93,11 +89,11 @@
 		"Pig": true
 	},
 	{
-		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Hollandaise (Ei,Mi,Sl,Sw), Erbsen, Pommes Frites (Sf)",
+		"Name": "Schweineschnitzel (1,GlW), Hollandaise (Ei,Mi,Sl,Sw), Erbsen, Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-10-21",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
@@ -109,7 +105,7 @@
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
 		"Alcohol": true,
-		"Poultry": true
+		"Pig": true
 	},
 	{
 		"Name": "Bowl Prik Nahm Pla mit gebackenem Kabeljau in (2,3,Fi,So,Sw,GlW), Backteig Asia (GlW), Chili-Soja-Dressing (2,3,Fi,So,GlW)",

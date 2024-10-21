@@ -1,15 +1,16 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Rahm (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-21",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
@@ -62,12 +63,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Hollandaise (Ei,Mi,Sl,Sw), Erbsen, Pommes Frites (Sf)",
+		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Hollandaise (Ei,Mi,Sl,Sw), Currysoße (Mi,Sf,GlW,GlG), Erbsen, Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-10-21",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
