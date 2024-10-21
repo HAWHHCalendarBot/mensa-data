@@ -13,31 +13,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Pollo all'Arrabbiata (GlW)",
+		"Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-22",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Poultry": true
+		"Pig": true
 	},
 	{
-		"Name": "Pasta Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw,GlW)",
+		"Name": "Pasta Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-10-22",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
