@@ -1,14 +1,18 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Romanesco-Blumenkohlgemüse (Sl), gebackene Aubergine (Sw), Karotten Pastinakenmix mit frischer Petersilie, Bratreis mit Ei und Frühlingszwiebeln (Ei)",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-21",
-		"Additives": {},
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
@@ -43,23 +47,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Fladenbrot (Se,GlW)",
-		"Category": "CampusSpezial",
+		"Name": "Veganes Jailhouse-Chili (So,Sl), Sojajoghurt-Zitronen Dip (3,So,Sf), Wrap (GlW)",
+		"Category": "CampusKlassiker",
 		"Date": "2024-10-21",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.1,
-		"PriceGuest": 6.3,
-		"PriceStudent": 3.8,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.7,
+		"PriceStudent": 3.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
