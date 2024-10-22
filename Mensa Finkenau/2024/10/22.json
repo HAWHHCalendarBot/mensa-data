@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-22",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-22",
@@ -25,7 +14,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
+		"Name": "Blumenkohl mit Hollandaise (Ei,Mi,Sl), Wokgemüse mit Soja (2,So,GlW), Veganes Chili mit Sojawürfel (So,Sl), Rosmarinkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-22",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2024-10-22",
 		"Additives": {
