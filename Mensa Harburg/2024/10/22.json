@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Pasta Pollo all'Arrabbiata",
-		"Category": "Pastabar",
-		"Date": "2024-10-22",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
 		"Name": "Primavera mit Auberginen, Tomaten, Gemüse und Sojawürfel (Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-22",
@@ -25,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Prinzessbohnen,,  Zartweizen mit Gemüse, (Sl,GlW),  Kohlrabi in Sojarahm, (1,So),  Gartengemüse,,   Schupfnudeln (GlW)",
+		"Name": "Prinzessbohnen,,  Zartweizen mit Gemüse, (Sl,GlW),  Kohlrabi in Sojarahm, (1,So),  Gartengemüse,",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-22",
 		"Additives": {
@@ -39,6 +28,25 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta pikantes Wurstgulasch (3,4,8,Sf), BBQ Soße (2,9,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2024-10-22",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
