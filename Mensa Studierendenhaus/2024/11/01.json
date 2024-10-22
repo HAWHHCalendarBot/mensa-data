@@ -1,5 +1,61 @@
 [
 	{
+		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-01",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-01",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rosenkohl in Rahm (Mi,Sl,GlW), Cajun Gemüse (Sl), Ofengemüse mit Kartoffeln, Sauerkraut (vegan) (Sl), rote-Beete-Pilaw (9)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-01",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2024-11-01",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Broccoli Nuggets mit Sweet-Chili dip (Ei,So,Mi,Sl,GlW,GlG), Pommes Frites (Sf)",
 		"Category": "CampusVital",
 		"Date": "2024-11-01",
@@ -15,6 +71,23 @@
 		"PriceAttendant": 4.8,
 		"PriceGuest": 6.0,
 		"PriceStudent": 3.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Mac and Cheese (1,Mi,Sl,Sf,GlW), Eisbergsalat mit Tomate (Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-01",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
 		"Vegetarian": true
 	}
 ]
