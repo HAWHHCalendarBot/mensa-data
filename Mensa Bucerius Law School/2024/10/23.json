@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-23",
 		"Additives": {
@@ -15,13 +15,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, rote-Beete-Pilaw (9)",
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), rote-Beete-Zartweizen (9,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-23",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"6": "Geschwärzt",
 			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -31,7 +32,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
+		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Süßkartoffel und Lauch (So,Sl,Sf), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2024-10-23",
 		"Additives": {
@@ -46,23 +47,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl,GlW), Preiselbeeren, Salzkartoffeln",
+		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl,Sw,GlW), Preiselbeeren, Salzkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2024-10-23",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.3,
 		"PriceGuest": 5.5,
 		"PriceStudent": 3.0,
+		"Alcohol": true,
 		"Beef": true,
 		"Pig": true
 	},
 	{
-		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften (3,Ei,Mi,GlW), Gorgonzola-Pfeffer-Aioli (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
+		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften (3,Ei,Mi,GlW), Gorgonzola-Pfeffer-Aioli (1,3,9,Ei,So,Mi,Sf), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2024-10-23",
 		"Additives": {
@@ -72,7 +75,8 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
 		"PriceGuest": 7.3,

@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Bolognese mit Rindfleich (Sl), Maccaroni (GlW)",
+		"Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-23",
 		"Additives": {
@@ -10,11 +10,26 @@
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "gerösteter Wurzelgemüse, vegan (Sl,Sw), Gemüsepfanne mit Hirtenkäse (6), Broccoli, vegan",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-23",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-23",
 		"Additives": {
@@ -27,22 +42,6 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"Vegetarian": true
-	},
-	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, rote-Beete-Pilaw (9)",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-23",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"9": "Süßungsmittel",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
