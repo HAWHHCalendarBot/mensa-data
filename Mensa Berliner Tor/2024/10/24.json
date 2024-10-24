@@ -4,6 +4,7 @@
 		"Category": "Pastabar",
 		"Date": "2024-10-24",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -73,6 +74,20 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Spaghetti (GlW), Tomaten-Basilikumsoße",
+		"Category": "CampusWorld",
+		"Date": "2024-10-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Poultry": true
+	},
+	{
 		"Name": "Flammkuchen mit Rahmspinat (Mi,GlW)",
 		"Category": "Highlight",
 		"Date": "2024-10-24",
@@ -117,7 +132,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Currybratwurst oder (3,4,8,Sf), Geflügel Bratwurst oder, vegane Currybratwurst mit, scharfe Grillsoße (2,9,Sl,Sf), Grillsoße oder (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+		"Name": "Currybratwurst oder (3,4,8,Sf), Geflügel Bratwurst oder, vegane Currybratwurst mit, scharfe Grillsoße oder (2,9,Sl,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-10-24",
 		"Additives": {
@@ -165,19 +180,5 @@
 		"PriceStudent": 5.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten-Basilikumsoße, Spaghetti (GlW)",
-		"Category": "CampusWorld",
-		"Date": "2024-10-24",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.9,
-		"PriceGuest": 8.1,
-		"PriceStudent": 5.6,
-		"Poultry": true
 	}
 ]

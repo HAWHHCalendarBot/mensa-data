@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Pomodoro di Pollo mit Gemüse und Hähnchen (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-10-24",
 		"Additives": {
@@ -13,35 +13,59 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
+		"Name": "Spitzkohl gebraten,,  gebratene Maiskolben, (1),  Madras Kürbis",
+		"Category": "Gemüsebar",
 		"Date": "2024-10-24",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"1": "Farbstoff"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Rahmwirsing (Mi,Sl,GlW), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
+		"Name": "Wirsing in veganem Rahm (So), Salzkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-24",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ragout vom Rind in Tomaten-Käse-Sahnesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2024-10-24",
+		"Additives": {
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Beef": true
+	},
+	{
+		"Name": "rote Beete Ragout mit Kidneybohnen und Weißkohl in Kokos Sojacreme (2,9,So,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-10-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Khao soi Thailändischer Süßkartoffel-Kokoseintopf mit Spitzkohl (3,So,Sl)",

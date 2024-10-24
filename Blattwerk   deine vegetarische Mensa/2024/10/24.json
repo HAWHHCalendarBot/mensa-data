@@ -27,7 +27,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rote-Linsen-Medaillons (Sl,GlW), rote Beete Hummus (9,Se), Kartoffeln mit pikantem Wirsing und Steckrübe",
+		"Name": "Rote-Linsen-Medaillons (Sl,GlW), rote Beete Hummus (9,Se), Kartoffelnpfanne mit Gemüse",
 		"Category": "CampusVital",
 		"Date": "2024-10-24",
 		"Additives": {
@@ -41,6 +41,26 @@
 		"PriceStudent": 3.7,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Couscoussalat mit Aubergine, gebackener Paprika, vegane Hackbällchen und Sesamdip (2,Ei,So,Sl,Sf,Sw,GlW,GlG)",
+		"Category": "CampusWorld",
+		"Date": "2024-10-24",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Pasta (GlW), Funghi porcini secchi mit getrockneten Steinpilzen, Champignons und Tomaten (2,5,So,Sw)",
@@ -60,11 +80,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Wokgemüse mit Sojasoße (2,So,GlW), geschmorter Räuchertofu (So,GlW), vegane Mi-Nudeln (So,GlW)",
+		"Name": "Grünes Wokgemüse mit Sojasoße (2,So,GlW), geschmorter Räuchertofu (So,GlW), Mie-Nudeln (Ei,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-10-24",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -72,6 +93,6 @@
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
