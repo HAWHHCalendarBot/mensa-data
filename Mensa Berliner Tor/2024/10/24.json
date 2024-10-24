@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine, Broccoli und Hähnchen (Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-10-24",
 		"Additives": {
@@ -14,14 +14,14 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
+		"Name": "Broccoli, vegan (Mi,Sl,GlW), Karotten, vegan (Mi), Gemüsereis mit Tofu, vegan (So)",
+		"Category": "Gemüsebar",
 		"Date": "2024-10-24",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -29,19 +29,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rahmwirsing (Mi,Sl,GlW), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Quorn in Senf-Dillsoße, vegetarisch (1,Ei,So,Sf,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-10-24",
 		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{

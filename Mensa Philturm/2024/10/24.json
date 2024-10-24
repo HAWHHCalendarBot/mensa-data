@@ -14,19 +14,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Süßkartoffeln, gebratene Karotten, gebratene Paprika (1,5,Sw), Kräuterkartoffeln",
+		"Name": "Süßkartoffeln, gebratene Karotten, gebratene Paprika (1,5,Sw), Erbsen (Mi), gebratene Zucchini, Kräuterkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-24",
 		"Additives": {
 			"1": "Farbstoff",
 			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
@@ -46,13 +46,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schupfnudeln mit Champignons, Spitzkohl und marinierten Tofuscheiben (1,2,So,Sf,Sw,GlW)",
+		"Name": "Schupfnudeln mit Champignons, Spitzkohl und marinierten Tofuscheiben (1,2,So,Mi,Sf,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-10-24",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -60,8 +61,7 @@
 		"PriceAttendant": 6.6,
 		"PriceGuest": 7.8,
 		"PriceStudent": 5.3,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Saftiger Beef Burger im Flavored Bun - Brötchen mit Coleslaw (2,3,9,Ei,So,Mi,Sf,GlW), Kartoffelspalten (GlW)",
@@ -83,21 +83,19 @@
 		"Beef": true
 	},
 	{
-		"Name": "Schupfnudeln mit Champignons, Spitzkohl (1,2,So,Sf,Sw,GlW), Bratwurst Chorizo Art",
+		"Name": "Bratwurst Chorizo Art mit Schupfnudeln mit Champignons, Spitzkohl (So,Mi,Sl,Sf,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-10-24",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 7.2,
 		"PriceGuest": 8.4,
 		"PriceStudent": 5.9,
-		"LactoseFree": true,
 		"Pig": true
 	}
 ]

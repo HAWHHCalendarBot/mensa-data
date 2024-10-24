@@ -1,13 +1,19 @@
 [
 	{
-		"Name": "Quinoa Erbsen Bratling mit Sour Cream (4,Ei,Mi,Sf)",
+		"Name": "Karotten Rösti mit Sour Cream oder veganen Dip (3,4,Ei,So,Mi,Sf,GlW,GlR,GlH,GlD)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-10-25",
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlR": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.0,
 		"PriceGuest": 4.6,
@@ -46,19 +52,20 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Pesto Rosso (Mi,GlW,NCa)",
+		"Name": "Tortellini Verdi Verdura (1,2,Ei,Mi,Sl,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2024-10-25",
 		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.2,
-		"PriceStudent": 3.9,
-		"Beef": true
+		"PriceAttendant": 4.65,
+		"PriceGuest": 5.25,
+		"PriceStudent": 3.95
 	},
 	{
 		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
@@ -92,20 +99,6 @@
 		"PriceAttendant": 5.6,
 		"PriceGuest": 6.2,
 		"PriceStudent": 4.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Gransole mit Ricottafüllung, Basilkum und Zitrusfrucht (Ei,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2024-10-25",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.3,
-		"PriceStudent": 5.0,
-		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
