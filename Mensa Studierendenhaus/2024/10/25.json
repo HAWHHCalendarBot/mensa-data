@@ -1,22 +1,25 @@
 [
 	{
-		"Name": "Farfalle (GlW)",
+		"Name": "Dello chef mit Pilzen und Zucchini (Mi,GlW,GlG), Kartoffelgratin (Ei,Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-10-25",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), glasiertes Wurzelgemüse (Mi,Sl), Rosenkohl (Mi), Chili Weißkohl, Kartoffelgratin (Ei,Mi)",
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), glasiertes Wurzelgemüse (Mi,Sl), Rosenkohl (1), Chili Weißkohl, Kartoffelgratin (Ei,Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-25",
 		"Additives": {
+			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
@@ -77,6 +80,22 @@
 		"PriceGuest": 5.1,
 		"PriceStudent": 2.6,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Sonneblumen-Bolognese (Sl,Sf), Spaghetti (GlW), Salat mit Italian Dressing (Sf,Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-10-25",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.2,
+		"PriceGuest": 5.4,
+		"PriceStudent": 2.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Veganes Knusperschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",

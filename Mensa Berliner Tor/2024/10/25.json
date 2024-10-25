@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
+		"Name": "Pasta mit Paprikarahmsoße, vegetarisch (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-10-25",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -14,14 +14,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), glasiertes Wurzelgemüse (Mi,Sl), gerösteter Rosenkohl mit Sesampaste (Se), Chili Weißkohl, Kartoffelgratin (Ei,Mi)",
+		"Name": "Karotten-Gemüsepfanne (Mi,NCa), Blumenkohl mit Hollandaise (Ei,Mi,Sl), Curryreis mit Quorn (Ei,Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-25",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -30,22 +30,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
+		"Name": "Pasta con Crema di pesto (Mi,Sl,GlW,GlG,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-10-25",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (So,Sl,Sf,GlW), Reis",
