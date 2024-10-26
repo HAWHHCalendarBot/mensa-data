@@ -1,0 +1,58 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-04",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Linsen Hirsebällchen (GlW,GlH), Erbsen Wirsing Curry (2,Sl,Sf,NMa), Langkorn Wildreis",
+		"Category": "CampusVital",
+		"Date": "2024-11-04",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2024-11-04",
+		"Additives": {
+			"8": "Phosphat",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Pig": true
+	}
+]
