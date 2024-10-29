@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "Erbsen,,  Rosenkohl,,  Wirsing mit Gemüsestreifen in Sojarahm, (So),  Bauernkartoffeln mit Zwiebeln",
+		"Category": "Gemüsebar",
+		"Date": "2024-10-29",
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "all`Provenzale mit Gemüse (Sw)",
 		"Category": "Pastabar",
 		"Date": "2024-10-29",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -14,7 +26,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-10-29",
 		"Additives": {
@@ -30,28 +42,12 @@
 		"Beef": true
 	},
 	{
-		"Name": "Sesammöhrchen (Se), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), gebratenem Wirsing, Maiskolben (Mi), Bauernkartoffeln mit gebräunten Bröseln (Mi,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2024-10-29",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Kartoffel-Wirsing-Stew (Sl)",
+		"Name": "Curry-Kartoffel-Kürbiseintopf (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-10-29",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -60,18 +56,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen, Drillinge",
+		"Name": "Matjesfilets (2,Fi), Soße Hausfrauen Art (1,3,9,Ei,Mi,Sf,Sw), Brechbohnen, Drillinge",
 		"Category": "CampusKlassiker",
 		"Date": "2024-10-29",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"Fi": "Fisch und Fischerzeugnisse"
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.0,
 		"PriceGuest": 6.2,
 		"PriceStudent": 3.7,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
 	},
 	{
 		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Pfefferrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
