@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "all`Provenzale mit Gemüse (Sw), Reis",
 		"Category": "Pastabar",
 		"Date": "2024-10-29",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
@@ -14,21 +13,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sesammöhrchen (Se), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), gebratenem Wirsing, Maiskolben (Mi), Bauernkartoffeln mit gebräunten Bröseln (Mi,GlW)",
+		"Name": "Bunte Pilze (Sl), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), gebratenem Wirsing, gebratene Zucchini und Aubergine (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2024-10-29",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf,GlW)",
@@ -47,7 +44,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen, Röstkartoffelwürfel",
+		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen, Röstkartoffel",
 		"Category": "CampusKlassiker",
 		"Date": "2024-10-29",
 		"Additives": {
@@ -61,13 +58,14 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (3,So,Se,NMa)",
+		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (3,So,Sf,Se,NMa)",
 		"Category": "CampusWorld",
 		"Date": "2024-10-29",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
