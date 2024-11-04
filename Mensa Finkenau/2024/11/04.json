@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-04",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Fusilli (GlW), Linsenbolognese in pikanter Soße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2024-11-04",
@@ -40,6 +29,22 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "gebratene Zucchini, Broccoli (Sl,Sf), gebratene rote Paprika, Blumenkohl in Rahm (Mi,GlW,GlG), Gemüsemix Balance",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-04",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-11-04",
@@ -51,20 +56,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl), Hausgemachtes Kartoffel-Butterstampf (Mi)",
-		"Category": "CampusSpezial",
-		"Date": "2024-11-04",
-		"Additives": {
-			"8": "Phosphat",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.8,
-		"PriceGuest": 7.0,
-		"PriceStudent": 4.5,
-		"Pig": true
 	},
 	{
 		"Name": "Linsen Hirsebällchen (GlW,GlH), Erbsen Wirsing Curry (2,Sl,Sf,NMa), Langkorn Wildreis",
@@ -83,5 +74,20 @@
 		"PriceStudent": 4.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hähnchen Crossies in Panko Panade (3,GlW), Zartweizen mit Maronen und Kürbis (GlW), Petersiliensoße (Mi,GlW,GlG)",
+		"Category": "CampusWorld",
+		"Date": "2024-11-04",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Poultry": true
 	}
 ]

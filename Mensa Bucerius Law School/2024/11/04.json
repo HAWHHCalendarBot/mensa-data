@@ -14,19 +14,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln, Glacierte Pastinaken mit Honig, Erbsen-Karotten Gemüse (Mi), Porreegemüse in Rahm (Mi,GlW)",
+		"Name": "Sauerkraut (Sl), Buntes Ofengemüse (Sl,GlW), Karotten-Bratreis, Gemüse, buntes Broccoli-Gemüse (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-04",
 		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl)",
@@ -42,21 +41,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl,Sw), Hausgemachtes Kartoffel-Butterstampf (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2024-11-04",
 		"Additives": {
 			"8": "Phosphat",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
+		"Alcohol": true,
 		"Pig": true
 	},
 	{
-		"Name": "Linsen Hirsebällchen (GlW,GlH), Erbsen Wirsing Curry (2,Sl,Sf,NMa), Langkorn Wildreis",
+		"Name": "Vegan, Linsen Hirsebällchen und Kürbis-Steckrüben Frikadelle (GlW,GlH), Erbsen Wirsing Curry (2,Sl,Sf,NMa), Langkorn Wildreis",
 		"Category": "CampusVital",
 		"Date": "2024-11-04",
 		"Additives": {
