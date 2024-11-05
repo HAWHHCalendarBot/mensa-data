@@ -1,34 +1,30 @@
 [
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-05",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Kräuterkartoffeln, gerösteter Blumenkohl, Süßkartoffeln, Buttererbsen (Mi), gebratene Karotten, Linsengemüse (2,3,5,8,Sl,Sw)",
+		"Name": "Kräuterkartoffeln, Spitzkohl, gerösteter Blumenkohl, Buttererbsen (Mi), gebratene Karotten, Edamame (So)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-05",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"8": "Phosphat",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Pig": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta mit Cherrytomaten,Ruccola und Pesto rosso (Mi,Sl,GlW,NCa)",
+		"Category": "Pastabar",
+		"Date": "2024-11-05",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75
 	},
 	{
 		"Name": "Grünkern-Käse-Medaillons (Ei,So,Mi,Se,GlW,GlD), Schnittlauch-Dip (Mi), Blechkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
