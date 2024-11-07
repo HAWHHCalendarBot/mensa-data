@@ -1,49 +1,33 @@
 [
 	{
-		"Name": "Gartengemüse (Sw), gerösteter Broccoli, gerösteter Blumenkohl, gebratene Champignons",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-07",
-		"Additives": {
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Spiralen (GlW), Steinpilzsoße (Sw)",
+		"Name": "Fusilli (GlW), Pilzrahmsoße mit Soja (So)",
 		"Category": "Pastabar",
 		"Date": "2024-11-07",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln, Kürbisgemüse, Buttererbsen (Mi)",
+		"Name": "Blattspinat mit Sonnenblumenhack (Sl,Sf), Spitzkohl in Curryrahm (So), Bratreis (Sl), glasiertes Wurzelgemüse (1,Sl), Salzkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-07",
 		"Additives": {
 			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Erbsensuppe (Sl)",
@@ -59,7 +43,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Susländer grobe Bratwurst (8), Zwiebelsoße (Sl), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Susländer grobe Bratwurst (8), oder vegane Bratwurst, Zwiebelsoße (Sl), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2024-11-07",
+		"Additives": {
+			"8": "Phosphat",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Pig": true
+	},
+	{
+		"Name": "Susländer grobe Bratwurst (8), oder vegane Bratwurst, Zwiebelsoße (Sl), Hausgemachtes Kartoffel-Butterstampf (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2024-11-07",
 		"Additives": {
