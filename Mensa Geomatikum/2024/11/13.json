@@ -1,20 +1,5 @@
 [
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-13",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Panini (Sl,Se,GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2024-11-13",
@@ -29,6 +14,21 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-13",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kasseler Rückenbraten (2,3), Kräutersoße (Mi,GlW,GlG), Wirsinggemüse mit Speck (2,3,8), Petersilienkartoffeln",

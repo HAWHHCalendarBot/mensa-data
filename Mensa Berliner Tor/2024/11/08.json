@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Vegane Maultaschen (GlW), Tomatensoße, Broccoli",
+		"Name": "Pasta con Verdure e pomodoro (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-08",
 		"Additives": {
@@ -13,15 +13,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (1), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Kartoffelgratin (Ei,Mi), Rosenkohl (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Steckrübengemüse in Rahm (Mi,Sl,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta con Crema di spinaci mit Spinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
 		"Date": "2024-11-08",
 		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Broccoli, vegan, Gnocchi, vegan, Gemüsereis mit Grünkernbratlinge (Ei,So,Mi,Se,GlW,GlD)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-08",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,

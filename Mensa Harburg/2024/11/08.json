@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Vegane Maultaschen (GlW), Tomatensoße, Broccoli",
+		"Name": "Gartengemüse,  Zuckerschoten (1),  Broccoli,  Retrogemüse (1),  Prinzessbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-08",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Maultaschen (GlW),  Tomatensoße,  Broccoli",
 		"Category": "Pastabar",
 		"Date": "2024-11-08",
 		"Additives": {
@@ -13,20 +26,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Zuckerschoten (1), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Kartoffelgratin (Ei,Mi), Rosenkohl (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Steckrübengemüse in Rahm (Mi,Sl,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "weiße Chilisoße (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2024-11-08",
 		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Gemüsecremesuppe (So,Sl,Sw), Kaiserbrötchen (GlW)",
@@ -45,7 +56,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüse-Couscous mit Tofu und Backpflaumen (So,Sl,GlW), Erbsen-Dip (2,3,So,Sf)",
+		"Name": "Gemüse-Couscous mit Backpflaumen (So,Sl,GlW), Erbsen-Dip (2,3,So,Sf)",
 		"Category": "CampusVital",
 		"Date": "2024-11-08",
 		"Additives": {
@@ -63,12 +74,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kürbis Steckrübenbratling (GlW), Spitzkohl in Rahm (So), veganes hausgemachtes Kartoffelpüree (1,So)",
+		"Name": "Gemüsefrikadelle (Sl,GlW), Spitzkohl in Rahm (So), Röstkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2024-11-08",
 		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.4,
