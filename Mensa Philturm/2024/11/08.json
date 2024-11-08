@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, grüne Bohnen mit Knoblauch und Ingwer, Süßkartoffeln, gebratene Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-08",
 		"Additives": {},
@@ -11,17 +11,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Gnocciauflauf mit tomatisiertem Gemüse und Käse überbacken (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-08",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mangold-Zartweizen-Bowl (2,So,Sl,GlW), Erbsen-Dip (2,3,So,Sf)",
