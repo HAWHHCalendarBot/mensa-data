@@ -1,0 +1,70 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-19",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Hähnchenbrust, Bratensoße (Sl), Rosenkohl (Mi), Süßkartoffelpüree (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2024-11-19",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Poultry": true
+	},
+	{
+		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (So,Se,NMa)",
+		"Category": "CampusWorld",
+		"Date": "2024-11-19",
+		"Additives": {
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Asiatischer Schweinekrustenbraten mit Teriyakiglace (So,Se,GlW), Ingwer - Gurkensalat (3), Limetten-Koriander-Salsa (3), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2024-11-19",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"LactoseFree": true,
+		"Pig": true
+	}
+]
