@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-11",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta Contadino mit Schweinefleisch und Zucchini (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-11",
@@ -23,6 +12,21 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Chili-Kartoffeln aus dem Ofen, Curryrahmwirsing (So,GlW), Mangold Gemüse (2,So,GlW), glacierte rote Beete",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-11",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Crema Pasta di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG)",
