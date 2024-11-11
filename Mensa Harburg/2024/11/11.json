@@ -1,5 +1,29 @@
 [
 	{
+		"Name": "Gemüsemix mit Romanesco, Brokkoli und Blumenkohl, Pastinaken Karotten Mix, Chili-Kartoffeln aus dem Ofen, Rosenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-11",
+		"Additives": {},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Burro di pomodoro e basilico mit Tomaten-Basilikum, Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Contadino mit Schweinefleisch und Paprika (Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-11",
@@ -14,17 +38,32 @@
 		"Pig": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Rahm (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
+		"Name": "Lauch in Rahm (So,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-11-11",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Orientalisches Linsengemüse (Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl)",
