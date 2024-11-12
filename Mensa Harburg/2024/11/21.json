@@ -1,5 +1,66 @@
 [
 	{
+		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), bunte Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Balsamicolinsen (1,5,Mi,Sf,Sw), Spätzle (Ei,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-21",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kürbis Spinat Stew (3,Sl), Reis",
+		"Category": "Pottkieker",
+		"Date": "2024-11-21",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Vegane Maultaschen (GlW), Ratatouille (Sl,Sw), Petersilie",
 		"Category": "CampusSpezial",
 		"Date": "2024-11-21",
@@ -28,5 +89,23 @@
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
 		"Poultry": true
+	},
+	{
+		"Name": "Karamellisierte dicke Rippe (2,So,GlW), BBQ Soße (2,9,Sl,Sf), Bohnen- Kartoffelstampf (Mi)",
+		"Category": "CampusWorld",
+		"Date": "2024-11-21",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Pig": true
 	}
 ]
