@@ -1,25 +1,11 @@
 [
 	{
-		"Name": "Brechbohnen, Gartengemüse, karamellisierte Schwarzwurzeln (1), Schupfnudeln (GlW)",
+		"Name": "Brechbohnen, Gartengemüse, Lauchgemüse in Sojarahm (So), Schupfnudeln (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-12",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-12",
-		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -43,7 +29,24 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Reisnudelsalat mit Bambus, Sojasterifen Rettich und Asia-Mayo (2,3,5,So,Sf,Sw,GlW)",
+		"Name": "Soja-Bolognese mit Gemüse, Fenchel und Rotwein (So,Sl,Sw), bunte Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reisnudelsalat mit Bambus, Sojasterifen Rettich und Asia-Mayo (2,3,5,So,Sf,Se,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-11-12",
 		"Additives": {
@@ -51,6 +54,7 @@
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
