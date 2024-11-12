@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Crema di pesto mit Gemüse und Pestocreme (Mi,Sl,GlW,GlG,NCa), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-12",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Gemüse des Tages",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-12",
@@ -20,6 +9,23 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Crema di pesto in  Pestocreme (So,Mi,Sl,GlW,GlG,NCa), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-11-12",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
