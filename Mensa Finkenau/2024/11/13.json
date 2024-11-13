@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebackene Aubergine (Sw,GlW), Blumenkohl in roter Curry-Sojasauce (So), Grüne und gelbe Zucchini, Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-13",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -26,7 +30,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl)",
+		"Name": "Fasolada Griechischer Bohnensuppe mit  Karotten und Baguette (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-11-13",
 		"Additives": {
@@ -39,10 +43,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tofu-Gemüse-Topf (So,Sl)",
+		"Name": "Gemüse-Eintopf (So,Sl), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-11-13",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
