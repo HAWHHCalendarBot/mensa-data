@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "gebratene Karotten, gebackene Aubergine, Kräuterkartoffeln, Süßkartoffeln, Chili Weißkohl",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-13",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta mit Spitzkohl in Curryrahm (2,En,So,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-13",
@@ -18,6 +7,22 @@
 			"2": "Konservierungsstoff",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Karotten, gebackene Aubergine, Kräuterkartoffeln, Chili Weißkohl, Gebratene Sprossen (2,So,Se,GlW), grüne Bohnen mit Knoblauch und Ingwer",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
