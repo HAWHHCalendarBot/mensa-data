@@ -1,12 +1,12 @@
 [
 	{
-		"Name": "Rahmwirsing (Mi,Sl,GlW), Kräuterkartoffeln, Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
-		"Category": "Gemüsebar",
+		"Name": "Penne (GlW), Noci di zucchine mit Zucchinisoße (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
 		"Date": "2024-11-14",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
@@ -15,14 +15,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
+		"Name": "Rahmwirsing (Mi,Sl,GlW), Madras Kürbis, Orientalische Steckrübe mit Möhren, Bulgur mit Rosinen und Mandeln (GlW,NMa), Sesammöhrchen (Se), Tomatisierter Zartweizen mit Gemüse (Sl,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2024-11-14",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -45,7 +46,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one pot: Kukumareis, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
+		"Name": "All in one pot: Kurkumareis, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-11-14",
 		"Additives": {
@@ -60,6 +61,20 @@
 		"PriceStudent": 3.4,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,GlW), Tomatensoße",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Beef": true
 	},
 	{
 		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,GlW), Tomatensoße",

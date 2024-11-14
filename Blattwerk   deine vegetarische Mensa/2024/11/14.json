@@ -44,18 +44,49 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), Käserahmsoße mit Creme Fraiche, sautierten Bohnen und Hartkäse (2,Ei,Mi)",
+		"Name": "Hausgemachte vegane Paprikaschote mit Gemüse-Bulgurfüllung (Sl,GlW), Tomatensoße",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zartweizensalat mit Kichererbsen, Ajva, Oliven und veganem Hackbällchen (6,So,Sl,GlW,GlG)",
 		"Category": "CampusWorld",
 		"Date": "2024-11-14",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
+			"6": "Geschwärzt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.85,
+		"PriceGuest": 6.05,
+		"PriceStudent": 3.55,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachte Pasta (GlW), Zucchinirahm mit Sahne, Käse, Haselnuss und Kartoffelstroh (Mi,NHa)",
+		"Category": "CampusWorld",
+		"Date": "2024-11-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
-		"PriceStudent": 3.9
+		"PriceStudent": 3.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Sojagyros (So,Sl), veganes Tzatziki (So,Sf), Krautsalat (3,5,Sw), Pommes Frites (Sf)",

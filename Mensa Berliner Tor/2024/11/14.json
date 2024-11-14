@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Indischer Dal mit Hähnchenstreifen und Linsen (So,Sf), Basmatireis",
 		"Category": "Pastabar",
 		"Date": "2024-11-14",
 		"Additives": {
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,35 +14,37 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Chili sin carne (So,Sl), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-14",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Rahmwirsing (Mi,Sl,GlW), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
+		"Name": "Rahmwirsing mit Speckstrippe (2,3,8,Mi,Sl,GlW), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-14",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
