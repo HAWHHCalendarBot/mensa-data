@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-14",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2024-11-14",
@@ -19,6 +8,23 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Champignons in Soja-Rahm (So,Mi,Sw,GlW,GlG), Fenchelgemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-14",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -59,6 +65,23 @@
 		"PriceGuest": 5.1,
 		"PriceStudent": 2.6,
 		"Fish": true
+	},
+	{
+		"Name": "Asiatisches Wokgemüse sautiert mit Rinderhack und Reis (1,2,So,Se,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-14",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Schupfnudeln mit Champignons, Spitzkohl und marinierten Tofuscheiben (1,2,So,Sf,Sw,GlW)",

@@ -77,17 +77,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili con Carne (2)",
-		"Category": "CampusKlassiker",
+		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
 		"Date": "2024-11-21",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 5.7,
 		"PriceGuest": 6.9,
 		"PriceStudent": 4.4,
-		"Beef": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Currybratwurst oder (3,4,8,Sf), Geflügel Bratwurst oder, vegane Currybratwurst mit, scharfe Grillsoße oder (2,9,Sl,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
@@ -109,5 +109,20 @@
 		"LactoseFree": true,
 		"Pig": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Chili con Carne (2)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-21",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Beef": true
 	}
 ]
