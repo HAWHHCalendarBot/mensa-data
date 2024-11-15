@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gebratene Karotten, gerösteter Blumenkohl, gebratenem Wirsing, gebratene Zucchini, Spitzkohl",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-15",
 		"Additives": {},
@@ -11,17 +11,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Spinat-Gorgonzolasauce,Cherrytomaten,Ruccola und Hirtenkäse (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-15",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kürbis Steckrübenbratling (GlW), Rahmwirsing (Mi,Sl,GlW), veganes hausgemachtes Kartoffelpüree (1,So)",
