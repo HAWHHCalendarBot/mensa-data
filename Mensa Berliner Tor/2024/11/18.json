@@ -1,44 +1,45 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Hähnchenbrust Geschnetzeltes \"Züricher Art \" (Mi), Pommes Frites (Sf)",
 		"Category": "Pastabar",
 		"Date": "2024-11-18",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75
-	},
-	{
-		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Schmorkohl (Sl), Süßkartoffel Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-18",
-		"Additives": {
-			"1": "Farbstoff",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
-		"Category": "Pastabar",
+		"Name": "Bunte Gemüsemischung, Blumenkohl mit Hollandaise (Ei,Mi,Sl), Linsencurry mit gebackenen Tofu (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2024-11-18",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Beef": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tomatensoße mit veganen Hackbällchen (So,GlW,GlG), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-18",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",

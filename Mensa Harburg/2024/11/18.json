@@ -1,24 +1,10 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-18",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75
-	},
-	{
-		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Schmorkohl (Sl), Süßkartoffel Gnocchi",
+		"Name": "Broccoli, Karotten (1), Erbsen-Mais Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-18",
 		"Additives": {
-			"1": "Farbstoff",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"1": "Farbstoff"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -27,7 +13,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
+		"Name": "Grüne und gelbe Zucchini in Tomatensauce (6), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-18",
+		"Additives": {
+			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rahmwirsing (So,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-18",
 		"Additives": {
@@ -41,7 +55,69 @@
 		"Beef": true
 	},
 	{
-		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
+		"Name": "grünes Zucchinigemüse in Rahm (So,Sl), Penne (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Spanische Albondigas, Tomaten-Paprikasugo (So,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-18",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Karibisches Linsencurry mit Mango (So,Sl,Sf), Penne (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-18",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hühnerfrikassee (Mi,Sl,Sw,GlW,GlG), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-18",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Erbsensuppe mit Bohnen und Karotten (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-11-18",
 		"Additives": {
