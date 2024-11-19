@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kohlgemüse, Kräuterkartoffeln, gebratene Karotten, gebackene Aubergine (Sw,GlW), gebratene Zucchini, Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-19",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +14,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Rataouillegemüse (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-19",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -37,12 +41,13 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (So,Se,NMa)",
+		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (So,Sf,Se,NMa)",
 		"Category": "CampusWorld",
 		"Date": "2024-11-19",
 		"Additives": {
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.1,

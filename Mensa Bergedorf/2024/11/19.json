@@ -11,6 +11,18 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Pasta Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75
+	},
+	{
 		"Name": "Pasta all`Provenzale mit Gemüse (Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-19",
@@ -23,6 +35,20 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Saporita mit Rindfleisch und Paprika (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Beef": true
 	},
 	{
 		"Name": "Pasta Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
@@ -92,26 +118,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2024-11-19",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.2,
-		"PriceStudent": 4.0,
-		"Fish": true,
-		"LactoseFree": true
-	},
-	{
 		"Name": "scharfe Kokos-Limonen-Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2024-11-19",
@@ -129,5 +135,29 @@
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Fischburger Asia Style mit (3,Ei,Fi,Mi,Lu,GlW,GlG), Asia Remoulade und (1,2,3,9,Ei,So,Sf,GlW), asiatischer Rotkrautsalat (2,3,So,Se,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2024-11-19",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.15,
+		"PriceGuest": 7.25,
+		"PriceStudent": 4.9,
+		"Fish": true
 	}
 ]
