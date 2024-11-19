@@ -1,46 +1,120 @@
 [
 	{
-		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Ei,En,So,Sl,Sf,Se,GlW)",
-		"Category": "CampusWorld",
+		"Name": "Salatteller (GlW)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-11-19",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 4.3,
+		"PriceGuest": 4.9,
+		"PriceStudent": 3.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffelgratin Broccoli (Ei,Mi)",
+		"Category": "Food Angebot im Café Mittelweg",
+		"Date": "2024-11-19",
+		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 4.5,
-		"PriceGuest": 5.7,
-		"PriceStudent": 3.2,
-		"LactoseFree": true,
+		"PriceGuest": 5.1,
+		"PriceStudent": 3.8,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Kartoffelgratin mit Spinat und Hirtenkäse (Ei,Mi)",
+		"Category": "Food Angebot im Café Mittelweg",
+		"Date": "2024-11-19",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.1,
+		"PriceStudent": 3.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Bolognese Soße (Sl,GlW)",
+		"Category": "Food Angebot im Café Mittelweg",
+		"Date": "2024-11-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.9,
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pomodoro Soße (1,GlW)",
+		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2024-11-19",
 		"Additives": {
 			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Flammkuchen Elsässer Art mit Speck, Zwiebeln und Schmand (2,3,Mi,GlW)",
+		"Category": "Food Angebot im Café Mittelweg",
+		"Date": "2024-11-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 5.5,
+		"PriceStudent": 4.2,
+		"Pig": true
+	},
+	{
+		"Name": "Flammkuchen Griechische Art mit Peperoni und Hirtenkaese (2,3,5,Mi,GlW)",
+		"Category": "Food Angebot im Café Mittelweg",
+		"Date": "2024-11-19",
+		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
-			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 5.8,
+		"PriceStudent": 4.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Ei,Mi,Sf,Sw,GlW)",
+		"Category": "Food Angebot im Café Mittelweg",
+		"Date": "2024-11-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4,
-		"Fish": true,
-		"LactoseFree": true
+		"PriceAttendant": 5.8,
+		"PriceGuest": 6.4,
+		"PriceStudent": 5.1,
+		"Poultry": true
 	}
 ]
