@@ -16,39 +16,41 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-20",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Weiße Bohnen mediterraneo, Bèchamel-Kartoffeln (1,Mi,Sl,GlW), Karotten Pastinakenmix mit frischer Petersilie, Auberginen mit Balsamico Bianco (3,5,Sw), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
+		"Name": "Weiße Bohnen mediterraneo, Sesammöhrchen (Se), Auberginen mit Balsamico Bianco (3,5,Sw), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-20",
 		"Additives": {
-			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), Bèchamel-Kartoffeln (1,Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
 	},
 	{
 		"Name": "Kochwurst (2,3,4,8,Sf)",
@@ -66,6 +68,20 @@
 		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Category": "Pottkieker",
+		"Date": "2024-11-20",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
@@ -147,5 +163,22 @@
 		"PriceStudent": 4.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Fingermöhrchen (Mi), Reis",
+		"Category": "CampusWorld",
+		"Date": "2024-11-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"Vegetarian": true
 	}
 ]
