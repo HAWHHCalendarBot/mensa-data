@@ -15,10 +15,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), Eliche (GlW)",
+		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), Spätzle (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-21",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -29,22 +30,20 @@
 		"Poultry": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Balsamicolinsen (1,5,Mi,Sf,Sw), Spätzle (Ei,Mi,GlW)",
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-21",
 		"Additives": {
 			"1": "Farbstoff",
-			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kürbis Spinat Stew (3,Sl), Reis",
@@ -99,13 +98,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), Tomatiesierte Gemüsesoße (Sl,Sw), Hausgemachtes Kartoffel-Butterstampf (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-11-21",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,

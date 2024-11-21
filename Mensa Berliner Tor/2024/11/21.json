@@ -90,7 +90,22 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Currybratwurst oder (3,4,8,Sf), Geflügel Bratwurst oder, vegane Currybratwurst mit, scharfe Grillsoße oder (2,9,Sl,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+		"Name": "Chili con Carne (2), Fladenbrot (Se,GlW), Kräuterquark (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-21",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Beef": true
+	},
+	{
+		"Name": "Currybratwurst oder (3,4,8,Sf), Geflügel Bratwurst oder, veggie Bratwurst (Ei), scharfe Grillsoße oder (2,9,Sl,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-11-21",
 		"Additives": {
@@ -99,6 +114,7 @@
 			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
 			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -109,20 +125,5 @@
 		"LactoseFree": true,
 		"Pig": true,
 		"Poultry": true
-	},
-	{
-		"Name": "Chili con Carne (2), Reis, Fladenbrot (Se,GlW), Kräuterquark (Mi)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-11-21",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
-		"Beef": true
 	}
 ]
