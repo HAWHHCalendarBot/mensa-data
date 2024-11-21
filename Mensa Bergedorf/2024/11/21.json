@@ -40,12 +40,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kürbis Spinat Stew (3,Sl), Reis",
+		"Name": "Grüne Curry Suppe mit Reisnudeln (3,So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2024-11-21",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -69,17 +70,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,GlW,GlG)",
+		"Name": "Grünkohl (2,3,8,Sl,Sf), Kasseler Nackenbraten oder Kohlwurst (2,3,4,8,Sf), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-11-21",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), Tomaten- Basilikum Sauce (Mi), Farfalle (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-21",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.15,
-		"PriceGuest": 6.25,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
 		"Poultry": true
 	},
 	{

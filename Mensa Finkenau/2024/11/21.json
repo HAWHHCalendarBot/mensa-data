@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-21",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-21",
@@ -26,7 +15,40 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kürbis Spinat Stew (3,Sl), Reis",
+		"Name": "Brechbohnen, Fenchelgemüse (Sl), Curryrahmwirsing (So,GlW), geschmorter Sellerie (Sl,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kochwurst (2,3,4,8,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-21",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 2.15,
+		"PriceGuest": 2.3,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Karotten Steckrübe Spinat Stew (3,Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2024-11-21",
 		"Additives": {
@@ -55,7 +77,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,GlW,GlG), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,GlW,GlG), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-11-21",
 		"Additives": {
