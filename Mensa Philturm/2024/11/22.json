@@ -1,10 +1,28 @@
 [
 	{
-		"Name": "Gemüse des Tages, Pommes Frites (Sf)",
+		"Name": "Pasta mit Pilzen in Rahm (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-22",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Couscous (Sl,GlW), Kohlgemüse, Champignon Lauchpfanne (Sw), geschmorte Zwiebeln (Sl), Kräuterkartoffeln, Asiatische Gemüsepfanne (2,So,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-22",
 		"Additives": {
-			"Sf": "Senf und Senferzeugnisse"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -13,15 +31,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "vegane Schöpfcurrywurst (4,Sl,Sf), Baguette (GlW)",
+		"Category": "CampusKlassiker",
 		"Date": "2024-11-22",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"4": "Geschmacksverstärker",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
+		"PriceAttendant": 3.9,
+		"PriceGuest": 5.1,
+		"PriceStudent": 2.6,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -43,11 +64,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pad Prik King Tao Huu - Rotes Curry mit Bohnen ,Tofu und Cashewkernen (So,NCa), Basmatireis",
+		"Name": "Pad Prik King Tao Huu - Rotes Curry mit Bohnen ,Tofu und Mandelsplitter (So,NMa), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2024-11-22",
 		"Additives": {
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
