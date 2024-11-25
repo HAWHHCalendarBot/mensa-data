@@ -1,21 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-29",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl)",
+		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
 		"Category": "Pastabar",
-		"Date": "2024-11-29",
+		"Date": "2024-12-06",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -26,12 +18,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl)",
+		"Name": "Sojageschnetzeltes in Currysoße (So,Sl,Sf,GlW), Reis",
 		"Category": "Pottkieker",
-		"Date": "2024-11-29",
+		"Date": "2024-12-06",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
@@ -42,7 +36,7 @@
 	{
 		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Mi,Sl,Sw,GlW)",
 		"Category": "CampusVital",
-		"Date": "2024-11-29",
+		"Date": "2024-12-06",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
@@ -57,18 +51,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Lupinen-Bolognese (1,Sl,Lu)",
-		"Category": "CampusVital",
-		"Date": "2024-11-29",
+		"Name": "Veganes Knusperschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",
+		"Category": "CampusSpezial",
+		"Date": "2024-12-06",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Lu": "Lupine und - erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Vegan": true
 	}

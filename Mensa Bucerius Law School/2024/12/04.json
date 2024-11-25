@@ -15,6 +15,22 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "gerösteter Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2024-12-04",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
+			"9": "Süßungsmittel",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2024-12-04",
@@ -29,21 +45,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkohl (2,3,8,Sl,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
-		"Category": "CampusKlassiker",
+		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl,GlW), Preiselbeeren, Salzkartoffeln",
+		"Category": "CampusWorld",
 		"Date": "2024-12-04",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"Sf": "Senf und Senferzeugnisse",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.5,
-		"PriceStudent": 4.0,
-		"LactoseFree": true,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.5,
+		"PriceStudent": 3.0,
+		"Beef": true,
 		"Pig": true
 	},
 	{

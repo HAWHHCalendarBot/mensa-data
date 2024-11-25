@@ -1,17 +1,6 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-25",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
+		"Name": "Aglio e olio mit Tomate und Knoblauch, Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-25",
 		"Additives": {
@@ -22,6 +11,18 @@
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Erbsen-Mais Gemüse (Mi), Romanesco, gerösteter Blumenkohl, Stangenbrechbohnen Provencial, Rosenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-25",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kokos-Kürbis-Curry (Sf,Se), Reis",
@@ -38,11 +39,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mini Frühlingsrollen (So,GlW), Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), scharfer Asia-Dip",
+		"Name": "Mini Frühlingsrollen (So,GlW), Bratnudeln mit Gemüsestreifen (2,En,So,Se,GlW), scharfer Asia-Dip",
 		"Category": "CampusWorld",
 		"Date": "2024-11-25",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -54,38 +56,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Currybratwurst (Sf), Grillsoße (2,9,Sl,Sf), Mango Currysoße (9,Sf), Pommes Frites (Sf)",
-		"Category": "CampusKlassiker",
+		"Name": "Ungarisches Rindergulasch (Mi,Sw), Penne (GlW)",
+		"Category": "CampusWorld",
 		"Date": "2024-11-25",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"9": "Süßungsmittel",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.3,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Currybratwurst (3,4,8,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
-		"Category": "CampusKlassiker",
-		"Date": "2024-11-25",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"9": "Süßungsmittel",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.3,
-		"LactoseFree": true,
-		"Pig": true
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"Alcohol": true,
+		"Beef": true
 	}
 ]

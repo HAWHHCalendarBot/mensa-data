@@ -11,7 +11,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Boscaiola mit Pilzen, Bunte Nudeln (GlW)",
+		"Name": "Boscaiola mit Pilzen",
 		"Category": "Pastabar",
 		"Date": "2024-11-28",
 		"Additives": {
@@ -38,7 +38,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
+		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2024-11-28",
 		"Additives": {
@@ -56,17 +56,38 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Salzkartoffeln",
-		"Category": "CampusWorld",
+		"Name": "vegane Currybratwurst (Sf)",
+		"Category": "CampusKlassiker",
 		"Date": "2024-11-28",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"9": "Süßungsmittel",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 6.3,
-		"PriceGuest": 7.5,
-		"PriceStudent": 5.0,
-		"Beef": true
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Currybratwurst (3,4,8,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2024-11-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
 	}
 ]
