@@ -93,18 +93,19 @@
 		"Pig": true
 	},
 	{
-		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW), Tomatensoße",
+		"Name": "Hausgemachte Gemüselasagne (1,So,Sl,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2024-11-27",
 		"Additives": {
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.3,
 		"PriceGuest": 7.5,
 		"PriceStudent": 5.0,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

@@ -1,21 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, gebackene Aubergine (Sw,GlW), Spitzkohl, gebratene Karotten, Maisgemüse",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-26",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-26",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -24,7 +14,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Buttercurry (Mi), mariniertes Quorn (Ei,Mi), Reis",
+		"Name": "Pasta mit Wirsing in Rahm,Cherrytomaten,Ruccola (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-11-26",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Indisches Curry mit Paneer (Mi), mariniertes Quorn (Ei,Mi), Reis",
 		"Category": "CampusWorld",
 		"Date": "2024-11-26",
 		"Additives": {
