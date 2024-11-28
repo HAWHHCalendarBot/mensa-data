@@ -1,35 +1,58 @@
 [
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Gorgonzola Sauce mit  gerösteter Haselnuss (Mi,Sl,Sw,GlW,GlG,NHa), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-28",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
-		"PriceStudent": 0.75
+		"PriceStudent": 0.75,
+		"Alcohol": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Karotten Pastinakenmix mit frischer Petersilie, Rosenkohl (Mi), Spitzkohl in Rahm (So)",
+		"Name": "Vegane Champignons à la creme (So,Sl,Sw), Crema di Zucchine, Tomaten-Sahnesoße, Zucchini und Spitzkohl (Mi,Sl), Beete Gnocchi in Bohnen-Mais-paprika-Gemüse, Grünkohl (2,3,8,Sl,Sf), Quinoa mit Paprika und Erbsen (3,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-28",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"Vegetarian": true
+		"Pig": true
+	},
+	{
+		"Name": "Vegane Champignons à la creme (So,Sl,Sw), Crema di Zucchine, Tomaten-Sahnesoße, Zucchini und Spitzkohl (Mi,Sl), Beete Gnocchi in Bohnen-Mais-paprika-Gemüse, Grünkohl (2,3,8,Sl,Sf), Quinoa mit Paprika und Erbsen (3,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Pig": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -46,14 +69,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
+		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2024-11-28",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},

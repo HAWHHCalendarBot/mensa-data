@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Boscaiola mit Pilzen, Bunte Nudeln (GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-11-28",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,11 +13,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Boscaiola mit Pilzen, Bunte Nudeln (GlW)",
-		"Category": "Pastabar",
+		"Name": "pikante Zucchiniwürfel, gebackene Aubergine (Sw,GlW), Cremespinat (Sl,GlW), Fenchelgemüse (Sl), gebratene Karotten, Schupfnudeln (GlW), gebratene Paprikastreifen",
+		"Category": "Gemüsebar",
 		"Date": "2024-11-28",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
