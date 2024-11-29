@@ -29,11 +29,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kidneybohnen-Frikadelle (Sl,GlW,GlH), gebratene Zwiebeln, Kräuterquark (Mi), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Asiatischer Nudelsalat mit veganem Geschnetzeltem,  Rettich, Weißkohl und Pak Choi (2,3,5,Ei,So,Sf,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-11-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), gebratene Zwiebeln, Kräuterquark (Mi), hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-11-29",
 		"Additives": {
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -59,5 +80,22 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), eingelegtes Asiagemüse süß-sauer, Reis",
+		"Category": "CampusSpezial",
+		"Date": "2024-11-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

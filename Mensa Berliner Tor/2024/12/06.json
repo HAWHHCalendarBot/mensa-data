@@ -14,22 +14,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), glasiertes Wurzelgemüse (Mi,Sl), gerösteter Rosenkohl mit Sesampaste (Se), Chili Weißkohl, Kartoffelgratin (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2024-12-06",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-12-06",
@@ -81,34 +65,29 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganes Knusperschnitzel (GlW)",
+		"Name": "Vegan / Vegetarische PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-12-06",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Veganes Knusperschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",
 		"Category": "CampusSpezial",
 		"Date": "2024-12-06",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Burger mit Blumenkohlbratling, Römersalat, Karottenstiften und Gorgonzola (3,Ei,Mi,GlW), Pfeffer Knoblauchmayonaise (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2024-12-06",
-		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 7.3,
-		"PriceStudent": 4.8
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

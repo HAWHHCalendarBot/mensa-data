@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Linsenbolognese in pikanter Soße (Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-11-29",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.5,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Saporita mit Soja und Paprika (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-29",
 		"Additives": {
@@ -15,34 +29,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Sojagulasch mit Paprika und Gemüse (So,Sl,Sw), Zartweizen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-11-29",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.4,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Lupinen-Bolognese (1,Sl,Lu), Penne (GlW)",
-		"Category": "CampusVital",
-		"Date": "2024-11-29",
-		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Lu": "Lupine und - erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.8,
-		"PriceStudent": 2.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Cremige Polenta (Mi,Sl), Frischkäsepraline mit einer Kürbis Chili Füllung (Mi,GlW), Glacierte Pastinaken mit Honig, Rote Zwiebelmarmelade (1,5,Sw)",
@@ -63,11 +63,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Quinoa-Erbsen-Bratling, Orientalisches Gemüse (Sl,Sw), Hummus mit Sesam (Se)",
+		"Name": "Quinoa-Erbsen-Bratling, Orientalisches Gemüse (Sl,Sw), Kichererbsendip (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2024-11-29",
 		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},

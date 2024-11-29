@@ -1,5 +1,48 @@
 [
 	{
+		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-12-02",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Rahm (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
+		"Date": "2024-12-02",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2024-12-02",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2024-12-02",
@@ -44,6 +87,19 @@
 		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,40 / 5,70 / 6,90 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2024-12-02",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Hollandaise (Ei,Mi,Sl,Sw), Erbsen, Pommes Frites (Sf)",

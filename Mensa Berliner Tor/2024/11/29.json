@@ -1,12 +1,25 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (Mi)",
 		"Category": "Pastabar",
 		"Date": "2024-11-29",
 		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Lupinen-Bolognese (1,Sl,Lu)",
+		"Category": "Pastabar",
+		"Date": "2024-11-29",
+		"Additives": {
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Lu": "Lupine und - erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -15,29 +28,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-11-29",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Vegetarian": true
-	},
-	{
-		"Name": "glasierte rote Beete, Steckrübengemüse in Rahm (Mi,Sl,GlW), Broccoli, gebratene Karotten, Gemüse Sesamreis (Se)",
+		"Name": "Broccoli, vegan, Gemüsereis mit Sojastreifen (2,So,GlW), Blumenkohl in Rahm (Mi,GlW,GlG)",
 		"Category": "Gemüsebar",
 		"Date": "2024-11-29",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
@@ -116,24 +115,6 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Wrap mit Glasnudeln und Sonnenblumenhack (2,So,Sl,Sf,Sw,GlW)",
-		"Category": "CampusVital",
-		"Date": "2024-11-29",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Flammkuchen mit Rahmspinat (Mi,GlW)",
