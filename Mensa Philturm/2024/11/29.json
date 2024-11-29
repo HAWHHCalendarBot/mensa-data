@@ -1,27 +1,37 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2024-11-29",
-		"Additives": {},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Brokkoli in Rahm,Cherrytomaten und Ruccola (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-11-29",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kräuterkartoffeln, gerösteter Blumenkohl, Bratreis mit Gemüse (2,3,So,GlW), Gebratene Sprossen (2,So,Se,GlW), Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Erbsen (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2024-11-29",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Cremiges Kräuter-Risotto mit frischen Champignons vom Grill und einem Kürbis - Espuma (Mi,Sl,Sw)",
@@ -39,7 +49,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Planted Chicken Filet in Kräutermarinade (1,5,Sf,Sw), Tomatensoße, Erbsen (1), Reis",
+		"Name": "Planted Chicken Filet in Kräutermarinade (1,5,Sf,Sw), Tomatensoße, Erbsen (1), Pommes Frites (Sf)",
 		"Category": "CampusVital",
 		"Date": "2024-11-29",
 		"Additives": {
