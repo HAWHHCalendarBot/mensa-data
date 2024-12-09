@@ -44,6 +44,22 @@
 		"Beef": true
 	},
 	{
+		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2024-12-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.4,
+		"PriceGuest": 4.1,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Champignonrahmsoße (Mi,Sl,GlW), Spicy Kartoffelspalten",
 		"Category": "CampusKlassiker",
 		"Date": "2024-12-10",
@@ -57,5 +73,33 @@
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
 		"Poultry": true
+	},
+	{
+		"Name": "gebratene Hähnchenbrust, Bratensoße (Sl), Rosenkohl (Mi), Süßkartoffelpüree (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2024-12-10",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Poultry": true
+	},
+	{
+		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (So,Se,NMa)",
+		"Category": "CampusWorld",
+		"Date": "2024-12-10",
+		"Additives": {
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]

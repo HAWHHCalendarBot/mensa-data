@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Apfelrotkohl (3,5,Sw), gebratene Zucchini, gebratene Karotten, gebackene Aubergine, Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2024-12-09",
-		"Additives": {},
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +15,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Spinatin Rahm (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2024-12-09",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kochwurst (2,3,4,8,Sf)",
@@ -41,13 +47,13 @@
 		"Pig": true
 	},
 	{
-		"Name": "Grünkohl (2,3,8,Sl,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+		"Name": "Grünkohl (Sl,Sf,GlH), Kasseler Nackenbraten (2,3), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-12-09",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -58,7 +64,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Grünkohl (2,3,8,Sl,Sf), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
+		"Name": "Grünkohl (Sl,Sf,GlH), Kochwurst (2,3,4,8,Sf), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-12-09",
 		"Additives": {
@@ -66,6 +72,7 @@
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -76,10 +83,11 @@
 		"Pig": true
 	},
 	{
-		"Name": "Grünkohl (Sl,Sf), vegane Bratwurst, Röstkartoffeln",
+		"Name": "Grünkohl (Sl,Sf,GlH), vegane Bratwurst, Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2024-12-09",
 		"Additives": {
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
