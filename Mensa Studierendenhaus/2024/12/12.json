@@ -1,25 +1,9 @@
 [
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), Eliche (GlW)",
+		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-12-12",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"Poultry": true
-	},
-	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Spätzle (1,Ei,GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-12-12",
-		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -28,7 +12,23 @@
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
+	},
+	{
+		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), Spätzle (1,Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-12-12",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75,
+		"Poultry": true
 	},
 	{
 		"Name": "gerösteter Broccoli, Möhren in Agavensirup, Spitzkohl, Couscous mit Mandeln Rosinen und Chili (Sl,GlW,NMa), Bèchamel-Kartoffeln (1,Mi,Sl,GlW)",
@@ -57,21 +57,6 @@
 		"PriceAttendant": 3.4,
 		"PriceGuest": 4.1,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Veganer Nudelauflauf (1,GlW), Penne alla Norma mit Auberginen-Tomaten (Sw,GlW)",
-		"Category": "CampusVital",
-		"Date": "2024-12-12",
-		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 5.6,
-		"PriceStudent": 3.1,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -122,6 +107,20 @@
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.7,
 		"PriceStudent": 3.2,
+		"Poultry": true
+	},
+	{
+		"Name": "Putengulasch (Mi,Sl,GlW), Basmatireis",
+		"Category": "CampusKlassiker",
+		"Date": "2024-12-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
 		"Poultry": true
 	},
 	{
