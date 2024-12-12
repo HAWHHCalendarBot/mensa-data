@@ -11,26 +11,41 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Cherrytomaten und Pesto (Mi,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2024-12-13",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75
+	},
+	{
+		"Name": "Pasta mit Kräutersauce und Broccoli (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2024-12-13",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Dinkel-Bratling (Ei,So,GlW,GlD), Wintersalat/ Feldsalat, Chicoree, Radiccio, Kartoffel, Birne, Walnussnuss, Rote Beete (Sf,Se,NWa)",
+		"Name": "Bratling (Ei,So,Mi,GlW,GlD), Wintersalat/ Feldsalat, Chicoree, Radiccio, Kartoffel, Birne, Walnussnuss, Rote Beete (Sf,Se,NWa)",
 		"Category": "CampusSpezial",
 		"Date": "2024-12-13",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
@@ -39,7 +54,6 @@
 		"PriceAttendant": 5.85,
 		"PriceGuest": 7.05,
 		"PriceStudent": 4.55,
-		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
