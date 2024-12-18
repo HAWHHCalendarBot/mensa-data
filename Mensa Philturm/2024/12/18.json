@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Spitzkohl in Curry-Kokoscurryrahm (Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2024-12-18",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
@@ -11,17 +14,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, gebackene Aubergine, Buttererbsen (Mi), Gebratene Sprossen (2,So,Se,GlW), gebratene Karotten",
+		"Category": "Gemüsebar",
 		"Date": "2024-12-18",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 0.95,
 		"PriceGuest": 1.15,
 		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Erbseneintopf mit Sellerie,Karotten und Majoran (So,Sl,GlW)",
