@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pasta Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2024-12-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 0.95,
+		"PriceGuest": 1.15,
+		"PriceStudent": 0.75
+	},
+	{
 		"Name": "Pasta Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2024-12-19",
@@ -14,37 +27,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "Pasta Boscaiola mit Pilzen und Speck (2,3,8,GlW)",
-		"Category": "Pastabar",
-		"Date": "2024-12-19",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Pasta Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,GlW,NHa)",
-		"Category": "Pastabar",
-		"Date": "2024-12-19",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 0.95,
-		"PriceGuest": 1.15,
-		"PriceStudent": 0.75
-	},
-	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Rosenkohl (Mi), Spitzkohl in Rahm (So), Petersilienkartoffeln",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Gebratener Kürbis, Rosenkohl (Mi), Spitzkohl in Rahm (So), Grünkohl (Sl,Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2024-12-19",
 		"Additives": {
@@ -53,6 +36,8 @@
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
