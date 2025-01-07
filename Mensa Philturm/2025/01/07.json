@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "gebratenem Wirsing, gerösteter Blumenkohl, Maisgemüse (1), Spitzkohl, Kräuterkartoffeln, gebratene Karotten",
 		"Category": "Gemüsebar",
 		"Date": "2025-01-07",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,17 +13,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Spinat-Sahnesauce (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-07",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Massaman-Curry mit Kartoffeln, Edamame und Räuchertofu (1,2,3,En,So,Sl,Sf,GlW)",
@@ -44,12 +47,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (Mi), glasierte Honigmöhren, Gemüse Bulgur (Sl,GlW)",
+		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (Mi), glasierte Honigmöhren, Gemüse Bulgur (Sl,Sf,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-01-07",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.4,
