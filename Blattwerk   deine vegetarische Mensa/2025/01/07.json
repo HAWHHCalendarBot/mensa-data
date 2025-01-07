@@ -45,20 +45,44 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Linsenragout mit Kartoffelcroutons (1,5,Sw), Tomaten-Paprika-Salsa (4)",
+		"Name": "Linsenragout mit Spätzle (1,5,Ei,Mi,Sw,GlW), Tomaten-Paprika-Salsa (4)",
 		"Category": "CampusVital",
 		"Date": "2025-01-07",
 		"Additives": {
 			"1": "Farbstoff",
 			"4": "Geschmacksverstärker",
 			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.1,
 		"PriceGuest": 5.3,
 		"PriceStudent": 2.8,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Mie Nudelsalat mit frischem Kimchi, Hoisinsoße und schwarzem Sesam (1,2,3,5,Ei,So,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-01-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.75,
+		"PriceGuest": 5.95,
+		"PriceStudent": 3.45,
+		"Alcohol": true,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Pasta (GlW), Pasta funghi mit braunen Champignons, gebratener Paneer (2,So,Mi,GlW,NWa)",
@@ -77,7 +101,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Dreierlei Kartoffelgnocchi mit gebratenen Champignons, Soja-Skyr und Rucola (3,Ei,So,GlW)",
+		"Name": "Schupfnudeln mit gebratenen Champignons, Soja-Skyr und Rucola (3,Ei,So,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-01-07",
 		"Additives": {
