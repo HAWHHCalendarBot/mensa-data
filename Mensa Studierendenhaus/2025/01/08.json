@@ -1,29 +1,14 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, Penne (GlW)",
+		"Name": "Pollo all'Arrabbiata, rote Beete Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2025-01-08",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Poultry": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Blattspinat (Sl), Prinzessbohnen, rote Beete Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-08",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
@@ -37,6 +22,20 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Kürbisgemüse, Zartweizen mit Maronen und Kürbis (GlW), Blattspinat (Sl), Prinzessbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-08",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
@@ -67,6 +66,23 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Beef": true
+	},
+	{
+		"Name": "Frikadelle (Ei,GlW), Champignonrahmsoße (Mi,Sl,Sw,GlW), Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2025-01-08",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.35,
+		"PriceGuest": 6.55,
+		"PriceStudent": 4.05,
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Grünkohl (2,3,8,Sl,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
