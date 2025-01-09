@@ -1,19 +1,29 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Name": "Vegane Sojabolognese mit Gemüse und Nudeln",
 		"Category": "Pastabar",
 		"Date": "2025-01-09",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta \"Toskana\" mit Lachs und Oliven in Tomatensoße (6,Fi,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-01-09",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Fish": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -46,23 +56,6 @@
 		"PriceStudent": 4.15,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Club Sandwich Bowl mit Hähnchenstreifen, Bacon, Röstinchen und Römersalat (2,8,Ei,GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2025-01-09",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"8": "Phosphat",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 9.2,
-		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Pig": true,
-		"Poultry": true
 	},
 	{
 		"Name": "Hähnchen Crossies (GlW,GlG), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
