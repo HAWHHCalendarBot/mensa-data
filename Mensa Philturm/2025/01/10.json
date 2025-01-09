@@ -24,31 +24,39 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Bolognese mit Gemüse (So,Sl), bunte Fusilli (GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2025-01-10",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.4,
-		"PriceGuest": 5.6,
-		"PriceStudent": 3.1,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Indisches Buttercurry (Mi), mariniertes Quorn (Ei,Mi), Basmatireis",
+		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Kräuterdip (Mi), Rote Beete Salat (9)",
 		"Category": "CampusWorld",
 		"Date": "2025-01-10",
 		"Additives": {
+			"1": "Farbstoff",
+			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 5.55,
-		"PriceGuest": 6.75,
-		"PriceStudent": 4.25,
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.15,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Let's WOK, frisches Gemüse aus dem WOK (2,So,Sl,Sw,GlW), würzige Teriyaki-Sauce (2,So,GlW), Tofusteak (2,So,GlW), Basmatireis, verschiedene Toppings (En,Se)",
+		"Category": "CampusWorld",
+		"Date": "2025-01-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
