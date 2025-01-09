@@ -56,22 +56,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl,GlW), Preiselbeeren, Salzkartoffeln",
-		"Category": "CampusWorld",
-		"Date": "2025-01-14",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.5,
-		"PriceGuest": 5.7,
-		"PriceStudent": 3.2,
-		"Beef": true,
-		"Pig": true
-	},
-	{
 		"Name": "Veganer Hamburger mit Gemüseschnitzel, Tomaten und Gewürzgurke (2,9,Sf,Se,GlW,GlD), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2025-01-14",
@@ -101,6 +85,24 @@
 		"PriceGuest": 7.2,
 		"PriceStudent": 4.7,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pute in Paprika-Tomaten-Gemüse (1,2,5,9,Sf,Sw), Reis",
+		"Category": "CampusVital",
+		"Date": "2025-01-14",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Hamburger mit Tomate, Gurke und Salat (1,2,3,9,Ei,Sf,Se,GlW), Pommes Frites (Sf)",
