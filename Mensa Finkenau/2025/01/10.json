@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-10",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-10",
@@ -22,6 +11,22 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spitzkohl,  Gewürzreis (Sl,Se), Bohnenragout (Sw), Gartengemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-10",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -55,15 +60,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cremige Polenta (Mi,Sl), Frischkäsepraline mit einer Kürbis Chili Füllung (Mi,GlW), Glacierte Pastinaken mit Honig, Rote Zwiebelmarmelade (1,5,Sw)",
+		"Name": "Cremige Polenta (Mi,Sl), Frischkäsepraline mit einer Kürbis Chili Füllung (Mi,GlW), Glacierte Pastinaken mit Honig, Rote Zwiebelmarmelade (1,2,5,So,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-01-10",
 		"Additives": {
 			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.5,
