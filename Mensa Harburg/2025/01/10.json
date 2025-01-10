@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "glasierte rote Beete, Broccoli, gebratene Karotten, Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-10",
-		"Additives": {
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-10",
 		"Additives": {
@@ -28,11 +15,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
+		"Name": "Erbsen,,  Maisgemüse, (1),  Broccoli-Champignon-Gnocchipfanne,,  gebratene Fingermöhren,,  Zartweizen mit Gemüse (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-10",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Formaggio di noci mit Haselnüssen (Mi,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-10",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -43,11 +44,10 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Gemüsegulasch (Sl), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2025-01-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
@@ -57,14 +57,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Bolognese mit Gemüse (So,Sl), Penne (GlW)",
+		"Name": "Kichererbsenragout mit Kokos, Basmatireis",
 		"Category": "CampusVital",
 		"Date": "2025-01-10",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 4.4,
 		"PriceGuest": 5.6,
 		"PriceStudent": 3.1,
@@ -90,21 +86,37 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Walnuß-Cheddar Burger mit Senf-Dip (1,3,9,Ei,Mi,Sl,Sf,GlW,NWa), Birnen-Chutney (3,5,Sw), Pommes Frites (Sf)",
+		"Name": "Walnuß-Cheddar Burger mit geschmorten roten Zwiebeln (3,Ei,Mi,Sl,Sf,GlW,NWa), Salsa Dip pikant (2,Sf), Pommes Frites (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2025-01-10",
 		"Additives": {
-			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Walnuß-Cheddar Burger mit geschmorten roten Zwiebeln (3,Ei,Mi,Sl,Sf,GlW,NWa), Salsa Dip pikant (2,Sf), Pommes Frites (Sf)",
+		"Category": "CampusWorld",
+		"Date": "2025-01-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 7.2,
 		"PriceGuest": 8.4,
