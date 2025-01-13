@@ -1,22 +1,5 @@
 [
 	{
-		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Mi,Sl,Sw,GlW)",
-		"Category": "CampusVital",
-		"Date": "2025-01-16",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.1,
-		"PriceGuest": 5.3,
-		"PriceStudent": 2.8,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Kartoffelgratin mit Spinat und Hirtenkäse (Ei,Mi)",
 		"Category": "Food Angebot im Café Mittelweg",
 		"Date": "2025-01-16",
@@ -129,6 +112,19 @@
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
 		"Pig": true
+	},
+	{
+		"Name": "Veganes Knusperschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",
+		"Category": "CampusSpezial",
+		"Date": "2025-01-16",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Caesars Salat mit Hähnchenbrust (3,8,Ei,Mi,Sf,Sw,GlW)",
