@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
-		"Category": "Pastabar",
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen,,  Karotten Pastinakenmix,,  Retro Gemüse natur (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2025-01-13",
 		"Additives": {
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -10,36 +10,79 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Rahm (Mi), Karotten Pastinakenmix mit frischer Petersilie, Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
+		"Name": "Contadino mit Schweinefleisch und Austernpilzen (Mi,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-01-13",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Zucchini in Tomatensoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-01-13",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kichererbsenragout mit Kokos und Tomaten (So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2025-01-13",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Lauchcremesoße mit Haselnüssen (Mi,GlW,NHa)",
+		"Category": "Pastabar",
+		"Date": "2025-01-13",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta mit getrockneten Tomaten und Rotweinzwiebeln (2,5,Sw)",
+		"Category": "Pastabar",
+		"Date": "2025-01-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
