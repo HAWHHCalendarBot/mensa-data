@@ -60,21 +60,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Mi,Sl,Sw,GlW)",
+		"Name": "Cous-Cous One Pot mit marinierten Sojastreifen, getrockneten Tomaten, Erbsen und Haferjoghurt (2,5,So,Sl,Sw,GlW,GlH)",
 		"Category": "CampusVital",
 		"Date": "2025-01-16",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.1,
 		"PriceGuest": 5.3,
 		"PriceStudent": 2.8,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), tomatisierte Kräutersoße (Mi,GlW,GlG), Spaghetti (GlW)",
@@ -95,10 +97,13 @@
 		"Category": "CampusKlassiker",
 		"Date": "2025-01-16",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"8": "Phosphat",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
