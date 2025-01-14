@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Kräuterkartoffeln, gebratene Zucchini, Süßkartoffeln, gebackene Aubergine, gerösteter Blumenkohl, Spitzkohl",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, gerösteter Blumenkohl, Spitzkohl, Erbsen (1)",
 		"Category": "Gemüsebar",
 		"Date": "2025-01-14",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -46,7 +48,26 @@
 		"Fish": true
 	},
 	{
-		"Name": "All in one Pot: Hokkaido Kürbis-Ragout, Tofu, Basmatireis Cashew, (2,So,GlW,NCa)",
+		"Name": "Hähnchenbrust im Knuspermantel (GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Schnittlauchkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2025-01-14",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"Poultry": true
+	},
+	{
+		"Name": "All in one Pot: Hokkaido Kürbis-Ragout, Tofu, Basmatireis Cashew (2,So,GlW,NCa)",
 		"Category": "CampusVital",
 		"Date": "2025-01-14",
 		"Additives": {
