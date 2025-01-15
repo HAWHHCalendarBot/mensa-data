@@ -14,21 +14,6 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Brechbohnen, Gartengemüse",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-15",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Süßkartoffelwürfel gebacken",
 		"Category": "Pastabar",
 		"Date": "2025-01-15",
@@ -42,6 +27,23 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Zartweizen mit Gemüse (Sl,GlW), frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Brechbohnen, Gartengemüse",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
@@ -72,7 +74,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebackene Seelachsfiletwürfel (Fi,Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Pommes Frites (Sf)",
+		"Name": "Gebackene Hähnchenstreifen (GlW,GlG), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-01-15",
 		"Additives": {
@@ -80,7 +82,7 @@
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
-			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
@@ -89,7 +91,7 @@
 		"PriceAttendant": 5.45,
 		"PriceGuest": 6.65,
 		"PriceStudent": 4.15,
-		"Fish": true
+		"Poultry": true
 	},
 	{
 		"Name": "Superfood Salat mit Quinoa, Grünkohl, Walnüssen und Süßkartoffel (2,3,So,Sl,GlW,NWa), Mariniertes Tofusteak (2,So,GlW), Kräuter Dip (3,GlH)",
