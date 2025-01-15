@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Bolognese mit Rindfleisch (Sl), Maccaroni (GlW)",
+		"Name": "Bolognese mit Rindfleisch (Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-01-15",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -14,13 +13,24 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6)",
+		"Name": "gerösteter Blumenkohl,,  Brechbohnen,,  Erbsen-Mais Gemüse (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2025-01-15",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Chili sin carne (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-01-15",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -29,14 +39,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Zucchini in Kokos-Currycreme (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-01-15",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Orangen-Linsenragout (Ei,Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-01-15",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -44,13 +67,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
+		"Name": "mediterranes Gemüseragout (6), Couscous (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-01-15",
 		"Additives": {
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -75,7 +98,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Superfood Salat mit Quinoa, Grünkohl, Walnüssen und Süßkartoffel (2,3,So,Sl,GlW,NWa), Mariniertes Tofusteak (2,So,GlW), Kräuter Dip (3,GlH)",
+		"Name": "Superfood Salat mit Grünkohl, Walnüssen und Süßkartoffel (2,3,So,Sl,GlW,NWa), Mariniertes Tofusteak (2,So,GlW), Kräuter Dip (3,GlH), Schupfnudeln (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-01-15",
 		"Additives": {
