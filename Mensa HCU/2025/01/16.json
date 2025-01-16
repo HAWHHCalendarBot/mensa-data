@@ -1,20 +1,5 @@
 [
 	{
-		"Name": "Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Prinzessbohnen, Blumenkohl",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-16",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2025-01-16",
@@ -23,6 +8,22 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Prinzessbohnen, Blumenkohl, glasiertes Wurzelgemüse (Mi,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -46,7 +47,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganer Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Soja-Skyr (2,3,5,So,Sl,Sw,GlW)",
+		"Name": "Veganer Cous-Cous One Pot mit getrockneten Tomaten, veganem Hirtenkäse, Erbsen und Soja-Skyr (2,3,5,So,Sl,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-01-16",
 		"Additives": {
@@ -65,7 +66,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Thüringer Bratwurst (8,Sl,Sf), Hausgemachtes Kartoffel-Butterstampf (Mi), geschmortes Apfel-Zwiebel Gemüse, Petersilie",
+		"Name": "Thüringer Bratwurst (8,Sl,Sf), Hausgemachtes Kartoffel-Butterstampf (Mi), Zwiebelsauce, Petersilie",
 		"Category": "CampusKlassiker",
 		"Date": "2025-01-16",
 		"Additives": {
