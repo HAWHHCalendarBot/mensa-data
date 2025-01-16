@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw)",
+		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Kräuterkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2025-01-16",
 		"Additives": {
@@ -13,30 +13,32 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
+		"Name": "Rahmwirsing (So,Sl), mediterranes Gemüse (6), Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
+		"Category": "Gemüsebar",
 		"Date": "2025-01-16",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"6": "Geschwärzt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Rahmwirsing (Mi,Sl,GlW), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
-		"Category": "Gemüsebar",
+		"Name": "Tortellini mit Käsefüllung (Ei,Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Category": "Pastabar",
 		"Date": "2025-01-16",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -81,9 +83,9 @@
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
-		"PriceAttendant": 6.5,
-		"PriceGuest": 7.7,
-		"PriceStudent": 5.2,
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Vegan": true
 	},
