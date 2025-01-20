@@ -1,15 +1,28 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Vegane Sojabolognese mit Broccoli und Nudeln",
 		"Category": "Pastabar",
 		"Date": "2025-01-20",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl, Prinzessbohnen, glasiertes Wurzelgemüse (Mi,Sl), Erbsen (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-20",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"1": "Farbstoff",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl)",
