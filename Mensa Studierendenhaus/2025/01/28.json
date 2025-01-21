@@ -14,6 +14,22 @@
 		"Poultry": true
 	},
 	{
+		"Name": "Steckrüben-Möhren Gemüse (1), frisches Gemüse aus dem Wok (2,Sw), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Zartweizen mit Maronen und Kürbis (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-28",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pasta sugo di porri mit Sonnenblumenhack-Lauchsoße (1,So,Sl,Sf,GlW), Vollkorn Fussili (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-28",
@@ -29,6 +45,37 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Zartweizen-Tomatentopf mit Pilzen (Sl,Sw,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-01-28",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-01-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Champignonrahmsoße (Mi,Sl,GlW), Pommes Frites (Sf)",
