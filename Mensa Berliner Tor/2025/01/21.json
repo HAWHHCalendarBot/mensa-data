@@ -1,11 +1,13 @@
 [
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "Gemüserisotto mit Hackbällchen (vegan) und Rucola (So,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-01-21",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -14,7 +16,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Sesammöhrchen (Se), Blumenkohl, vegan, Buntes Chinagemüse mit Soja Soße (2,So,GlW), Kräuterkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-21",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-01-21",
 		"Additives": {
@@ -30,21 +48,21 @@
 		"Beef": true
 	},
 	{
-		"Name": "Sesammöhrchen (Se), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), gebratenem Wirsing, Maiskolben (Mi), Bauernkartoffeln mit gebräunten Bröseln (Mi,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta (GlW), Pasta sugo di porri mit Sonnenblumenhack-Lauchsoße (1,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-01-21",
 		"Additives": {
-			"3": "Antioxidationsmittel",
+			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf,GlW)",
@@ -59,22 +77,6 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Gemüserisotto mit Hackbällchen (vegan) und Rucola (So,Sl,GlW,GlG)",
-		"Category": "CampusVital",
-		"Date": "2025-01-21",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 4.85,
-		"PriceGuest": 6.05,
-		"PriceStudent": 3.55,
 		"LactoseFree": true,
 		"Vegan": true
 	},
