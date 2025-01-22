@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-22",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-22",
@@ -27,10 +16,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
+		"Name": "Sonnenblumhack-Lauchpfanne in Sojacreme (So,Sl,Sf), Sauerkraut (vegan) (Sl), tomatisierter Wirsing, Rosenkohl (Mi), Fenchelgemüse (Sl), Bratreis mit Ei und Frühlingszwiebeln (Ei)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-22",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-01-22",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -55,12 +61,13 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
+		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous (Sl,GlW), Rotkrautsalat, Mandeln (3,NMa)",
 		"Category": "CampusSpezial",
 		"Date": "2025-01-22",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -73,12 +80,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Penne (GlW), Schmand (Mi)",
+		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Salzkartoffeln, Schmand (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2025-01-22",
 		"Additives": {
 			"9": "Süßungsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
