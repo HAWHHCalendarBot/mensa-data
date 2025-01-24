@@ -1,17 +1,42 @@
 [
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "Pasta Gorgonzola mit Tomaten-Sahnesauce und Broccoli (Mi), Spaghetti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-24",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Pasta Gorgonzola mit Tomaten-Sahnesauce und Broccoli (Mi), Spaghetti (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-01-24",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "pikantes Grillgemüse (Sl,Sf,GlW), Rosenkohl (Mi), Karotten Rustica, Prinzessbohnen, Glacierte Pastinaken mit veganem Käse",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-24",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
