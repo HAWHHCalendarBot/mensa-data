@@ -1,10 +1,12 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Name": "weiße Bohnen mit Sonnenblumenhack und Sojacreme (So,Sl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2025-01-24",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,12 +15,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "Broccoli in Soja-Nusssoße (So,Se,NHa,NWa), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-24",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,19 +32,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rosenkohl in Rahm (Mi,Sl,GlW), Cajun Gemüse (Sl), Ofengemüse mit Kartoffeln, rote-Beete-Pilaw (9)",
+		"Name": "Asia Soja Ragout mit Kokosmilch (2,So,Sl,Sf),  Gemüsecouscous mit Rosinen und Pinienkernen (Sl,GlW),  Legumi Gemüse in Paprikarahm (So,Sw),  Maisgemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2025-01-24",
 		"Additives": {
-			"9": "Süßungsmittel",
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
@@ -73,7 +82,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "All in one Pot: Vegane Köfte (So,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf)",
+		"Name": "All in one Pot: Vegane Köfte (So,GlW,GlG), Reis, weißer Bohnensalat mit Tomaten (3,5,Sw), Knoblauchdip (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2025-01-24",
 		"Additives": {
