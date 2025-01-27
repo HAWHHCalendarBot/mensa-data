@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, gebratene Zucchini, gebratene Karotten, gebratenem Wirsing, gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2025-01-27",
-		"Additives": {},
+		"Additives": {
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,11 +13,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Tomatensauce mit Paprika (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-27",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
