@@ -1,11 +1,43 @@
 [
 	{
-		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (GlW)",
+		"Name": "Brasilianischde Bohnensoße mit Tofu (So,Sl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2025-01-28",
 		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomaten-Olivenragout (6,So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-01-28",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchenstreifen in asiatischer Pflaumensoße mit Gemüse (2,So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-01-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -14,7 +46,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Pasta sugo di porri mit Sonnenblumenhack-Lauchsoße (1,So,Sl,Sf,GlW), Vollkorn Fussili (GlW)",
+		"Name": "Bolognese von Sonnenblumenhack (1,So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-28",
 		"Additives": {
@@ -29,6 +61,23 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Kartoffelgratin (Ei,Mi),  gebratene Champignons,  Kichererbsengemüse (2,5,Sw),  gerösteter Broccoli,  Pasta (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-28",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Zartweizen-Tomatentopf mit Pilzen (Sl,Sw,GlW)",
@@ -56,9 +105,9 @@
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 4.1,
-		"PriceGuest": 5.3,
-		"PriceStudent": 2.8,
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.5,
+		"PriceStudent": 3.0,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -70,9 +119,9 @@
 			"Ei": "Ei und Eierzeugnisse",
 			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
 		"LactoseFree": true,
 		"Vegetarian": true
 	},
