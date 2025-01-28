@@ -57,6 +57,23 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-02-05",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.15,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2025-02-05",
@@ -72,20 +89,18 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Kasseler Rückenbraten (2,3), Kräutersoße (Mi,GlW,GlG), Wirsinggemüse mit Speck (2,3,8), Petersilienkartoffeln",
+		"Name": "Kasseler Rückenbraten (2,3)",
 		"Category": "CampusSpezial",
 		"Date": "2025-02-05",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.5,
 		"PriceGuest": 7.7,
 		"PriceStudent": 5.2,
+		"LactoseFree": true,
 		"Pig": true
 	}
 ]
