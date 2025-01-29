@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Käsespätzle mit Röstzwiebeln (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-29",
 		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -13,21 +14,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Grünkohl (Sl,Sf), Prinzessbohnen, rote Beete Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-29",
-		"Additives": {
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Pasta (GlW), Saporita mit Rindfleisch und Paprika (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-01-29",
 		"Additives": {
@@ -39,6 +26,39 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Beef": true
+	},
+	{
+		"Name": "Kaisergemüse, vegan (Sl), Maisgemüse mit Kräuterbutter (Mi), Apfelrotkohl (3,5,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-29",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta sugo di porri mit Sonnenblumenhack-Lauchsoße (1,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-01-29",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
