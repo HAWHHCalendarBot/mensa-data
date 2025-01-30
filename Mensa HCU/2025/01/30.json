@@ -1,19 +1,50 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Name": "Boscaiola mit Pilzen und Hähnchen (So), Bunte Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-30",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Poultry": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Hausgemachte Käsesoße (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2025-01-30",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "pikantes Grillgemüse (Sl,Sf,GlW), Zuckerschoten (1), Glacierte Pastinaken mit Honig, Gemüsefrikadelle (Sl,GlW), Apfelrotkohl (3,5,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-30",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
