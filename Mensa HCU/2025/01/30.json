@@ -14,20 +14,6 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Hausgemachte Käsesoße (Mi,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2025-01-30",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
 		"Name": "pikantes Grillgemüse (Sl,Sf,GlW), Zuckerschoten (1), Glacierte Pastinaken mit Honig, Gemüsefrikadelle (Sl,GlW), Apfelrotkohl (3,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2025-01-30",
@@ -108,5 +94,19 @@
 		"PriceStudent": 5.1,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Hausgemachte Käsesoße (Mi,GlW,GlG)",
+		"Category": "CampusSpezial",
+		"Date": "2025-01-30",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 10.2,
+		"PriceStudent": 5.1,
+		"Vegetarian": true
 	}
 ]
