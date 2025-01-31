@@ -1,22 +1,11 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-01-31",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Paprika-Kokos Soße mit Sojastreifen (2,So,GlW), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-01-31",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -26,7 +15,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Broccoli, gebratene Champignons (Sw), Spitzkohl, Pastinake-Kartoffelgratin (1,Mi,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2025-01-31",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Blumenkohl Korma, Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2025-01-31",
 		"Additives": {},
@@ -52,12 +57,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rote Beete Stäbchen (Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Gewürzgurke (2,9), Bratkartoffeln",
+		"Name": "Rote Beete Stäbchen (Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Bratkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2025-01-31",
 		"Additives": {
 			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
