@@ -27,21 +27,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Sw), Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-03",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pikante Sesamnudeln mit asiatischem Pfannengemüse (2,3,So,Sf,Se,Sw,GlW,NCa)",
@@ -60,6 +59,24 @@
 		"PriceAttendant": 4.7,
 		"PriceGuest": 5.9,
 		"PriceStudent": 3.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zartweizensalat mit veganem Hackbällchen und Smoked Dip (So,Sl,Sf,Sw,GlW,GlG)",
+		"Category": "CampusWorld",
+		"Date": "2025-02-03",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.15,
 		"LactoseFree": true,
 		"Vegan": true
 	},
