@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, gebratene Champignons (Sw), Zwiebelgemüse, Süßkartoffeln, geschmorter Weißkohl (Sl), gebratene Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-03",
-		"Additives": {},
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,17 +14,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit veganer Bolognese und Käse überbacken (Mi,Sl,Lu,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Let's WOK, frisches Gemüse aus dem WOK (2,So,Sl,Sw,GlW), cremige Erdnussbutter-Kokossauce (2,En,So,GlW), Basmatireis, verschiedene Toppings (En,Se)",

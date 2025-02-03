@@ -1,24 +1,26 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
-		"Category": "Pastabar",
+		"Name": "Gebratene Champignon, vegan, Blumenkohl Korma, vegan, Maisgemüse (1)",
+		"Category": "Gemüsebar",
 		"Date": "2025-02-03",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Rahm (Mi), Glacierte Pastinaken mit Honig, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
+		"Name": "Pasta (GlW), Dijon-Senfsoße mit Hähnchenbruststreifen (Mi,Sf,GlW,GlG)",
+		"Category": "Pastabar",
 		"Date": "2025-02-03",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -26,15 +28,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Pasta (GlW), Funghi mit Pilzen in Sahnesoße (3,Mi,Sl,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-02-03",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
+			"3": "Antioxidationsmittel",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
