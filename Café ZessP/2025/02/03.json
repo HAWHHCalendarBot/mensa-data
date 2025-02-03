@@ -1,5 +1,22 @@
 [
 	{
+		"Name": "Grünkern-Käse-Medaillons mit Sour Cream oder veganer Dip (Ei,So,Mi,Se,GlW,GlD), kleiner Salat",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-02-03",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.7,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Quinoa Erbsen Bratling mit Sour Cream (4,Ei,Mi,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-02-03",
@@ -12,22 +29,6 @@
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.3,
 		"PriceStudent": 3.8,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Rote Beete Bratling mit Sour Cream (4,Ei,Mi,Sf,GlW), kleiner Salat",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-02-03",
-		"Additives": {
-			"4": "Geschmacksverstärker",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 4.75,
-		"PriceGuest": 5.45,
-		"PriceStudent": 3.95,
 		"Vegetarian": true
 	},
 	{
@@ -48,11 +49,10 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pomodoro Soße (1,GlW)",
+		"Name": "Arrabbiata Soße (GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-02-03",
 		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 5.0,
@@ -77,22 +77,22 @@
 		"Beef": true
 	},
 	{
-		"Name": "Baked Potato \"Root garden\" mit Senf-Wurzelgemüse, Spinat, Feta, Rote Beete, Sour Cream (3,4,Ei,So,Mi,Sl,Sf,Sw)",
+		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-02-03",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.75,
-		"PriceGuest": 6.45,
-		"PriceStudent": 4.95
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.2,
+		"PriceStudent": 4.7,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gym Salat Quinoa,Hüttenkäse, Erbsen, Karotte, Edamame, Staudensellerie, Ei, Balsamico-Dressing (Ei,So,Mi,Sl,Sw)",
@@ -124,5 +124,22 @@
 		"PriceGuest": 7.1,
 		"PriceStudent": 5.6,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (So,Sl,Sf,Se,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-02-03",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.45,
+		"PriceGuest": 7.15,
+		"PriceStudent": 5.65,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
