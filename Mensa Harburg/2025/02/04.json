@@ -13,21 +13,21 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "Pasta Nerone mit Schweinefleisch in Tomaten-Sahnesoße (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-04",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Gemüse Bulgur (Sl,GlW),  gebratener Pak Choi (2,So,GlW),  Gartengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-04",
 		"Additives": {
@@ -41,6 +41,40 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes mit Gemüse in Erdnusssoße (2,En,So,Sl,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-04",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegetarisch gefüllte Paprikaschote mit Tomaten und Käse (Ei,So,Mi,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-04",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
@@ -87,25 +121,5 @@
 		"PriceStudent": 5.55,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gebackenes Alaska Seelachsfilet (Fi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Röstkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-02-04",
-		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 7.9,
-		"PriceGuest": 9.1,
-		"PriceStudent": 6.6,
-		"Fish": true
 	}
 ]
