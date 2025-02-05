@@ -54,18 +54,32 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putengyros, Tzatziki (Mi), Krautsalat (3,5,Sw), Paprikareis",
-		"Category": "CampusWorld",
+		"Name": "Chili con soja (So)",
+		"Category": "CampusVital",
 		"Date": "2025-02-10",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 7.15,
-		"PriceGuest": 8.35,
-		"PriceStudent": 5.85,
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Putenbrust im Ganzen gebraten",
+		"Category": "CampusKlassiker",
+		"Date": "2025-02-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 7.4,
+		"PriceGuest": 8.6,
+		"PriceStudent": 6.1,
 		"Poultry": true
 	}
 ]
