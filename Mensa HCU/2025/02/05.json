@@ -15,7 +15,26 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl)",
+		"Name": "Kürbis- Champignongemüse und Salbei (3,So,Sl,Sw), Rinderhack und buntem Gemüse (1,2,So,GlW), rote Chilibohnen (3), Romanesco (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Fladenbrot (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-02-05",
 		"Additives": {
@@ -28,14 +47,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Name": "Chili Fries sin carne (Sl,Sw), Kichererbsencreme (6,Sf,GlH)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-02-05",
 		"Additives": {
 			"6": "Geschwärzt",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.45,
@@ -60,14 +79,17 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Dattel-Curry Falafel (GlW), Aioli mit Walnuß (Sf,NWa), Orientalische Steckrübe mit Möhren, Bulgur (Sl,GlW)",
+		"Name": "Dattel-Curry Falafel (GlW), Aioli mit Walnuß (3,So,Sf,GlH,NWa), Orientalische Steckrübe mit Möhren, Bulgur (Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-02-05",
 		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 7.15,
 		"PriceGuest": 11.7,
