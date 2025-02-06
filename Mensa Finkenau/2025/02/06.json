@@ -1,29 +1,36 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
+		"Name": "Rosenkohl (Mi), gebratenem Wirsing, Kürbisgemüse, Kräuterkartoffeln, mexikanisches Bohnengemüse (2,3,8)",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-06",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Pig": true
+	},
+	{
+		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Penne (GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
-		"Date": "2025-02-06",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",

@@ -13,7 +13,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa), Kräuterkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2025-02-06",
 		"Additives": {
@@ -28,20 +28,21 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rahmwirsing (Mi,Sl,GlW), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
+		"Name": "Sojarahmwirsing (So,Sl), pikantes Grillgemüse (Sl,Sf,GlW), Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-06",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
