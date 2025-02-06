@@ -1,36 +1,35 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Boscaiola mit Speck und Gemüse (2), Bunte Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-06",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
-		"Category": "Pottkieker",
+		"Name": "Dattel-Curry Falafel (GlW), Grillgemüse (Sw), Romanesco (Sl), Orientalische Steckrübe mit Möhren",
+		"Category": "Gemüsebar",
 		"Date": "2025-02-06",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.7,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
+		"Name": "All in one pot: Reisnudeln, Sojahack, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-02-06",
 		"Additives": {
@@ -65,11 +64,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Zitronenhähnchen (Mi), Kräuterdip (Mi), gerösteter Broccoli, Basmatireis",
+		"Name": "Zitronenhähnchen (Mi), Kräuterdip (3,So,Mi,Sf,GlH,NWa), gerösteter Broccoli, Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2025-02-06",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"3": "Antioxidationsmittel",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.7,
 		"PriceGuest": 10.8,

@@ -1,9 +1,23 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Wirsingpfanne mit Pastinaken in veganem Rahm (So), Kräuterkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-06",
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pomodoro Asiatico di Pollo mit Tomaten und Kokosmilch (Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-06",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -13,26 +27,39 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Madras Kürbisgemüse in Sojacreme (So), Couscous mit Rosinen und Mandeln (GlW,NMa)",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-06",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Gorgonzola mit Walnüssen (Mi,NWa), Tortellini (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-06",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl,GlW)",
+		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-02-06",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
