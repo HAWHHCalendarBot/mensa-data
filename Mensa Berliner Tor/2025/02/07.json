@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Champignon, gebraten, Auberginen Gemüse (Sw), Reispfanne mit buntem Gemüse (Se)",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-07",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-07",
@@ -14,40 +28,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), glasiertes Wurzelgemüse (Mi,Sl), gerösteter Rosenkohl mit Sesampaste (Se), Chili Weißkohl (Sl), Kartoffelgratin (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2025-02-07",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-02-07",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-02-07",
@@ -57,6 +37,22 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nuggets Alternative (So,GlW,GlG), Linsengemüse in Kokoscreme (Sl), Basmatireis",
+		"Category": "CampusVital",
+		"Date": "2025-02-07",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
 		"LactoseFree": true,
 		"Vegan": true
 	},

@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
-		"Category": "Pastabar",
+		"Name": "Kartoffelgratin mit Käse überbacken (Ei,Mi)",
+		"Category": "Gemüsebar",
 		"Date": "2025-02-07",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
@@ -14,27 +13,24 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), glasiertes Wurzelgemüse (Mi,Sl), Chili Weißkohl (Sl), Kartoffelgratin (Ei,Mi)",
+		"Name": "Wirsingpfanne mit Pastinaken in veganem Rahm (So), Pasta nach Wahl (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-07",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
-		"Category": "Pastabar",
+		"Name": "Couscousgemüse mit Mandeln, Rosinen und Chili (Sl,GlW,NMa), Marinierte Pastinaken mit Tofu (So), Prinzessbohnen mit Paprika gewürzt, Fingermöhrchen mit Zimt gewürzt",
+		"Category": "Gemüsebar",
 		"Date": "2025-02-07",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -47,7 +43,41 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
+		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße mit Soja, Kokos und Gemüse (2,So,Se,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-07",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Mi,Sl,GlW,NMa), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-07",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gelbe Linsensuppe (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-02-07",
 		"Additives": {
