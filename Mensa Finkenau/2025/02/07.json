@@ -1,17 +1,21 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
+		"Name": "Broccoli, Champignon-Zwiebel Gemüse (Mi,Sw,NCa), Mexikanisches Gemüse (Sl), gebratenem Wirsing",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-07",
-		"Additives": {},
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Maccaroni (GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2025-02-07",
 		"Additives": {
@@ -26,10 +30,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
+		"Name": "Gelbe Linsensuppe mit Mango (Sl), Wrap (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-02-07",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
