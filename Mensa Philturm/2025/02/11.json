@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, grüne Bohnen mit Knoblauch und Ingwer, Blumenkohl in Rahm (Mi,GlW,GlG), gerösteter Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-11",
-		"Additives": {},
+		"Additives": {
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,17 +15,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Blumenkohl in Rahm mit Käse überbacken (So,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-11",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Schwedische Köttbullar (Ei,GlW), Hausgemachtes Kartoffel-Butterstampf (Mi), geschmortes Apfel-Zwiebel Gemüse, Petersilie",
