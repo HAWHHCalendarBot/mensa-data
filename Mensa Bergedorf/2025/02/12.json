@@ -86,6 +86,7 @@
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
@@ -95,5 +96,24 @@
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
 		"Vegetarian": true
+	},
+	{
+		"Name": "vegane Dönertasche (Se,GlW,GlG), vegane Aioli (Sf), Weißkrautsalat (3,5,Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2025-02-12",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
