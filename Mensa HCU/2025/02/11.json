@@ -1,6 +1,18 @@
 [
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Flageolets Bohnen, Gemüsemix Eskorial, Blattspinat mit Hirtenkäse (Mi), Röstkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-11",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-11",
 		"Additives": {
@@ -53,21 +65,37 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (GlW), Cole slaw Salat (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf), Zitrone",
+		"Name": "Paniertes Schweineschnitzel (GlW), Krautsalat (3,5,Sw), Pommes Frites (Sf), Zitrone",
 		"Category": "CampusKlassiker",
 		"Date": "2025-02-11",
 		"Additives": {
-			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
+			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.95,
 		"PriceGuest": 7.3,
 		"PriceStudent": 3.65,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Paniertes Schweineschnitzel (GlW), Krautsalat (3,5,Sw), Pommes Frites (Sf), Zitrone",
+		"Category": "CampusKlassiker",
+		"Date": "2025-02-11",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.95,
+		"PriceGuest": 7.3,
+		"PriceStudent": 3.65,
+		"LactoseFree": true,
 		"Pig": true
 	},
 	{
