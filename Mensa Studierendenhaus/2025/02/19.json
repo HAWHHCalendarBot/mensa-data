@@ -40,16 +40,65 @@
 		"Beef": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), Pollo all'Arrabbiata",
+		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
+		"Category": "Pottkieker",
+		"Date": "2025-02-19",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "One Pot Quinoa mit Avocado, Paprika und veganem Joghurt (3,Sl,GlH)",
+		"Category": "CampusVital",
+		"Date": "2025-02-19",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.7,
+		"PriceGuest": 5.9,
+		"PriceStudent": 3.4,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachte Pasta (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-02-19",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
-		"LactoseFree": true,
-		"Poultry": true
+		"Pig": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Blattspinat in Rahm (Mi,GlW), Salzkartoffeln",
+		"Category": "CampusWorld",
+		"Date": "2025-02-19",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
+		"Fish": true
 	}
 ]
