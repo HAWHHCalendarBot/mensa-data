@@ -1,19 +1,31 @@
 [
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
+		"Name": "Pollo all'Arrabbiata, Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-12",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Poultry": true
+	},
+	{
+		"Name": "Grünkern (Sl,GlD), Gartengemüse (Sl), Flageolets Bohnen, Blattspinat mit Hirtenkäse (Mi), Gemüse in Kokoscreme (Sl), Sojastreifen (So,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-12",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
@@ -48,7 +60,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spaghetti (GlW), Bolognese (Sl), Hartkäse gerieben (Mi)",
+		"Name": "Bolognese (Sl), Nudeln (GlW), Hartkäse gerieben (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-02-12",
 		"Additives": {
