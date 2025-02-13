@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl)",
+		"Name": "Broccoli,  Fingermöhren mit Kokosflocken,  Rosenkohl,  gebackenes Maisgemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-13",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,26 +13,10 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
+		"Name": "Hähnchenstreifen in Käse-Chilisoße (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-02-13",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-02-13",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -42,12 +26,45 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Kürbis Spinat Stew (3,Sl), Reis",
+		"Name": "Linsenbolognese (So,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-13",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Auberginenscheiben in Erdnuss-Tomatensoße (2,En,So,Sl,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "mediterranes Gemüseragout (6,Sl,Sw), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-02-13",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"6": "Geschwärzt",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -92,24 +109,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Basilikum Dip (Mi,Sf), pikanter Karottensalat (3), Röstkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2025-02-13",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
 			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 7.8,
 		"PriceGuest": 9.0,
 		"PriceStudent": 6.5,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
 	}
 ]

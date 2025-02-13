@@ -15,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (3,Sf), Fusilli (GlW)",
+		"Name": "Spinaci e oliva mit Spinat, Oliven und Tomaten (3,Sf), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-13",
 		"Additives": {
@@ -61,13 +61,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Buttersoße mit Kichererbsen, Spinat, Sesam und frischem Kräutern (2,Mi,Se,GlW,GlR), Basmatireis",
+		"Name": "Indische Tomaten-Buttersoße mit Kichererbsen, Spinat, Sesam und frischem Kräutern (2,Mi,Se), Basmatireis",
 		"Category": "CampusSpezial",
 		"Date": "2025-02-13",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"GlR": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
@@ -77,12 +75,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Vegane Nuggets (So,GlW,GlG), Reis",
+		"Name": "Reisnudelsalat mit Kimchi, mini Frühlingsrollen und Asia- Mayonnaise (2,3,5,So,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-02-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Vegane Nuggets (So,GlW,GlG), Mie-Nudeln (Ei,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-02-13",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
@@ -94,6 +112,6 @@
 		"PriceStudent": 5.4,
 		"Alcohol": true,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
