@@ -49,21 +49,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Bolognese Soße (Sl,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-02-17",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.0,
-		"PriceGuest": 5.7,
-		"PriceStudent": 4.2,
-		"Alcohol": true,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
 		"Name": "Pesto Rosso (Mi,GlW,NCa), Bolognese (Sl)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-02-17",
@@ -94,21 +79,42 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Baked Potato \"Italian\" Grillgemüse, Feta, Rucola, Sonnenblumenkerne, Sour Cream (3,4,Ei,So,Mi,Sf,Sw)",
+		"Name": "Carbonara Soße (1,2,3,8,Mi,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-02-17",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 5.7,
+		"PriceStudent": 4.2,
+		"Pig": true
+	},
+	{
+		"Name": "Baked Potato \"Oriental\" mit Bulgur, Rosinen, Kichererbsen, Mandelsplitter, Granatapfel, Sour Cream (3,4,Ei,So,Mi,Sl,Sf,Se,GlW,NMa)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-02-17",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.75,
-		"PriceGuest": 6.45,
-		"PriceStudent": 4.95
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.0,
+		"PriceStudent": 4.5,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grilled veggie Salat, gegrilltes Gemüse, Mozzarella,Karotten,Tomaten,Tomaten - Rosmarin Dressing (2,Mi,Sw,NCa)",
@@ -126,17 +132,36 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Chick 'n sheep Salat, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,Mi)",
+		"Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (2,Ei,Mi,Sl,Sf,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-02-17",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.1,
+		"PriceStudent": 5.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (2,Ei,So,Mi,Sl,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-02-17",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.55,
-		"PriceGuest": 7.25,
-		"PriceStudent": 5.75,
+		"PriceAttendant": 7.2,
+		"PriceGuest": 7.9,
+		"PriceStudent": 6.4,
 		"Poultry": true
 	}
 ]
