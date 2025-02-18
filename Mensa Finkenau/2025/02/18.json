@@ -28,17 +28,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "LowBowl mit Reis, Erbsen, Kürbis und Kokos (Sl)",
+		"Name": "Chili cin Carne (So,Sl), Wrap (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-02-18",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "LowBowl mit Kartoffeln, Erbsen, Kürbis und Kokos (Mi,Sl), Kasseler Nackenwürfel (2,3)",
+		"Category": "Pottkieker",
+		"Date": "2025-02-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"Pig": true
 	},
 	{
 		"Name": "4 Röstiecken, Kräuterquark (Mi), Gurkensalat (Mi)",
