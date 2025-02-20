@@ -1,17 +1,45 @@
 [
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Vegane Maultaschen mit Gemüse und Tomatensoße, Nudeln (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-20",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mexikanisches Gemüse (Sl), gerösteter Blumenkohl, Erbsen (1), Bohnen",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta pollo mit Basilikum und Sahnesoße (So,Mi,Sl), Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-20",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"Poultry": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -44,23 +72,6 @@
 		"PriceStudent": 4.4,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Club Sandwich Bowl mit Hähnchenstreifen, Bacon, Röstinchen und Römersalat (2,8,Ei,GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2025-02-20",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"8": "Phosphat",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 9.2,
-		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Pig": true,
-		"Poultry": true
 	},
 	{
 		"Name": "Hähnchen Crossies (GlW), BBQ Soße (2,9,Sl,Sf), Pommes Frites (Sf)",
