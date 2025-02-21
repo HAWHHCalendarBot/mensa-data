@@ -40,11 +40,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
+		"Name": "Holsteiner Kartoffeltopf mit Räuchertofu (So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-02-21",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
@@ -52,6 +54,21 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Makkaroni-Tomatenauflauf mit Basilikumsoße (So,Mi,Sl,GlW)",
+		"Category": "CampusVital",
+		"Date": "2025-02-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünkohl (Sl,Sf), vegane Kochwurst, Röstkartoffeln",
