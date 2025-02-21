@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomatensoße und Zucchini (Sl), Penne (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Crema di funghi ostrica mit Austernpilze (So,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-21",
 		"Additives": {
@@ -15,14 +29,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
+		"Name": "Ägyptische Falafel-Nuggets (GlW), Prinzessbohnen, Fingermöhrchen, orientalischer Gewürzreis (Sl,Se), Euro-Gemüse-Mix",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grüne Zucchinischeiben in Sauce Hollandaise (Ei,So,Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-02-21",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Ei": "Ei und Eierzeugnisse",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -30,19 +59,36 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "glasierte rote Beete, Steckrübengemüse in Rahm (Mi,Sl,GlW), Broccoli, gebratene Karotten, Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
+		"Name": "Homemade Gemüselasagne überbacken mit Käse (So,Mi,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-02-21",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Kürbis Bolognese mit Sonnenblumenhack und Paprika (1,So,Sl,Sf,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-21",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Gemüsegulasch (Sl), Reis",
