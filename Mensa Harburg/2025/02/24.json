@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pasta all'Arrabbiata",
+		"Name": "Pikantes Tomatenragout mit Paprika, Sellerie und Karotten",
 		"Category": "Pastabar",
 		"Date": "2025-02-24",
 		"Additives": {},
@@ -11,10 +11,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Zuchini-Tomatenragout (Sl)",
-		"Category": "Pastabar",
+		"Name": "gebackener Rosenkohl (1),  buntes Gemüse,  glasierte Schwarzwurzeln,  Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl),  Chili-Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
 		"Date": "2025-02-24",
 		"Additives": {
+			"1": "Farbstoff",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -24,33 +25,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Rahm (Mi), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2025-02-24",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Pasta (GlW)",
+		"Name": "gelbe und grüne Zucchini in Basilikumcreme (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-02-24",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nerone mit Schweinefleisch und Waldpilzen (So,Mi,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-02-24",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Pig": true
 	},
 	{
 		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
