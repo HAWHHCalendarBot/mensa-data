@@ -42,18 +42,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Thüringer Bratwurst (8,Sl,Sf), Hausgemachtes Kartoffel-Butterstampf (Mi), geschmortes Apfel-Zwiebel Gemüse, Petersilie",
+		"Name": "Grünkohl (2,3,8,Sl,Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-02-27",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
 			"8": "Phosphat",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Grünkohl (Sl,Sf), vegane Kochwurst, Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2025-02-27",
+		"Additives": {
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
-		"Pig": true
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
