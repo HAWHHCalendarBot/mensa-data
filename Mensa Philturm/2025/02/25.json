@@ -1,23 +1,27 @@
 [
 	{
-		"Name": "Süßkartoffeln, gebratene Karotten, gebratene Zucchini, Broccoli (Mi), Kräuterkartoffeln, gerösteter Blumenkohl",
-		"Category": "Gemüsebar",
-		"Date": "2025-02-25",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Pasta mit Rataouillegemüse (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-25",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Süßkartoffeln, gebratene Karotten, Broccoli (Mi), Kräuterkartoffeln, Erbsen (1), grüne Bohnen mit Knoblauch und Ingwer (2,So,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-25",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
