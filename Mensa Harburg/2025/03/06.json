@@ -15,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), Eliche (GlW)",
+		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-06",
 		"Additives": {
@@ -29,10 +29,11 @@
 		"Poultry": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW)",
+		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW), Steckrüben-Möhren Gemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-06",
 		"Additives": {
+			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
@@ -44,21 +45,50 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Wir kochen was Sie lieben..., Entenkeule (2,8), Paprikarahmsoße (Mi,GlW,GlG), Curryreis (Sf), Buntes Chinagemüse (2,So,GlW)",
-		"Category": "CampusKlassiker",
+		"Name": "Pastinaken-Süßkartoffelsuppe mit Quinoa (Sl,Sf)",
+		"Category": "Pottkieker",
 		"Date": "2025-03-06",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Waldpilzragout (So,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-03-06",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Veganer Crispy Caesar Burger (3,Sf,GlW,GlG), Pommes Frites (Sf)",
+		"Category": "CampusVital",
+		"Date": "2025-03-06",
+		"Additives": {
+			"3": "Antioxidationsmittel",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.45,
-		"PriceStudent": 5.95,
-		"Poultry": true
+		"PriceAttendant": 6.3,
+		"PriceGuest": 7.5,
+		"PriceStudent": 5.0,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
