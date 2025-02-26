@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "all`Arrabbiata mit scharfer Tomatensoße und Sojastreifen (So,Sl), Maccaroni (GlW)",
+		"Name": "all`Arrabbiata mit scharfer Tomatensoße und Sojastreifen (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-26",
 		"Additives": {
@@ -15,7 +15,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6)",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-02-26",
 		"Additives": {
@@ -30,22 +45,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), rote-Beete-Pilaw (9)",
-		"Category": "Gemüsebar",
-		"Date": "2025-02-26",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"6": "Geschwärzt",
-			"9": "Süßungsmittel",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Rote-Linsen-Medaillons (Sl,GlW), rote Beete Hummus (9,Se), Kartoffeln mit Wurzelgemüse aus dem Ofen",
 		"Category": "CampusVital",
 		"Date": "2025-02-26",
@@ -58,6 +57,22 @@
 		"PriceAttendant": 5.35,
 		"PriceGuest": 6.55,
 		"PriceStudent": 4.05,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Couscoussalat mit gebratenem Zucchini, veganem Sonnenblumenhackfleisch und Dattelpesto (Sl,Sf,Se,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-02-26",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
