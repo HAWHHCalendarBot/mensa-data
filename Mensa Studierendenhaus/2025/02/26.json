@@ -14,7 +14,7 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Süßkartoffelwürfel gebacken",
 		"Category": "Pastabar",
 		"Date": "2025-02-26",
 		"Additives": {
@@ -29,14 +29,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Blattspinat in Sojarahm (So,GlW)",
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Brechbohnen, Gartengemüse, Sesammöhrchen (Se)",
 		"Category": "Gemüsebar",
 		"Date": "2025-02-26",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"6": "Geschwärzt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -75,6 +74,44 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Wir kochen was Sie lieben... Hähnchen Dipper (GlW,GlG), Asiatische Gemüsesoße süß-sauer (2,9,Sl), Langkorn Wildreis",
+		"Category": "CampusWorld",
+		"Date": "2025-02-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.35,
+		"PriceGuest": 6.55,
+		"PriceStudent": 4.05,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Fladenbrot (Se,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-02-26",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.35,
+		"PriceGuest": 6.55,
+		"PriceStudent": 4.05,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Couscoussalat mit gegrillten Salatherzen, Joghurtsoße (6,So,Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-02-26",
@@ -89,22 +126,5 @@
 		"PriceStudent": 4.1,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Wir kochen was Sie lieben... Hähnchen Dipper (GlW,GlG), Asiatische Gemüsesoße süß-sauer (2,9,Sl), Langkorn Wildreis",
-		"Category": "CampusWorld",
-		"Date": "2025-02-26",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"9": "Süßungsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.95,
-		"PriceGuest": 8.15,
-		"PriceStudent": 5.65,
-		"LactoseFree": true,
-		"Poultry": true
 	}
 ]
