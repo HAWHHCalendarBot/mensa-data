@@ -1,18 +1,51 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Name": "Bolognese mit Rindfleisch (Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-02-27",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini-Tomatensoße (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-02-27",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Kürbis-Maronen-Quiche mit Cranberries (Ei,Mi,GlW), Kartoffel- Gemüsepfanne mit Quorn (6,Ei), Grünkohl mit Edamame-Bohnen (2,3,8,So,Sl,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2025-02-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"6": "Geschwärzt",
+			"8": "Phosphat",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Pig": true
 	},
 	{
 		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
@@ -48,7 +81,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Thüringer Bratwurst (8,Sl,Sf), Hausgemachtes Kartoffel-Butterstampf (Mi), geschmortes Apfel-Zwiebel Gemüse, Petersilie",
+		"Name": "Thüringer Bratwurst (8,Sl,Sf), Hausgemachtes Kartoffel-Butterstampf (Mi), geschmortes Apfel-Zwiebel Gemüse (Sl), Petersilie",
 		"Category": "CampusKlassiker",
 		"Date": "2025-02-27",
 		"Additives": {
@@ -63,13 +96,14 @@
 		"Pig": true
 	},
 	{
-		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten-Basilikumsoße, Spaghetti (GlW)",
+		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten-Jalapeñosoße (Sf), Nudeln (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-02-27",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 7.25,
 		"PriceGuest": 11.9,
