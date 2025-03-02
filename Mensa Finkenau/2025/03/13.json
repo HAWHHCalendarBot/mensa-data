@@ -1,0 +1,56 @@
+[
+	{
+		"Name": "Dummy Hauptkomponente",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-13",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Boscaiola mit Pilzen, Bunte Nudeln (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-03-13",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-03-13",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-03-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.25,
+		"PriceStudent": 3.75,
+		"LactoseFree": true,
+		"Pig": true
+	}
+]
