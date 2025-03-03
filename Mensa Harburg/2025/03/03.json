@@ -1,24 +1,35 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "gebackener Broccoli,  Brechbohnen mit Kräutern,  Karotten Pastinakenmix,  Gartengemüse,  Reis",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-03",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchenstreifen Asia scharf (So)",
 		"Category": "Pastabar",
 		"Date": "2025-03-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Schmorkohl (Sl)",
-		"Category": "Gemüsebar",
+		"Name": "Rote Beete-Linsen Ragout (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-03-03",
 		"Additives": {
-			"1": "Farbstoff",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,18 +38,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
+		"Name": "geschmortes Wok-Gemüse in Cremesoße (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-03-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kartoffel-Kürbis-Ragout (Sl)",
