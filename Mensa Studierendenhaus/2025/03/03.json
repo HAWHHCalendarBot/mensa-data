@@ -12,11 +12,10 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Conchiglie (GlW)",
+		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Süßkartoffel Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2025-03-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -26,12 +25,12 @@
 		"Beef": true
 	},
 	{
-		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Schmorkohl (Sl), Süßkartoffel Gnocchi, Blattspinat in Sojarahm (So,GlW)",
+		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Schmorkohl (Sl), Blattspinat in Sojarahm (So), gerösteter Rosenkohl mit Sesampaste (Se), Paprikagemüse mit Zwiebeln und Lauch",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-03",
 		"Additives": {
 			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -110,6 +109,20 @@
 		"PriceStudent": 4.9,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Planted Steak (So), Perlzwiebelsoße (Sl), Cremige Polenta (Mi,Sl)",
+		"Category": "CampusWorld",
+		"Date": "2025-03-03",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.25,
+		"PriceGuest": 8.45,
+		"PriceStudent": 5.95,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
