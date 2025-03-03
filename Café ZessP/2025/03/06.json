@@ -1,20 +1,5 @@
 [
 	{
-		"Name": "Knusprige Kartoffelrösti mit Sour Cream (4,Ei,Mi,Sf), kleiner Salat",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-03-06",
-		"Additives": {
-			"4": "Geschmacksverstärker",
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 4.1,
-		"PriceGuest": 4.8,
-		"PriceStudent": 3.3,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Ruccola Süßkartoffel Taler mit Sour Cream (4,Ei,Mi,Sf,GlW,GlG)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-03-06",
@@ -29,6 +14,21 @@
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.2,
 		"PriceStudent": 3.7,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Quinoa Erbsen Bratling mit Sour Cream (4,Ei,Mi,Sf)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-03-06",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.3,
+		"PriceStudent": 3.8,
 		"Vegetarian": true
 	},
 	{
@@ -79,6 +79,24 @@
 		"Beef": true
 	},
 	{
+		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-03-06",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.2,
+		"PriceStudent": 4.7,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Baked Potato \"Root garden\" mit Senf-Wurzelgemüse, Spinat, Feta, Rote Beete, Sour Cream (3,4,Ei,So,Mi,Sl,Sf,Sw)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-03-06",
@@ -109,38 +127,5 @@
 		"PriceStudent": 5.3,
 		"LactoseFree": true,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Back to the roots, Senf-Wurzelgemüse,Madras-Kürbis,Rote Beete, Ziegenkäse,Birne,Balsamico-Dressing (3,Mi,Sl,Sf,Sw)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-03-06",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.3,
-		"PriceGuest": 7.0,
-		"PriceStudent": 5.5,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Falafel salad, Cajun-Süßkartoffel, Kichererbsen, Rote Beete, Gurken, Minze, Falafel, Sesam-Dressing (So,Sl,Sf,Se,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-03-06",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.45,
-		"PriceGuest": 7.15,
-		"PriceStudent": 5.65,
-		"LactoseFree": true,
-		"Vegan": true
 	}
 ]
