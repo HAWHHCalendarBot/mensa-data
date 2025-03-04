@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-04",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "Pasta alla Norma mit Auberginen-Tomatensoße (Sw), Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-04",
 		"Additives": {
@@ -27,7 +14,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Sesammöhrchen (Se), gebratenem Wirsing, Maiskolben (1), karamellisierte Schwarzwurzeln (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-04",
+		"Additives": {
+			"1": "Farbstoff",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Bratkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2025-03-04",
 		"Additives": {
@@ -57,6 +58,22 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta al forno greco griechischer Nudelauflauf (4,Mi,Sf,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-03-04",
+		"Additives": {
+			"4": "Geschmacksverstärker",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.1,
+		"Poultry": true
 	},
 	{
 		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen, Röstkartoffelwürfel",
