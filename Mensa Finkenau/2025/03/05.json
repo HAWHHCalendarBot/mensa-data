@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-05",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-05",
@@ -19,6 +8,24 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sauerkraut (vegan) (Sl), Fingermöhrchen mit Ingwer und Frühlingslauch, Porree-Tomatengemüse in Rahm (So,GlW), geschmorter Sellerie (Sl,Sw), gebratene Paprika (1,5,Sw), Fenchelgemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -41,7 +48,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putengulasch (Mi,Sl,GlW), Penne (GlW)",
+		"Name": "Putengulasch (Mi,Sl,GlW), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2025-03-05",
 		"Additives": {
@@ -52,6 +59,19 @@
 		"PriceAttendant": 5.45,
 		"PriceGuest": 6.65,
 		"PriceStudent": 4.15,
+		"Poultry": true
+	},
+	{
+		"Name": "gebratene Hähnchenbrust, Bratensoße (Sl), Rosenkohl (Mi), Süßkartoffelpüree (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2025-03-05",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
 		"Poultry": true
 	}
 ]
