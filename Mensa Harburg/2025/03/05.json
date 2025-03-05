@@ -1,12 +1,21 @@
 [
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
+		"Name": "Basmatireis,  Rosenkohl,  Erbsen,  Schwarzwurzeln,  glasiertes Wok-Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-05",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "junge Möhren in Curry-Kokoscreme (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-03-05",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -16,45 +25,44 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-05",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
+	},
+	{
+		"Name": "Pasta Bolognese mit Sonnenblumenhack (1,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-03-05",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo, Bèchamel-Kartoffeln (1,Mi,Sl,GlW), Karotten Pastinakenmix mit frischer Petersilie, Auberginen mit Balsamico Bianco (3,5,Sw), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-05",
-		"Additives": {
-			"1": "Farbstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
+		"Name": "Mexikanischer Eintopf (2,So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-03-05",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
