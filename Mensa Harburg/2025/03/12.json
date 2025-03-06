@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Ratatouille (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-12",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-03-12",
 		"Additives": {
@@ -13,21 +26,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Grünkohl (Sl,Sf), Prinzessbohnen, rote Beete Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-12",
-		"Additives": {
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-03-12",
 		"Additives": {
@@ -56,12 +55,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Currybratwurst (Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Name": "vegane Currybratwurst (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-03-12",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -72,7 +72,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kasseler Rückenbraten (2,3), Rahmsauerkraut (Mi,Sl), Petersilienkartoffeln",
+		"Name": "Kasseler Rückenbraten (2,3)",
 		"Category": "CampusSpezial",
 		"Date": "2025-03-12",
 		"Additives": {
