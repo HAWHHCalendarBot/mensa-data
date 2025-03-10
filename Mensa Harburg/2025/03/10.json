@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "Wirsingpfanne in veganem Rahm (So)",
+		"Category": "Gemüsebar",
 		"Date": "2025-03-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,13 +13,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Geschmorter Sellerie (Sl,Sw), gebratenem Wirsing, Blumenkohl mit gebräunten Bröseln (1,GlW), Nusskartoffeln",
+		"Name": "Zucchini in Tomatencremesoße (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-03-10",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Anti Pasti Gemüse (1,3,5,Sw),  Broccoli,  Rosenkohl,  Erbsen (1),  Nusskartoffeln,  Schwarzwurzeln,  Karotten Pastinakenmix mit frischer Petersilie",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-10",
 		"Additives": {
 			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -29,7 +43,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Name": "Arcobaleno mit Schinken in Paprikacreme (2,3,8,Mi,Sl,Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-10",
 		"Additives": {
@@ -45,21 +59,6 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Pig": true
-	},
-	{
-		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,GlW)",
-		"Category": "Pottkieker",
-		"Date": "2025-03-10",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.7,
-		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Dill-Quark (Mi), rote Beete Tomatensoße",
