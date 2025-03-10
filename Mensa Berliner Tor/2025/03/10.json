@@ -1,27 +1,9 @@
 [
 	{
-		"Name": "Aglio e olio mit Tomate und Knoblauch, Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-03-10",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Geschmorter Sellerie (Sl,Sw), gebratenem Wirsing, Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Nusskartoffeln",
+		"Name": "Geschmorte Champignon, Prinzessbohnen, Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-10",
-		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -29,22 +11,32 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Arcobaleno mit Schinken und Käse (2,3,8,Mi,Sl,Sw), Fusilli (GlW)",
+		"Name": "Pasta Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-10",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Pig": true
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta con Crema di funghi mit Champignons in Cremesoße (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-03-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
