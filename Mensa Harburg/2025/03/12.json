@@ -1,9 +1,23 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Prinzessbohnen",
+		"Name": "Zucchine e Pomodoro mit Tomaten, Lauch und Zucchini,  Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-03-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Prinzessbohnen,  gebackenes Maisgemüse (1),  Schnittbohnen (Sl),  Rosenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-12",
 		"Additives": {
+			"1": "Farbstoff",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -13,31 +27,49 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-12",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Steckrübengemüse in Sojarahm (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-12",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Carbonara mit Gemüsestreifen und Sojacreme (So,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-03-12",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
