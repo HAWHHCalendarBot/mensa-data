@@ -13,14 +13,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
+		"Name": "Bolognese von Sonnenblumenhack (1,So,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2025-03-13",
+		"Additives": {
+			"1": "Farbstoff",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pikantes Wurstgulasch in Paprikacreme (2,3,4,8,Sl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2025-03-13",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
 			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -29,21 +47,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-03-13",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
-	},
-	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Name": "Türkische Bulgur-Linsensuppe (Sl,GlW), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-03-13",
 		"Additives": {
@@ -57,7 +61,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), bunter Kartoffelsalat (2,Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-03-13",
 		"Additives": {
