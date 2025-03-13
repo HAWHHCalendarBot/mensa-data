@@ -1,19 +1,48 @@
 [
 	{
-		"Name": "Karotten Pastinakenmix mit frischer Petersilie, Rosenkohl (Mi), Spitzkohl in Rahm (So), Petersilienkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Scharfes veganes Wurstgulasch (Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-03-13",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Bolognese von Sonnenblumenhack (1,So,Sl,Sf)",
+		"Name": "gebratene Champignons,  Broccoli,  Erbsen,  Prinzessbohnen,  Zartweizen mit roter Beete (9,GlW),  Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-13",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8)",
+		"Category": "Pastabar",
+		"Date": "2025-03-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Sonnenblumencurry mit Blattspinat (1,So,Sl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2025-03-13",
 		"Additives": {
@@ -27,24 +56,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Pikantes Wurstgulasch in Paprikacreme (2,3,4,8,Sl,Sf)",
-		"Category": "Pastabar",
-		"Date": "2025-03-13",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"8": "Phosphat",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Pig": true
 	},
 	{
 		"Name": "Türkische Bulgur-Linsensuppe (Sl,GlW), Baguette (GlW)",

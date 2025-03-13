@@ -1,18 +1,7 @@
 [
 	{
-		"Name": "Penne (GlW)",
+		"Name": "Bratkartoffeln",
 		"Category": "Pastabar",
-		"Date": "2025-03-13",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Süßkartoffeln, Zucchini",
-		"Category": "Gemüsebar",
 		"Date": "2025-03-13",
 		"Additives": {},
 		"PriceAttendant": 1.1,
@@ -33,6 +22,21 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Süßkartoffeln, Zucchini, Karotten mit Kerbel, Chili Cheeze Nugget (1,2,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-13",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
