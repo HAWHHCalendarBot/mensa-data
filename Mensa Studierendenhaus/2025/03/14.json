@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "glasierte rote Beete, Steckrübengemüse in Sojarahm (So,Sl), Broccoli, gebratene Karotten",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-14",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-14",
@@ -13,20 +27,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "glasierte rote Beete, Steckrübengemüse in Rahm (Mi,Sl,GlW), Broccoli, gebratene Karotten, Kräuterkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-14",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Eliche (GlW)",
@@ -53,6 +53,20 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Makkaroni-Tomatenauflauf (Ei,Mi,GlW), Tomatenbasilikumsoße",
+		"Category": "CampusVital",
+		"Date": "2025-03-14",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.6,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.3,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Bärlauchsoße (Mi,GlW,GlG), mediterrane Salatbeilage (3)",
@@ -88,20 +102,6 @@
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Makkaroni-Tomatenauflauf (Ei,Mi,GlW), Tomatenbasilikumsoße",
-		"Category": "CampusVital",
-		"Date": "2025-03-14",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 311.3,
-		"PriceGuest": 312.5,
-		"PriceStudent": 310.0,
 		"Vegetarian": true
 	}
 ]
