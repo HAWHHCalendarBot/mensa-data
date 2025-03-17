@@ -1,17 +1,20 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
+		"Name": "Blumenkohl, gebratene Zucchini, Kohlrabi-Karotten Gemüse (Mi), Broccoli (Mi), Gebackene Kartoffeldonuts mit kleinem Salat (Sf,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-17",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-17",
 		"Additives": {
