@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Erbsen-Mais Gemüse (Mi), Broccoli, Romanesco (Sl), glasiertes Wurzelgemüse (Mi,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-17",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2025-03-17",
@@ -66,7 +79,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Leberkäs Burger mit Krautsalat, süßem Senf und Röstzwiebeln im Laugenbrötchen (2,3,5,8,Mi,Sf,Se,Sw,GlW), Pommes Frites (Sf)",
+		"Name": "Leberkäse mit Krautsalat, süßem Senf und Salzkartoffel (2,3,5,8,Sf,Sw,GlW), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2025-03-17",
 		"Additives": {
@@ -75,14 +88,13 @@
 			"5": "Geschwefelt",
 			"8": "Phosphat",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.0,
 		"PriceGuest": 11.4,
 		"PriceStudent": 5.7,
+		"LactoseFree": true,
 		"Pig": true
 	}
 ]

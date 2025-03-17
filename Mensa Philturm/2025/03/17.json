@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Kräuterkartoffeln, Curry-Wirsing, Süßkartoffeln, gebackene Aubergine (Sw,GlW), gebratene Karotten, gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-17",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,20 +14,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta mit Brokkoli in Gorgonzolarahm (Mi,GlW,GlG)",
+		"Name": "Pasta mit Spinat in Sahnesauce (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-03-17",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Heute am St. Patrick´s Day \"Bacon &amp; Cabbage\", Kasseler Rückenbraten (2,3), Petersiliensoße (Mi,GlW,GlG), gebratenem Wirsing, Salzkartoffeln",
+		"Name": "Gemüseragout in Kokos-Sojarahm (2,So,Sl,GlW), Basmatireis",
+		"Category": "Pottkieker",
+		"Date": "2025-03-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Heute am St. Patrick´s Day \"Bacon &amp; Cabbage\", Kasseler Rückenbraten (2,3), Petersiliensoße (Mi,GlW,GlG), gebratenem Wirsing (Sl), Salzkartoffeln",
 		"Category": "Highlight",
 		"Date": "2025-03-17",
 		"Additives": {
@@ -32,7 +52,8 @@
 			"3": "Antioxidationsmittel",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.4,
 		"PriceGuest": 7.6,
