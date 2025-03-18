@@ -1,24 +1,11 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-03-18",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "Broccoli,  Glacierte Pastinaken,  Schwarzwurzeln,  Zartweizen mit Gemüse (Sl,GlW),  gebratene Champignons",
+		"Category": "Gemüsebar",
 		"Date": "2025-03-18",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,12 +14,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,So,GlW), Gartengemüse",
-		"Category": "Gemüsebar",
+		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-03-18",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-03-18",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -42,10 +41,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
+		"Name": "Zucchini mit Oliven und Paprika, Kokossoße (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-03-18",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Süßkartoffel-Linsenpüree mit Spinat (3,NMa), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-03-18",
-		"Additives": {},
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
