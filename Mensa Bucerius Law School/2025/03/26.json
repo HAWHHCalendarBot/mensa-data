@@ -16,22 +16,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-03-26",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
 		"Name": "Weiße Bohnen mediterraneo, Bèchamel-Kartoffeln (1,Mi,Sl,GlW), Karotten Pastinakenmix mit frischer Petersilie, Auberginen mit Balsamico Bianco (3,5,Sw), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-26",
@@ -41,7 +25,6 @@
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -67,21 +50,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "scharfe Kokos-Limonen-Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
+		"Name": "Spaghetti (GlW), Bolognese (Sl), Hartkäse gerieben (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-03-26",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"Beef": true
+	},
+	{
+		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und Limetten-Senf-Dressing (3,Sf,NMa)",
 		"Category": "CampusVital",
 		"Date": "2025-03-26",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
+		"PriceAttendant": 5.65,
+		"PriceGuest": 6.85,
+		"PriceStudent": 4.35,
 		"LactoseFree": true,
 		"Vegan": true
 	}
