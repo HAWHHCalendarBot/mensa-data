@@ -11,19 +11,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-03-20",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Thüringer Bratwurst (8,Sl,Sf), Hausgemachtes Kartoffel-Butterstampf (Mi), geschmortes Apfel-Zwiebel Gemüse, Petersilie",
 		"Category": "CampusKlassiker",
 		"Date": "2025-03-20",
@@ -36,6 +23,20 @@
 		"PriceAttendant": 5.8,
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.5,
+		"Pig": true
+	},
+	{
+		"Name": "Kasseler Rückenbraten (2,3), Hausgemachtes Kartoffel-Butterstampf (Mi), geschmortes Apfel-Zwiebel Gemüse, Petersilie",
+		"Category": "CampusKlassiker",
+		"Date": "2025-03-20",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
 		"Pig": true
 	},
 	{
