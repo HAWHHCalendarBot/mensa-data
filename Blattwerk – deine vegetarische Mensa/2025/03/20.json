@@ -1,17 +1,18 @@
 [
 	{
-		"Name": "Crema di funghi mit Champignons in Cremesoße (Mi,Sl), Pasta (GlW)",
+		"Name": "Crema di funghi mit Champignons in Cremesoße (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-20",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pasta al forno greco griechischer Nudelauflauf mit creme Fraiche, Spinat und Hirtenkäse (Ei,Mi,GlW)",
@@ -44,7 +45,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), Verdure e pomodoro  Tomatensoße mit Gemüse, Kapern und Rucola",
+		"Name": "Pasta (GlW), Verdure e pomodoro  Tomatensoße mit Gemüse, Kapern und Rucola",
 		"Category": "CampusWorld",
 		"Date": "2025-03-20",
 		"Additives": {
@@ -53,6 +54,22 @@
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Couscoussalat mit veganem Hackbällchen, Sesamkarotten und Dattel-Zitronenhummus (So,Se,GlW,GlG)",
+		"Category": "CampusWorld",
+		"Date": "2025-03-20",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.4,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.1,
 		"LactoseFree": true,
 		"Vegan": true
 	},
