@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
+		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-03-21",
-		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
@@ -13,11 +11,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "4 Röstiecken, Kräuterquark (Mi), Gurkensalat (Mi)",
+		"Name": "4 Röstiecken, Kräuterquark (Mi), Bohnensalat (3,5,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-03-21",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.6,
 		"PriceGuest": 5.8,
@@ -25,23 +26,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Grünkern-Käse-Medaillons (Ei,So,Mi,Se,GlW,GlD), Schnittlauch-Dip (Mi), Blechkartoffeln, Blattsalat mit Karotte (3,5,Sw)",
+		"Name": "Chili sin carne (So,Sl), Reis, Salat mit Italian Dressing (Sf,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2025-03-21",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.35,
-		"PriceGuest": 7.55,
-		"PriceStudent": 5.05,
-		"Vegetarian": true
+		"PriceAttendant": 4.75,
+		"PriceGuest": 5.95,
+		"PriceStudent": 3.45,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
