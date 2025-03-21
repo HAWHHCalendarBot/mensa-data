@@ -1,23 +1,13 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-21",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
+		"Name": "Verdure e pesto mit Pfannengemüse, Pesto und Chili-Croutons (2,Mi,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2025-03-21",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -25,7 +15,26 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
+		"Name": "Rosenkohl (Mi), Blumenkohl in Rahm (Mi,GlW,GlG), gebratenem Wirsing, Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-21",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Erbsensuppe mit Topping (Sl), 3xKürbis-Falafel",
 		"Category": "Pottkieker",
 		"Date": "2025-03-21",
 		"Additives": {
@@ -36,6 +45,20 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,GlW), Tomatensoße",
+		"Category": "CampusKlassiker",
+		"Date": "2025-03-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.15,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.85,
+		"Beef": true
 	},
 	{
 		"Name": "veganer Grillteller (2,So,GlW,GlG), Ajvar Dip (3,So,Sf), Reis, Weißkrautsalat (3,5,Sw)",
