@@ -1,9 +1,23 @@
 [
 	{
-		"Name": "Blumenkohl, Pastinaken natur, Steckrüben mit Gemüse pikant (Sl,Sw), Reis",
+		"Name": "Wirsingpfanne mit Kichererbsen, Gemüse und Zartweizen (So), Salzkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2025-03-21",
 		"Additives": {
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl, Pastinaken natur, Steckrüben mit Gemüse pikant (Sl,Sw), Pasta nach Wahl (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-21",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -14,43 +28,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wok-Ragoutgemüse asiatischer Style (Sl), Pasta nach Wahl (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-03-21",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Cremespinat (So,Sl), Pasta nach Wahl (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-03-21",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Kartoffelgratin mit Käse überbacken (Mi,Sl,GlW,GlG)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini,Walnüssen, getrocknete Tomaten und Waldpilzen (So,Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2025-03-21",
 		"Additives": {
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
