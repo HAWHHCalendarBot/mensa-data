@@ -1,0 +1,88 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-01",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-01",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW), Conchiglie (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-01",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.25,
+		"PriceGuest": 5.45,
+		"PriceStudent": 2.95,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Red Curry Dim Sum mit Pak Choi, Bohnen und Kokosbrühe (3,En,Sl,GlW), Sesamrotkohl (5,En,Se,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2025-04-01",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.95,
+		"PriceGuest": 7.15,
+		"PriceStudent": 4.65,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Ei,Mi,Sl,Sf,Sw,GlW), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2025-04-01",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.3,
+		"PriceGuest": 8.5,
+		"PriceStudent": 6.0,
+		"Alcohol": true,
+		"Beef": true,
+		"Pig": true
+	}
+]
