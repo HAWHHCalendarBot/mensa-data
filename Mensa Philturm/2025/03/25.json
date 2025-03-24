@@ -25,12 +25,29 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen, Röstkartoffelwürfel",
+		"Name": "Grünkern-Cilli mit Süßkartoffeln,Mais,Kidneybohnen (Sl,GlD), Basmatireis",
+		"Category": "Pottkieker",
+		"Date": "2025-03-25",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen (3,5,Sw), Röstkartoffelwürfel",
 		"Category": "CampusKlassiker",
 		"Date": "2025-03-25",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Fi": "Fisch und Fischerzeugnisse"
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.25,
 		"PriceGuest": 6.45,
@@ -39,7 +56,7 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Beete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Dip (2,3,So,Sf)",
+		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Beete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Hummus (2,3,So,Se)",
 		"Category": "CampusVital",
 		"Date": "2025-03-25",
 		"Additives": {
@@ -49,7 +66,6 @@
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"

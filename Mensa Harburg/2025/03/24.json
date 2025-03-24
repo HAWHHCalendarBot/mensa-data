@@ -13,20 +13,6 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Süßkartoffel Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-24",
-		"Additives": {
-			"1": "Farbstoff",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "veganes Gyros in cremiger Knoblauchsoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-03-24",
@@ -39,6 +25,20 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gartengemüse,  Blumenkohl-Käse-Bratling (Ei,Mi,GlW),  Beilagen wechselnd, Ofenkartoffeln, Röstiecken",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-24",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Lenticchie mit Linsen und Kartoffeln (So,Sl), Pasta nach Wahl (GlW)",
@@ -56,7 +56,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Auberginen-Tomaten-Ragout (2,9,So,Sl,GlW)",
+		"Name": "Hausgemachte Rindfleischlasagne (So,Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-03-24",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
+	},
+	{
+		"Name": "Tofuragout in Kurkumasoße (2,9,So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-24",
 		"Additives": {
