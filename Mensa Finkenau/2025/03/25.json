@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-25",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-25",
@@ -23,6 +12,20 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Blumenkohl in Rahm (Mi,GlW,GlG), gebackene Aubergine (Sw,GlW), Rosenkohl (Mi), gebratenem Wirsing",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-25",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
 	},
 	{
 		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
