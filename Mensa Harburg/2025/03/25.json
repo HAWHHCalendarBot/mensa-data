@@ -1,10 +1,52 @@
 [
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "Curry-Wirsingpfanne in veganem Rahm (So)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-25",
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blattspinat in Rahm (So,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-25",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Karotten in Estragonsoße (So,Sl),  Fenchelgemüse (Sl),  Broccoli,  Bauernkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-25",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kichererbsenragout mit Kokos und Tomaten (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-03-25",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -14,44 +56,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Putenbruststreifen in Orangensoße (1,2,5,9,Sf,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-03-25",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Beef": true
-	},
-	{
-		"Name": "Sesammöhrchen (Se), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), gebratenem Wirsing, Bauernkartoffeln mit gebräunten Bröseln (Mi,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-25",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Name": "Chili con Corn (Sl,GlD), Couscous (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-03-25",
 		"Additives": {
 			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
@@ -61,13 +90,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Ei,En,So,Sl,Sf,Se,GlW)",
+		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (1,2,3,9,Ei,En,So,Sl,Sf,Se,GlW), Krautsalat (3,5,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2025-03-25",
 		"Additives": {
 			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
 			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
 			"En": "Erdnüsse und Erdnusserzeugnisse",
@@ -75,7 +105,8 @@
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.9,
 		"PriceGuest": 6.1,
