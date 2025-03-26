@@ -1,16 +1,99 @@
 [
 	{
-		"Name": "Rotes Gemüsecurry mit Bohnen, Erbsen und Pak Choi (2,So,GlW), Reis",
-		"Category": "Pottkieker",
+		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), Penne (GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-03-31",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Maisgemüse (1), Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl), Blumenkohl mit gebräunten Bröseln (1,GlW), Nusskartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-31",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
+		"Category": "Pastabar",
+		"Date": "2025-03-31",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spaghetti in Basilikum Knoblauchsoße mit Melanzane Bällchen (1,3,5,Mi,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2025-03-31",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.15,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spinat Frischkäse Maultaschen (Ei,Mi,GlW), Baby Spinatsalat (Sf), hausgemachtes frisches Bärlauch- Pesto (Mi,NMa)",
+		"Category": "CampusVital",
+		"Date": "2025-03-31",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.35,
+		"PriceGuest": 7.55,
+		"PriceStudent": 5.05,
+		"Vegetarian": true
+	},
+	{
+		"Name": "veganes Sandwich Banh Mi mit Gemüse und kleinem Salat (1,2,So,Sf,Se,GlW,GlG,GlH)",
+		"Category": "CampusSpezial",
+		"Date": "2025-03-31",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.7,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 6.95,
+		"PriceGuest": 8.15,
+		"PriceStudent": 5.65,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	}
