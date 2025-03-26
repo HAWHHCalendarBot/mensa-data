@@ -1,23 +1,26 @@
 [
 	{
-		"Name": "Gemüse des Tages",
-		"Category": "Gemüsebar",
-		"Date": "2025-03-26",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pasta mit Grünkern-Bolognese (Sl,GlW,GlD)",
+		"Name": "Pasta mit Brokkoli in Gorgonzolarahm (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-26",
 		"Additives": {
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Kräuterkartoffeln, Süßkartoffeln, gebratene Karotten, Chili Weißkohl (Sl), Wokgemüse mit Sojasoße (2,So,GlW), grüne Bohnen mit Knoblauch und Ingwer",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-26",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -61,6 +64,24 @@
 		"PriceStudent": 5.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "in Seamöl gebratenes Seelachsfilet (Fi,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
+		"Category": "CampusSpezial",
+		"Date": "2025-03-26",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Fish": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Udon Nudeln mit geschmortem Rindfleisch Edamame,Mu Err,Koriander (2,So,Sl,Se,GlW)",
