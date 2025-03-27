@@ -1,11 +1,20 @@
 [
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
+		"Name": "Pasta Gorgonzola mit Spinat (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-03-27",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "gerösteter Broccoli,  Prinzessbohnen,  Blumenkohl,  Alte Gemüse: Pastinake, Sellerie, Karotte, Topinambur (Sl),  Fenchelgemüse mit Karotten (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-03-27",
+		"Additives": {
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -15,32 +24,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), bunte Fusilli (GlW)",
+		"Name": "Hackpfanne (Rind und Schwein) mit Paprika und Lauch (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-03-27",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Poultry": true
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Spätzle (Ei,Mi,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Lenticchie mit Linsen und Süßkartoffeln (So,Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-03-27",
 		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kürbis Spinat Stew (3,Sl), Reis",
