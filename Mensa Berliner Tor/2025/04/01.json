@@ -45,6 +45,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Penne Rigate (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-01",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
 		"Name": "Indisches Linsencurry (Sf,GlW), Couscous (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-04-01",
@@ -108,26 +124,17 @@
 		"Beef": true
 	},
 	{
-		"Name": "Spicy Chicken Burger mit Erdnüssen (1,2,3,9,Ei,En,So,Sf,GlW,GlG,GlH), Pommes Frites (Sf)",
+		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Salzkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-01",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4,
-		"LactoseFree": true,
-		"Poultry": true
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"Beef": true
 	}
 ]
