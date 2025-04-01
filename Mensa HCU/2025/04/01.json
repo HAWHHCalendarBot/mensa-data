@@ -1,17 +1,33 @@
 [
 	{
-		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (GlW)",
+		"Name": "Chili con Carne (2), Vollkorn Fussili (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-01",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Frikadelle (Ei,GlW), Blattspinat mit Hirtenkäse (Mi), Gemüsereis (Sl), Fingermöhrchen (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-01",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Poultry": true
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Indisches Linsencurry (Sf,GlW), Couscous (GlW)",

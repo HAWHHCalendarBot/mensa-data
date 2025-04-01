@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (GlW)",
+		"Name": "Pollo al pomodoro mit Hähnchenstreifen in Tomatensoße (Sl), Süßkartoffelwürfel gebacken",
 		"Category": "Pastabar",
 		"Date": "2025-04-01",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -14,10 +13,11 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Süßkartoffelwürfel gebacken, gerösteter Broccoli, frisches Gemüse aus dem Wok (2,Sw), Cajun Gemüse (Sl)",
+		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), frisches Gemüse aus dem Wok (2,Sw), gerösteter Broccoli, Cajun Gemüse (Sl), Mais (1)",
 		"Category": "Gemüsebar",
 		"Date": "2025-04-01",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"6": "Geschwärzt",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -59,6 +59,39 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Wir kochen was Sie lieben..., Boston Baked Beans (9,Sf), Maisbrot (Ei,Mi,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-01",
+		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.05,
+		"PriceGuest": 6.25,
+		"PriceStudent": 3.75,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Wurstgulasch (2,3,8,Mi), Farfalle (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-01",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Red Curry Dim Sum mit Pak Choi, Bohnen und Kokosbrühe (3,En,Sl,GlW), Sesamrotkohl (5,En,Se,Sw)",
