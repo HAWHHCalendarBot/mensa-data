@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), rote Beete Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2025-04-02",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
@@ -27,13 +26,15 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Name": "frisches Gemüse aus dem Wok (2,Sw), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6)",
 		"Category": "Gemüsebar",
 		"Date": "2025-04-02",
 		"Additives": {
 			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
 			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -103,6 +104,23 @@
 		"PriceStudent": 3.9,
 		"Alcohol": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Wurstgulasch (2,3,8,Mi), Farfalle (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-02",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Wildlachsfilet mit Kurkuma und Teriyaki Soße (Fi,So,GlW), Gemüsesalat süß sauer (2,3,Fi,So,GlW), vegane Mi-Nudeln (So,GlW)",
