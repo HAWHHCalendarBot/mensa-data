@@ -11,17 +11,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Boscaiola mit Pilzen, Bunte Nudeln (GlW)",
+		"Name": "hausgemachtes Rucola Pesto (Mi,NMa), Bunte Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -56,7 +57,7 @@
 	},
 	{
 		"Name": "Roasted Sesam Tempeh (2,So,Sf,Se,Lu,GlW), bunter Sesam Glasnudel Salat (2,So,Se,GlW)",
-		"Category": "CampusVital",
+		"Category": "Highlight",
 		"Date": "2025-04-03",
 		"Additives": {
 			"2": "Konservierungsstoff",
