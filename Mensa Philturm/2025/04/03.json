@@ -25,19 +25,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Thüringer Bratwurst (8,Sl,Sf), Süßer Senf (Sf), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
+		"Name": "Wildlachsfilet gebraten (Fi), Bayrischer Kartoffelsalat mit Gurken (2,Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-03",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"8": "Phosphat",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 4.85,
-		"PriceGuest": 6.05,
-		"PriceStudent": 3.55,
-		"LactoseFree": true,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"Fish": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Schweinenackenbraten, Bratensoße (Mi,Sl), Apfelrotkohl (3,5,Sw), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2025-04-03",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
 		"Pig": true
 	},
 	{
