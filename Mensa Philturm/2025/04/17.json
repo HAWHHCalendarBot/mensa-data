@@ -1,0 +1,90 @@
+[
+	{
+		"Name": "Gemüse des Tages",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-17",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta des Tages (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-17",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spaghetti (GlW), Bolognese (Sl), Hartkäse gerieben (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-17",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"Beef": true
+	},
+	{
+		"Name": "Blumenkohlbratling (Ei,Mi,GlW), Buttererbsen (Mi), Salzkartoffeln, Kräutersoße (Mi,GlW,GlG)",
+		"Category": "CampusSpezial",
+		"Date": "2025-04-17",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.35,
+		"PriceGuest": 6.55,
+		"PriceStudent": 4.05,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gebackener Panko - Tofu (2,So,GlW), Sprossengemüse (2,So,Se,GlW), Spicy Pepper Sauce (Ei,Mi), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2025-04-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kross gebackenes Panko-Chicken (3,GlW), Sprossengemüse (2,So,Se,GlW), Spicy Pepper Sauce (Ei,Mi), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2025-04-17",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.7,
+		"PriceGuest": 8.9,
+		"PriceStudent": 6.4,
+		"Poultry": true
+	}
+]
