@@ -12,7 +12,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Carbonara vegetariana (Ei,Mi,GlW,GlG), Fusilli (GlW)",
+		"Name": "Carbonara vegetariana (Ei,Mi,GlW,GlG), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-07",
 		"Additives": {
@@ -27,21 +27,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Fusilli (GlW)",
+		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten, Kapern und Pinienkerne (2,5,Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-07",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Colcannon, Irisches Kartoffelgericht, kandierte Cashewkerne und Frisee (1,2,So,GlW,NCa), gebratene Karotten",
@@ -61,20 +60,38 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
+		"Name": "Kartoffelsalat mit Milchschnitzel und Senfcreme (2,Ei,Mi,Sf,GlW,GlH)",
 		"Category": "CampusWorld",
 		"Date": "2025-04-07",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.4,
+		"PriceAttendant": 5.4,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Veganer Sloppy Joes Burger mit gebratenen Sojahack, gepickelten Zwiebeln und Gewürzgurke (1,2,3,9,So,Sf,GlW), Cole Slaw mit Sojamajo (So,Sf), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2025-04-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Vegan": true
 	},

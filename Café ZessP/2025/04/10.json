@@ -30,16 +30,15 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Baked Potato \"Green Garden\" mit Karotte, Gurke, Rote Beete, Blattsalat, Sour Cream (3,4,Ei,So,Mi,Sf)",
+		"Name": "Rote Beete Bratling mit Sour Cream (4,Ei,Mi,Sf,GlW), kleiner Salat",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-04-10",
 		"Additives": {
-			"3": "Antioxidationsmittel",
 			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 4.75,
 		"PriceGuest": 5.45,
@@ -47,17 +46,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Arrabbiata Soße (GlW)",
+		"Name": "Bolognese Soße (Sl,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-04-10",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.0,
 		"PriceGuest": 5.7,
 		"PriceStudent": 4.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Alcohol": true,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Pesto Rosso (Mi,GlW,NCa), Bolognese (Sl)",
@@ -73,38 +74,6 @@
 		"PriceGuest": 5.7,
 		"PriceStudent": 4.2,
 		"Beef": true
-	},
-	{
-		"Name": "Baked Potato \"Italian\" Grillgemüse, Feta, Rucola, Sonnenblumenkerne, Sour Cream (3,4,Ei,So,Mi,Sf,Sw)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-04-10",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"4": "Geschmacksverstärker",
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.75,
-		"PriceGuest": 6.45,
-		"PriceStudent": 4.95
-	},
-	{
-		"Name": "Grilled veggie Salat, gegrilltes Gemüse, Mozzarella,Karotten,Tomaten,Tomaten - Rosmarin Dressing (2,Mi,Sw,NCa)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-04-10",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 6.9,
-		"PriceStudent": 5.4,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Rustico Pecorino &amp; Fico (2,Ei,Mi,Sf,GlW)",
@@ -133,6 +102,43 @@
 		"PriceAttendant": 6.55,
 		"PriceGuest": 7.25,
 		"PriceStudent": 5.75,
+		"Poultry": true
+	},
+	{
+		"Name": "Green Bowl mit Prinzeßbohnen, rote Beete, Avocado, frischem Blattspinat, Erdnuss-Dressing (2,3,En,So,GlW)",
+		"Category": "Highlight",
+		"Date": "2025-04-10",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.4,
+		"PriceStudent": 5.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hello Chicken Bowl, Hähnchenbrust, Mango, Ananas, Zucchini, Avocado, Reis, Mandarinen Dressing (1,2,3,9,Ei,So,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-04-10",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.7,
+		"PriceGuest": 8.4,
+		"PriceStudent": 6.9,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
