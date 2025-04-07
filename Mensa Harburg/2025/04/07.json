@@ -1,46 +1,45 @@
 [
 	{
-		"Name": "Contadino mit Schweinefleisch und Zucchini (Sl), Gnocchi",
-		"Category": "Pastabar",
+		"Name": "Karotten Pastinakenmix mit Bärlauch in Sojarahm (So),  Erbsen,  Maisgemüse (1),  Blumenkohl",
+		"Category": "Gemüsebar",
 		"Date": "2025-04-07",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Kohlrabi-Bärlauch Gemüse (Mi), Orientalisches Linsengemüse (Sl)",
-		"Category": "Gemüsebar",
+		"Name": "Lenticchie mit Linsen in Tomaten-Kokossoße (So,Sl), Gnocchi",
+		"Category": "Pastabar",
 		"Date": "2025-04-07",
 		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nerone mit Schweinefleisch und Gemüse (Mi,Sl),  Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-07",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Gnocchi",
-		"Category": "Pastabar",
-		"Date": "2025-04-07",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
 		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
@@ -58,17 +57,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG), Baguette (GlW)",
+		"Name": "Spanischer Linseneintopf mit veganer Wursteinlage (3,5,Sl,Sf,Sw), Baguette (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-04-07",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.35,
@@ -78,7 +75,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Hollandaise (Ei,Mi,Sl,Sw), Erbsen, Kroketten (GlW)",
+		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Sc. Bernaise (Ei,Mi,Sl,Sw), Erbsen, Kroketten (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-07",
 		"Additives": {
