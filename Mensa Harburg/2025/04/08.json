@@ -1,24 +1,24 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Pollo in Käsesoße (Mi),  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-08",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "mediterranes Gemüseragout (6), gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2025-04-08",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"6": "Geschwärzt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,12 +27,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
+		"Name": "veganes Wurstgulasch mit Gemüse (So,Sl), Rosmarinkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2025-04-08",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl), bunte Zartweizenpfanne (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-08",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
