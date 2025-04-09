@@ -1,17 +1,16 @@
 [
 	{
-		"Name": "Bolognese mit Rindfleisch (Sl), Maccaroni (GlW)",
+		"Name": "Pollo all'Arrabbiata, Maccaroni (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-09",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), gebratene Karotten",
@@ -106,6 +105,21 @@
 		"PriceGuest": 6.9,
 		"PriceStudent": 4.4,
 		"Fish": true
+	},
+	{
+		"Name": "Hähnchen Crossies (GlW), Pommes Frites mit Chili Cheese Dip (2,Mi,Sf)",
+		"Category": "CampusVital",
+		"Date": "2025-04-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Poultry": true
 	},
 	{
 		"Name": "Putensteak, Kräuterdip (Mi), Broccoli, gebratene Drillinge (1)",
