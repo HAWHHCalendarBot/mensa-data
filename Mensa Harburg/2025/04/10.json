@@ -1,9 +1,23 @@
 [
 	{
-		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Reis",
+		"Name": "Maisgemüse (1),  Broccoli",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-10",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pomodoro Melanzane di Pollo Tomatensoße mit Aubergine und Hähnchen (Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-10",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -11,6 +25,21 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Rosenkohl in Sojarahm (So,Sl,GlW), Salzkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2025-04-10",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Noci di zucchine mit Zucchini-Walnusssoße (Mi,GlW,GlG,NWa)",
@@ -57,19 +86,6 @@
 		"PriceGuest": 5.45,
 		"PriceStudent": 2.95,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Belgische Pommes, veganes Kebab, Kräuterdip (Sf), gepickelte rote Zwiebel und Frühlingslauch (Sf)",
-		"Category": "CampusSpezial",
-		"Date": "2025-04-10",
-		"Additives": {
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 6.4,
-		"PriceGuest": 7.6,
-		"PriceStudent": 5.1,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Belgische Pommes, veganes Kebab, Kräuterdip (Sf), gepickelte rote Zwiebel und Frühlingslauch (Sf)",
