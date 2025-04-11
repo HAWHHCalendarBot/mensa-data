@@ -1,5 +1,17 @@
 [
 	{
+		"Name": "Pasta con Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-16",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
+	},
+	{
 		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
 		"Category": "Pastabar",
 		"Date": "2025-04-16",
@@ -64,20 +76,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tagliatelle (GlW), Bärlauchsoße (Mi,GlW,GlG), Rucola mit Tomatenwürfeln",
-		"Category": "CampusWorld",
-		"Date": "2025-04-16",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Putengulasch (Mi,Sl,GlW), Penne (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-16",
@@ -135,5 +133,24 @@
 		"PriceGuest": 7.1,
 		"PriceStudent": 4.6,
 		"Poultry": true
+	},
+	{
+		"Name": "All in one pot: Vollkornreis, Tandoori Soja, Avocado, Linsen, Cranberries, Chia (1,2,3,So,Mi,Sl,Sf,GlW)",
+		"Category": "CampusVital",
+		"Date": "2025-04-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Vegetarian": true
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Vollkorn Penne (GlW)",
+		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-11",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di pesto mit Gemüse und Pestocreme (Mi,Sl,GlW,GlG,NCa), Vollkorn Penne (GlW)",
+		"Name": "Crema di pesto mit Gemüse und Pestocreme (Mi,Sl,GlW,GlG,NCa), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-11",
 		"Additives": {
@@ -29,13 +29,28 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Vollkorn Gemüsebratling auf buntem Couscous (3,5,Ei,Sl,Sw,GlW), Joghurt-Limetten-Dip (3,Mi)",
+		"Name": "Reissalat mit Falafel und Paprika-Walnussdip (Sl,Sw,GlW,NWa)",
+		"Category": "CampusWorld",
+		"Date": "2025-04-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vollkorn rote Beete Sticks  auf buntem Couscous (3,5,Mi,Sl,Sw,GlW), Joghurt-Limetten-Dip (3,Mi)",
 		"Category": "CampusVital",
 		"Date": "2025-04-11",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -47,11 +62,30 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganer Crispy Caesar Burger (3,Sf,GlW,GlG), Pommes Frites (Sf)",
+		"Name": "Grünes Wokgemüse in Kokossoße (2,So,GlW), Mi-Nudeln (Ei,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-11",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Veganer Crispy Caesar Burger (1,3,9,Ei,Sf,GlW,GlG), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2025-04-11",
+		"Additives": {
+			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse"
@@ -60,6 +94,6 @@
 		"PriceGuest": 7.5,
 		"PriceStudent": 5.0,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]

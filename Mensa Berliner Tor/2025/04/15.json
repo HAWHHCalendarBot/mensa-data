@@ -27,6 +27,23 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Bratreis mit Ei und Frühlingszwiebeln (Ei)",
+		"Category": "Pastabar",
+		"Date": "2025-04-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-15",
@@ -72,28 +89,6 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Beete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Dip (2,3,So,Sf)",
-		"Category": "CampusVital",
-		"Date": "2025-04-15",
-		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-04-15",
@@ -105,6 +100,24 @@
 		"PriceGuest": 7.2,
 		"PriceStudent": 4.7,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Veganer Hamburger mit Gemüseschnitzel, Tomaten und Gewürzgurke (2,9,Sf,Se,GlW,GlD)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.65,
+		"PriceGuest": 7.85,
+		"PriceStudent": 5.35,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Hamburger mit Tomate, Gurke und Salat (1,2,3,9,Ei,Sf,Se,GlW), Kartoffeltwister (GlW)",
