@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "glasiertes Wurzelgemüse (Mi,Sl), gerösteter Blumenkohl, Erbsen (1), Maisgemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-14",
+		"Additives": {
+			"1": "Farbstoff",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl,GlW,GlG), Conchiglie (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-14",
@@ -56,11 +70,12 @@
 		"Pig": true
 	},
 	{
-		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
+		"Name": "Dönerteller Geflügel mit Krautsalat (4,5,Mi,Sf,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-14",
 		"Additives": {
 			"4": "Geschmacksverstärker",
+			"5": "Geschwefelt",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -68,6 +83,7 @@
 		"PriceAttendant": 7.3,
 		"PriceGuest": 12.0,
 		"PriceStudent": 6.0,
+		"Alcohol": true,
 		"Poultry": true
 	}
 ]
