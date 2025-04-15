@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-04-15",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-15",
@@ -23,6 +12,26 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Fenchelgemüse (Sl), Röstkartoffeln, Wurstgulasch (2,3,8), gerösteter Blumenkohl, Sojageschnetzeltes in Currysoße, Gorgonzola (So,Mi,Sl,Sf,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
