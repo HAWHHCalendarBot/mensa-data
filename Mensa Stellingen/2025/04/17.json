@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl)",
+		"Name": "Holsteiner Kartoffeleintopf (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-04-17",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -14,35 +13,32 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Geflügelcurry mit Mandeln (Mi,Sl,Sf,GlW,GlG,NMa), Basmatireis",
-		"Category": "CampusVital",
-		"Date": "2025-04-17",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.9,
-		"PriceGuest": 6.1,
-		"PriceStudent": 3.6,
-		"Poultry": true
-	},
-	{
-		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Tomatensoße,  mediterrane Salatbeilage (3)",
+		"Name": "Currybratwurst Schwein und Vegan mit Grillsoße (3,4,8,Sf), Pommes Frites (Sf)",
 		"Category": "CampusVital",
 		"Date": "2025-04-17",
 		"Additives": {
 			"3": "Antioxidationsmittel",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"4": "Geschmacksverstärker",
+			"8": "Phosphat",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Gnocchi- Gemüsepfanne, Tomatensoße,  mediterrane Salatbeilage (3)",
+		"Category": "CampusVital",
+		"Date": "2025-04-17",
+		"Additives": {
+			"3": "Antioxidationsmittel"
 		},
 		"PriceAttendant": 5.55,
 		"PriceGuest": 6.75,
 		"PriceStudent": 4.25,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
