@@ -1,17 +1,6 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-04-16",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "all`Amatriciana mit Tomaten, bunte Fusilli (GlW)",
+		"Name": "all`Amatriciana mit Tomaten, Conchiglie (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-16",
 		"Additives": {
@@ -24,7 +13,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
+		"Name": "Sauerkraut (vegan) (Sl), Wurstgulasch (2,3,8), Röstkartoffeln, gerösteter Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-16",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2025-04-16",
 		"Additives": {
