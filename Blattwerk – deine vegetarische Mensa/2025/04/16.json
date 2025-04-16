@@ -13,21 +13,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing,,  Spätzle (Ei,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2025-04-16",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Sugo ai funghi  Pilzcremesoße mit Sahne (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-16",
@@ -39,6 +24,42 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Sesammöhrchen (Se), gebratenem Spinat, gebratenem Spinat (1),  Spätzle mit Käse und Sahne (Ei,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Nudelsalat mit Ei und Käse (1,3,5,9,Ei,Mi,Sf,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-04-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
 		"Vegetarian": true
 	},
 	{
@@ -77,35 +98,19 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pommes Frites (Sf), Aioli (Sf), planted Kebap, Krautsalat (3,5,Sw)",
+		"Name": "Pommes Frites (Sf), planted Kebap, Krautsalat (3,5,Sw), Aioli mit meerrettich (3,5,Mi,Sf,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-16",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.8,
 		"PriceGuest": 8.0,
 		"PriceStudent": 5.5,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Pommes Frites (Sf), Aioli (Sf), planted Kebap, Krautsalat (3,5,Sw)",
-		"Category": "CampusSpezial",
-		"Date": "2025-04-16",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 8.0,
-		"PriceStudent": 5.5,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
