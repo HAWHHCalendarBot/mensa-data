@@ -1,20 +1,5 @@
 [
 	{
-		"Name": "Soja-Bolognese mit Gemüse (So,Sl), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-04-24",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-24",
@@ -43,6 +28,21 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Hausgemachte Gemüselasagne (So,Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-24",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
@@ -75,6 +75,35 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Frisch gebackene FLAMMKUCHEN nach Wahl (versch. Sorten) ab 4,20 / 5,50 / 6,70 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-04-24",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Flammkuchen des Tages mit Geflügelsalami und frischen Tomaten (1,2,3,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-04-24",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Poultry": true
 	},
 	{
 		"Name": "Currybratwurst oder (3,4,8,Sf), Geflügel Bratwurst oder, veggie Bratwurst (Ei), scharfe Grillsoße oder (2,9,Sl,Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
