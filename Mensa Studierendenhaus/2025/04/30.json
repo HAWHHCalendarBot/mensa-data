@@ -1,5 +1,60 @@
 [
 	{
+		"Name": "Bolognese mit Rindfleisch (Sl), Maccaroni (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-30",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"6": "Geschwärzt",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-30",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch, Reis",
+		"Category": "Pottkieker",
+		"Date": "2025-04-30",
+		"Additives": {},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hausgemachte Pasta (GlW), Ungarisches Rindergulasch (9,Mi,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-30",
@@ -13,5 +68,35 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Beef": true
+	},
+	{
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2025-04-30",
+		"Additives": {
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "gebackener Hirtenkäse (Mi), Tomatenreis mit Edamame und Oliven (6,So), Chimichurri (3), Rucola",
+		"Category": "CampusVital",
+		"Date": "2025-04-30",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"6": "Geschwärzt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.45,
+		"PriceGuest": 7.65,
+		"PriceStudent": 5.15,
+		"Vegetarian": true
 	}
 ]
