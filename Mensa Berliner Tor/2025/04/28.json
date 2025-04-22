@@ -1,17 +1,67 @@
 [
 	{
-		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Salzkartoffeln, Champignonrahmsoße (Mi,Sl)",
-		"Category": "CampusKlassiker",
+		"Name": "Mie-Nudeln mit Huhn und Broccoli aus dem Wok (Ei,So,Mi,Sl,Sw,GlW,NCa)",
+		"Category": "Pastabar",
 		"Date": "2025-04-28",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
+		"Name": "Tofu-Gemüse-Topf (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2025-04-28",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-28",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
+		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Vegane Maultaschen mit Zucchini- Champignongemüse und Salbei (1,3,So,Sl,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-04-28",
+		"Additives": {
+			"1": "Farbstoff",
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.65,
+		"PriceGuest": 7.85,
+		"PriceStudent": 5.35,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
