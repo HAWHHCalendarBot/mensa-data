@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (So),  Pasta (GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-04-23",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,20 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-04-23",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl),  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-23",
 		"Additives": {
@@ -38,6 +26,24 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Beef": true
+	},
+	{
+		"Name": "Sonnenblumenhack mit Asia Gemüse (1,So,Sl,Sf,GlW),  gebratene Champignons (Sw),  Wirsing mit Sojarahm und Süßkartoffeln (So),  Gemüse Bulgur (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-23",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -85,7 +91,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "vegane Tom Kha Suppe mit Tofu und Basmatireis (2,3,So,Sw,GlW)",
+		"Name": "vegane Tom Kha Suppe mit Sojastreifen und Basmatireis (2,3,So,Sw,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-23",
 		"Additives": {
