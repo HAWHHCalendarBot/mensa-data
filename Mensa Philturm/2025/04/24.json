@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Gemüse des Tages",
+		"Name": "Chili Weißkohl (Sl,Sf), Spitzkohl, Süßkartoffeln, gebratene Karotten, gebratene Zucchini, Kräuterkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2025-04-24",
-		"Additives": {},
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,17 +14,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Brokkoli in Sahnesauce (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-04-24",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hähnchenbrust in Tahini-Marinade (Se), Schmand-Joghurt-Soße (Mi), Bukhari Dajaj - Orientalischer Gewürzreis",
