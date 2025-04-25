@@ -1,5 +1,40 @@
 [
 	{
+		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-02",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Kartoffelgratin (Ei,Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-02",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-02",
@@ -26,6 +61,21 @@
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schnitzel vom Feld (Gemüsebasis) (Sl,Sf,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-05-02",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
 		"LactoseFree": true,
 		"Vegan": true
 	}
