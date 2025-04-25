@@ -1,5 +1,20 @@
 [
 	{
+		"Name": "Soja-Bolognese mit Gemüse und Austernpilze (So,Sl), Nudeln (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-25",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-25",
@@ -15,10 +30,27 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Blumenkohl Korma, Gemüsecouscous (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-04-25",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl Korma, Gemüsecouscous (Sl,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-04-25",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
