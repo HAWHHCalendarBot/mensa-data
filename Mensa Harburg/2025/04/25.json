@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "pikante glasierte rote Beete mit Mais, buntes Gemüse, Erbsen",
+		"Name": "pikante glasierte rote Beete mit Mais,  buntes Gemüse,  Erbsen",
 		"Category": "Gemüsebar",
 		"Date": "2025-04-25",
 		"Additives": {},
@@ -23,6 +23,19 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa)",
+		"Category": "Pastabar",
+		"Date": "2025-04-25",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
 	},
 	{
 		"Name": "Saporita mit Soja und Paprika (So,Sl),  Pasta (GlW)",
@@ -55,7 +68,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Kirschtomatenragout mit Kräutern und Sojacreme (So,Sl), mediterranes Salattopping (3)",
+		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Kirschtomatenragout mit Kräutern und Sojacreme (So,Sl,GlW), mediterranes Salattopping (3)",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-25",
 		"Additives": {
@@ -72,12 +85,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "vegane Currybratwurst (Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Name": "vegane Currybratwurst (Sf), Grillsoße (2,9,Sl,Sf,GlW), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-25",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
