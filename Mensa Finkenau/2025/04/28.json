@@ -1,14 +1,18 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
+		"Name": "Porreegemüse, Bratkartoffeln, Rote Beete Stäbchen (Mi,GlW), Chinagemüse (2,So,GlW), Fusilli mit rotem Pesto (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2025-04-28",
-		"Additives": {},
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Crema di pomodori secchi e basilico mit getrockneten Tomaten in Kräutersoße (2,5,Mi,Sw,GlW,GlG), Penne (GlW)",
