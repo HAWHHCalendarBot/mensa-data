@@ -48,23 +48,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
-		"Category": "CampusKlassiker",
-		"Date": "2025-04-29",
-		"Additives": {
-			"6": "Geschwärzt",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.85,
-		"PriceGuest": 6.05,
-		"PriceStudent": 3.55,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Asiatische Reispfanne mit Rinderhack und buntem Gemüse (1,2,So,Se,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-29",
@@ -75,10 +58,27 @@
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
+		"PriceAttendant": 4.85,
+		"PriceGuest": 6.05,
+		"PriceStudent": 3.55,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-04-29",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 5.45,
 		"PriceGuest": 6.65,
 		"PriceStudent": 4.15,
-		"Beef": true,
-		"LactoseFree": true
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
