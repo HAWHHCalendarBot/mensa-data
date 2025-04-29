@@ -13,6 +13,21 @@
 		"Poultry": true
 	},
 	{
+		"Name": "Brechbohnen in sojasoße (2,So,GlW), Rosenkohl (Mi), Fingermöhrchen (Mi), gerösteter Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2025-04-29",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-04-29",
@@ -63,17 +78,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Seelachsfilet mit Kräuterkruste (Fi,Mi,GlW), Tomaten-Gemüse Sugo, Salzkartoffeln",
+		"Name": "Seelachsfilet mit Kräuter (Fi), Tomaten-Gemüse Sugo, Salzkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-29",
 		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Fi": "Fisch und Fischerzeugnisse"
 		},
 		"PriceAttendant": 7.25,
 		"PriceGuest": 11.9,
 		"PriceStudent": 5.95,
-		"Fish": true
+		"Fish": true,
+		"LactoseFree": true
 	}
 ]

@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Pollo all'Arrabbiata scharf,  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-04-29",
 		"Additives": {
@@ -13,12 +13,25 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Primavera mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
+		"Name": "Broccoli,  Rosenkohl,  Rote Beete Stäbchen (Mi,GlW),  Gartengemüse,  Schupfnudeln (GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2025-04-29",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Edamame in Kerbelrahm (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-04-29",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,11 +40,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Zucchini in Tomatencremesoße (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-04-29",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Crema di funghi ostrica mit Austernpilzen und Pfifferlingen (So,Sl),  Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-29",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -43,7 +69,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl,GlW)",
+		"Name": "Zucchini in Currycreme (So,Sl),  Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-04-29",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kichererbsen-Linsencurry (Sl), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-04-29",
 		"Additives": {
@@ -76,7 +117,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Wok-Gemüse, Reis",
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße mit Gemüse (2,En,So,Sl,GlW), Reis",
 		"Category": "CampusWorld",
 		"Date": "2025-04-29",
 		"Additives": {
@@ -93,7 +134,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Seelachsfilet mit Kräuterkruste (Fi,Mi,GlW), Tomaten-Gemüse Sugo, hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Gebackenes Alaska Seelachsfilet (Fi,GlW), Tomaten-Gemüse Sugo, hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-29",
 		"Additives": {
