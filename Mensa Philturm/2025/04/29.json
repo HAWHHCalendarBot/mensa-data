@@ -27,19 +27,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Graupentopf mit Kartoffeln und Gemüse (Sl,Sw,GlG)",
-		"Category": "Pottkieker",
+		"Name": "Lupinentopf mit Gemüse und Basmati Reis (2,Ei,So,Sl,Sw,Lu,GlW,GlG)",
+		"Category": "CampusKlassiker",
 		"Date": "2025-04-29",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl,GlW), Preiselbeeren, Salzkartoffeln",
@@ -58,17 +63,18 @@
 		"Pig": true
 	},
 	{
-		"Name": "Veganes Knusperschnitzel (GlW), Röstkartoffeln, Gurkensalat",
+		"Name": "Blumenkohl-Käse-Bratling (Ei,Mi,GlW), Röstkartoffeln, Gurkensalat",
 		"Category": "CampusSpezial",
 		"Date": "2025-04-29",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Falafel Burger mit Tomaten,Gurke, Römersalat (1,3,9,Ei,So,Sl,Sf,Se,GlW,GlR), Pommes Frites (Sf)",
