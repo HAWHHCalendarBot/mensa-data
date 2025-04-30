@@ -45,7 +45,22 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "All in one Pot: Vegane Köfte (So,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf)",
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl), Pasta (GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-04-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "pikanter Vollkornreis mit Bohnen und Tomate (3,5,Sw), Vegane Köfte (So,GlW,GlG), Knoblauchdip (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2025-04-30",
 		"Additives": {
@@ -64,11 +79,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pho chay, kräftige Gemüsebrühe mit gebackenem Tofu, frischem Gemüse und Reisnudeln (2,So,Sl,GlW)",
+		"Name": "Pho chay, kräftige Gemüsebrühe mit Teriyaki Eier, frischem Gemüse und Reisnudeln (2,Ei,So,Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-04-30",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -77,6 +93,6 @@
 		"PriceGuest": 7.5,
 		"PriceStudent": 5.0,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]

@@ -1,9 +1,15 @@
 [
 	{
-		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch, Reis",
+		"Name": "Soja- Erbsengeschnetzeltes in Erdnusssoße mit Reis (En,So,Sl,Sw,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-04-30",
-		"Additives": {},
+		"Additives": {
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
@@ -27,14 +33,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Leberkäs Burger mit Krautsalat, süßem Senf und Röstzwiebeln (2,3,5,8,Sf,Sw,GlW), Pommes Frites (Sf)",
+		"Name": "Leberkäs Burger mit Krautsalat, süßem Senf und Röstzwiebeln (1,2,3,5,8,9,Ei,Sf,Sw,GlW), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-30",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"8": "Phosphat",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
