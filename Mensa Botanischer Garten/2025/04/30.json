@@ -15,10 +15,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch, Reis",
+		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch (So,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-04-30",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
@@ -26,7 +29,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Pfefferrahmsoße (Mi,Sl), Herzoginkartoffeln (Ei,Mi)",
+		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Pfefferrahmsoße (Mi,Sl,GlW), Herzoginkartoffeln (Ei,Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-04-30",
 		"Additives": {
