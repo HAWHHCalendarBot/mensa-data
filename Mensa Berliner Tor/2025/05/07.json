@@ -32,5 +32,51 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Spaghetti (GlW), Bolognese (Sl), Hartkäse gerieben (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-05-07",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"Beef": true
+	},
+	{
+		"Name": "All in one pot: Reis paellastyle vegan (2,So,Sl,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-05-07",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "All in one pot: Reis paellastyle mit Geflügel (2,So,Sl,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-05-07",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.75,
+		"PriceGuest": 7.95,
+		"PriceStudent": 5.45,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
