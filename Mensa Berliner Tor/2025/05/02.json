@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Broccoli, vegan, Blumenkohl in Rahm (Mi,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-02",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta al forno della nonna mit Käse überbacken (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-02",
@@ -14,25 +28,21 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Kartoffelgratin (Ei,Mi)",
-		"Category": "Gemüsebar",
+		"Name": "Vegane Paprikacreme mit gebratenen Sonnenblumenhack und karamellisierten Sonnenblumenkernen (2,So,Sl,Sf,GlW), Pasta (GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-05-02",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
