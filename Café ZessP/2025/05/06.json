@@ -15,18 +15,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Quinoa Erbsen Bratling mit Sour Cream (4,Ei,Mi,Sf)",
+		"Name": "Grünkern-Käse-Medaillons mit Sour Cream oder veganer Dip (Ei,So,Mi,Se,GlW,GlD), kleiner Salat",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-05-06",
 		"Additives": {
-			"4": "Geschmacksverstärker",
 			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 4.6,
-		"PriceGuest": 5.3,
-		"PriceStudent": 3.8,
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.2,
+		"PriceStudent": 3.7,
 		"Vegetarian": true
 	},
 	{
@@ -46,6 +48,19 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Arrabbiata Soße (GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2025-05-06",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 5.7,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Bolognese Soße (Sl,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-05-06",
@@ -61,19 +76,19 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Pesto Rosso (Mi,GlW,NCa), Bolognese (Sl)",
+		"Name": "Pesto Genovese (Mi,GlW,NCa), Pasta Basilico (Mi,GlW,GlG)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-05-06",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 5.0,
 		"PriceGuest": 5.7,
 		"PriceStudent": 4.2,
-		"Beef": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Rustico Pecorino &amp; Fico (2,Ei,Mi,Sf,GlW)",
@@ -91,40 +106,17 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Green Bowl mit Prinzeßbohnen, rote Beete, Avocado, frischem Blattspinat, Erdnuss-Dressing (2,3,En,So,GlW)",
-		"Category": "Highlight",
-		"Date": "2025-05-06",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"En": "Erdnüsse und Erdnusserzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.4,
-		"PriceStudent": 5.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Hello Chicken Bowl, Hähnchenbrust, Mango, Ananas, Zucchini, Avocado, Reis, Mandarinen Dressing (1,2,3,9,Ei,So,Sf,GlW)",
+		"Name": "Chick 'n sheep Salat, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,Mi)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-05-06",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 7.7,
-		"PriceGuest": 8.4,
-		"PriceStudent": 6.9,
-		"LactoseFree": true,
+		"PriceAttendant": 6.55,
+		"PriceGuest": 7.25,
+		"PriceStudent": 5.75,
 		"Poultry": true
 	}
 ]
