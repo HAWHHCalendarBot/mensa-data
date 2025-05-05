@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Backkartoffel, glasiertes Wurzelgemüse (Mi,Sl), Rosenkohl (Mi), Brechbohnen, Brechbohnen (Mi,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-05",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-05",
@@ -12,11 +25,15 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
+		"Name": "Kichererbsencurry (2,So,Sf,GlW), pikantes Möhrengemüse (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-05",
 		"Additives": {
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -58,13 +75,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putengyros, Tzatziki (Mi), Krautsalat (3,5,Sw), Paprikareis",
+		"Name": "Putengyros, Tzatziki (Mi), Krautsalat (3,5,Sw), Paprikareis (Sl)",
 		"Category": "CampusWorld",
 		"Date": "2025-05-05",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.4,

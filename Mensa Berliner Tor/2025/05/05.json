@@ -1,24 +1,53 @@
 [
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi in Rahm (Mi,GlW), Süßkartoffel Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Pasta (GlW), Tomaten- Basilikumsoße",
+		"Category": "Pastabar",
 		"Date": "2025-05-05",
 		"Additives": {
-			"1": "Farbstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hühnchen in Kokos Soße (So,Sl), Basmatireis",
+		"Category": "Pastabar",
+		"Date": "2025-05-05",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Veganes Chop Suey aus dem Wok (2,So,Sw,GlW), Basmatireis",
 		"Category": "Pastabar",
 		"Date": "2025-05-05",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Karotten (1), gebratene Champignons, vegan (Sw), Vegane Reisnudeln mit Gemüse und Tofu (2,So,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-05",
+		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"So": "Soja und Sojaerzeugnisse",
