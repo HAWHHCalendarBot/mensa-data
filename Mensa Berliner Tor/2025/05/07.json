@@ -1,5 +1,47 @@
 [
 	{
+		"Name": "Glasierte Möhren, vegan, gebratene Champignons, vegan (Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-07",
+		"Additives": {
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Chili con Corn (Sl,GlD)",
+		"Category": "Pastabar",
+		"Date": "2025-05-07",
+		"Additives": {
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Rahmsoße mit Hähnchenbrust und Broccoli (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-05-07",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
 		"Name": "Sojageschnetzeltes mit Waldpilzen (So,Sl,GlW), Kräuter-Chili-Kartoffeln",
 		"Category": "Highlight",
 		"Date": "2025-05-07",
@@ -15,22 +57,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
+		"Name": "Gebratene Mie-Nudeln mit Hähnchenstreifen und Wok Gemüse (1,Ei,So,Mi,Sf,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-05-07",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
 		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
