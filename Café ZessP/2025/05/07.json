@@ -76,19 +76,19 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Pesto Genovese (Mi,GlW,NCa), Pasta Basilico (Mi,GlW,GlG)",
+		"Name": "Pesto Rosso (Mi,GlW,NCa), Bolognese (Sl)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-05-07",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.0,
 		"PriceGuest": 5.7,
 		"PriceStudent": 4.2,
-		"Vegetarian": true
+		"Beef": true
 	},
 	{
 		"Name": "Rustico Pecorino &amp; Fico (2,Ei,Mi,Sf,GlW)",
@@ -106,17 +106,49 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Chick 'n sheep Salat, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,Mi)",
+		"Name": "Veggie Power Bowl, Tofu, Basmatireis, Süßkartoffeln, Avocado, Koriander, Cashew und Wasabi Dressing (1,2,3,5,Ei,So,Sf,Se,Sw,GlW,NCa)",
+		"Category": "Highlight",
+		"Date": "2025-05-07",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.7,
+		"PriceGuest": 8.4,
+		"PriceStudent": 6.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spicy Chicken Bowl, Basmatireis, Avocado, Granatapfel, Kürbiskerne mit Wild Karachi Dressing (1,2,3,5,9,Ei,So,Mi,Sf,Se,Sw,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-05-07",
 		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"So": "Soja und Sojaerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.55,
-		"PriceGuest": 7.25,
-		"PriceStudent": 5.75,
+		"PriceAttendant": 8.15,
+		"PriceGuest": 8.85,
+		"PriceStudent": 7.35,
 		"Poultry": true
 	}
 ]
