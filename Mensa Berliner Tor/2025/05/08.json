@@ -1,5 +1,60 @@
 [
 	{
+		"Name": "Broccoli, vegan, gebratene Zucchini, vegan, Rosenkohl, vegan (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-08",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grüne Tortellini mit Gemüsefüllung (Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-08",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-08",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucola-Kurkumasoße (Mi,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-08",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
 		"Name": "Veganes Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), vegane Mi-Nudeln (So,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-08",
@@ -17,22 +72,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2025-05-08",
-		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-08",
@@ -48,30 +87,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frisch gebackene FLAMMKUCHEN nach Wahl (versch. Sorten) ab 4,20 / 5,50 / 6,70 (auch TAKE AWAY) (Mi,GlW)",
+		"Name": "Frisch gebackene PIZZA LARGE nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-05-08",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.7,
-		"PriceStudent": 4.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Flammkuchen des Tages mit Apfelwürfel, Zimt und Zucker (Mi,GlW,NHa)",
-		"Category": "CampusWorld",
-		"Date": "2025-05-08",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.7,
-		"PriceStudent": 4.2,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
 		"Vegetarian": true
 	},
 	{
