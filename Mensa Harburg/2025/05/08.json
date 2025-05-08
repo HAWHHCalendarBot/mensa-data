@@ -1,12 +1,26 @@
 [
 	{
-		"Name": "Pasta salsa di noci mit Paprika-Nuss-Soße, getrocknete Tomaten (Sl,NHa), Eliche (GlW)",
+		"Name": "Auberginen-Zucchini-Ragout (Mi,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2025-05-08",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "vegane Waldpilzrahmsoße (So,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-08",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -15,29 +29,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Salsa rucola di pollo mit Hähnchenstreifen in Rucolasoße (Mi,Sl), bunte Fusilli (GlW)",
+		"Name": "Boscaiola mit Pilzen und Paprika (2,3,8),  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-08",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Poultry": true
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW)",
+		"Name": "Kartoffelauflauf mit Cheddar (Ei,Mi),  gebratene Champignons (Sw),  gebratener Wirsing mit Curry,  karamellisierte Schwarzwurzeln (1),  Kohlrabigemüse (1),  Erbsen,  Gartengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-08",
 		"Additives": {
 			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -45,7 +60,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Erbsencremesuppe (So,Sl), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-08",
 		"Additives": {
@@ -60,7 +75,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "2 Backfischfrikadellen (Fi,Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Petersilienkartoffeln",
+		"Name": "2 Backfischfrikadellen (Fi,Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Salzkartoffeln, Rotkrautsalat (3)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-08",
 		"Additives": {
@@ -96,7 +111,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wiener Rahmgulasch (9,Mi,Sw), Fusilli (GlW)",
+		"Name": "Wiener Rahmgulasch (9,Mi,Sw), mit Pasta (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-08",
 		"Additives": {

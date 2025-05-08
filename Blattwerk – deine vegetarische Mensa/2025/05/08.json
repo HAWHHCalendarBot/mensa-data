@@ -1,6 +1,33 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Fusilli (GlW)",
+		"Name": "Tomatensoße Spinaci  mit Spinat, Knoblauch und Chili, Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-08",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Griechische Nudeln mit Bohnen und Karotte (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-08",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Saporita mit Soja und Paprika (So,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-08",
 		"Additives": {
@@ -13,36 +40,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Spinaci e olio d'oliva mit Spinat und Oliven (3,Sf), Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-05-08",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Spätzle (Ei,Mi,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2025-05-08",
-		"Additives": {
-			"1": "Farbstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Pasta (GlW), Lenticchie e verdure mit Belugalinsen, Gemüse und, Pesto orientale mit Datteln und Harissa (1,5,Sw,NCa)",
@@ -75,7 +72,27 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Reis",
+		"Name": "Nudelsalat mit Milchschnitzel und Chili-Mayonnaise (3,4,5,Ei,Mi,Sf,Sw,GlW,GlH)",
+		"Category": "CampusWorld",
+		"Date": "2025-05-08",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"4": "Geschmacksverstärker",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Frisches Asiagemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Reis",
 		"Category": "CampusVital",
 		"Date": "2025-05-08",
 		"Additives": {
