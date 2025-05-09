@@ -1,14 +1,56 @@
 [
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
+		"Name": "Vegane Chili con soja (So)",
+		"Category": "Pastabar",
+		"Date": "2025-05-09",
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane asiatische Gemüse süß-sauer (2,9,Sl), Basmatireis",
+		"Category": "Pastabar",
+		"Date": "2025-05-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Anti-Pasti Gemüse, vegan (Sw), Rosenkohl-Gratin (Mi,Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-09",
 		"Additives": {
-			"1": "Farbstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Vegane Bratnudeln mit Gemüsestreifen (2,So,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-09",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -31,7 +73,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tagliatelle (GlW), all`Arrabbiata mit scharfer Tomatensoße und Sojastreifen (So,Sl), Rucola mit Tomatenwürfeln",
+		"Name": "Tagliatelle, VEGAN (GlW), all`Arrabbiata mit scharfer Tomatensoße und Sojastreifen (So,Sl), Rucola mit Tomatenwürfeln",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-09",
 		"Additives": {

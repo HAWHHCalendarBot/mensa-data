@@ -1,10 +1,21 @@
 [
 	{
-		"Name": "Broccoli e pomodoro mit Broccoli und Tomate, Farfalle (GlW)",
+		"Name": "Mexikanische Bohnensoße",
+		"Category": "Pastabar",
+		"Date": "2025-05-09",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Broccoli in Cremesoße (So)",
 		"Category": "Pastabar",
 		"Date": "2025-05-09",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,12 +24,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Lenticchie mit Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
+		"Name": "Prinzessbohnen,  Karotten (1),  Schwarzwurzeln,  Kohlrabigemüse (1),  Erbsen",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-09",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Lauchcremesoße (So,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-09",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,15 +52,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
-		"Category": "Gemüsebar",
+		"Name": "Lenticchie mit Linsen in pikanter Currysoße (So,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-05-09",
 		"Additives": {
-			"1": "Farbstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -44,11 +67,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl)",
-		"Category": "Pottkieker",
+		"Name": "pikantes cremiges rote Beete Ragout (2,9,So,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-05-09",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Curry-Gemüsetopf mit Erdnussbutter (En,Sl,Sf,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-05-09",
+		"Additives": {
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
@@ -90,7 +132,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "veganer Wrap Dürüm Kebab mit Salat und BBQ-Soße (2,3,5,So,Sf,Sw,GlW)",
+		"Name": "veganer Wrap Dürüm Kebab mit Hummus Dip (2,3,5,So,Sf,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-09",
 		"Additives": {
