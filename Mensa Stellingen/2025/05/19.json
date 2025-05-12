@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Kartoffel-Lauch Suppe (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-19",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -15,7 +14,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW), Hollandaise (Ei,Mi,Sl,Sw), Erbsen, Pommes Frites (Sf)",
+		"Name": "Veganes Knusperschnitzel (GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-05-19",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.6,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchen Cordon Bleu (2,Mi,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-19",
 		"Additives": {
@@ -32,44 +46,5 @@
 		"PriceStudent": 5.3,
 		"Alcohol": true,
 		"Poultry": true
-	},
-	{
-		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-05-19",
-		"Additives": {},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-05-19",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-05-19",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"Alcohol": true,
-		"Vegetarian": true
 	}
 ]
