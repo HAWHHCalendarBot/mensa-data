@@ -1,39 +1,68 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), Penne (GlW)",
+		"Name": "Crema di Zucchine e Pomodoro in Curry-Tomatensoße,  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-14",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Ragù bianco mit Rinderhackfleisch und Kräutern (Mi,Sl), Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-05-14",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Beef": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Name": "gerösteter Broccoli,  Erbsen,  Prinzessbohnen,  Kohlrabigemüse (1),  Gartengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-14",
 		"Additives": {
-			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blattspinat in Rahm (So,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-14",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rinderhack mit Paprika und Tomaten (Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta Bolognese mit Sonnenblumenhack (1,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-14",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -58,7 +87,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fischbrötchen (So,GlW,GlG), mit Remoulade (2,3,Ei,Sf), Matjesfilets und (2,Fi), Salat und Zwiebeln",
+		"Name": "Fischbrötchen (So,GlW,GlG), mit Remoulade (2,3,Ei,Sf), Matjesfilets, (2,Fi), Salat und Zwiebeln",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-14",
 		"Additives": {
@@ -78,6 +107,21 @@
 		"LactoseFree": true
 	},
 	{
+		"Name": "Gnocchiauflauf Florentin mit veganer Bolognese, Blattspinat und Basilikumsoße (So,Mi,Sl,GlW)",
+		"Category": "CampusVital",
+		"Date": "2025-05-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Grillgemüse Burger (Se,Sw,GlW,GlH), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-14",
@@ -93,21 +137,6 @@
 		"PriceStudent": 5.15,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gnocchiauflauf Florentin mit veganer Bolognese und Blattspinat (So,Mi,Sl,GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2025-05-14",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.6,
-		"PriceGuest": 7.8,
-		"PriceStudent": 5.3,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Wildlachsfilet mit Kurkuma und Teriyaki Soße (Fi,So,GlW), Gemüsesalat süß sauer (2,3,Fi,So,GlW), vegane Mi-Nudeln (So,GlW)",
