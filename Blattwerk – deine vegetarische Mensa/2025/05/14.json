@@ -13,6 +13,34 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-14",
+		"Additives": {
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Mi,Sl), Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-14",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Sojajoghurt-Zitronen Dip (3,So,Sf), Reis, Gurkensalat mit Chili und schwarzem Sesam (3,5,Se,Sw)",
 		"Category": "CampusVital",
 		"Date": "2025-05-14",
@@ -48,5 +76,26 @@
 		"PriceGuest": 7.2,
 		"PriceStudent": 4.7,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Bulgur Bowl mit Datteln, Cranberries, Sonnenblumenhack und Champignons (2,3,5,So,Sl,Sf,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-05-14",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.95,
+		"PriceGuest": 8.15,
+		"PriceStudent": 5.65,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
