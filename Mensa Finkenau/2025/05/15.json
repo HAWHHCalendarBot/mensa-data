@@ -11,18 +11,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
+		"Name": "Saporita mit Soja und Paprika (So,Sl), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-15",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
@@ -57,14 +58,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Club Sandwich Bowl mit Hähnchenstreifen, Bacon, Röstinchen und Römersalat (2,8,Ei,GlW)",
+		"Name": "Club Sandwich Bowl mit Hähnchenstreifen, Bacon, Röstinchen und Römersalat (2,8,Ei,Se,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-15",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"8": "Phosphat",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.1,
