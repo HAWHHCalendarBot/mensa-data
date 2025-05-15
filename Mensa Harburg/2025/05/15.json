@@ -1,45 +1,10 @@
 [
 	{
-		"Name": "Boscaiola mit Pilzen und Speck (2,3,8), Bunte Nudeln (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-05-15",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Due formaggio e nocciola mit zweierlei Käse und gerösteter Haselnuss (Mi,Sl,NHa), Eliche (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-05-15",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
-	},
-	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
+		"Name": "Gartengemüse,  Frühlingsgemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-15",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"1": "Farbstoff"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -48,12 +13,109 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
-		"Category": "Pottkieker",
+		"Name": "Gnocchi-Tomaten-Auflauf mit vegetarischer Bolognese (So,Mi)",
+		"Category": "Pastabar",
+		"Date": "2025-05-15",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tomatensoße mit Oliven (6,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-05-15",
+		"Additives": {
+			"6": "Geschwärzt",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zucchiniragout mit Kirschtomaten (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-05-15",
 		"Additives": {
 			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Knoblauchsoße mit Sellerie und körnigem Senf (So,Sl,Sf,GlW), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-15",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "pikante rote Beete Soße mit Kapern (2,9,So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Arcobaleno mit Schinken und Basilikum (2,3,8,Mi,Sl,Sw), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-15",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Pig": true
+	},
+	{
+		"Name": "Linsencremesuppe mit Kartoffeln, Bohnen und Gemüse (So,Sf,GlW), Brot (Se,Lu,GlW,GlG,NWa)",
+		"Category": "Pottkieker",
+		"Date": "2025-05-15",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
