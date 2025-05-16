@@ -1,10 +1,20 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Pasta Gorgonzola (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-05-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Kohlrabi in Sojarahm (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-05-16",
+		"Additives": {
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -15,29 +25,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi ostrica mit Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-05-16",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "glasierte rote Beete, Staudensellerie und Tomate (Sl,Sw), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Gemüse Sesamreis (Se)",
+		"Name": "gebratene Champignons,  Prinzessbohnen,  Maisgemüse (1),  Erbsen,  Fingermöhren mit Kerbel (1),  vergessene Gemüsesorten: Pastinake, Sellerie, Karotte, Topinambur (Sl),  Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-16",
 		"Additives": {
 			"1": "Farbstoff",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -46,11 +39,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Bolo mit Sonnenblumenhack und Grünkern (1,So,Sl,Sf,GlW,GlD), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-16",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Afrikanischer Gemüsetopf mit Tempeh (Sl,Lu)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Lu": "Lupine und - erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
@@ -76,7 +87,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Quinoa-Jalapeno-Pot, Tortillachips, Chili-Cheese-Sauce (2,Mi)",
+		"Name": "Reis-Jalapeno-Pot, Tortillachips, Chili-Cheese-Sauce (2,Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-16",
 		"Additives": {

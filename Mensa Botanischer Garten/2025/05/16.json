@@ -1,25 +1,28 @@
 [
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Eliche (GlW)",
+		"Name": "Räucherlachs und Spinat in Sahnesoße (Fi,Mi,Sl,GlW,GlG), Eliche (GlW), Chili con Carne (2), Gewürzreis (Se)",
 		"Category": "Pastabar",
 		"Date": "2025-05-16",
 		"Additives": {
+			"2": "Konservierungsstoff",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true,
+		"Fish": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Gemüsegulasch (Sl), Tortilla Chips",
 		"Category": "Pottkieker",
 		"Date": "2025-05-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
@@ -45,7 +48,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganer Crispy Caesar Burger (3,Sf,GlW,GlG), Pommes Frites (Sf)",
+		"Name": "Veganer Crispy Caesar Burger (3,Sf,GlW,GlG), Kartoffelspalten (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-05-16",
 		"Additives": {

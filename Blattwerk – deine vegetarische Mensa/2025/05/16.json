@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Eliche (GlW)",
+		"Name": "all`Provenzale mit Gemüse (Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-16",
 		"Additives": {
@@ -12,21 +12,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Crema di spinaci mit Spinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG), Eliche (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-05-16",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi, Gurke, Frühlingszwiebel, Koriander, Erdnüsse und Chilimajo (2,En,So,Sl,Sf,Se,GlW)",
@@ -46,6 +31,23 @@
 		"PriceStudent": 3.6,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Nudelsalat mit Grünkern, Zucchini und Hirtenkäse (3,5,Mi,Sw,GlW,GlD)",
+		"Category": "CampusWorld",
+		"Date": "2025-05-16",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung, Kastanienpesto (1,Ei,Mi,Sl,GlW), Rote Beete Salat (9)",
