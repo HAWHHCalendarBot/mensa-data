@@ -34,42 +34,18 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Dattel-Curry Falafel (GlW), grünem Hummus (Se), Rotkrautsalat (3), gebackene Süßkartoffel",
+		"Category": "CampusKlassiker",
 		"Date": "2025-05-19",
-		"Additives": {},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.3,
+		"PriceStudent": 5.8,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-05-19",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-05-19",
-		"Additives": {
-			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"Alcohol": true,
-		"Vegetarian": true
 	}
 ]
