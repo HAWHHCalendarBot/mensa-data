@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Maisgemüse mit Bohnen (1),  Broccoli,  Erbsen,  Fingermöhren (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-19",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Asiatisches Gemüseragout mit grünem Curry (2,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-05-19",
@@ -12,19 +25,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Buttererbsen (Mi), Kohlrabi-Bärlauch Gemüse (Mi), Orientalisches Linsengemüse (Sl)",
-		"Category": "Gemüsebar",
-		"Date": "2025-05-19",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Nerone Schweinefleischstreifen in Tomaten-Sahnesoße (Mi,Sl)",
@@ -40,12 +40,28 @@
 		"Pig": true
 	},
 	{
-		"Name": "Zartweizen mit Sonnenblumenhack und Gemüse (1,So,Sl,Sf,GlW,GlD), Pasta nach Wahl (GlW)",
+		"Name": "Mexikanisches Gemüseragout mit getrockneten Tomaten (2,5,9,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2025-05-19",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zartweizen mit Sonnenblumenhack und Gemüse (1,So,Sl,Sf),  Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-19",
 		"Additives": {
 			"1": "Farbstoff",
-			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
@@ -73,7 +89,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Gemüse-Pfanne mit Sprossen (So,Sl), vegane Mi-Nudeln (So,GlW)",
+		"Name": "Soja-Gemüse-Pfanne mit Sprossen (So,Sl), Mi-Nudeln (So,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-05-19",
 		"Additives": {
