@@ -11,7 +11,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-05-21",
 		"Additives": {
@@ -58,14 +58,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
+		"Name": "Deutscher Spargel",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-21",
-		"Additives": {},
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 7.2,
 		"PriceGuest": 8.4,
 		"PriceStudent": 5.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
