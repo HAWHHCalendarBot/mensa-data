@@ -43,7 +43,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Kartoffel-Lauch Suppe (So,Sl), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-19",
 		"Additives": {
@@ -58,12 +58,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frisch aus dem Wok, frisches Gemüse mit Asiasoße \"Süß-Sauer\" (Sl,Sw), Reis",
+		"Name": "Soja-Gemüse-Pfanne mit Sprossen (So,Sl), vegane Mi-Nudeln (So,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-05-19",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.7,
 		"PriceGuest": 6.9,
@@ -91,18 +92,22 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Dattel-Curry Falafel (GlW), grünem Hummus (Se), Rotkrautsalat (3), Rosmarinkartoffeln",
+		"Name": "Dattel-Curry Falafel (GlW), grünem Hummus (1,3,9,Ei,Sf,Se), grüner Bohnensalat, Rosmarinkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-19",
 		"Additives": {
+			"1": "Farbstoff",
 			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 7.1,
 		"PriceGuest": 8.3,
 		"PriceStudent": 5.8,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
