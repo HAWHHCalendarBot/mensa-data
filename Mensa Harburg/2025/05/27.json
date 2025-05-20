@@ -13,6 +13,65 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-27",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-27",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
+	},
+	{
+		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
+		"Category": "Pottkieker",
+		"Date": "2025-05-27",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen, Röstkartoffelwürfel",
+		"Category": "CampusKlassiker",
+		"Date": "2025-05-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Fi": "Fisch und Fischerzeugnisse"
+		},
+		"PriceAttendant": 5.25,
+		"PriceGuest": 6.45,
+		"PriceStudent": 3.95,
+		"Fish": true,
+		"LactoseFree": true
+	},
+	{
 		"Name": "Kasseler Nackenbraten (2,3)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-27",
@@ -44,5 +103,20 @@
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
 		"Poultry": true
+	},
+	{
+		"Name": "Ofengemüse mit veganer Tahin Joghurt Creme und gerösteten Mandeln (So,Se,NMa)",
+		"Category": "CampusWorld",
+		"Date": "2025-05-27",
+		"Additives": {
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
