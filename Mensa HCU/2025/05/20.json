@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pollo all'Arrabbiata, bunte Fusilli (GlW)",
+		"Name": "Pollo all'Arrabbiata mit scharfer Tomatensoße, Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-20",
 		"Additives": {
@@ -11,6 +11,22 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Poultry": true
+	},
+	{
+		"Name": "Fingermöhrchen (Mi), gerösteter Blumenkohl, Gartengemüse (Sl), Veganes Hackbällchen mit Gemüse (So,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-20",
+		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
