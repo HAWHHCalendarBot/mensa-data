@@ -50,6 +50,20 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2025-05-28",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hausgemachte Pasta (GlW), Putengulasch (Mi,Sl,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-28",
@@ -62,5 +76,46 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Poultry": true
+	},
+	{
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), hausgemachtes Kartoffelpüree (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-05-28",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.65,
+		"PriceStudent": 4.15,
+		"Pig": true
+	},
+	{
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2025-05-28",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2025-05-28",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Alcohol": true,
+		"Vegetarian": true
 	}
 ]
