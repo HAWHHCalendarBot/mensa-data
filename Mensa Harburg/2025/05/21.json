@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Bolognese mit Rindfleisch (Sl), Maccaroni (GlW)",
+		"Name": "Bolognese mit Rindfleisch (Sl),  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-21",
 		"Additives": {
@@ -12,6 +12,20 @@
 		"PriceStudent": 0.85,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta Funghi mit Waldpilzen in Sojarahm (So,Sw)",
+		"Category": "Pastabar",
+		"Date": "2025-05-21",
+		"Additives": {
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
@@ -27,21 +41,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-05-21",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
@@ -79,15 +78,14 @@
 		"Fish": true
 	},
 	{
-		"Name": "Linsen Hirsebällchen (GlW,GlH), Bulgur Tomaten Salat (3,5,Sw,GlW), hausgemachtes Petersilienpesto, Rucola",
+		"Name": "Linsen Hirsebällchen (GlW,GlH), Gemüse Bulgur (Sl,GlW), Knoblauchdip (Sf), Tomatensalsa, Rucola",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-21",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
 			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
 		"PriceGuest": 7.3,
@@ -96,7 +94,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Homemade Putensteak in Kräuter-Eihülle (Ei,GlW), Champignonrahmsoße (Mi,Sl), Kartoffelspalten (GlW)",
+		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Champignonrahmsoße (Mi,Sl), Kartoffelspalten (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-21",
 		"Additives": {
