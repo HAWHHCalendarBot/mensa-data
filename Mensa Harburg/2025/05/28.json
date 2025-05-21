@@ -64,20 +64,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tagliatelle (GlW), Bärlauchsoße (Mi,GlW,GlG), Rucola mit Tomatenwürfeln",
-		"Category": "CampusWorld",
-		"Date": "2025-05-28",
-		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 4.2,
-		"PriceGuest": 5.4,
-		"PriceStudent": 2.9,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Mexikanischer Wrap mit Rindfleisch, Mais und Kidneybohnen, Nachos (2,Sw,GlW), Avocado-Tahin-Dip (So,Mi,Se)",
 		"Category": "CampusVital",
 		"Date": "2025-05-28",
@@ -93,6 +79,23 @@
 		"PriceGuest": 6.65,
 		"PriceStudent": 4.15,
 		"Beef": true
+	},
+	{
+		"Name": "Vegetarisch gefüllte Paprikaschote (Ei,So,Sl,Sf,GlW), Gemüsereis, Tomatensoße",
+		"Category": "CampusKlassiker",
+		"Date": "2025-05-28",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sf), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
