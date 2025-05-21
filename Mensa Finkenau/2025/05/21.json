@@ -1,19 +1,20 @@
 [
 	{
-		"Name": "Röstkartoffeln, gebratene Champignons (Sw), Spitzkohl",
+		"Name": "Romanesco in Kokoscurrysoße, Blattspinat-Süßkartoffel in Rahm (Mi,GlW), Broccoli, gebratene Champignons (Sw), Spitzkohl, Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-21",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Funghi di bosco e basilico mit Waldpilzen und Basilikum (Mi,Sw,GlW,GlG), Bunte Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-21",
 		"Additives": {
@@ -28,7 +29,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Basmatireis",
+		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-05-21",
 		"Additives": {
@@ -43,14 +44,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Linsen Hirsebällchen (GlW,GlH), Bulgur Tomaten Salat (3,5,Sw,GlW), hausgemachtes Petersilienpesto, Rucola",
+		"Name": "vegane Hackbällchen (So,GlW,GlG), Bulgur Tomaten Salat (3,5,Sw,GlW), hausgemachtes Petersilienpesto, Rucola",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-21",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.1,
@@ -60,10 +62,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Portion Margarine (1), Salzkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-21",
 		"Additives": {
+			"1": "Farbstoff",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 7.2,
