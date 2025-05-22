@@ -15,12 +15,30 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
+		"Name": "Linsen Hirsebällchen (GlW,GlH)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-22",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Alcohol": true,
+		"Beef": true
+	},
+	{
+		"Name": "Minestrone (Sl,Sw,GlW), Fladenbrot (Se,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-22",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -31,7 +49,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Mi,Sl,Sw,GlW)",
+		"Name": "Minestrone (Sl,Sw,GlW), Fladenbrot (Se,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-05-22",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bulgur One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Mi,Sl,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-05-22",
 		"Additives": {
@@ -62,7 +96,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten- Basilikumsoße, Spaghetti (GlW)",
+		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten- Basilikumsoße, Nudeln (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-05-22",
 		"Additives": {
