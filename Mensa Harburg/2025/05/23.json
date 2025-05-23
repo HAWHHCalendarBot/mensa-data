@@ -11,19 +11,6 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Spargelragout mit gelber fruchtiger Sauce und Mandeln (NMa), Salzkartoffeln",
-		"Category": "Pastabar",
-		"Date": "2025-05-23",
-		"Additives": {
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Linsenragout mit Gemüse und Tomaten (So,Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-23",
@@ -53,6 +40,21 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Spargelragout mit gelber fruchtiger Sauce und Mandeln (Ei,Mi,Sl,NMa), Salzkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2025-05-23",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "asiatisches Sojaragout (2,So,Sl,Se,GlW), Reis",
