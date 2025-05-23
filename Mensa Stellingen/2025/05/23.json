@@ -1,10 +1,12 @@
 [
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (So,Sl,Sf,GlW), Reis",
+		"Name": "Sojageschnetzeltes in Currysoße (3,So,Mi,Sl,Sf,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-05-23",
 		"Additives": {
+			"3": "Antioxidationsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -12,16 +14,16 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Pennette in Tomatensoße mit Gemüsebällchen (Ei,GlW)",
+		"Name": "Pasta in Tomatensoße mit Gemüsebällchen (Ei,Sl,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-23",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.25,
 		"PriceGuest": 5.45,
@@ -30,11 +32,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "vegane Currybratwurst (Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Name": "vegane Currybratwurst (Sf), Grillsoße (2,3,9,Sl,Sf), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-23",
 		"Additives": {
 			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
 			"9": "Süßungsmittel",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
