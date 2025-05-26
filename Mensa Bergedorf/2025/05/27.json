@@ -1,19 +1,19 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Name": "Sesammöhrchen (Se), gebratenem Wirsing",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-27",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "Pasta all`Provencale mit Gemüse (Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-27",
 		"Additives": {
@@ -27,7 +27,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Milano mit Putenfleisch und Pilzen (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-05-27",
 		"Additives": {
@@ -40,16 +40,16 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"Poultry": true
 	},
 	{
-		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
+		"Name": "Cassoulet- Bohneneintopf mit Brötchen (Sl,Sf,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-27",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
