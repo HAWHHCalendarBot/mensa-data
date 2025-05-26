@@ -1,18 +1,30 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Pasta all'Arrabbiata pikant",
 		"Category": "Pastabar",
 		"Date": "2025-05-26",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili-Kartoffeln,  Maisgemüse (1),  karamellisierte Schwarzwurzeln (1),  Erbsen,  Kohlrabigemüse (1),  Gartengemüse",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-26",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"1": "Farbstoff"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Rindfleisch und Paprika (Mi,Sl), Bolognese mit Rinderhackfleisch (Sl),  Pasta (GlW)",
+		"Name": "Bolognese mit Rinderhackfleisch (Sl),  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-26",
 		"Additives": {
@@ -26,19 +38,19 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi in Rahm (Mi,GlW), Süßkartoffel Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Linsensugo mit Paprika (So,Sl), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-05-26",
 		"Additives": {
-			"1": "Farbstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",

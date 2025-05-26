@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Conchiglie (GlW)",
+		"Name": "Broccoli e Gorgonzola mit Gorgonzola und Broccoli (Mi), Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-26",
 		"Additives": {
@@ -10,6 +10,27 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85
+	},
+	{
+		"Name": "gerösteter Rosenkohl Tahinisoße Birne und Haselnüsse (1,2,5,So,Se,Sw,GlW,NHa), Stangenbrechbohnen Provencial, Mexikanisches Gemüse (Sl), Schwarzwurzeln (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-26",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW)",
@@ -26,10 +47,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut (vegan) (Sl), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "5 Nürnberger Bratwürstchen, Sauerkraut mit Speck (2,Sl), hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-26",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
