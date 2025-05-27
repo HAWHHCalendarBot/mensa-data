@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-05-27",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "all`Provenzale mit Gemüse (Sw), Conchiglie (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-27",
@@ -23,6 +12,23 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Bratkartoffeln, Broccoli (Mi), gebratene Zucchini, Blumenkohl Korma, Honigmöhren, gebratene Champignons (Sw), Gorgonzola mit gebratenen Sonnenblumenhack und karamellisierten Sonnenblumenkernen, Sojastreifen (2,So,Mi,Sl,Sf,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf), Kaiserbrötchen (GlW)",
