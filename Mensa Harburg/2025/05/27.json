@@ -13,12 +13,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "all`Provenzale mit Gemüse (Sw), Strozzapreti (GlW)",
+		"Name": "Soja-Bolognese mit Gemüse (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-05-27",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,7 +27,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Spargelragout mit gelber fruchtiger Sauce und Mandeln (Ei,Mi,Sl,NMa)",
+		"Category": "Pastabar",
+		"Date": "2025-05-27",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Milano mit Rindfleisch und Pilzen (3,Mi,Sl,GlW,GlG),  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-27",
 		"Additives": {
@@ -43,11 +58,11 @@
 		"Beef": true
 	},
 	{
-		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
+		"Name": "Schwarze Bohnensuppe mit Gemüse (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-27",
 		"Additives": {
-			"Sf": "Senf und Senferzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -58,45 +73,68 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Brechbohnen, Röstkartoffelwürfel",
+		"Name": "Matjesfilets (2,Fi), Zwiebelscheiben, Matjessoße Hausfrauen Art (1,3,9,Ei,Mi,Sf,Sw), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-27",
 		"Additives": {
+			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"Fi": "Fisch und Fischerzeugnisse"
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.25,
 		"PriceGuest": 6.45,
 		"PriceStudent": 3.95,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
 	},
 	{
-		"Name": "Kasseler Nackenbraten (2,3), Krautsalat (3,5,Sw), Laugenbrezel (GlW), Süßer Senf (Sf)",
+		"Name": "Kasseler Nackenbraten (2,3), hausgemachtes Kartoffelpüree mit Röstzwiebeln (Mi), Krautsalat (3,5,Sw), Süßer Senf (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-27",
 		"Additives": {
 			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.5,
 		"PriceStudent": 4.0,
-		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "Homemade Putenschnitzel in Parmesan-Ei Hülle (Ei,GlW), Pfeffersoße (Mi,Sl), Spicy Wedges",
+		"Name": "Kasseler Nackenbraten (2,3), hausgemachtes Kartoffelpüree mit Röstzwiebeln (Mi), Krautsalat (3,5,Sw), Süßer Senf (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2025-05-27",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"Pig": true
+	},
+	{
+		"Name": "Homemade Putenschnitzel paniert (Ei,GlW), Pfeffersoße (Mi,Sl), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-05-27",
 		"Additives": {
 			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.2,
