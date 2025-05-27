@@ -25,10 +25,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
+		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf), Kaiserbrötchen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-05-27",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -55,14 +56,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
+		"Name": "Deutscher Spargel, Vegane Hollandaise, zerlassene Butter (Mi), Salzkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2025-05-27",
-		"Additives": {},
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
 		"PriceAttendant": 7.2,
 		"PriceGuest": 8.4,
 		"PriceStudent": 5.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
