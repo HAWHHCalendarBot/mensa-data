@@ -1,12 +1,48 @@
 [
 	{
-		"Name": "Pomodoro asiatico mit asiatischer Tomatensoße und Soja Chunks (2,So,Se,GlW), Reis",
+		"Name": "Brasilianische schwarze Bohnensoße",
+		"Category": "Pastabar",
+		"Date": "2025-05-28",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffel-Blumenkohl-Champignonpfanne,  Kohlrabigemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-28",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Linsenbolognese in pikanter Soße (Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-28",
 		"Additives": {
-			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spinatcremesoße (So,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-05-28",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -16,32 +52,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "all`Amatriciana mit Speck und Tomaten (2,3,8), bunte Fusilli (GlW)",
+		"Name": "Rindfleischstreifen mit Spargel und Hollandaise (Ei,Mi,Sl),  Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-05-28",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"8": "Phosphat",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Pig": true
+		"Beef": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo, spanisches Kartoffelgemüse, Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini, Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
+		"Name": "pikante rote Beete Soße mit Kapern (2,9,So,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-05-28",
 		"Additives": {
 			"2": "Konservierungsstoff",
-			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
