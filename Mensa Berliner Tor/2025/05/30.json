@@ -1,14 +1,53 @@
 [
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
+		"Name": "Pasta (GlW), Tomatensoße, vegan",
+		"Category": "Pastabar",
+		"Date": "2025-05-30",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zucchini, vegan, Karotten, vegan (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2025-05-30",
 		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta in Tomaten Paprikacreme mit Käse gebacken (Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-30",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta, VEGAN (GlW), Sonnenblumenhack-Lauchcreme (1,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-05-30",
+		"Additives": {
 			"1": "Farbstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -73,7 +112,7 @@
 	},
 	{
 		"Name": "Veganer Cheeseburger, Tomaten und Gewürzgurke (1,2,9,Sf,Se,GlW,GlD), Pommes Frites (Sf)",
-		"Category": "CampusKlassiker",
+		"Category": "Highlight",
 		"Date": "2025-05-30",
 		"Additives": {
 			"1": "Farbstoff",
