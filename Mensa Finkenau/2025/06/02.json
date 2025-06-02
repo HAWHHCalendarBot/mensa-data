@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-02",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Aglio e olio mit Tomate und Knoblauch in Olivenöl, Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-02",
@@ -22,6 +11,23 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Spitzkohl in Rahm (So), Romanesco (Sl), Fenchelgemüse (Sl), Dinkel-Bratling (Ei,So,GlW,GlD), Gemüsemix Balance",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-02",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl)",
@@ -36,6 +42,36 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW), Putenbrust (Sl,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-06-02",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Indische Tomaten-Linsensuppe (Sf,GlW), Putenbrust (Sl,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-06-02",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl, Sojajoghurt-Minz Dip (3,So)",

@@ -1,10 +1,12 @@
 [
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Kicherserbsen Tomatenragout, Bulgur arabisch (Sl,GlW,NWa)",
+		"Category": "Gemüsebar",
 		"Date": "2025-06-02",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,35 +15,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Curry und Ragout:, orientalisches Kichererbsen - Tomatenragout, gebratenes Kichererbsencurry, Kicherserbsen Tomatenragout, Kartoffelragout in Dillsahne (Mi), weißes Bohnencurry (Sf), Dal Tadka - mit roten Linsen und Kokosmilch (2), Dal Palak - mit roten L",
+		"Name": "Kräuterkartoffeln mit Zwiebeln, Röstiecken, Gnocchi - Auflauf (Mi,GlW,GlG)",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-02",
 		"Additives": {
-			"2": "Konservierungsstoff",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NMa": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Gebackenes / Frittiertes:, Kartoffelspalten (GlW), Steakhouse - Pommes, Röstiecken, Röstinchen, Aufläufe:, Kartoffelgratin (Mi,Sl), Kartoffel  - Gemüsegratin (Mi,GlW,GlG), Kartoffel - Blumenkohlgratin (Mi,GlW,GlG), Gnocchi - Auflauf (Mi,GlW,GlG), Spätzle",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-02",
-		"Additives": {
-			"3": "Antioxidationsmittel",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -49,25 +29,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gebratene Mungosprossen (2,So,GlW), Bohne:, gebratene Bohnen, Bohnen mit Knoblauch und Ingwer, Erbsen:, Erbsen, Spicy Erbsen (2), Blumenkohl:, Blumenkohl, gebackener Cajun - Blumenkohl, gebackener Tandoori - Blumenkohl (1,Sf), Blumenkohl mit Sesammarinade",
+		"Name": "Pasta mit Cherrytomaten,Basilikumpesto,Ruccola (Mi,GlW,NCa)",
+		"Category": "Pastabar",
+		"Date": "2025-06-02",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "gebratene Mungosprossen (2,So,GlW), Bohnen mit Knoblauch und Ingwer, gebackener Cajun - Blumenkohl, orientalische Zuckermöhren, gebratener Wirsingkohl mit Kreuzkümmel, Süßkartoffel ,,Madras,,, gebratene Cajun Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-02",
 		"Additives": {
-			"1": "Farbstoff",
 			"2": "Konservierungsstoff",
-			"3": "Antioxidationsmittel",
-			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
@@ -79,18 +66,6 @@
 		"PriceStudent": 5.9,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-06-02",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
