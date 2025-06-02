@@ -13,15 +13,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Omelette gratiniert mit Tomate und Käse (Ei,Mi), Blattspinat in Rahm (Mi,GlW), kleine Ofenkartoffeln",
+		"Category": "CampusKlassiker",
 		"Date": "2025-06-10",
-		"Additives": {},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.4,
-		"PriceStudent": 5.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.37,
+		"PriceGuest": 6.57,
+		"PriceStudent": 4.07,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Seelachsfilet mit Kräuterkruste (Fi,Mi,GlW), Tomaten-Gemüse Sugo, hausgemachtes Kartoffelpüree (Mi)",
