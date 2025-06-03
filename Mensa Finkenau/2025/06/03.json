@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-03",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Aglio e olio mit Tomate und Knoblauch in Olivenöl, Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-03",
@@ -24,11 +13,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Zartweizen-Tomatentopf mit Pilzen (Sl,Sw,GlW)",
+		"Name": "Spitzkohl in Rahm (So), Gemüsemix Balance, Fenchelgemüse (Sl), Rosenkohl, Wokgemüse mit Pflaumen (Sl,Sw), Süßkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-03",
+		"Additives": {
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomatentopf mit Pilzen und Reis (Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2025-06-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -56,7 +59,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Ei,Mi,Sl,Sf,Sw,GlW), Pommes Frites (Sf)",
+		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Ei,Mi,Sl,Sf,Sw,GlW), Pommes Frites (Sf), Kürbis Chiasamen Bratling",
 		"Category": "CampusSpezial",
 		"Date": "2025-06-03",
 		"Additives": {

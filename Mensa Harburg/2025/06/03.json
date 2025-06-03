@@ -13,7 +13,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl,  Reis,  Prinzessbohnen,  Erbsen (1),  Maisgemüse (1),  Gartengemüse",
+		"Name": "gerösteter Blumenkohl, Reis, Prinzessbohnen, Erbsen (1), Maisgemüse (1), Gartengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-03",
 		"Additives": {
@@ -26,10 +26,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Leipziger Allerlei mit Karotten, Erbsen und Spargel (So,Sl,Sw)",
+		"Name": "Leipziger Allerlei mit Karotten, Erbsen und Spargel (So,Sl,Sw), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-03",
 		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -41,11 +42,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta mit pikanten Hähnchenstreifen und Peperoni (3,So,Mi,Sl)",
+		"Name": "Pasta mit pikanten Hähnchenstreifen und Peperoni (3,So,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-03",
 		"Additives": {
 			"3": "Antioxidationsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
@@ -56,7 +58,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Soja Geschnetzeltes mit Austernpilzen (2,So,Sl,Se,GlW)",
+		"Name": "Soja Geschnetzeltes mit Austernpilzen (2,So,Sl,Se,GlW), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-03",
 		"Additives": {
@@ -105,13 +107,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (Mi), glasierte Karotten, Gemüse Bulgur (Sl,GlW)",
+		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (So,Mi), glasierte Karotten, Gemüse Bulgur (Sl,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-06-03",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.4,
 		"PriceGuest": 7.6,

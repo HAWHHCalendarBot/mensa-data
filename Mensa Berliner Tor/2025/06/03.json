@@ -1,11 +1,43 @@
 [
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Reis",
-		"Category": "Gemüsebar",
+		"Name": "Pasta (GlW), in Gorgonzola- Sahnesoße (Mi)",
+		"Category": "Pastabar",
 		"Date": "2025-06-03",
 		"Additives": {
-			"6": "Geschwärzt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Pasta (GlW), Asiatische Gemüsesoße süß-sauer mit Rinderstreifen (2,9,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-06-03",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Reisnudeln mit Tofu (2,En,So,Se,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-03",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
