@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Reis",
-		"Category": "Gemüsebar",
+		"Name": "Brasilianische schwarze Bohnensoße mit Tofu (So)",
+		"Category": "Pastabar",
 		"Date": "2025-06-03",
 		"Additives": {
-			"6": "Geschwärzt",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -14,27 +13,56 @@
 		"Vegan": true
 	},
 	{
-		"Name": "mit Hähnchenstreifen in Tomatensoße (Sl), Vollkorn Fussili (GlW)",
-		"Category": "Pastabar",
+		"Name": "gerösteter Blumenkohl,  Reis,  Prinzessbohnen,  Erbsen (1),  Maisgemüse (1),  Gartengemüse",
+		"Category": "Gemüsebar",
 		"Date": "2025-06-03",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"1": "Farbstoff"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "mit Sonnenblumenhack-Lauchcreme (1,So,Sl,Sf,GlW), Vollkorn Fussili (GlW)",
+		"Name": "Leipziger Allerlei mit Karotten, Erbsen und Spargel (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-06-03",
 		"Additives": {
-			"1": "Farbstoff",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta mit pikanten Hähnchenstreifen und Peperoni (3,So,Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-06-03",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
+		"Name": "Soja Geschnetzeltes mit Austernpilzen (2,So,Sl,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-03",
+		"Additives": {
+			"2": "Konservierungsstoff",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
@@ -60,7 +88,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (Mi), glasierte Honigmöhren, Gemüse Bulgur (Sl,GlW)",
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW), Conchiglie (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-06-03",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.25,
+		"PriceGuest": 5.45,
+		"PriceStudent": 2.95,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchenbrust im Knuspermantel (GlW), Joghurt-Zitronen-Dip (Mi), glasierte Karotten, Gemüse Bulgur (Sl,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-06-03",
 		"Additives": {
