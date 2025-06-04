@@ -1,25 +1,11 @@
 [
 	{
-		"Name": "mit Tomaten-Sahnesoße mit Zucchiniwürfel (Mi), Penne (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-06-04",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
+		"Name": "Spinatcremesoße mit Tofu (So,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-04",
 		"Additives": {
-			"1": "Farbstoff",
-			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -28,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "mit Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl), Penne (GlW)",
+		"Name": "Rinderhackfleisch mit Paprika in Cremesoße (Mi,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-04",
 		"Additives": {
@@ -40,6 +26,36 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Beef": true
+	},
+	{
+		"Name": "Zartweizen mit Gemüse (Sl,GlW),  Brechbohnen mit Kräutern,  Glacierte Pastinaken,  Karotten (1),  Reis",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-04",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Asiatische Soja-Bolognese mit Gemüse (So,Mi,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
