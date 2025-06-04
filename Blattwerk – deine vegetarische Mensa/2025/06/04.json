@@ -1,16 +1,31 @@
 [
 	{
-		"Name": "Crema di Zucchine e Pomodoro mit Tomaten-Sahnesoße und Zucchini (Mi), bunte Fusilli (GlW)",
+		"Name": "Crema con Pomodori e fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (So), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-04",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Crema di Zucchine e Soja-Creme mit Sojasoße und Zucchini (So), bunte Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-04",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
@@ -25,20 +40,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Crema di fagioli bianchi mit weißen Bohnen, Gemüse und Basilikum (Mi,Sl), bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-06-04",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Möhren-Edamame-Curry mit Reisnudeln (So,Sl)",
@@ -69,7 +70,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "veganer Grillteller (2,So,GlW,GlG), Ajvar Dip (3,So,Sf), Weißkrautsalat (3,5,Sw), Reis",
+		"Name": "veganer Grillteller (2,So,Sf,GlW,GlG,GlH), Ajvar Dip (3,So,Sf), Weißkrautsalat (3,5,Sw), Pommes Frites (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2025-06-04",
 		"Additives": {
@@ -77,6 +78,7 @@
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
