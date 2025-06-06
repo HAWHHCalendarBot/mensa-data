@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Kräuterkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Saporita mit Soja und Paprika (So,Sl), Kräuterkartoffeln",
+		"Category": "Pastabar",
 		"Date": "2025-06-06",
 		"Additives": {
-			"1": "Farbstoff"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,13 +14,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Soja und Paprika (So,Sl), Farfalle (GlW)",
-		"Category": "Pastabar",
+		"Name": "glasierte rote Beete, Broccoli, frisches Gemüse aus dem Wok (2,Sw), Spitzkohl in Rahm (So)",
+		"Category": "Gemüsebar",
 		"Date": "2025-06-06",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
+			"2": "Konservierungsstoff",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -88,6 +89,34 @@
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2025-06-06",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Deutscher Spargel, Hollandaise (Ei,Mi,Sl,Sw), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2025-06-06",
+		"Additives": {
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Alcohol": true,
 		"Vegetarian": true
 	}
 ]
