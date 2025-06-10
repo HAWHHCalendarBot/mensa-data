@@ -1,5 +1,82 @@
 [
 	{
+		"Name": "Buntes Ofengemüse",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-18",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Niedersächsische Ofenkartoffeln vegan",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-18",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schleswig Holsteinisches Bohnengemüse vegan",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-18",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Knackige Gemüsepfanne (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-18",
+		"Additives": {
+			"1": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Badisches Pfannenglück nach Maultaschenart (1,Ei,Mi,GlD)",
+		"Category": "Pastabar",
+		"Date": "2025-06-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Schwäbische Käseknöpfle (1,Ei,GlW,GlD)",
+		"Category": "Pastabar",
+		"Date": "2025-06-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlD": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Sächsischer Kartoffeleintopf mit veganer Wurst (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-06-18",
@@ -13,7 +90,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Berliner Döner Bowl vegan (3,5,So,Sw,GlW)",
+		"Name": "Berliner Döner Bowl vegan mit Seitan (3,5,So,Sw,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-06-18",
 		"Additives": {
@@ -28,5 +105,41 @@
 		"PriceStudent": 3.5,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Thüringer Klöße mit Pilzrahmsoße und krossem Wirsingtopping (2,So,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-06-18",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hamburger \"Labskaus\" vegetarisch (1,2,3,5,9,Ei,So,Mi,Sf,Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2025-06-18",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"5": "Geschwefelt",
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.4,
+		"PriceGuest": 8.6,
+		"PriceStudent": 6.1,
+		"Vegetarian": true
 	}
 ]

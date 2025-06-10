@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Prinzessbohnen, glasiertes Wurzelgemüse (Mi,Sl), Fingermöhrchen (Mi), Broccoli",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-10",
+		"Additives": {
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "in einer Tomaten- Gemüsesoße mit Auberginen, Tomaten, Zucchini und Kapern (Sw), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-10",
@@ -45,7 +58,7 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Wok-Gemüse, Reis",
+		"Name": "Hähnchen-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW), Wok-Gemüse, Reis",
 		"Category": "CampusWorld",
 		"Date": "2025-06-10",
 		"Additives": {
@@ -59,20 +72,22 @@
 		"PriceGuest": 10.2,
 		"PriceStudent": 5.1,
 		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
-		"Name": "Seelachsfilet mit Kräuterkruste (Fi,Mi,GlW), Tomaten-Gemüse Sugo, hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Veganes Knusperschnitzel (GlW), Salzkartoffeln, Gewürzgurkensalat, Sojajoghurt Dip (3,So,Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2025-06-10",
 		"Additives": {
-			"Fi": "Fisch und Fischerzeugnisse",
+			"3": "Antioxidationsmittel",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sf": "Senf und Senferzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 7.25,
 		"PriceGuest": 11.9,
 		"PriceStudent": 5.95,
-		"Fish": true
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
