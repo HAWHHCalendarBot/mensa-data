@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-11",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "mit Waldpilzen in Sahnesoße und Basilikum (Mi,Sw,GlW,GlG), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-11",
@@ -24,6 +13,26 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Champignons (Sw), Broccoli &amp; Blumenkohl, Weiße Bohnen mediterraneo, Weißkohlgemüse mit Speck und Zwiebeln (2,3,8), Soja-Geschnetzeltes in Erdnusssoße (2,En,So,Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-11",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"8": "Phosphat",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Erbsensuppe mit Räuchertofu (So,Sl)",
@@ -55,12 +64,13 @@
 		"Poultry": true
 	},
 	{
-		"Name": "gebackener Hirtenkäse (Mi), Tomatenbulgur (6,So,GlW), Chimichurri (3), Rucola",
+		"Name": "gebackener Hirtenkäse (Mi), Tomatenbulgur (6,So,GlW), Kräuter Dip (3,GlH), Rucola",
 		"Category": "CampusVital",
 		"Date": "2025-06-11",
 		"Additives": {
 			"3": "Antioxidationsmittel",
 			"6": "Geschwärzt",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"So": "Soja und Sojaerzeugnisse"
