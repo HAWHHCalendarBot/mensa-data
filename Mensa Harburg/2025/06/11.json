@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Bolognese mit Rinderhackfleisch (Sl), Maccaroni (GlW)",
+		"Name": "Bolognese mit Rinderhackfleisch (Sl), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-11",
 		"Additives": {
@@ -14,7 +14,7 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), Basmatireis",
+		"Name": "gerösteter Blumenkohl, Wok Gemüsepfanne (2,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-11",
 		"Additives": {
@@ -28,19 +28,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "mit Waldpilzen in Sahnesoße und Basilikum (Mi,Sw,GlW,GlG), Maccaroni (GlW)",
+		"Name": "Waldpilze in Sojasahnesoße (So,Sw), Pasta nach Wahl (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-11",
 		"Additives": {
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sojageschnetzeltes mit Nüssen (So,Sl,Sf,GlW,NHa,NWa), Zartweizen mit Gemüse (Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-11",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"NWa": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch, Reis",
