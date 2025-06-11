@@ -67,20 +67,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Basic green Salat, Blattsalat, Karotten,Erbsen,Rote Beete, Gurken, Croutons Balsamico-Dressing (Mi,Sl,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2025-06-13",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.0,
-		"PriceGuest": 5.7,
-		"PriceStudent": 4.2,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Baked Potato \"Mexican\" mit Chili sin carne, Kidneybohnen, Mais, Jalapeneos, Nachos, Sour Cream (2,3,4,Ei,So,Mi,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-06-13",
@@ -99,17 +85,40 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Chick 'n sheep Salat, Hähnchen, Karotten, Feta, Gurke, Ei, Sonnenblumenkerne Balsamico - Dressing (Ei,So,Mi)",
+		"Name": "Green Bowl mit Prinzeßbohnen, rote Beete, Avocado, frischem Blattspinat, Erdnuss-Dressing (2,3,En,So,GlW)",
+		"Category": "Highlight",
+		"Date": "2025-06-13",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"En": "Erdnüsse und Erdnusserzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.4,
+		"PriceStudent": 5.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hello Chicken Bowl, Hähnchenbrust, Mango, Ananas, Zucchini, Avocado, Reis, Mandarinen Dressing (1,2,3,9,Ei,So,Sf,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2025-06-13",
 		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"3": "Antioxidationsmittel",
+			"9": "Süßungsmittel",
 			"Ei": "Ei und Eierzeugnisse",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.55,
-		"PriceGuest": 7.25,
-		"PriceStudent": 5.75,
+		"PriceAttendant": 7.7,
+		"PriceGuest": 8.4,
+		"PriceStudent": 6.9,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
