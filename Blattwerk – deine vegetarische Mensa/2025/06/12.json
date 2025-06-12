@@ -15,18 +15,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Crema di funghi mit Champignons in Cremesoße (Mi,Sl), bunte Fusilli (GlW)",
+		"Name": "Crema di funghi mit Champignons in Cremesoße (So,Sl), bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-12",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pasta al forno greco griechischer Nudelauflauf (Ei,Mi,GlW)",
@@ -74,6 +75,23 @@
 		"PriceStudent": 3.95,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pikante Kartoffelsalat mit Ajvar (2,Sf), Vegetarisches Schnitzel in Knusperpanade (Ei,Mi,GlW,GlH)",
+		"Category": "CampusWorld",
+		"Date": "2025-06-12",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Guacamole Bites (3,Mi,Sf,Sw,GlW), Mexican Reispfanne, Chili Dip (4,Mi)",
