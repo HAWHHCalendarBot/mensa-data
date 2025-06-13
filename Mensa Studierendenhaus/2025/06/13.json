@@ -1,10 +1,31 @@
 [
 	{
-		"Name": "Farfalle (GlW)",
+		"Name": "Zucchini mit Waldplizen Sahnesoße (Mi,Sw,GlW,GlG), Kartoffelgratin (Ei,Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-06-13",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"Ei": "Ei und Eierzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Edamame (So), Bulgur mit Tomate und Peperoni (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-13",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,7 +34,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Farfalle (GlW)",
+		"Name": "Pasta spinaci e arachidi mit Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-13",
 		"Additives": {
@@ -29,27 +50,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Kartoffelgratin (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-13",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"NCa": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"Sf": "Senf und Senferzeugnisse",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
@@ -77,6 +77,21 @@
 		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "gebackener Hirtenkäse (Mi), Tomatenreis mit Edamame und Oliven (6,So), Chimichurri (3), Rucola",
+		"Category": "CampusVital",
+		"Date": "2025-06-13",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"6": "Geschwärzt",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.45,
+		"PriceGuest": 7.65,
+		"PriceStudent": 5.15,
+		"Vegetarian": true
 	},
 	{
 		"Name": "veganer Grillteller (2,So,GlW,GlG), Ajvar Dip (3,So,Sf), Pommes Frites (Sf), Weißkrautsalat (3,5,Sw)",
