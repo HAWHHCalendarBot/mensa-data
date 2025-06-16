@@ -12,11 +12,10 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Rinderhackfleisch in einer Paprika- Sahnesoße (Mi,Sl), Conchiglie (GlW)",
+		"Name": "Rinderhackfleisch in einer Paprika- Sahnesoße (Mi,Sl), Süßkartoffel Gnocchi",
 		"Category": "Pastabar",
 		"Date": "2025-06-16",
 		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -26,7 +25,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen mit Balsamico Bianco (3,5,Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi in Rahm (So,Mi,GlW), Süßkartoffel Gnocchi",
+		"Name": "Karotten (1), Auberginen mit Balsamico Bianco (3,5,Sw), Kohlrabi in Rahm (1,So,GlW), Paprikagemüse mit Zwiebeln und Lauch, Gemüse süß sauer aus dem Wok (Sl,Sf,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-16",
 		"Additives": {
@@ -34,14 +33,16 @@
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
