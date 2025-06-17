@@ -1,21 +1,37 @@
 [
 	{
-		"Name": "Couscous (Sl,GlW), Gemüsepfanne mit Hähnchenstreifen (6)",
+		"Name": "Couscous (Sl,GlW), Gemüsepfanne mit Hähnchenstreifen (6), Kartoffelspalten (GlW), Stangenbrechbohnen Provencial, Tricolore Gemüse (Mi,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-17",
 		"Additives": {
 			"6": "Geschwärzt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG), Penne (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-17",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Beef": true
+	},
+	{
+		"Name": "Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-17",
 		"Additives": {
@@ -87,24 +103,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Joghurt-Zitronen-Dip (Mi), pikanter Karottensalat (3), Röstkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2025-06-17",
 		"Additives": {
-			"1": "Farbstoff",
-			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
 			"Fi": "Fisch und Fischerzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"So": "Soja und Sojaerzeugnisse",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 7.1,
 		"PriceGuest": 11.6,
 		"PriceStudent": 5.8,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Joghurt-Zitronen-Dip (Mi), pikanter Karottensalat (3), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2025-06-17",
+		"Additives": {
+			"3": "Antioxidationsmittel",
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 11.6,
+		"PriceStudent": 5.8,
+		"Fish": true
 	}
 ]
