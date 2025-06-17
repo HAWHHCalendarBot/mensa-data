@@ -1,24 +1,11 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
+		"Name": "Kohlrabigemüse mit Karotten (1),  Broccoli,  veganer Wirsing in Sojarahm (So),  Erbsen- Karotten Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-17",
 		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Tomaten- Kräuter- Gemüsesoße (Sw), Strozzapreti (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-06-17",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"1": "Farbstoff",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,12 +14,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG), Strozzapreti (GlW)",
+		"Name": "Linsen mit Soja in pikanter Tomatensoße (Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-17",
 		"Additives": {
-			"3": "Antioxidationsmittel",
-			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gyros in cremiger Knoblauchsoße (Mi,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-17",
+		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
@@ -40,7 +39,7 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"Poultry": true
 	},
 	{
 		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
