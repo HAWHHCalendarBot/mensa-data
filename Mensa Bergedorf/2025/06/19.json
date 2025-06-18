@@ -42,19 +42,22 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Knoblauch- Kartoffelsuppe (9,Ei,So,Mi,Sl,Sf), Kräuterbrot (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-06-19",
 		"Additives": {
+			"9": "Süßungsmittel",
+			"Ei": "Ei und Eierzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,GlW), Vollkornreis",
