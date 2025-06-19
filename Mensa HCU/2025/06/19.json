@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "Mais-Polenta (Mi,Sl)",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-19",
-		"Additives": {
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,NHa), Eliche (GlW)",
+		"Name": "Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,NHa), Nudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-19",
 		"Additives": {
@@ -26,6 +13,23 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Mais-Polenta (Mi,Sl), Teriyaki  Champignons (So,Sw,GlW), gerösteter Rosenkohl mit Sesampaste (Se), Spargelgemüse (Mi), Blumenkohl-Karotten Mix",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-19",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
@@ -56,7 +60,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Dattel-Curry Falafel (GlW), grünem Hummus (Se), Rotkrautsalat (3), gebackene Süßkartoffel",
+		"Name": "Dattel-Curry Falafel (GlW), Hummus (Se), Rotkrautsalat (3), gebackene Süßkartoffel",
 		"Category": "CampusKlassiker",
 		"Date": "2025-06-19",
 		"Additives": {
@@ -71,7 +75,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hamburger Pannfisch Burger (9,Fi,Sf,Se,Sw,GlW), Senf-Dill-Soße (1,3,5,9,Ei,Mi,Sf,Sw), Pommes Frites (Sf)",
+		"Name": "Hamburger Pannfisch Burger (Fi,Se,Sw,GlW), Senf-Dill-Soße (1,3,5,9,Ei,Mi,Sf,Sw), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2025-06-19",
 		"Additives": {
