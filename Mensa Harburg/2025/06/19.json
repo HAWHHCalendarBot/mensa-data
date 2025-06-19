@@ -1,11 +1,11 @@
 [
 	{
-		"Name": "Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,NHa), Eliche (GlW)",
+		"Name": "Tomatensoße mit Paprika (6,Sl), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-19",
 		"Additives": {
+			"6": "Geschwärzt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"NHa": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -15,27 +15,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl), Bunte Fusilli (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-06-19",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Poultry": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW)",
+		"Name": "Blumenkohl mit Hollandaise (Ei,Mi,Sl),  Brechbohnen,  Karotten (1),  Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-19",
 		"Additives": {
 			"1": "Farbstoff",
 			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -45,7 +30,41 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Don Pepe mit Seelachs in Safransoße (Fi,Mi,Sl,GlW,GlG), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-19",
+		"Additives": {
+			"Fi": "Fisch und Fischerzeugnisse",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Fish": true
+	},
+	{
+		"Name": "Geflügelcurry mit Gemüse (1,2,5,Mi,Sf,Sw), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-06-19",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"5": "Geschwefelt",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
+		"Name": "Erbsencremesuppe (So,Sl), Schrippe (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-06-19",
 		"Additives": {
@@ -60,7 +79,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Putengulasch (Mi,Sl,GlW), Penne (GlW)",
+		"Name": "Putengulasch (Mi,Sl,GlW), Reis",
 		"Category": "CampusKlassiker",
 		"Date": "2025-06-19",
 		"Additives": {
