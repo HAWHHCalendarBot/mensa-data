@@ -1,39 +1,35 @@
 [
 	{
-		"Name": "Broccoli in Tomatensoße, Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-06-20",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Linsen in pikanter Tomatensoße (Sl), Farfalle (GlW)",
-		"Category": "Pastabar",
-		"Date": "2025-06-20",
-		"Additives": {
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl), spanisches Kartoffelgemüse, gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9)",
+		"Name": "Champignon, vegan, buntem Gemüse, vegan",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-20",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Kresserahmsoße (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2025-06-20",
 		"Additives": {
-			"1": "Farbstoff",
-			"5": "Geschwefelt",
-			"9": "Süßungsmittel",
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Vegane Wurstgulasch mit Paprika und Champignons (Sl,Sw), Pommes Frites (Sf)",
+		"Category": "Pastabar",
+		"Date": "2025-06-20",
+		"Additives": {
+			"Sf": "Senf und Senferzeugnisse",
 			"Sl": "Sellerie und Sellerieerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -75,6 +71,19 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Pizza Margherita Large (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-06-20",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Vegan / Vegetarische PIZZA LARGE nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-06-20",
@@ -100,5 +109,59 @@
 		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pizza Margeritha vegan Large (1,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-06-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.95,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pizza Funghi Large (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-06-20",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pizza Funghi vegan Large (1,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-06-20",
+		"Additives": {
+			"1": "Farbstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pizza Rucola mit Rucola, Hartkäse, Knoblauch und Käse Large (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-06-20",
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 7.0,
+		"PriceGuest": 8.2,
+		"PriceStudent": 5.7,
+		"Vegetarian": true
 	}
 ]

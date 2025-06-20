@@ -44,11 +44,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl)",
+		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-06-20",
 		"Additives": {
-			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
@@ -78,14 +78,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one Pot: Paneer, Bohnen, Blumenkohl, Karotte (So,Mi,Sf), Birnen-Chutney (3,5,Sw), Kokosreis",
+		"Name": "All in one Pot: geösteter  Blumenkohl, Karotte und Spitzkohl (Ei,Mi), Pflaumensoße (2,3,5,So,Sw,GlW), vegane Mi-Nudeln (So,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-06-20",
 		"Additives": {
+			"2": "Konservierungsstoff",
 			"3": "Antioxidationsmittel",
 			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sf": "Senf und Senferzeugnisse",
 			"So": "Soja und Sojaerzeugnisse",
 			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -93,22 +95,5 @@
 		"PriceGuest": 7.05,
 		"PriceStudent": 4.55,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Mariniertes Tofusteak (2,So,GlW), Gurken-Sprossen-Salat (2,9,So,Se,GlW), Udon-Nudeln (GlW)",
-		"Category": "CampusVital",
-		"Date": "2025-06-20",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"9": "Süßungsmittel",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 6.5,
-		"PriceGuest": 7.7,
-		"PriceStudent": 5.2,
-		"LactoseFree": true,
-		"Vegan": true
 	}
 ]
