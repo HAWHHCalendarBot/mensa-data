@@ -1,11 +1,26 @@
 [
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Reis",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Fleischsoße mit Zwiebeln (Mi,Sf)",
+		"Category": "Pastabar",
 		"Date": "2025-06-24",
 		"Additives": {
-			"6": "Geschwärzt",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sf": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Pig": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane BBQ Sahnesoße (Sf,GlH)",
+		"Category": "Pastabar",
+		"Date": "2025-06-24",
+		"Additives": {
+			"GlH": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -14,21 +29,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Hähnchenstreifen in Tomatensoße (Sl)",
+		"Name": "vegane Spanische Albondigas in Tomaten-Paprikasugo (So,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-06-24",
 		"Additives": {
+			"GlG": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sl": "Sellerie und Sellerieerzeugnisse"
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (1,So,Sl,Sf,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Sonnenblumenhack-Bolognese (1,So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-24",
 		"Additives": {
@@ -45,12 +61,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Linsencurry (Sf,GlW), Couscous (GlW)",
+		"Name": "Schwarzwurzeln, Fingermöhrchen, Brechbohnen, Asiatische Gemüsesoße (1,2,9,So,Sl,GlW), Reis",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-24",
+		"Additives": {
+			"1": "Farbstoff",
+			"2": "Konservierungsstoff",
+			"9": "Süßungsmittel",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indisches Linsencurry (Sl,Sf,GlW), Couscous (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-06-24",
 		"Additives": {
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Sf": "Senf und Senferzeugnisse"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -59,7 +94,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Pfefferrahmsoße (Mi), Kartoffelspalten (GlW)",
+		"Name": "Homemade paniertes Putenschnitzel Pariser Art in Käse-Ei-Hülle (Ei,Mi,GlW), Pfefferrahmsoße (Mi), Kartoffelspalten (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-06-24",
 		"Additives": {

@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-24",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (1,So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-06-24",
@@ -26,6 +15,25 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "gebratene Paprika (1,5,Sw), gebackene Süßkartoffel, gebratene Champignons (Sw), Chili Weißkohl (Sl), gebratene Zucchini, Spinat Frischkäse Maultaschen (Ei,So,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-24",
+		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
+			"Ei": "Ei und Eierzeugnisse",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indisches Linsencurry (Sf,GlW), Couscous (GlW)",
