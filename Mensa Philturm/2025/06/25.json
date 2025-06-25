@@ -44,6 +44,21 @@
 		"Vegan": true
 	},
 	{
+		"Name": "gebratene Mungosprossen (2,So,GlW), orientalische Zuckermöhren, gebratener Weißkohl mit Cranberrys, orientalische Aubergine, Süßkartoffel ,,Madras,,, Brechbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2025-06-25",
+		"Additives": {
+			"2": "Konservierungsstoff",
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"So": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pommes frites, Käsespätzle (Ei,Mi,GlW), Sesamkartoffeln (Se)",
 		"Category": "Gemüsebar",
 		"Date": "2025-06-25",
@@ -52,23 +67,6 @@
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "gebratene Mungosprossen (2,So,GlW), Blumenkohl mit Hollandaise (Ei,Mi,Sl), orientalische Zuckermöhren, gebratener Weißkohl mit Cranberrys, orientalische Aubergine, Süßkartoffel ,,Madras,,",
-		"Category": "Gemüsebar",
-		"Date": "2025-06-25",
-		"Additives": {
-			"2": "Konservierungsstoff",
-			"Ei": "Ei und Eierzeugnisse",
-			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Sl": "Sellerie und Sellerieerzeugnisse",
-			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -90,19 +88,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mezze Teller, Harissa- Rinderhack mit griechischem Joghurt, Wrap (En,Mi,GlW), Hummus (Se), Tabuleh-Salat (GlW), Tomaten-Sonnenblumenkern-Salsa",
+		"Name": "Mezze Teller, Harissa- Rinderhack mit Sojajoghurt, Wrap (En,So,GlW), Hummus (Se), Tabuleh-Salat (GlW), Tomaten-Sonnenblumenkern-Salsa",
 		"Category": "CampusWorld",
 		"Date": "2025-06-25",
 		"Additives": {
 			"En": "Erdnüsse und Erdnusserzeugnisse",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"Se": "Sesamsamen und Sesamsamenerzeugnisse"
+			"Se": "Sesamsamen und Sesamsamenerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 7.25,
 		"PriceGuest": 8.45,
 		"PriceStudent": 5.95,
-		"Beef": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Mezze Teller, Harissa- Sonnenblumenhack mit veganem Joghurt, Wrap (En,So,Sl,Sf,GlW), Hummus (Se), Tabuleh-Salat (GlW), Tomaten-Sonnenblumenkern-Salsa",
