@@ -1,9 +1,14 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
+		"Name": "Vollkorn Fussili (GlW), Tomaten-Sojasoße mit Zucchiniwürfel und Sonnenblumenhack (So,Sl,Sf)",
+		"Category": "Pastabar",
 		"Date": "2025-06-25",
-		"Additives": {},
+		"Additives": {
+			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"So": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,17 +16,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
-		"Category": "Pastabar",
+		"Name": "gebratene Paprika (1,5,Sw), gebackene Süßkartoffel, gebratene Champignons (Sw), Chili Weißkohl (Sl), gebratene Zucchini, Indisches Linsencurry (Sf,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2025-06-25",
 		"Additives": {
+			"1": "Farbstoff",
+			"5": "Geschwefelt",
 			"GlW": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"Mi": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"Sf": "Senf und Senferzeugnisse",
+			"Sl": "Sellerie und Sellerieerzeugnisse",
+			"Sw": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
