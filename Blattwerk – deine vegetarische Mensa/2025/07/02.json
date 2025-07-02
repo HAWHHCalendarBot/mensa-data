@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Maccaroni (GlW), Sojastreifen in scharfer Tomatensoße (So,Sl)",
+		"Name": "Pasta (GlW), Sojastreifen in scharfer Tomatensoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-07-02",
 		"Additives": {
@@ -30,7 +30,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
+		"Name": "Pasta (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-07-02",
 		"Additives": {
@@ -43,6 +43,43 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Mie-Nudelsalat mit Kräutern, geschmortem Tofu, Sesam und Kimchi (1,2,3,5,Ei,So,Sf,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-07-02",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.5,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Schupfnudeln (Ei,GlW), Steinpilzrahm mit Sahne (Mi,Sw), Cremespinat und Hartkäse (2,Ei,Mi,Sl,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-07-02",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8
 	},
 	{
 		"Name": "Rote Beete Stäbchen (Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Gewürzgurke (2,9), Bratkartoffeln",
