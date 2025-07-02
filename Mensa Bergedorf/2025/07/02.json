@@ -59,15 +59,13 @@
 		"Pig": true
 	},
 	{
-		"Name": "Linsen Hirsebällchen (GlW,GlH), Bulgur Tomaten Salat (3,5,Sw,GlW), hausgemachtes Petersilienpesto, Rucola",
+		"Name": "Linsen Hirsebällchen (GlW,GlH), CousCous Tomatensalat (Sl,GlW), hausgemachtes Petersilienpesto, Rucola",
 		"Category": "CampusSpezial",
 		"Date": "2025-07-02",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
 		"PriceGuest": 7.3,
@@ -76,17 +74,55 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Taco Shells gefüllt mit mariniertem veganem Kebab (2,3,So,GlW), Paprikareis",
+		"Name": "Hamburger mit Tomate, Gurke und Salat (1,2,3,9,Ei,Sf,Se,GlW), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-07-02",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Veganer Dönerteller (Sw), Tzatziki (Sf,GlH), Reis, Weißkrautsalat (3,5,Sw)",
 		"Category": "CampusVital",
 		"Date": "2025-07-02",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.1,
 		"PriceGuest": 8.3,
 		"PriceStudent": 5.8,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Putensteak (GlW), Champignonrahmsoße (Mi,Sl), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-07-02",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 7.3,
+		"PriceGuest": 8.5,
+		"PriceStudent": 6.0,
+		"Poultry": true
 	}
 ]
