@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "Fusilli (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl",
-		"Category": "Pastabar",
+		"Name": "orientalischer Gewürzreis, Prinzessbohnen, Retro Gemüse (Sl), gerösteter Broccoli, Gartengemüse",
+		"Category": "Gemüsebar",
 		"Date": "2025-07-14",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,37 +13,51 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit Hirtenkäse (Mi), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Soja Kichererbsen Gemüseragout (So,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-07-14",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), vegane Hackbällchen in Kräutersoße (So,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2025-07-14",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Geflügel-Gemüsecurry (Mi,Sl,Sf,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2025-07-14",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Fusilli (GlW), Schinkenstreifen in einer Käse- Sahnesoße (2,3,8,Mi,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2025-07-14",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Pig": true
+		"Poultry": true
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu und gebratene vegane Wurst (So,Sl,Sf)",

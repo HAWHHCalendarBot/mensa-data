@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-07-14",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Maccaroni (GlW),  Käse- Sahnesoße (Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-07-14",
@@ -24,6 +13,24 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Möhren-Broccoli-Pfanne, Tomate Weißkohl (Sl), Süßkartoffeln, Gemüse (Sw), Linsengemüse (2,3,5,8,Sl,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2025-07-14",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu und gebratene vegane Wurst (So,Sl,Sf)",
