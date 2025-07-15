@@ -1,6 +1,22 @@
 [
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (1,So,Sl,Sf,GlW)",
+		"Name": "Blumenkohl, Romanesco (Sl), gebratene Champignons (Sw), Gartengemüse, Stangenbrechbohnen Provencial, Bauernkartoffeln mit Ei (Ei,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-07-15",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Nudeln (GlW), Sonnenblumenhack-Lauchcreme (1,So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-07-15",
 		"Additives": {
@@ -28,6 +44,22 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Dattel-Curry Falafel (GlW), orientalischer Bulgursalat mit Datteln und Cranberries (Sl,GlW), Kräuter Dip (3,GlH), Frühlingslauch",
+		"Category": "CampusWorld",
+		"Date": "2025-07-15",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.35,
+		"PriceGuest": 10.1,
+		"PriceStudent": 5.05,
 		"LactoseFree": true,
 		"Vegan": true
 	},
