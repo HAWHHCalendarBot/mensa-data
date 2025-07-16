@@ -79,18 +79,39 @@
 		"Pig": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), Bolognese mit Rinderhackfleisch (Sl)",
+		"Name": "Frikadelle (Ei,GlW), Vollkorn-Pastasalat mit Hirtenkäse, Staudensellerie und Trauben (3,5,Mi,Sl,Sw,GlW,NWa), Senf (Sf)",
+		"Category": "CampusVital",
+		"Date": "2025-07-16",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.8,
+		"Beef": true,
+		"Pig": true
+	},
+	{
+		"Name": "Penne (GlW), Bolognese mit Rinderhackfleisch (Sl), Hartkäse (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-07-16",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
-		"Beef": true,
-		"LactoseFree": true
+		"Beef": true
 	},
 	{
 		"Name": "Vollkorn-PerlcousCous-Salat mit Kichererbsen und grünem Spargel, Grapefruit und Babyspinat (GlW), Linsen Hirsebällchen (GlW,GlH), süßer Senf Dip (So,Sf)",
@@ -124,6 +145,25 @@
 		"PriceGuest": 8.6,
 		"PriceStudent": 6.1,
 		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "Susländer Nackenbraten, Vollkorn-Pastasalat mit Hirtenkäse, Staudensellerie und Trauben (3,5,Mi,Sl,Sw,GlW,NWa), Senf (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2025-07-16",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.4,
+		"PriceGuest": 8.6,
+		"PriceStudent": 6.1,
 		"Pig": true
 	}
 ]
