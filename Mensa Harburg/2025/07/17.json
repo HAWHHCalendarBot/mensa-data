@@ -1,14 +1,9 @@
 [
 	{
-		"Name": "Bunte Nudeln (GlW), Tomatensoße mit Waldpilzen und Speck (2,3,8)",
-		"Category": "Pastabar",
+		"Name": "Susländer Nackenbraten",
+		"Category": "Gemüsebar",
 		"Date": "2025-07-17",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -16,30 +11,57 @@
 		"Pig": true
 	},
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
+		"Name": "buntes Kichererbsengemüse, Karotten, Blumenkohl, Mais-Kidneybohnen, Schwarzwurzeln, Perlcouscous (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-07-17",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rinderhack Rahmsoße (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-07-17",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"Beef": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Spinat Käse Soße (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-07-17",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-07-17",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -77,12 +99,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Gemüseragout (Sl,Sw), Reis",
+		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-07-17",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>9</strong>": "Süßungsmittel",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
