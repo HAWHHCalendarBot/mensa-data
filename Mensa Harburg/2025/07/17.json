@@ -70,12 +70,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Name": "Mediterraner Gemüsetopf (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2025-07-17",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -97,6 +98,26 @@
 		"PriceStudent": 3.3,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Fischbrötchen (So,GlW,GlG), mit Remoulade (2,3,Ei,Sf), Matjesfilets, (2,Fi), Salat und Zwiebeln",
+		"Category": "CampusKlassiker",
+		"Date": "2025-07-17",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.6,
+		"Fish": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",

@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-07-17",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Vollkorn Fussili (GlW), Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
 		"Category": "Pastabar",
 		"Date": "2025-07-17",
@@ -23,6 +12,22 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Bratkartoffeln, vegane Spanische Hackbällchen in Paprikasoße (So,Mi,Sl,GlW,GlG), gebratenem Wirsing, Porreegemüse in Rahm (So,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-07-17",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe mit Panini (Sl,Se,GlW,GlG)",
