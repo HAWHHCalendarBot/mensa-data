@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Pasta des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Spicy Erbsen (2), Blumenkohl mit Sesammarinade (Se), Sesam Broccoli (Se), orientalische Zuckermöhren, gebratener Weißkohl mit Curry, Cajun Süßkartoffel",
+		"Category": "Gemüsebar",
 		"Date": "2025-07-22",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,16 +14,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Curry und Ragout:, orientalischer CousCous (Sl,GlW,NMa,NWa), orientalisches Kichererbsen - Tomatenragout, gebratenes Kichererbsencurry, Kicherserbsen Tomatenragout, Kartoffelragout in Dillsahne (Mi), weißes Bohnencurry (Sf), Dal Tadka - mit roten Linsen u",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Paprika in Tomatensauce und Hirtenkäse (Mi,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-07-22",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -31,17 +28,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebackenes / Frittiertes:, Kartoffelspalten (GlW), Steakhouse - Pommes, Röstiecken, Röstinchen, Herzoginkartoffeln (Ei,Mi), Kroketten (GlW), Aufläufe:, Kartoffelgratin (Mi,Sl), Kartoffel  - Gemüsegratin (Mi,GlW,GlG), Kartoffel - Blumenkohlgratin (Mi,GlW,G",
+		"Name": "Steakhouse - Pommes, Kräuterkartoffeln mit Zwiebeln, Spätzle - Auflauf (Ei,Mi,GlW,GlG), Röstinchen",
 		"Category": "Gemüsebar",
 		"Date": "2025-07-22",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -49,25 +43,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gebratene Mungosprossen (2,So,Se,GlW), Bohne:, gebratene Bohnen, Bohnen mit Knoblauch und Ingwer, Erbsen:, Erbsen, Spicy Erbsen (2), Blumenkohl:, Blumenkohl, gebackener Cajun - Blumenkohl, gebackener Tandoori - Blumenkohl (1,Sf), Blumenkohl mit Sesammarin",
+		"Name": "orientalisches Kichererbsen - Tomatenragout, Bulgur arabisch (Sl,GlW,NMa,NWa)",
 		"Category": "Gemüsebar",
 		"Date": "2025-07-22",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Gebackener Gnocchi-Blumenkohl-Auflauf mit Bärlauch (Mi,Sf,GlW)",
