@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-07-23",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Farfalle (GlW), Tomaten- Kräuter- Gemüsesoße (Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-07-23",
@@ -23,6 +12,22 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Nudelauflauf mit Spinat in Sahnesoße und mit Hirtenkäse gebacken (Ei,Mi,GlW), Weißkohlgemüse mit Zwiebeln, Champignon-Zwiebel Gemüse (Mi,Sw,NCa), Karotten- Bohnengemüse",
+		"Category": "Gemüsebar",
+		"Date": "2025-07-23",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch, Reis",
@@ -48,7 +53,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Name": "Hühnchen in Kokos Soße (So,Sl), buntem Gemüse (Se), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2025-07-23",
 		"Additives": {
