@@ -76,6 +76,27 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Cheeseburger mit Gurken, Tomaten und Salat (1,2,3,9,Ei,Mi,Sf,Se,Sw,GlW), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-07-24",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Beef": true
+	},
+	{
 		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,GlW), Tomatensoße",
 		"Category": "CampusKlassiker",
 		"Date": "2025-07-24",
@@ -88,5 +109,18 @@
 		"PriceGuest": 7.35,
 		"PriceStudent": 4.85,
 		"Beef": true
+	},
+	{
+		"Name": "Susländer Nackenbraten, Bratensoße (Sl), Bratkartoffeln, Gartenbohnen mit Pfifferlingen und Cherrytomaten",
+		"Category": "CampusVital",
+		"Date": "2025-07-24",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"LactoseFree": true,
+		"Pig": true
 	}
 ]
