@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Bratkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2025-07-29",
-		"Additives": {
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta (GlW), Blumenkohl in einer Sahnesoße mit grünem Pfeffer (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-07-29",
@@ -40,6 +27,19 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing,, Kartoffelgratin mit Sahne und Käse (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2025-07-29",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta (GlW), Verdure e pesto mit Pfannengemüse, Pesto und Chili-Croutons (2,Mi,GlW,NCa)",
 		"Category": "CampusWorld",
 		"Date": "2025-07-29",
@@ -55,17 +55,39 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Süßkartoffel-Linsenpüree mit Römersalat und Limetten-Senf-Dressing (3,Sf,NMa)",
-		"Category": "CampusKlassiker",
+		"Name": "Gebackene Kartoffeldonuts mit Spinatsalat und Limetten-Senfdressing (1,3,9,Ei,Sf,GlW)",
+		"Category": "CampusSpezial",
 		"Date": "2025-07-29",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 5.65,
-		"PriceGuest": 6.85,
-		"PriceStudent": 4.35,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Glasnudelsalat mit Rettich, Pok Choi und veganem Geschnetzeltem (2,3,5,So,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-07-29",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.05,
+		"PriceGuest": 7.25,
+		"PriceStudent": 4.75,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -85,5 +107,23 @@
 		"PriceStudent": 4.95,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Süßkartoffel-Linsenpüree mit Römersalat und Limetten-Senf-Dressing (1,3,9,Ei,Mi,Sf,NMa)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-07-29",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.95,
+		"Vegetarian": true
 	}
 ]
