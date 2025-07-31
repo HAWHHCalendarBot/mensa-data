@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Eliche (GlW), Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,NHa)",
+		"Name": "Nudeln (GlW), Tomatensoße mit Paprika und getrocknete Tomaten (Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-07-31",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -15,13 +14,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Melanzane Bällchen (Mi,GlW), Kartoffelgratin mit buntem Gemüse (Ei,Mi), Gemüsecouscous (Sl,GlW), Orientalisches Kichererbsengemüse (2,5,Sw), Curry-Karotten (1,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2025-07-31",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-07-31",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -30,7 +49,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,GlW), Vollkornreis",
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,GlW), Reis",
 		"Category": "CampusVital",
 		"Date": "2025-07-31",
 		"Additives": {
@@ -46,16 +65,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schweinekotelette gebraten, Bratensoße (Sl), Brechbohnen, Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Schweinekotelette gebraten, Bratensoße (Sl), Brechbohnen, Röstkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2025-07-31",
 		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.25,
 		"PriceGuest": 9.9,
 		"PriceStudent": 4.95,
+		"LactoseFree": true,
 		"Pig": true
 	},
 	{
