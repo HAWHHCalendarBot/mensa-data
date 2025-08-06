@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Fusilli (GlW), Tomatenrahmsoße mit Sahne, getrocknetem Tomaten und Zucchini (Mi)",
+		"Name": "Pasta (GlW), Tomatenrahmsoße mit Sahne, getrocknetem Tomaten und Zucchini (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-08-06",
 		"Additives": {
@@ -11,20 +11,6 @@
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2025-08-06",
-		"Additives": {
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Pasta (GlW), weißen Bohnencreme mit Gemüse und Basilikum (So,Sl)",
@@ -40,6 +26,34 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Ratatouille (Sl), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, gerösteter Broccoli, Gnocchiauflauf mit Tomaten und Käse (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2025-08-06",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Bulgursalat mit Datteln und Cranberries, Hirtenkäse und Peperonatadip (3,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-08-06",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.2,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Vegetarisches Schnitzel in Knusperpanade (Ei,Mi,GlW,GlH), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
