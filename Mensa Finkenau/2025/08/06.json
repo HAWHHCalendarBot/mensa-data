@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "gebratene Zucchini",
+		"Name": "Süßkartoffeln, gebratene Zucchini, Broccoli, geschmorter Sellerie in Kokossoße (Sl,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2025-08-06",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -45,14 +48,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Currybratwurst (Sf), Grillsoße (2,9,Sl,Sf), Pommes Frites (Sf)",
+		"Name": "vegane Currybratwurst (Sf), Mango Currysoße (9,Sf), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-08-06",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 5.65,
 		"PriceGuest": 6.85,
