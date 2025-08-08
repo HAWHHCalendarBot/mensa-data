@@ -1,21 +1,54 @@
 [
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Nudeln (GlW), Austernpilze in Cremesoße VEGAN (Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-08-08",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Kartoffelgratin mit buntem Gemüse (Ei,Mi), Frischkäsepraline mit einer Kürbis Chili Füllung (Mi,GlW), Stangenbrechbohnen mit Broccoli und Spinat, Karotten Rustica, Currywursttopf (3,4,8,9,Sl,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2025-08-08",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Pig": true
+	},
+	{
+		"Name": "Gemüsegulasch (Sl), Bulgur (Sl,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-08-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsegulasch (Sl), Bulgur (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-08-08",
 		"Additives": {
