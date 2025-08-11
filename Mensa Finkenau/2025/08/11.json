@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
+		"Name": "geschmorte Aubergine (Sw), gerösteter Blumenkohl, gebratene Karotten, Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2025-08-11",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,7 +13,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi, Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Bunte Fusilli (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-08-11",
 		"Additives": {
@@ -28,10 +30,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW), Schinkenstreifen (2,3)",
 		"Category": "Pottkieker",
 		"Date": "2025-08-11",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
@@ -40,7 +44,7 @@
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
 		"Name": "Glasnudelsalat mit Rindfleisch, Erdnüssen, Röstzwiebeln und Koriander (2,3,En,So,Se,GlW)",
