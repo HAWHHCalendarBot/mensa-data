@@ -44,24 +44,41 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), Vegane Paprikacreme mit gebratenen Sonnenblumenhack und karamellisierten Sonnenblumenkernen (2,So,Sl,Sf,GlW)",
+		"Name": "Bulgursalat mit Basilikum, getrocknetem Tomaten und Mozzarella (2,5,Mi,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-08-12",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Strozzapreti (GlW), Vegane Paprikacreme mit gebratenen Sonnenblumenhack, Sonnenblumenkernen und veganer Käse (1,2,So,Sl,Sf,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-08-12",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.9,
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.4,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Quinoa-Erbsen-Bratling, Kohlrabi in Rahm (Mi,GlW), Salzkartoffeln",
+		"Name": "Quinoa-Erbsen-Bratling, Kohlrabi in Rahm (Mi,GlW), Röstkartoffel (Mi,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-08-12",
 		"Additives": {
@@ -74,11 +91,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Grünes Wokgemüse mit Sojasoße (2,So,GlW), geschmorter Räuchertofu (So,GlW), vegane Mi-Nudeln (So,GlW)",
+		"Name": "Grünes Wokgemüse mit Sojasoße (2,So,GlW), geschmorter Räuchertofu (So,GlW), Mi-Nudeln (Ei,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-08-12",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -86,6 +104,6 @@
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
