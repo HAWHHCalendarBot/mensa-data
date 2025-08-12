@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-08-12",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Maccaroni (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-08-12",
@@ -23,6 +12,21 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "geschmorte Aubergine (Sw), Broccoli-Zuckerschoten Gemüse, gebratene Karotten, Champignons in Rahm (Mi,Sw,GlW,GlG), Röstkartoffeln mit Chili",
+		"Category": "Gemüsebar",
+		"Date": "2025-08-12",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
