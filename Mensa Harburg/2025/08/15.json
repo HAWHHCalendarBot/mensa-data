@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Penne in Tomaten Paprikacreme mit Käse gebacken (Ei,Mi,GlW)",
+		"Name": "Tomatensoße, Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-08-15",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "VEGAN Grüne Bohnen mit roten Paprikawürfeln, VEGAN Karotten-Schwarzwurzelgemüse, VEGAN Blumenkohl-Broccoli, VEGAN Kräuterkartoffeln, Kohlrabi in Rahm (Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-08-15",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -14,38 +26,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa)",
+		"Name": "Kräutersoße (Mi,GlW,GlG), Pasta (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-08-15",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch (Mi,NCa), Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Kartoffelgratin (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2025-08-15",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -53,7 +40,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (So,Sl,Sf,GlW)",
+		"Name": "Vegane Soljanka (So,Sl,Sf,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-08-15",
 		"Additives": {
@@ -98,7 +85,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Burger mit vegetarischem Knusperschnitzel (1,3,9,Ei,Mi,Sf,Se,Sw,GlW,GlH), Tomaten-Basilikumdip (Mi), Belgische Pommes",
+		"Name": "Burger mit vegetarischem Knusperschnitzel (1,3,9,Ei,Mi,Sf,Se,Sw,GlW,GlH), Pommes",
 		"Category": "CampusSpezial",
 		"Date": "2025-08-15",
 		"Additives": {
