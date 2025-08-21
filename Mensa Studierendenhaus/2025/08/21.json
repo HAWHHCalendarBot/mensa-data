@@ -45,6 +45,20 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2025-08-21",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-08-21",
@@ -76,6 +90,22 @@
 		"Pig": true
 	},
 	{
+		"Name": "Homemade paniertes Putenschnitzel (Ei,GlW), Pfefferrahmsoße (Mi,Sl), Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-08-21",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Poultry": true
+	},
+	{
 		"Name": "Green Oat Homestyle Burger mit Umami Soße, Tomate und Römersalat (Ei,So,Sf,GlW,GlH), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-08-21",
@@ -91,20 +121,5 @@
 		"PriceStudent": 5.8,
 		"LactoseFree": true,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Hähnchen Crossies (GlW), Gemüsepfanne in pikanter Tandoorisoße (Sl,Sf,GlW), Reis",
-		"Category": "CampusWorld",
-		"Date": "2025-08-21",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 7.45,
-		"PriceGuest": 8.65,
-		"PriceStudent": 6.15,
-		"LactoseFree": true,
-		"Poultry": true
 	}
 ]
