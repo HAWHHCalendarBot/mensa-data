@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
-		"Category": "Gemüsebar",
-		"Date": "2025-08-25",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Fusilli (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl",
 		"Category": "Pastabar",
 		"Date": "2025-08-25",
@@ -22,6 +11,21 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Erbsen (1), gebratene Champignons (Mi,Sw), Broccoli (NMa), Kohlrabigemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-08-25",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Zartweizen-Tomatentopf mit Pilzen (Sl,Sw,GlW)",
