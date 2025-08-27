@@ -1,16 +1,30 @@
 [
 	{
-		"Name": "Penne (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
+		"Name": "Gnocchi, Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-08-27",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2025-08-27",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl)",
@@ -27,17 +41,16 @@
 		"Beef": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl)",
+		"Category": "Pottkieker",
 		"Date": "2025-08-27",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
