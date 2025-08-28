@@ -11,6 +11,20 @@
 		"Pig": true
 	},
 	{
+		"Name": "Bohnen- Tomaten- Mix, Marokkanisches Gemüse mit Paprika, Kichererbsen und Zwiebeln (Sl,Sw), Gemüsereis",
+		"Category": "Gemüsebar",
+		"Date": "2025-08-28",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Makkaroni-Tomatenauflauf (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-08-28",
@@ -25,22 +39,50 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Broccoli, Pilze und Karroten in Cremesoße (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-08-28",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Hühnerfrikassee (Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2025-08-28",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rindfleisch in Gemüsesoße mit Pflaumen (2,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2025-08-28",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW)",
