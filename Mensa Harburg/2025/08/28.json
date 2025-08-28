@@ -1,14 +1,9 @@
 [
 	{
-		"Name": "Bunte Nudeln (GlW), Tomatensoße mit Waldpilzen und Speck (2,3,8)",
+		"Name": "Schweinenackenbraten",
 		"Category": "Pastabar",
 		"Date": "2025-08-28",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -16,18 +11,18 @@
 		"Pig": true
 	},
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
+		"Name": "Makkaroni-Tomatenauflauf (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-08-28",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Rahm (So), Petersilienkartoffeln",
@@ -48,7 +43,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-08-28",
 		"Additives": {
@@ -92,7 +87,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Lachsfilet auf buntem Gemüse-Couscous (3,5,Fi,Sl,Sw,GlW), Joghurt-Zitronen-Dip (3,Mi)",
+		"Name": "Alaska Seelachsfilet mit buntem Gemüse-Couscous (3,5,Fi,Sl,Sw,GlW), Joghurt-Zitronen-Dip (3,Mi)",
 		"Category": "CampusVital",
 		"Date": "2025-08-28",
 		"Additives": {
