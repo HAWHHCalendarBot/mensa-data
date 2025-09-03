@@ -1,6 +1,18 @@
 [
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl)",
+		"Name": "Hähnchenbrust mit Tomate und Käse überbacken (Mi)",
+		"Category": "Pastabar",
+		"Date": "2025-09-03",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Bolognese mit Rinderhackfleisch (Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-09-03",
 		"Additives": {
@@ -14,13 +26,12 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, Basmatireis",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Rote Beete in Sojasahnesoße mit Sonnenblumenkernen (So)",
+		"Category": "Pastabar",
 		"Date": "2025-09-03",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -29,25 +40,42 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
-		"Category": "Pastabar",
+		"Name": "gebratene Champignons, Blumenkohl, Mediterrane Gemüsepfanne, Zartweizen mit Gemüse (Sl,GlW)",
+		"Category": "Gemüsebar",
 		"Date": "2025-09-03",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch, Reis",
+		"Name": "Pasta nach Wahl (GlW), Spinat-Sojasahnesoße (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-09-03",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Erbsen-Kartoffecremesuppe (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-09-03",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
