@@ -1,12 +1,26 @@
 [
 	{
-		"Name": "Penne in Tomaten Paprikacreme mit Käse gebacken (Ei,Mi,GlW)",
+		"Name": "Vegane Pasta Cremolata mit Paprika (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-09-05",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Champignons mit Pesto (Mi,NCa), Romanesco, Schmorgemüse, Gartengemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-09-05",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -14,7 +28,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
+		"Name": "Gelbe Linsensuppe mit Mango und Pilzen (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-09-05",
 		"Additives": {
