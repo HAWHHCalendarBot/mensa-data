@@ -1,14 +1,19 @@
 [
 	{
-		"Name": "Dummy Hauptkomponente",
+		"Name": "Cremespinat (Mi,Sl,GlW), pikantes Möhrengemüse (Sl), Kohlrabigemüse (1), Romanesco, Gerösteter Blumenkohl (3)",
 		"Category": "Gemüsebar",
 		"Date": "2025-09-05",
-		"Additives": {},
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Farfalle (GlW), Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa)",
@@ -42,23 +47,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "veganer Grillteller (2,So,GlW,GlG), Ajvar Dip (3,So,Sf), Reis, Weißkrautsalat (3,5,Sw)",
+		"Name": "vegetarischer Grillteller (2,So,GlW,GlG), Ajvar Dip (2,Ei,Mi,Sf), Reis, Weißkrautsalat (3,5,Sw)",
 		"Category": "CampusVital",
 		"Date": "2025-09-05",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.5,
 		"PriceGuest": 7.7,
-		"PriceStudent": 5.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceStudent": 5.2
 	}
 ]
