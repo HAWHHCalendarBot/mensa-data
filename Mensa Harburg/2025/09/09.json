@@ -1,23 +1,10 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (Mi), Bratkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2025-09-09",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Strozzapreti (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Name": "Ratatouille (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-09-09",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -27,7 +14,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Name": "gebratene Karotten, Mexikanisches Gemüse (Sl), gebratenes Gemüse, Bulgur (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-09-09",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), asiatischer Sojasahnesoße mit Sojawürfeln (Sojaprotein) (2,So,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-09-09",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-09-09",
 		"Additives": {
@@ -99,15 +116,17 @@
 		"Pig": true
 	},
 	{
-		"Name": "Orange Chicken (2,3,5,So,Se,Sw,GlW), Bratreis mit Gemüse (2,3,So,GlW)",
+		"Name": "Orange Chicken (2,3,5,Ei,So,Sf,Se,Sw,GlW), Bratreis mit Gemüse (2,3,So,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-09-09",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
