@@ -15,40 +15,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3), Röstkartoffeln",
-		"Category": "CampusSpezial",
-		"Date": "2025-09-11",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 7.3,
-		"PriceStudent": 4.8,
-		"Fish": true,
-		"LactoseFree": true
-	},
-	{
-		"Name": "Schweinekotelette gebraten, Bratensoße (Sl), Brechbohnen, Hausgemachtes Kartoffel-Butterstampf (Mi)",
-		"Category": "CampusWorld",
-		"Date": "2025-09-11",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.25,
-		"PriceGuest": 7.45,
-		"PriceStudent": 4.95,
-		"Pig": true
-	},
-	{
 		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,GlW), Vollkornreis",
 		"Category": "CampusVital",
 		"Date": "2025-09-11",
@@ -58,10 +24,26 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4,
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gebratenes Seelachsfilet mit Kräuterkruste (Fi,GlW), Kräutersoße (Mi,GlW,GlG), pikanter Karottensalat (3), Röstkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2025-09-11",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Fish": true
 	}
 ]
