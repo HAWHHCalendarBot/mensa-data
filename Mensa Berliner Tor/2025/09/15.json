@@ -61,22 +61,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frikadelle (Ei,GlW), Rahmsoße (Mi,Sl), Kartoffel Möhrenstampf (Mi)",
-		"Category": "CampusKlassiker",
-		"Date": "2025-09-15",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.4,
-		"PriceGuest": 6.6,
-		"PriceStudent": 4.1,
-		"Beef": true,
-		"Pig": true
-	},
-	{
 		"Name": "Frisch gebackene PIZZA nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-09-15",
@@ -88,6 +72,22 @@
 		"PriceGuest": 7.2,
 		"PriceStudent": 4.7,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Schmorbraten",
+		"Category": "CampusKlassiker",
+		"Date": "2025-09-15",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.95,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Spinat Frischkäse Maultaschen (Ei,Mi,GlW), Baby Spinatsalat (Sf), hausgemachtes frisches Bärlauch- Pesto (Mi,NMa)",

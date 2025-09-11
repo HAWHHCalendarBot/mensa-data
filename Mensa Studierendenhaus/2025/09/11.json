@@ -15,22 +15,8 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
+		"Name": "Spätzle (1,Ei,GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
 		"Category": "Pastabar",
-		"Date": "2025-09-11",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Poultry": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Spätzle (Ei,Mi,GlW)",
-		"Category": "Gemüsebar",
 		"Date": "2025-09-11",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
@@ -42,7 +28,24 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"Poultry": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), Orientalisches Kichererbsengemüse (2,5,Sw), Weiße Bohnen mediterraneo",
+		"Category": "Gemüsebar",
+		"Date": "2025-09-11",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
@@ -58,6 +61,22 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Bratensoße (Sl), hausgemachtes Kartoffelpüree (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-09-11",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.9,
+		"Pig": true
 	},
 	{
 		"Name": "Fischburger mit paniertem Seehechtfilet und Dänischer Remoulade (2,3,9,Ei,Fi,Sf,GlW), Pommes Frites (Sf)",
