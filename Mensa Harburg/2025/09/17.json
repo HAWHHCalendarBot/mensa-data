@@ -13,19 +13,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ratatouille (Sl), Karotten (1), Mangold mit gerösteten Walnüssen (NWa), Prinzessbohnen, Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Hähnchenstreifen in Rahmsoße mit Champignons (Mi,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-09-17",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
+	},
+	{
+		"Name": "Mangold mit gerösteten Walnüssen (NWa), Blumenkohl, Röstischmankerl, Kohlrabi-Karotten Gemüse in Rahm (Mi,GlW), Maisgemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-09-17",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
