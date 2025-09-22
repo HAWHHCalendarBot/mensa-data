@@ -77,35 +77,34 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rostbratwurst (4,8,Sl,Sf), Kohlrabi in Rahm (Mi,GlW), Schnittlauchkartoffeln",
+		"Name": "Texas Hacksteak (Ei,GlW)",
 		"Category": "CampusKlassiker",
-		"Date": "2025-09-25",
-		"Additives": {
-			"<strong>4</strong>": "Geschmacksverstärker",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.95,
-		"PriceGuest": 7.15,
-		"PriceStudent": 4.65,
-		"Beef": true,
-		"Pig": true
-	},
-	{
-		"Name": "Putenschnitzel Piccata Milanese (Ei,Mi,GlW), Tomaten- Basilikumsoße, Spaghetti (GlW)",
-		"Category": "CampusWorld",
 		"Date": "2025-09-25",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.45,
-		"PriceStudent": 5.95,
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"Beef": true
+	},
+	{
+		"Name": "Hähnchen Crossies (GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-09-25",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.35,
+		"PriceGuest": 7.55,
+		"PriceStudent": 5.05,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
