@@ -1,17 +1,33 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
+		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Mi,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-09-23",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Erbsen, Brechbohnen, Salzkartoffeln, Hähnchen Cordon Bleu (2,Mi,GlW), vegane Hackbällchen (Soja und Weizenprotein) (So,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2025-09-23",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Poultry": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
