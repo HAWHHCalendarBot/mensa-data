@@ -1,13 +1,36 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Käsesoße mit Spinat (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-09-25",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Käsesoße mit Spinat (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-09-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Brechbohnen mit Kartoffeln, Blumenkohl, Tricolore Gemüse (Mi,Sl), Karotten (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-09-25",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -15,7 +38,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
+		"Name": "Orientalische Linsensuppen (Sl,Sw), Ciabatta (GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2025-09-25",
 		"Additives": {
