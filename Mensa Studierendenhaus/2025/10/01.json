@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Prinzessbohnen, rote Beete Gnocchi",
+		"Name": "Ratatouille (Sl), Kürbisgemüse, Steckrüben-Möhren Gemüse (1), Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2025-10-01",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -13,14 +14,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunte Fusilli (GlW), Tomatensoße mit Speckwürfel (2,3,8)",
+		"Name": "rote Beete Gnocchi, Tomatensoße mit Speckwürfel (2,3,8)",
 		"Category": "Pastabar",
 		"Date": "2025-10-01",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>8</strong>": "Phosphat"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -90,6 +90,25 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Scharfe Kokos-Limonen-Suppe mit Reis-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2025-10-01",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Linsen Hirsebällchen (GlW,GlH), Bulgur Tomaten Salat (3,5,Sw,GlW), hausgemachtes Petersilienpesto, Rucola",
