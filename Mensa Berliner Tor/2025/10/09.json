@@ -103,12 +103,28 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Currybratwurst (3,4,8,Sf), zur Auswahl, BBQ Soße (2,9,Sl,Sf), Hot Cola BBQ Soße (9), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
-		"Category": "CampusKlassiker",
+		"Name": "vegane Tom Kha Suppe mit Tofu und Basmatireis (2,3,So,Sw,GlW)",
+		"Category": "CampusVital",
 		"Date": "2025-10-09",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.15,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Currybratwurst (Schwein / Geflügel / Vegan) (4,8,Sl,Sf), zur Auswahl, BBQ Soße (2,9,Sl,Sf), Hot Cola BBQ Soße (9), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-10-09",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>4</strong>": "Geschmacksverstärker",
 			"<strong>8</strong>": "Phosphat",
 			"<strong>9</strong>": "Süßungsmittel",
@@ -119,7 +135,8 @@
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
 		"LactoseFree": true,
-		"Pig": true
+		"Pig": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Reis",
