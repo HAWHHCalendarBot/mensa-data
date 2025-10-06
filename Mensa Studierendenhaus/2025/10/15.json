@@ -45,6 +45,17 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
+		"Category": "Pottkieker",
+		"Date": "2025-10-15",
+		"Additives": {},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hausgemachte Pasta (GlW), hausgemachtes Pesto Genovese (2,Mi), Hartkäse (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-10-15",
@@ -57,5 +68,34 @@
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "gebackener Hirtenkäse (Mi), Tomatenreis mit Edamame und Oliven (6,So), Chimichurri (3), Rucola",
+		"Category": "CampusVital",
+		"Date": "2025-10-15",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.45,
+		"PriceGuest": 7.65,
+		"PriceStudent": 5.15,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Rindergeschnetzeltes mit Pilzen in Rahm (3,Mi), Kartoffelklöße, Butterbrösel (Mi,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-10-15",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 7.25,
+		"PriceGuest": 8.45,
+		"PriceStudent": 5.95,
+		"Beef": true
 	}
 ]
