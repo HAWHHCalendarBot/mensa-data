@@ -1,22 +1,28 @@
 [
 	{
-		"Name": "gerösteter Blumenkohl",
-		"Category": "Gemüsebar",
-		"Date": "2025-10-08",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Vollkorn Fussili (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-10-08",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl, Broccoli (Mi), Bohnen, Sonnenblumenhack-Lauchcreme mit Kartoffeln (Sonnenblumenprotein) (1,So,Sl,Sf,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-10-08",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
