@@ -11,7 +11,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
+		"Name": "Vollkorn Fussili (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-10-08",
 		"Additives": {
@@ -24,13 +24,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-10-08",
 		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -55,10 +54,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schweinenacken- Braten mit Senf-Oregano-Kruste (Sf), Bratensoße (Sl), Gartenbohnen mit Pfifferlingen, Kroketten (GlW)",
+		"Name": "Schweinenacken- Braten mit Senf-Oregano-Kruste (Sf,GlW,GlG), Bratensoße (Sl), Gartenbohnen mit Pfifferlingen, Kroketten (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-10-08",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
@@ -66,6 +66,7 @@
 		"PriceAttendant": 6.9,
 		"PriceGuest": 8.1,
 		"PriceStudent": 5.6,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Pig": true
 	}
