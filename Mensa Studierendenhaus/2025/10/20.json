@@ -1,6 +1,76 @@
 [
 	{
-		"Name": "vegane Currybratwurst (Erbsenprotein) (Sf), zur Auswahl, BBQ Soße (2,9,Sl,Sf), Hot Cola BBQ Soße (9), fruchtige BBQ Soße (1,3,5,Sl,Sf,Sw), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Category": "Pastabar",
+		"Date": "2025-10-20",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
+	},
+	{
+		"Name": "Conchiglie (GlW), Rinderhackfleisch in einer Paprika- Sahnesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-10-20",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
+	},
+	{
+		"Name": "gebratenem Wirsing",
+		"Category": "Gemüsebar",
+		"Date": "2025-10-20",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
+		"Category": "Pottkieker",
+		"Date": "2025-10-20",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Süßkartoffel-Linsengemüse mit Römersalat und Limetten-Senf-Dressing (3,Sf,NMa)",
+		"Category": "CampusVital",
+		"Date": "2025-10-20",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Currybratwurst (Erbsenprotein) (Sf), BBQ Soße (2,9,Sl,Sf), fruchtige BBQ Soße (1,3,5,Sl,Sf,Sw), verschiedene Currypulver nach Wahl (Sf), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-10-20",
 		"Additives": {
@@ -20,7 +90,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Currybratwurst (8,Sl,Sf), zur Auswahl, BBQ Soße (2,9,Sl,Sf), Hot Cola BBQ Soße (9), fruchtige BBQ Soße (1,3,5,Sl,Sf,Sw), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
+		"Name": "Unsere Hauseigene Currybratwurst (8,Sl,Sf), BBQ Soße (2,9,Sl,Sf), fruchtige BBQ Soße (1,3,5,Sl,Sf,Sw), verschiedene Currypulver nach Wahl (Sf), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-10-20",
 		"Additives": {
@@ -39,5 +109,23 @@
 		"PriceStudent": 4.9,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Vegane Maultaschen mit Kürbis- Champignongemüse und Salbei (1,3,So,Sl,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-10-20",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
