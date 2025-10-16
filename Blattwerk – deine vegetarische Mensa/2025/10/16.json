@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), Champignons in Cremesoße (Mi,Sl)",
-		"Category": "Pastabar",
-		"Date": "2025-10-16",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Nudelauflauf mit Spinat in Sahnesoße und mit Hirtenkäse gebacken (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-10-16",
@@ -28,19 +14,48 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Spätzle (Ei,Mi,GlW), Steckrüben-Möhren Gemüse (1)",
+		"Name": "Pasta (GlW), Champignons in Cremesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-10-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Honigmöhren, Spitzkohl, Paprika, Spätzle mit Veganem Käse (Ei,Mi,GlW), Steckrüben-Gemüse mit Sahne (1,So)",
 		"Category": "Gemüsebar",
 		"Date": "2025-10-16",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Hausgemachte vegane Paprikaschote mit Gemüse-Bulgurfüllung (Sl,GlW), Tomatensoße",
+		"Category": "CampusVital",
+		"Date": "2025-10-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Hausgemachte Pasta (GlW), Zucchini, Paprika und Kapern in Tomatensoße, Rucola",
