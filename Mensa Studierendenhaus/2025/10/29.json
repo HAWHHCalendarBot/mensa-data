@@ -42,6 +42,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
+		"Category": "Pottkieker",
+		"Date": "2025-10-29",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hausgemachte Pasta (GlW), Basilikum Knoblauchsoße (1,3,5,Mi,Sw,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-10-29",
@@ -59,20 +75,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Spaghetti in Basilikum Knoblauchsoße mit Melanzane Bällchen (1,3,5,Mi,Sw,GlW)",
-		"Category": "CampusSpezial",
+		"Name": "Schweinegeschnetzeltes Zürcher Art (Mi,Sl), Tellerrösti",
+		"Category": "CampusKlassiker",
 		"Date": "2025-10-29",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Pig": true
+	},
+	{
+		"Name": "Gebratenes Wildlachsfilet (Fi,GlW), Buchweizen Pilaw mit Porree und Kichererbsen (Sl), Joghurt-Spinat-Dip (3,Mi)",
+		"Category": "CampusWorld",
+		"Date": "2025-10-29",
+		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.9,
-		"PriceStudent": 4.4,
-		"Vegetarian": true
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.3,
+		"PriceStudent": 5.8,
+		"Fish": true
 	}
 ]
