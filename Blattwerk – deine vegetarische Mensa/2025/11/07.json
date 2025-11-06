@@ -44,24 +44,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Vollkorn Gemüsebratling auf buntem Couscous (3,5,Ei,Sl,Sw,GlW), Joghurt-Limetten-Dip (3,Mi)",
-		"Category": "CampusVital",
-		"Date": "2025-11-07",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 5.0,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.7,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Vegetarisch gefüllte Kohlroulade (Ei,So), Kümmelsoße (Sl), Salzkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2025-11-07",
@@ -89,6 +71,23 @@
 		"PriceAttendant": 6.3,
 		"PriceGuest": 7.5,
 		"PriceStudent": 5.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (Sojaprotein) (2,En,So,Sl,GlW), Asiagemüse süß-sauer (2,So,GlW), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2025-11-07",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.35,
+		"PriceGuest": 7.55,
+		"PriceStudent": 5.05,
 		"LactoseFree": true,
 		"Vegan": true
 	}
