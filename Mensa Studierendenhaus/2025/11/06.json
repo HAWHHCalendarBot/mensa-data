@@ -1,20 +1,30 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
+		"Name": "Kräuterkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2025-11-06",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-11-06",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Bulgur mit Tomate und Peperoni (Sl,GlW)",
+		"Name": "Blattspinat (Sl), Süßkartoffelwürfel gebacken, pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Bulgur mit Tomate und Peperoni (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2025-11-06",
 		"Additives": {
@@ -28,21 +38,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
-		"Date": "2025-11-06",
-		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Bao Bun Teigtaschen (1,GlW), mit pulled Turkey mit Hoisin (1,2,So,GlW), mit marinierten Schweinenackenstreifen mit Hoisin und Ingwer (1,2,So,Se,GlW), Sesamreis (Se), verschiedene Extras (1,3,5,En,So,Se,Sw,GlW), verschiedene Soßen (1,2,3,4,5,Ei,En,So,Sf,Se,Sw,GlW)",
@@ -71,13 +66,32 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
+		"Name": "Spanischer Linseneintopf (3,5,Sl,Sf,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2025-11-06",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Minestrone (Sl,Sw,GlW), Bauern-Baguette mit Malz und Ölsaaten (Weizen) (So,GlW,GlR,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2025-11-06",
 		"Additives": {
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,

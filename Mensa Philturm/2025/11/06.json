@@ -13,6 +13,21 @@
 		"PriceStudent": 0.85
 	},
 	{
+		"Name": "Röstiecken, Herzoginkartoffeln (Ei,Mi), Kartoffel - Blumenkohlgratin (Mi,GlW,GlG), gebackene Cajun-Kartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-06",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "gebratene Mungosprossen (2,So,Se,GlW), Bohnen mit Knoblauch und Ingwer, gebackener Cajun - Blumenkohl, Karotten, Spitzkohl mit Kreuzkümmel, orientalische Aubergine",
 		"Category": "Gemüsebar",
 		"Date": "2025-11-06",
@@ -29,22 +44,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebackenes / Frittiertes:, Kartoffelspalten (GlW), Steakhouse - Pommes, Röstiecken, Röstinchen, Herzoginkartoffeln (Ei,Mi), Kroketten (GlW), Aufläufe:, Kartoffelgratin (Mi,Sl,GlW,GlG), Kartoffel  - Gemüsegratin (Mi,GlW,GlG), Kartoffel - Blumenkohlgratin (Mi,GlW,GlG), Spätzle - Auflauf (Ei,Mi,GlW,GlG), Gnocchi - Auflauf (Mi,GlW,GlG), Kartoffeln:, Kräuterkartoffeln mit Zwiebeln, gebackene orientalische Kartoffeln, gebackene Kartoffeln in einer Tahinmarinade (Se), gebackene Cajun-Kartoffeln, Sesamkartoffeln (Se), gebackene Kartoffel mit Koriander - Limettenmarinade (3)",
+		"Name": "schwarzes Bohnenragout mit Spinat (Sl), Bulgur arabisch (Sl,GlW,NMa,NWa)",
 		"Category": "Gemüsebar",
 		"Date": "2025-11-06",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "All in one pot: Reisnudeln, Tofuwürfel, Salat, Erdnüsse, Apfel, Röstzwiebeln (2,En,So,Sw,GlW)",
