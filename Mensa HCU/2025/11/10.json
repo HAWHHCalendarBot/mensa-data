@@ -1,24 +1,51 @@
 [
 	{
-		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "buntem Gemüse, Röstkartoffeln, Gemüsemix Eskorial, Prinzessbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-10",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "buntem Gemüse, Röstkartoffeln, Gemüsemix Eskorial, Prinzessbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-10",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-10",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Kohlrabi Kokos Suppe mit Erdnuss- Minz Topping (3,En,Sf)",
+		"Name": "Kohlrabi Kokos Suppe mit Erdnuss- Minz-Schnittlauch Topping (2,3,En,So,Sl,Sf,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-11-10",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -27,13 +54,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne alla Norma mit Auberginen-Tomatensoße und Ricotta (Mi,Sw,GlW)",
+		"Name": "Penne alla calabrese mit Gemüse -Tomatensoße und Ricottatopping (Mi,Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2025-11-10",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.15,
 		"PriceGuest": 7.7,
@@ -41,14 +68,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Dönerteller Geflügel mit Krautsalat (4,Mi,Sf,Sw), Tzatziki (Mi), Pommes Frites (Sf)",
+		"Name": "Dönerteller Geflügel (4,Mi,Sf), Tzatziki (Mi), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2025-11-10",
 		"Additives": {
 			"<strong>4</strong>": "Geschmacksverstärker",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 7.6,
 		"PriceGuest": 12.6,
