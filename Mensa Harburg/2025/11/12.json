@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Grünkohl (Sl,Sf), Prinzessbohnen, rote Beete Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Kartoffeltasche mit Kräuter Frischkäsefüllung (Mi)",
+		"Category": "Pastabar",
 		"Date": "2025-11-12",
 		"Additives": {
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Belugalinsenragout mit Kokosmilch (Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-11-12",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -14,13 +26,40 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Reis, asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Hähnchenstreifen in Tomatensoße mit Rucola (Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-12",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Gemüsecouscous (Sl,GlW), in Ajvarcreme (Mi)",
+		"Category": "Pastabar",
+		"Date": "2025-11-12",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Sauce Florentin Art mit Spinat (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-11-12",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -30,20 +69,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Name": "Nusspolenta überbacken mit Käse und Walnüssen (Mi,Sw,NHa,NWa)",
 		"Category": "Pastabar",
 		"Date": "2025-11-12",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Risi Bisi, Pikantes Gartengemüse mit Broccoli, Blumenkohl und Karotten (2,So,Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-12",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Ostafrikanischer Gemüsetopf mit Kohl und Kartoffeln (3,5,Sw)",
