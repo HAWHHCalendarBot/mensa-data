@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Blechkartoffeln, Gebratene Hähnchenstreifen, Käsespätzle (Ei,Mi,GlW), Gemüsemix Eskorial",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-13",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
 		"Name": "Pasta (GlW), gebratenen Hähnchenstreifen dazu eine Rahmsoße mit Rucola (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-13",
@@ -12,6 +26,23 @@
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
 		"Poultry": true
+	},
+	{
+		"Name": "Chili con Corn (So,Sl,GlD), Fladenbrot (Se,GlW)",
+		"Category": "Pottkieker",
+		"Date": "2025-11-13",
+		"Additives": {
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Geflügelcurry mit Mandeln (Mi,Sl,Sf,GlW,GlG,NMa), Gemüse Bulgur (Sl,GlW)",
