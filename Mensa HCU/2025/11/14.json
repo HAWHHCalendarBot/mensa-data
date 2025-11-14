@@ -1,12 +1,28 @@
 [
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Pasta (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-14",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Erbsen, Orientalisches Kichererbsengemüse (2,5,Sw), Brechbohnen, Karotten (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-14",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -29,7 +45,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf)",
+		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,GlW,GlG), Reis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2025-11-14",
 		"Additives": {
@@ -48,12 +64,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (Ei,So,Sf,GlW), Pommes Frites (Sf), Rotkrautsalat (3)",
+		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), Tzatziki (So,Se), Pommes Frites (Sf), Rotkrautsalat (3)",
 		"Category": "CampusSpezial",
 		"Date": "2025-11-14",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
@@ -64,6 +79,6 @@
 		"PriceGuest": 10.7,
 		"PriceStudent": 5.35,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	}
 ]
