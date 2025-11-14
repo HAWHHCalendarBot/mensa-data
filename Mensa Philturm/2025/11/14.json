@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Kürbis-Spinat Gemüse, weißes Bohnencurry (Sf)",
+		"Name": "Kürbis-Spinat Gemüse, Kichererbsen-Tomatenragout (Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2025-11-14",
 		"Additives": {
@@ -13,10 +13,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kartoffelspalten (GlW), Kroketten (GlW), Kartoffelgratin (Mi,Sl,GlW,GlG), Kräuterkartoffeln mit Zwiebeln",
+		"Name": "Kartoffelspalten (GlW), Kartoffelgratin (Mi,Sl,GlW,GlG), Kräuterkartoffeln mit Zwiebeln, Herzoginkartoffeln (Ei,Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2025-11-14",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
@@ -28,11 +29,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gebratene Mungosprossen (2,So,Se,GlW), gebratener Pak Choi (2,So,GlW), Süßkartoffel-Linsengemüse (Sl), Aubergine-Linsenragout mit Kokosmilch (Sl), gebackener Cajun - Blumenkohl, Madras Kürbis",
-		"Category": "Gemüsebar",
+		"Name": "Pasta mit Spitzkohl in Kokos-Curryrahm (2,En,So,Sl,Se,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-11-14",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
@@ -45,14 +47,32 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta mit Spitzkohl in Kokos-Curryrahm (2,En,So,Sl,Se,GlW)",
-		"Category": "Pastabar",
+		"Name": "gebratene Mungosprossen (2,So,Se,GlW), Cajun Kartoffeln (Sf), Süßkartoffel-Linsengemüse (Sl), Aubergine-Linsenragout mit Kokosmilch (Sl), gebackener Curry - Blumenkohl, Madras Kürbis",
+		"Category": "Gemüsebar",
 		"Date": "2025-11-14",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratene Mungosprossen (2,So,Se,GlW), Cajun Kartoffeln (Sf), Süßkartoffel-Linsengemüse (Sl), Aubergine-Linsenragout mit Kokosmilch (Sl), gebackener Curry - Blumenkohl, Madras Kürbis",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-14",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
