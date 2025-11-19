@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Romanesco, Karotten (1), Kräuter-Chili-Kartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-19",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pennette in Tomatensoße mit Gemüsebällchen (Ei,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-11-19",
@@ -14,20 +27,20 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, rote-Beete-Pilaw (9)",
-		"Category": "Gemüsebar",
+		"Name": "Curryreis (Sf), Chicken BBQ Soße (2,9,Sl,Sf)",
+		"Category": "Pastabar",
 		"Date": "2025-11-19",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>6</strong>": "Geschwärzt",
 			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Vegan": true
+		"Poultry": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -45,32 +58,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frisch gebackene FLAMMKUCHEN nach Wahl (versch. Sorten) ab 4,20 / 5,50 / 6,70 (auch TAKE AWAY) (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2025-11-19",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.7,
-		"PriceStudent": 4.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Flammkuchen des Tages mit geschmolzenem Camembert und Apfelwürfeln (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2025-11-19",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
-		"Vegetarian": true
-	},
-	{
 		"Name": "vegane Tom Kha Suppe mit Tofu und Reis (2,3,So,Sw,GlW)",
 		"Category": "Highlight",
 		"Date": "2025-11-19",
@@ -86,6 +73,19 @@
 		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Frisch gebackene PIZZA nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2025-11-19",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Reis",

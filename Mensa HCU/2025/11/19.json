@@ -1,25 +1,44 @@
 [
 	{
-		"Name": "Bohnen Cassoulet, Gartengemüse (Sl), Gemüsemix Eskorial, Steckrüben-Möhren Gemüse (1)",
-		"Category": "Gemüsebar",
+		"Name": "Penne (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi,Sl)",
+		"Category": "Pastabar",
 		"Date": "2025-11-19",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
-		"Category": "Pastabar",
+		"Name": "Couscous (Sf,GlW), Kohlrabigemüse gratiniert (1,Mi), Broccoli (Mi), Möhrengemüse (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2025-11-19",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Couscous (Sf,GlW), Kohlrabigemüse gratiniert (1,Mi), Broccoli (Mi), Möhrengemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-19",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -42,7 +61,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganer Sloppy Joes Burger mit Sojahack (Sojaprotein), gepickelten Zwiebeln und Gewürzgurke (1,2,3,9,So,Sf,GlW), Cole Slaw mit Sojamajo (Sf), Pommes Frites (Sf)",
+		"Name": "Veganer Sloppy Joes Burger mit Sojahack (Sojaprotein), gepickelten Zwiebeln und Gewürzgurke (1,2,3,9,So,Sl,Sf,GlW), Cole Slaw mit Sojamajo (Sf), Pommes Frites (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2025-11-19",
 		"Additives": {
@@ -52,6 +71,7 @@
 			"<strong>9</strong>": "Süßungsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.2,
