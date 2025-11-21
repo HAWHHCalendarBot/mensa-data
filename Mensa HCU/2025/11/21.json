@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Gartengemüse, Zucchini, rustikales Möhrengemüse (Mi), Brechbohnen, Grünkohl (Sl,Sf), Röstkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-21",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-11-21",
 		"Additives": {
@@ -15,10 +29,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Blumenkohl Korma (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-11-21",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
@@ -26,7 +42,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rosenkohl-Edamame-Curry mit Reisnudeln (So,Sl)",
+		"Name": "Rosenkohl-Edamame-Curry mit Reis (So,Sl)",
 		"Category": "CampusVital",
 		"Date": "2025-11-21",
 		"Additives": {
