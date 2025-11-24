@@ -15,24 +15,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Karotten Pastinakenmix mit frischer Petersilie, Rosenkohl (Mi), Spitzkohl in Creme (So), Petersilienkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2025-12-04",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-12-04",
@@ -46,5 +28,41 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Planted Steak (So), Perlzwiebelsoße (Sl), Apfelrotkohl (3,5,Sw), Röstkartoffeln",
+		"Category": "Entenkeule (2,8), Geflügelrahmsoße (Mi), Apfelrotkohl (3,5,Sw), Kartoffelklöße, gebräunte Brösel (1,GlW)",
+		"Date": "2025-12-04",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Entenkeule (2,8), Geflügelrahmsoße (Mi), Apfelrotkohl (3,5,Sw), Kartoffelklöße, gebräunte Brösel (1,GlW)",
+		"Category": "Entenkeule (2,8), Geflügelrahmsoße (Mi), Apfelrotkohl (3,5,Sw), Kartoffelklöße, gebräunte Brösel (1,GlW)",
+		"Date": "2025-12-04",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 9.8,
+		"PriceStudent": 4.9,
+		"Poultry": true
 	}
 ]

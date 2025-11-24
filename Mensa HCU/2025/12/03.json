@@ -16,22 +16,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2025-12-03",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"Beef": true
-	},
-	{
 		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
 		"Category": "Pottkieker",
 		"Date": "2025-12-03",
@@ -46,5 +30,36 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Grünkohl (Sl,Sf), vegane Kochwurst (Erbsenprotein), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2025-12-03",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 8.6,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sl,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2025-12-03",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 8.6,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
 	}
 ]
