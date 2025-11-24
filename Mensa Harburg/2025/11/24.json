@@ -1,34 +1,20 @@
 [
 	{
-		"Name": "Gnocchi, Tomatensoße mit Schweinefleischstreifen, Zucchini und Champignons (Sl)",
+		"Name": "Pasta nach Wahl (GlW), pikante Tomatensahnesoße mit Schweinefleischstreifen (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-24",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
 		"Pig": true
 	},
 	{
-		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Schmorkohl (Sl), Süßkartoffel Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2025-11-24",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Gnocchi, Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Gnocchi, getrocknete Tomaten in Sojasoße mit Pilzen und Paprika (2,5,So,Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-11-24",
 		"Additives": {
@@ -37,6 +23,7 @@
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -45,7 +32,27 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Tofu-Gemüse-Topf (So,Sl)",
+		"Name": "Pasta nach Wahl (GlW), Schmorkohl in Cremesoße mit pikanter Kohlwurst (1,2,3,4,8,Mi,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-11-24",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Pig": true
+	},
+	{
+		"Name": "Curry-Gemüse-Topf mit Tofu (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-11-24",
 		"Additives": {
@@ -59,18 +66,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Matjesfilets (2,Fi), Bratkartoffeln",
+		"Name": "2 Stück Matjesfilets (2,Fi), Matjessoße Hausfrauen Art (1,3,9,Ei,Mi,Sf,Sw), Röstkartoffeln",
 		"Category": "CampusSpezial",
 		"Date": "2025-11-24",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse"
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.8,
 		"PriceGuest": 6.0,
 		"PriceStudent": 3.5,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
 	},
 	{
 		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Bratensoße (Sl), hausgemachtes Kartoffelpüree (Mi)",
