@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "karamellisierte Schwarzwurzeln (1), Karotten mit Curry (1)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-24",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Pasta nach Wahl (GlW), pikante Tomatensahnesoße mit Schweinefleischstreifen (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-24",
@@ -14,22 +27,34 @@
 		"Pig": true
 	},
 	{
-		"Name": "Gnocchi, getrocknete Tomaten in Sojasoße mit Pilzen und Paprika (2,5,So,Mi,Sw,GlW,GlG)",
+		"Name": "Gnocchi,  getrocknete Tomaten in Sojasoße mit Pilzen und Paprika (2,5,So,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-11-24",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffelgratin mit Auberginen, Zucchini und Gorgonzola (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2025-11-24",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85
 	},
 	{
 		"Name": "Pasta nach Wahl (GlW), Schmorkohl in Cremesoße mit pikanter Kohlwurst (1,2,3,4,8,Mi,Sl,Sf,GlW)",
