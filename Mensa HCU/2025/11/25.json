@@ -1,17 +1,30 @@
 [
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl)",
+		"Name": "Brechbohnen, Kohlrabi- Karottengemüse (1), Erbsen (1), Blumenkohl",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-25",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Bolognese mit Rinderhackfleisch (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-25",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"Beef": true,
-		"LactoseFree": true
+		"Beef": true
 	},
 	{
 		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl,GlW)",
@@ -28,7 +41,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW), Conchiglie (GlW)",
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,GlW), Pasta (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2025-11-25",
 		"Additives": {

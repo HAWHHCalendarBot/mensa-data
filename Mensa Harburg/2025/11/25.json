@@ -1,6 +1,17 @@
 [
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl)",
+		"Name": "Maccaroni (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2025-11-25",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW),  Bolognese mit Rinderhackfleisch (Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-25",
 		"Additives": {
@@ -14,19 +25,33 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
+		"Name": "Reis,  Hähnchenstreifen in Currysoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-25",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Wirsing in Sojacremesoße mit Kartoffeln (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-11-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Sesammöhrchen (Se), Gerösteter Knollensellerie und Fenchel (3,Sl,Sw), gebratenem Wirsing, Maiskolben (Mi), Bauernkartoffeln mit gebräunten Bröseln (Mi,GlW)",
