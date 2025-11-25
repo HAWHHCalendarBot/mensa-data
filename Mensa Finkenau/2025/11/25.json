@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Maccaroni (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
+		"Name": "Grünkohl (Sl,Sf)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-25",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Fusilli (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-11-25",
 		"Additives": {
@@ -15,12 +29,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Fasolada Griechischer Bohnensuppe mit Sellerie, Karotten und Baguette (Sl,GlW)",
+		"Name": "Kartoffel-Lauch Suppe (So,Sl), Fladenbrot (Se,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-11-25",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -59,5 +75,20 @@
 		"PriceStudent": 4.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Fusilli (GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2025-11-25",
+		"Additives": {
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.2,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.9,
+		"Beef": true
 	}
 ]
