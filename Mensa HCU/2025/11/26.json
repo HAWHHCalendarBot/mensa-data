@@ -1,10 +1,25 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße",
+		"Name": "Möhrengemüse mit Pilzen, Grünkohl mit veganer Kochwurst (Sl,Sf), Gartengemüse (Sl), Röstkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-26",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-26",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -13,10 +28,12 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
+		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2025-11-26",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
