@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Spitzkohl in Creme (So), gebratene Champignons",
-		"Category": "Gemüsebar",
-		"Date": "2025-11-26",
-		"Additives": {
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-11-26",
@@ -27,10 +14,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
+		"Name": "Fenchelgemüse (Sl), Chili Weißkohl (Sl), Sonnenblumenhack mit Spinat (Sonnenblumenprotein) (1,3,Sl,Sf,GlH,NMa), Waldpilzragout (So,Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-26",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Steckrübencurry mit Kokosmilch (Sl), Wrap (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-11-26",
-		"Additives": {},
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
@@ -79,14 +90,15 @@
 		"Pig": true
 	},
 	{
-		"Name": "gebackener Hirtenkäse (Mi), Tomatenreis mit Edamame und Oliven (6,So), Chimichurri (3), Rucola",
+		"Name": "gebackener Hirtenkäse (Mi), Kurkumareis (So), Chimichurri (3), Tomaten-Gurken-Salsa (3,5,Sw), Rucola",
 		"Category": "CampusVital",
 		"Date": "2025-11-26",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>6</strong>": "Geschwärzt",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.45,
 		"PriceGuest": 7.65,

@@ -67,14 +67,52 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Buttercurry mit Hähnchenstreifen und crispy Chicken (3,8,Mi,Sw,GlW), Kurkumareis, verschiedene Extras (2,Mi,Se,Sw,GlW), verschiede Soßen und Dips (2,3,4,Ei,En,So,Sf,Se,GlW)",
+		"Name": "Kurkumareis",
+		"Category": "Werkskombüse",
+		"Date": "2025-11-26",
+		"Additives": {},
+		"PriceAttendant": 1.45,
+		"PriceGuest": 1.65,
+		"PriceStudent": 1.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indisches Buttercurry (Mi)",
+		"Category": "Werkskombüse",
+		"Date": "2025-11-26",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.45,
+		"PriceGuest": 1.65,
+		"PriceStudent": 1.2,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hähnchenstreifen und crispy Chicken (3,8,Sw,GlW)",
+		"Category": "Werkskombüse",
+		"Date": "2025-11-26",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.45,
+		"PriceGuest": 1.65,
+		"PriceStudent": 1.2,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "verschiedene Extras (2,Mi,Se,Sw,GlW), verschiede Soßen und Dips (2,3,4,Ei,En,So,Sf,Se,GlW)",
 		"Category": "Werkskombüse",
 		"Date": "2025-11-26",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>4</strong>": "Geschmacksverstärker",
-			"<strong>8</strong>": "Phosphat",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
@@ -87,7 +125,7 @@
 		"PriceAttendant": 1.45,
 		"PriceGuest": 1.65,
 		"PriceStudent": 1.2,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
