@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Penne in Tomaten Paprikacreme mit Käse gebacken (Ei,Mi,GlW)",
+		"Name": "Spinatcremesoße (Mi,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-28",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-11-28",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -14,11 +26,10 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Rosenkohl in Rahm (Mi,Sl,GlW), Cajun Gemüse (Sl), Ofengemüse mit Kartoffeln, Sauerkraut (vegan) (Sl), rote-Beete-Pilaw (9)",
-		"Category": "Gemüsebar",
+		"Name": "Couscousgemüse in Paprikarahm (Mi,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2025-11-28",
 		"Additives": {
-			"<strong>9</strong>": "Süßungsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
@@ -29,16 +40,43 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa)",
+		"Name": "Pasta nach Wahl (GlW), Soja-Bolognese mit Gemüse (Sojaprotein) (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2025-11-28",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pastinaken und Erbsen, Gemüsecouscous mit Oliven und Auberginen (6,Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-28",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Waldpilzragout in Sojacreme (So,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-11-28",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -61,7 +99,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "4 Röstiecken, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Schnittlauchquark (Mi)",
+		"Name": "4 Röstiecken, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Kräuterquark (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-11-28",
 		"Additives": {

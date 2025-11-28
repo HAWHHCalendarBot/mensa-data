@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "gebratenem Wirsing, Süßkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2025-11-28",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Farfalle (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (2,Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-11-28",
@@ -26,11 +15,39 @@
 		"Vegan": true
 	},
 	{
+		"Name": "gebratenem Wirsing, Süßkartoffeln, Spitzkohl-Champignons in Soja-Creme (So,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2025-11-28",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2025-11-28",
 		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Erbsensuppe mit Räuchertofu (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2025-11-28",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
