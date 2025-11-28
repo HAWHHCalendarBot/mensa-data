@@ -1,6 +1,30 @@
 [
 	{
-		"Name": "Rosenkohl in Rahm (Mi,Sl,GlW), Cajun Gemüse (Sl), Ofengemüse, Sauerkraut (vegan) (Sl), Nusskartoffeln",
+		"Name": "Kräuterkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2025-11-28",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
+		"Category": "Pastabar",
+		"Date": "2025-11-28",
+		"Additives": {
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rosenkohl in Rahm (Mi,Sl,GlW), Karotten- Bohnengemüse, Spitzkohl, Karotten Rustica, Ofengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2025-11-28",
 		"Additives": {
@@ -14,68 +38,84 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa)",
+		"Name": "Spätzle (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-11-28",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zucchinisahnesoße mit Walnüssen und getrockneten Tomaten (2,5,Mi,Sw,GlW,GlG,NWa)",
+		"Category": "Pastabar",
+		"Date": "2025-11-28",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kurkumareis",
+		"Category": "Werkskombüse",
+		"Date": "2025-11-28",
+		"Additives": {},
+		"PriceAttendant": 1.45,
+		"PriceGuest": 1.65,
+		"PriceStudent": 1.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
-		"Category": "Pastabar",
+		"Name": "Indisches Buttercurry mit Hähnchenstreifen und Paneer (Mi)",
+		"Category": "Werkskombüse",
 		"Date": "2025-11-28",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
+		"PriceAttendant": 1.45,
+		"PriceGuest": 1.65,
+		"PriceStudent": 1.2,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
-		"Category": "Pastabar",
+		"Name": "Hähnchenstreifen und Knusperhähnchen (3,8,Sw,GlW)",
+		"Category": "Werkskombüse",
 		"Date": "2025-11-28",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"PriceAttendant": 1.45,
+		"PriceGuest": 1.65,
+		"PriceStudent": 1.2,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
-		"Name": "Indisches Buttercurry mit Hähnchenstreifen und Paneer (3,8,Mi,Sw), Kurkumareis, verschiedene Extras (2,Mi,Se,Sw,GlW), verschiede Soßen und Dips (2,3,4,Ei,En,So,Sf,Se,GlW)",
+		"Name": "verschiedene Extras (2,Mi,Se,Sw,GlW), verschiede Soßen und Dips (2,3,4,Ei,En,So,Sf,Se,GlW)",
 		"Category": "Werkskombüse",
 		"Date": "2025-11-28",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>4</strong>": "Geschmacksverstärker",
-			"<strong>8</strong>": "Phosphat",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
@@ -88,7 +128,7 @@
 		"PriceAttendant": 1.45,
 		"PriceGuest": 1.65,
 		"PriceStudent": 1.2,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gelbe Linsensuppe mit Mango (Sl)",
