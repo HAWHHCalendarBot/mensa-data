@@ -1,10 +1,20 @@
 [
 	{
-		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Nusskartoffeln",
+		"Category": "Pastabar",
+		"Date": "2025-12-01",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
 		"Category": "Pastabar",
 		"Date": "2025-12-01",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
@@ -12,11 +22,23 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Conchiglie (GlW), Rinderhackfleisch in einer Paprika- Sahnesoße (Mi,Sl)",
+		"Name": "Conchiglie (GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-12-01",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rinderhackfleisch in einer Paprika- Sahnesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2025-12-01",
+		"Additives": {
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -26,7 +48,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "pikantes Grillgemüse (Sl,Sf,GlW), gebratenem Wirsing, Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Nusskartoffeln",
+		"Name": "pikantes Grillgemüse (Sl,Sf,GlW), gebratenem Wirsing, Blumenkohl mit gebräunten Bröseln (1,GlW), Gartenbohnen mit Pfifferlingen und Cherrytomaten",
 		"Category": "Gemüsebar",
 		"Date": "2025-12-01",
 		"Additives": {
@@ -110,12 +132,11 @@
 		"Pig": true
 	},
 	{
-		"Name": "Vegane Maultaschen mit Kürbis- Champignongemüse und Salbei (1,3,So,Sl,Sw,GlW)",
+		"Name": "Vegane Maultaschen mit Kürbis- Champignongemüse und Salbei (1,So,Sl,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-12-01",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
