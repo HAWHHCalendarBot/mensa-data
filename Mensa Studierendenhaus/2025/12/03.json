@@ -69,36 +69,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenstreifen (3,8,Sw)",
-		"Category": "Werkskombüse",
-		"Date": "2025-12-03",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.45,
-		"PriceGuest": 1.65,
-		"PriceStudent": 1.2,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "marinierte Rindfleischstreifen (2,So,GlW)",
-		"Category": "Werkskombüse",
-		"Date": "2025-12-03",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.45,
-		"PriceGuest": 1.65,
-		"PriceStudent": 1.2,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
 		"Name": "Pho Brühe (2,So,Sl,GlW)",
 		"Category": "Werkskombüse",
 		"Date": "2025-12-03",
@@ -113,6 +83,25 @@
 		"PriceStudent": 1.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hähnchenstreifen (3,8,Sw), marinierte Rindfleischstreifen (2,So,GlW)",
+		"Category": "Werkskombüse",
+		"Date": "2025-12-03",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.45,
+		"PriceGuest": 1.65,
+		"PriceStudent": 1.2,
+		"Beef": true,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Mi Nudeln (2,Ei,So,Se,GlW), Ramen Nudeln (1,GlW)",

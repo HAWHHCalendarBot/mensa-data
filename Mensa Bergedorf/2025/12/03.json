@@ -41,7 +41,22 @@
 		"Beef": true
 	},
 	{
-		"Name": "Paprikaschote gefülllt mit Chili und Reis (Sl,GlD), Salsa (1,2,3,4,9,Ei,Mi,Sf), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Hähnchenschnitzel (1,GlW,GlG), Blumenkohl, Kroketten (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2025-12-03",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 5.4,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.1,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Paprikaschote gefülllt mit Chili und Reis (Sl,GlD), Salsa (1,2,3,4,9,Ei,Mi,Sf), hausgemachtes Kartoffelpüree (1,So)",
 		"Category": "CampusVital",
 		"Date": "2025-12-03",
 		"Additives": {
@@ -54,7 +69,8 @@
 			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.7,
@@ -78,5 +94,21 @@
 		"PriceStudent": 4.4,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Spinatknödel (Ei,Mi,GlW), Ratatouille (Sl,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2025-12-03",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
+		"Vegetarian": true
 	}
 ]
