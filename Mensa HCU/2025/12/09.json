@@ -1,6 +1,19 @@
 [
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,GlW)",
+		"Name": "Bohnengemüse mit Steckrübe, Zuckerschoten (1), Kartoffeln, Rosenkohl (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2025-12-09",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-12-09",
 		"Additives": {
@@ -17,12 +30,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Linsencurry (Sf,GlW), Couscous (GlW)",
+		"Name": "Indisches Linsencurry (Sl,Sf,GlW), Couscous (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-12-09",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -31,20 +45,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratenes Wildlachsfilet (Fi,GlW), Buchweizen Pilaw mit Porree und Kichererbsen (Sl), Joghurt-Spinat-Dip (3,Mi)",
-		"Category": "CampusWorld",
+		"Name": "4 Röstiecken, Kräuterquark (Mi,Sf), Gurkensalat (Mi)",
+		"Category": "CampusKlassiker",
 		"Date": "2025-12-09",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 6.25,
-		"PriceGuest": 9.9,
-		"PriceStudent": 4.95,
-		"Fish": true
+		"PriceAttendant": 4.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 3.5,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Ungarisches Rindergulasch (9,Mi,Sw), Salzkartoffeln",
