@@ -14,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2025-12-09",
 		"Additives": {
@@ -29,7 +29,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Kürbis in einer Curry- Kokossoße (So,Sl,Sf,GlW)",
+		"Name": "Pasta (GlW), Kürbis in einer Curry- Kokossoße (So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-12-09",
 		"Additives": {
@@ -75,17 +75,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Dreierlei Kartoffelgnocchi mit gebratenen Champignons, Soja-Skyr und Rucola (3,So)",
+		"Name": "Spaghettisalat mit Pesto, Auberginen Bällchen und geschmorte Tomaten (2,3,5,Mi,Sw,GlW,NMa)",
+		"Category": "CampusWorld",
+		"Date": "2025-12-09",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Dreierlei Kartoffelgnocchi mit gebratenen Zwiebel, Paprika, Tomatensoße und Ricotta (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2025-12-09",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 7.1,
 		"PriceGuest": 8.3,
 		"PriceStudent": 5.8,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
