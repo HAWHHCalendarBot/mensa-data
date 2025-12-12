@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Blechkartoffeln, Glacierte Pastinaken, gebratene Champignons, Zucchini",
+		"Name": "Kohlrabigemüse (1), Gewürzreis (Sl,Se), Karotten Pastinakenmix, Zucchini",
 		"Category": "Gemüsebar",
 		"Date": "2025-12-12",
-		"Additives": {},
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
@@ -11,11 +15,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Eliche (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-12-12",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -26,12 +32,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl), Zartweizen (GlW)",
+		"Name": "Vegane Linsensuppe (Sl), Brötchen/Schrippe (So,GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2025-12-12",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
