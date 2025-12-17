@@ -102,7 +102,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "2 Rote Beete Puffer (GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Gewürzgurke (2,9), Bratkartoffeln",
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Gewürzgurke (2,9), Bratkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2025-12-17",
 		"Additives": {
@@ -114,6 +114,7 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.25,
@@ -122,18 +123,17 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Spinatknödel (Ei,Mi,GlW), Tomaten- Linsenragout mit Zimtcroutons (1,GlW)",
+		"Name": "Kartoffelklöße, Tomaten- Linsenragout mit Zimtcroutons (1,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2025-12-17",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 6.4,
 		"PriceGuest": 7.6,
 		"PriceStudent": 5.1,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
