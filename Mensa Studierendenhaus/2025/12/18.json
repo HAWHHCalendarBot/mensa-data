@@ -1,27 +1,24 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
+		"Name": "gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2025-12-18",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-12-18",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -29,15 +26,56 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Blattspinat (Sl), Spätzle (Ei,Mi,GlW)",
+		"Name": "gerösteter Broccoli, Glacierte Pastinaken, Steckrüben-Möhren Gemüse (1), Blattspinat (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2025-12-18",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Glacierte Pastinaken, Steckrüben-Möhren Gemüse (1), Blattspinat (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2025-12-18",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spätzle (Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2025-12-18",
+		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Category": "Pastabar",
+		"Date": "2025-12-18",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
