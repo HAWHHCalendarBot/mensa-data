@@ -14,29 +14,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Farfalle (GlW), asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,GlW)",
 		"Category": "Pastabar",
 		"Date": "2025-12-19",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Penne (GlW), Lupinen-Bolognese (1,Sl,Lu)",
-		"Category": "Pastabar",
-		"Date": "2025-12-19",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -45,7 +30,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Linsencurry (Sf,GlW), Basmatireis",
+		"Name": "Indisches Linsencurry (Sf,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2025-12-19",
 		"Additives": {
@@ -55,6 +40,22 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Lupinen-Bolognese (1,Sl,Lu), Penne (GlW)",
+		"Category": "CampusVital",
+		"Date": "2025-12-19",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.6,
+		"PriceStudent": 3.1,
 		"LactoseFree": true,
 		"Vegan": true
 	},
