@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Grünkohl (Sl,Sf), Prinzessbohnen, rote Beete Gnocchi",
-		"Category": "Gemüsebar",
-		"Date": "2026-01-14",
-		"Additives": {
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Reis, asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-01-14",
@@ -60,12 +46,16 @@
 		"Beef": true
 	},
 	{
-		"Name": "Paprikaschote gefülllt mit Linsengemüse (Sl), Petersilienpesto, hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Paprikaschote gefülllt mit Linsengemüse (Ei,So,Sl,Sf,GlW)",
 		"Category": "CampusVital",
 		"Date": "2026-01-14",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.5,
 		"PriceGuest": 8.4,

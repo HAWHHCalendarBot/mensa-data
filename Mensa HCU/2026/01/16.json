@@ -1,17 +1,66 @@
 [
 	{
-		"Name": "glasierte rote Beete, Steckrübengemüse in Creme (1,So,GlW), Broccoli, gebratene Karotten, Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
+		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-01-16",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mexikanischer Bohnentopf (2,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2026-01-16",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "All in one Pot: Paneer, Bohnen, Blumenkohl, Karotte (So,Mi,Sf), Birnen-Chutney (3,5,Sw), Kokosreis",
+		"Category": "CampusWorld",
+		"Date": "2026-01-16",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.85,
+		"PriceGuest": 9.1,
+		"PriceStudent": 4.55,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Scharfe Kokos-Limonen-Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2026-01-16",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 9.2,
+		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Vegan": true
 	}
