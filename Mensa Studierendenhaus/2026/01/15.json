@@ -68,5 +68,69 @@
 		"PriceGuest": 1.65,
 		"PriceStudent": 1.2,
 		"Pig": true
+	},
+	{
+		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Category": "Pottkieker",
+		"Date": "2026-01-15",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (Mi,Sl), Pommes Frites (Sf), Zitrone",
+		"Category": "CampusKlassiker",
+		"Date": "2026-01-15",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Pig": true
+	},
+	{
+		"Name": "Fischburger mit paniertem Seehechtfilet und Dänischer Remoulade (2,3,9,Ei,Fi,Sf,GlW), Pommes Frites (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2026-01-15",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.8,
+		"Fish": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Dattel-Curry Falafel (GlW), grünem Hummus (Se), Rotkrautsalat (3), gebackene Süßkartoffel",
+		"Category": "CampusKlassiker",
+		"Date": "2026-01-15",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.3,
+		"PriceStudent": 5.8,
+		"LactoseFree": true,
+		"Vegan": true
 	}
 ]
