@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Gnocchi, Tomatensoße mit Schweinefleischstreifen, Zucchini und Champignons (Sl)",
-		"Category": "Pastabar",
-		"Date": "2026-01-05",
-		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
 		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Schmorkohl (Sl), Süßkartoffel Gnocchi",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-05",
@@ -28,21 +15,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi, Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Nerone Schweinefleischstreifen in Tomaten-Sahnesoße (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-01-05",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Pig": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Champignoncremesauce (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-01-05",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tofu-Gemüse-Topf (So,Sl)",
@@ -59,7 +59,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Bratensoße (Sl), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Bratensoße (Sl), hausgemachtes Kartoffelpüree (Mi), Senf (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-01-05",
 		"Additives": {
@@ -67,6 +67,7 @@
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>8</strong>": "Phosphat",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 5.2,
