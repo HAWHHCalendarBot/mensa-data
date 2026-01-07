@@ -1,18 +1,6 @@
 [
 	{
-		"Name": "Ofengemüse mit Möhre und Pastinake, Erbsen, Schwarzwurzeln (Mi), Brechbohnen",
-		"Category": "Gemüsebar",
-		"Date": "2026-01-07",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
+		"Name": "Pasta (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-01-07",
 		"Additives": {
@@ -26,10 +14,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
+		"Name": "Erbsen /, Möhrengemüse (2,So,Sl,GlW), Schwarzwurzeln (Mi), Mini Kürbisgnocchi (Ei,GlW), Prinzessbohnen mit Pfifferlingen",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-07",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-01-07",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
@@ -78,7 +85,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Tempeh-Gemüsepfanne mit Cashews (gelbe Erbse und Süßlupine) (2,So,Lu,GlW,NCa), Zartweizen (GlW)",
+		"Name": "Tempeh-Gemüsepfanne mit Cashews (gelbe Erbse und Süßlupine) (2,So,Sl,Lu,GlW,NCa), Zartweizen (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2026-01-07",
 		"Additives": {
@@ -86,6 +93,7 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
 			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 7.25,
