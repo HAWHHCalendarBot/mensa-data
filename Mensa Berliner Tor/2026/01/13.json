@@ -1,5 +1,17 @@
 [
 	{
+		"Name": "Rindergulasch mit Paprika (Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-01-13",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
+	},
+	{
 		"Name": "Steckrüben-Möhren Gemüse (1), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Zartweizen mit Maronen und Kürbis (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-13",
@@ -11,6 +23,22 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Möhrensuppe mit Ingwer (Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2026-01-13",
+		"Additives": {
+			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.7,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -36,6 +64,23 @@
 		"PriceStudent": 3.6,
 		"LactoseFree": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Veganer Falafelburger mit Krautsalat (3,5,Sf,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2026-01-13",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Asia-Chicken-Reis-Pot, Kimchi, Gurke, Koriander, Erdnüsse, Chilimajo (2,En,So,Sl,Sf,Se,GlW)",
