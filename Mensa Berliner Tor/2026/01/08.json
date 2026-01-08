@@ -1,33 +1,29 @@
 [
 	{
-		"Name": "Rindergeschnetzeltes mit Pilzen in Rahm (3,Mi), Kartoffelklöße",
-		"Category": "Pastabar",
-		"Date": "2026-01-08",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Beef": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Balsamicolinsen (1,5,So,Sf,Sw), Blechkartoffeln",
+		"Name": "gerösteter Broccoli, Blumenkohl, buntem Gemüse, Backkartoffel vom Grill",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-08",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Spinat Rindfleisch Curry (2,Mi,Sl,Sf), Reis",
+		"Category": "Pastabar",
+		"Date": "2026-01-08",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
 	},
 	{
 		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
@@ -56,6 +52,19 @@
 		"PriceStudent": 3.8,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Frisch gebackene PIZZA nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-01-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.7,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Currybratwurst (Schwein / Geflügel / Vegan) (4,8,Sl,Sf), zur Auswahl, BBQ Soße (2,9,Sl,Sf), Hot Cola BBQ Soße (9), Pommes Frites (Sf), verschiedene Currypulver nach Wahl (Sf)",
