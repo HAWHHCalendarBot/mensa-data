@@ -1,9 +1,88 @@
 [
 	{
-		"Name": "Reis, gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
+		"Name": "Pasta nach Wahl (GlW), Belugalinsenragout (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-01-08",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Nerone mit Schweinefleisch in Tomaten-Sahnesoße (Mi,Sl), Pasta (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-01-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Pig": true
+	},
+	{
+		"Name": "Wirsing und Kürbis in Kokosmilch (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-01-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Zucchini in Sojacreme mit Nüssen (So,Sl,NHa)",
+		"Category": "Pastabar",
+		"Date": "2026-01-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rindfleischstreifen und Pilze in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-01-08",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (3,8,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-01-08",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -11,21 +90,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Poultry": true
-	},
-	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
-		"Date": "2026-01-08",
-		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Balsamicolinsen (1,5,So,Sf,Sw), Blechkartoffeln",
@@ -45,12 +109,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl)",
+		"Name": "Erbsensuppe mit veganer Kochwurstalternative (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-01-08",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -91,7 +154,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Seelachsfilet mit Kräuterkruste (Fi,Mi,GlW), Tomaten-Gemüse Sugo, hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Seelachsfilet gebraten mit Zitronenstücken (Fi,Mi,GlW), Tomaten-Gemüse Sugo, hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2026-01-08",
 		"Additives": {
