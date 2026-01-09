@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "Nusskartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-01-09",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-01-09",
@@ -13,7 +24,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa)",
+		"Name": "Rosenkohl in Creme (1,So,Sl), Steckrüben-Möhren Gemüse (1), Ofengemüse, Champignons und Spitzkohl in Sojarahm (So,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-09",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spinat-Erdnusssoße (2,En,So,Sl,GlW,NMa)",
 		"Category": "Pastabar",
 		"Date": "2026-01-09",
 		"Additives": {
@@ -31,23 +58,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rosenkohl in Creme (1,So,Sl,GlW), Cajun Gemüse (Sl), Ofengemüse, Bayrisch Kraut (3,5,Sw), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Waldpilzen in Sahnesoße mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
 		"Date": "2026-01-09",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Bao Bun Teigtaschen (1,GlW), mit pulled Turkey mit Hoisin (1,2,So,GlW), mit marinierten Schweinenackenstreifen mit Hoisin und Ingwer (1,2,So,Se,GlW), Sesamreis (Se), verschiedene Extras (1,3,5,En,So,Se,Sw,GlW), verschiedene Soßen (1,2,3,4,5,Ei,En,So,Sf,Se,Sw,GlW)",
