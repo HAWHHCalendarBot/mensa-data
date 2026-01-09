@@ -1,10 +1,45 @@
 [
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Herzoginkartoffeln (Ei,Mi), Gnocchi - Auflauf (Mi,GlW,GlG), Kräuterkartoffeln mit Zwiebeln",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-09",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta mit Broccoli in Rahm (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-01-09",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Bratreis mit Gemüse (2,3,So,Sl,Se,GlW), orientalisches Kichererbsen - Tomatenragout",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-09",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,61 +48,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Curry und Ragout:, orientalisches Kichererbsen - Tomatenragout, gebratenes Kichererbsencurry, Kicherserbsen Tomatenragout, Kartoffelragout in Dillsahne (Mi), weißes Bohnencurry (Sf), Dal Tadka - mit roten Linsen und Kokosmilch (2), Dal Palak - mit roten Linsen und Spinat (2,Sl,Sf), Sonstiges:, Bulgur arabisch (Sl,GlW,NMa,NWa), orientalischer CousCous (Sl,GlW,NWa)",
-		"Category": "Gemüsebar",
-		"Date": "2026-01-09",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Gebackenes / Frittiertes:, Kroketten (GlW), Herzoginkartoffeln (Ei,Mi), Kartoffelspalten (GlW), Steakhouse - Pommes, Röstiecken, Röstinchen, Aufläufe:, Kartoffelgratin (Mi,Sl), Kartoffel  - Gemüsegratin (Mi,GlW,GlG), Kartoffel - Blumenkohlgratin (Mi,GlW,GlG), Gnocchi - Auflauf (Mi,GlW,GlG), Spätzle - Auflauf (Ei,Mi,GlW,GlG), Kartoffeln:, Kräuterkartoffeln mit Zwiebeln, gebackene orientalische Kartoffeln, gebackene Kartoffeln in einer Tahinmarinade (Se), gebackene Cajun-Kartoffeln, Sesamkartoffeln (Se), gebackene Kartoffel mit Koriander - Limettenmarinade (3)",
-		"Category": "Gemüsebar",
-		"Date": "2026-01-09",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "gebratene Mungosprossen (2,So,Se,GlW), Bohne:, gebratene Bohnen, Bohnen mit Knoblauch und Ingwer (2,So,Se,GlW), Erbsen:, Erbsen, Spicy Erbsen (2), Blumenkohl:, Blumenkohl, gebackener Cajun - Blumenkohl, gebackener Tandoori - Blumenkohl (1,Sf), Blumenkohl mit Sesammarinade (Se), Blumenkohl mit Hollandaise (Ei,Mi,Sl), Blumenkohl Limette-Knoblauch (3), Broccoli:, Sesam Broccoli (Se), Broccoli, Karotte:, orientalische Zuckermöhren, Sesam-Karotten (Se), Karotten, Kohl - Gemüse:, Spitzkohl mit Kreuzkümmel, gebratener Wirsingkohl mit Cajun, gebratener Weißkohl mit Cranberrys, gebratener Wirsingkohl mit Kreuzkümmel, Zuccini &amp; Aubergine:, gebratene Cajun Zucchini, gebratene Tandoori  - Zucchini (Sf,GlW), gebratene Curry - Zucchini, orientalische Aubergine, Sonstige Gemüse:, spicy Edamame (1,2,So), Madras Kürbis, Süßkartoffel:, Süßkartoffel ,,Madras,,, Cajun Süßkartoffel",
+		"Name": "gebratene Mungosprossen (2,So,Se,GlW), gebackener Cajun - Blumenkohl, orientalische Zuckermöhren, Madras Kürbis, schwarzes Bohnenragout mit Spinat (1,Sl), Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-09",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Veganer Steckrübeneintopf mit einem Brötchen (Sl,Sw,GlW,GlR)",
