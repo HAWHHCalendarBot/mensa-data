@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-01-12",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -12,12 +13,10 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
+		"Name": "Kichererbsencurry",
 		"Category": "Pottkieker",
 		"Date": "2026-01-12",
-		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
@@ -37,34 +36,31 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (Mi,Sl), Pommes Frites (Sf), Zitrone",
-		"Category": "CampusKlassiker",
-		"Date": "2026-01-12",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.6,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.3,
-		"Pig": true
-	},
-	{
-		"Name": "gebackenes Rotbarschfilet (Fi,GlW), Tatarensoße (1,3,9,Ei,Mi,Sf,Sw), Dillkartoffeln",
+		"Name": "gebackenes Rotbarschfilet (Fi,GlW), Dijon-Senfsoße (Mi,Sf,GlW,GlG), Dillkartoffeln",
 		"Category": "CampusWorld",
 		"Date": "2026-01-12",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 7.9,
+		"PriceStudent": 5.4,
+		"Fish": true
+	},
+	{
+		"Name": "gebackenes Rotbarschfilet (Fi,GlW), Dijon-Senfsoße (Mi,Sf,GlW,GlG), Dillkartoffeln",
+		"Category": "CampusWorld",
+		"Date": "2026-01-12",
+		"Additives": {
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.7,
 		"PriceGuest": 7.9,
