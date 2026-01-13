@@ -1,23 +1,31 @@
 [
 	{
-		"Name": "Rosenkohl (Mi), Brechbohnen, Maisgemüse (1), Zucchini",
-		"Category": "Gemüsebar",
-		"Date": "2026-01-13",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Strozzapreti (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Name": "Pasta (GlW), Tomaten- Kräuter- Gemüsesoße (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-01-13",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Linsengemüse (3,5,Sl,Sw), Brokkoli (2,So,Se,GlW), Gartengemüse (Sl), Kartoffelklöße gebraten",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-13",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -41,15 +49,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi- Gurke, Koriander, Erdnüsse, Chilimajo (Sojaprotein) (1,2,3,9,Ei,En,So,Sl,Sf,Se,GlW)",
+		"Name": "Asia-Reis-Pot, Sojastreifen, Kimchi- Gurke, Koriander, Erdnüsse, Chilimajo (Sojaprotein) (2,En,So,Sl,Sf,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-01-13",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
@@ -61,7 +65,7 @@
 		"PriceGuest": 7.2,
 		"PriceStudent": 3.6,
 		"LactoseFree": true,
-		"Vegetarian": true
+		"Vegan": true
 	},
 	{
 		"Name": "Vegane Bällchen in Kapernsoße (Soja und Weizenprotein) (1,2,So,Sl,Sw,GlW,GlG), Petersilienkartoffeln, Rote Beete Salat (9)",
@@ -85,7 +89,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkohl (2,3,8,Sl,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+		"Name": "Grünkohl (2,3,8,Sl,Sf), Kasselerbraten (2,3), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2026-01-13",
 		"Additives": {
