@@ -1,10 +1,12 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Prinzessbohnen, rote Beete Gnocchi",
+		"Name": "Ratatouille (Sl), Blumenkohl mit Panko und Wirsing in Sojarahm (So,GlW), Broccoli, Rosenkohl mit Edamame, rote Beete Gnocchi",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-14",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -43,6 +45,29 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Glasnudelsalat mit Sesam, Thempeh, Chinakohl und cremiger Sojadip (2,3,5,Ei,En,So,Sf,Se,Sw,Lu,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-01-14",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.15,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.85,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
