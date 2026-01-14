@@ -1,40 +1,31 @@
 [
 	{
-		"Name": "Reis, asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,GlW)",
-		"Category": "Pastabar",
+		"Name": "Brokkoli, Gartengemüse (Sl), Blattspinat, Schwarzwurzeln (Mi), Mexikanisches Gemüse (Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2026-01-14",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Linsengemüse (2,3,5,8,Sl,Sw), Gebratener Brokkoli (2,So,Se,GlW), Gartengemüse (Sl), Kartoffelklöße",
-		"Category": "Gemüsebar",
+		"Name": "Reis, Mediterrane Tomatensoße mit Grünkern (Sl,Sw,GlD)",
+		"Category": "Pastabar",
 		"Date": "2026-01-14",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
 	},
 	{
 		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
@@ -53,17 +44,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spaghetti (GlW), Bolognese mit Rinderhackfleisch (Sl), Hartkäse gerieben (Mi)",
+		"Name": "Pasta (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw), Hartkäse gerieben (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-01-14",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.05,
 		"PriceGuest": 7.5,
 		"PriceStudent": 3.75,
+		"Alcohol": true,
 		"Beef": true
 	},
 	{
@@ -84,7 +77,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganes Hackbällchen-Curry (Soja und Weizenprotein) mit Kokosmilch, Erdnussbutter und Gemüse (1,2,En,So,GlW,GlG), Basmatireis",
+		"Name": "Veganes Hackbällchen-Curry (Soja und Weizenprotein) mit Kokosmilch, Erdnussbutter und Gemüse (1,2,En,So,Sl,GlW,GlG), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2026-01-14",
 		"Additives": {
@@ -93,6 +86,7 @@
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.7,
