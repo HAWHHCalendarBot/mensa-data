@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,NHa)",
+		"Name": "Pasta (GlW), Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-01-15",
 		"Additives": {
@@ -15,16 +15,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratener Brokkoli (2,So,Se,GlW), Gartengemüse (Sl), Blattspinat, Schwarzwurzeln (Mi), Mexikanisches Gemüse (Sl)",
+		"Name": "Mediterranes Gemüse (Sw), Vegetarisch gefüllte Paprikaschote (Ei,So,Sl,Sf,GlW), Gartengemüse (Sl), Schwarzwurzeln (Mi), Mexikanisches Gemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-15",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Mediterranes Gemüse (Sw), Vegetarisch gefüllte Paprikaschote (Ei,So,Sl,Sf,GlW), Gartengemüse (Sl), Schwarzwurzeln (Mi), Mexikanisches Gemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-15",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -47,13 +66,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,GlW), Vollkornreis",
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,Sl,GlW), Vollkornreis",
 		"Category": "CampusVital",
 		"Date": "2026-01-15",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.8,
@@ -77,13 +97,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Dattel-Curry Falafel (GlW), grünem Hummus (Se), Rotkrautsalat (3), gebackene Süßkartoffel",
+		"Name": "Dattel-Curry Falafel (GlW), Ajvar Dip (Sf), Rotkrautsalat (3), gebackene Süßkartoffel",
 		"Category": "CampusKlassiker",
 		"Date": "2026-01-15",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 7.1,
 		"PriceGuest": 11.6,
