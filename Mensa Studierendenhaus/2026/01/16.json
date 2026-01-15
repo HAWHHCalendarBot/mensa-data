@@ -82,21 +82,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Scharfe Kokos-Limonen-Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
+		"Name": "Vegane Bällchen in Kapernsoße (Soja und Weizenprotein) (1,2,So,Sl,Sw,GlW,GlG), Petersilienkartoffeln, Rote Beete Salat (9)",
 		"Category": "CampusVital",
 		"Date": "2026-01-16",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grünkohl (Sl,Sf), vegane Kochwurst (Erbsenprotein), kleine Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2026-01-16",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
 	},
