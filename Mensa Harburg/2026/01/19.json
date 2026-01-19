@@ -1,9 +1,51 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Creme (So), Glacierte Pastinaken, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Hähnchenkeule (Sf)",
+		"Category": "Pastabar",
+		"Date": "2026-01-19",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Orange Linsen in Sojacremesoße (Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-01-19",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Prinzessbohnen, Blumenkohl-Broccoli Mix, Geschmoorte Zucchini mit Oliven (6,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-19",
 		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Spint-Sojarahmsoße (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-01-19",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -14,7 +56,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Schinkenstreifen in einer Käse- Sahnesoße (2,3,8,Mi,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Bunte Gemüse in Sojarahmsoße (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-01-19",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Schinkenstreifen in einer Käse- Sahnesoße mit Tomaten (2,3,8,So,Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-01-19",
 		"Additives": {
@@ -24,6 +82,7 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
