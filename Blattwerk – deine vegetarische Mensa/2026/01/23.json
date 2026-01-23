@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Eliche (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Name": "Pasta (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-01-23",
 		"Additives": {
@@ -14,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Blattspinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta (GlW), Blattspinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-01-23",
 		"Additives": {
@@ -29,7 +29,23 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Dill-Quark (Mi), Rote Beete Salat (9)",
+		"Name": "Zartweizen mit Sojabolognese, Rosenkohl, gebratene Schwarzwurzel, gebackener Kürbis (6,Sl,Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-23",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Kräuter-Quark (Mi), Rote Beete Salat (9)",
 		"Category": "CampusWorld",
 		"Date": "2026-01-23",
 		"Additives": {
@@ -61,6 +77,22 @@
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sojagyros (Sojaprotein) (So,Sl), Paprikareis (3), Rotkohlsalat, Knoblauchdip mit Pfeffer und Jalapeño (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2026-01-23",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.45,
+		"PriceGuest": 7.65,
+		"PriceStudent": 5.15,
 		"LactoseFree": true,
 		"Vegan": true
 	}
