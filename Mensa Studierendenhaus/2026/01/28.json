@@ -99,21 +99,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Schinkenbraten, Biersoße (Sl,GlG), Rahmsauerkraut (Mi,Sl), Kartoffelklöße",
-		"Category": "CampusWorld",
-		"Date": "2026-01-28",
-		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.5,
-		"PriceGuest": 7.7,
-		"PriceStudent": 5.2,
-		"Alcohol": true,
-		"Pig": true
-	},
-	{
 		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (Soja und Weizenprotein) (3,5,So,Sl,Sf,Sw,GlW,GlG), Fladenbrot (Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-01-28",
@@ -128,11 +113,26 @@
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
+		"PriceAttendant": 5.4,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.1,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schinkenbraten, Biersoße (Sl,GlG), Rahmsauerkraut (Mi,Sl), Kartoffelklöße",
+		"Category": "CampusWorld",
+		"Date": "2026-01-28",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 6.5,
 		"PriceGuest": 7.7,
 		"PriceStudent": 5.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Alcohol": true,
+		"Pig": true
 	},
 	{
 		"Name": "Putensteak, Kräuterdip (Mi), Broccoli, gebratene Drillinge (1)",
