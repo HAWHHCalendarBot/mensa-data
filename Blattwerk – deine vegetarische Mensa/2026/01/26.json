@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Karotten Rustica, Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Süßkartoffel Gnocchi",
+		"Name": "Karotten Rustica, Kohlrabi in Sojacreme (So), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln mit Cherrytomaten, Gohnen mit Thymian und Knoblauch (1), Süßkartoffel Gnocchi",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-26",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -14,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Carbonara vegetariana (Mi,GlW,GlG)",
+		"Name": "Pasta (GlW), Carbonara vegetariana (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-01-26",
 		"Additives": {
@@ -28,21 +29,21 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Fusilli (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Pasta (GlW), Tomatensoße aus getrockneten Tomaten, Basilikum und Soja (2,5,So,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-01-26",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Colcannon, Irisches Kartoffelgericht, kandierte Cashewkerne (1,2,So,GlW,NCa), gebratene Karotten, Petersiliensoße (Mi,GlW,GlG)",
