@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Karotten, buntem Gemüse, Nusskartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2026-01-26",
-		"Additives": {},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Rindergulasch mit Pilzen (3), Kartoffelklöße",
 		"Category": "Pastabar",
 		"Date": "2026-01-26",
@@ -22,6 +11,35 @@
 		"PriceStudent": 0.85,
 		"Beef": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta (GlW), Gemüsegulasch (Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-01-26",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "bunte Gemüsepfanne, Auberginen (Sw), Zartweizen-Tomatentopf mit Pilzen (Sl,Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-26",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
