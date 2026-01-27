@@ -1,12 +1,11 @@
 [
 	{
-		"Name": "glasierte rote Beete, Steckrübengemüse in Creme (1,So,GlW), Broccoli, gebratene Karotten, Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
+		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-02-06",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -29,30 +28,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegan / Vegetarische PIZZA LARGE nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
+		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2026-02-06",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.0,
-		"PriceGuest": 7.2,
-		"PriceStudent": 4.7,
-		"Vegetarian": true
-	},
-	{
-		"Name": "3 Kartoffeltaschen mit Tomaten-Mozzarellafüllung (Mi), Kräuterquark (Mi), gemischter Salat (Ei,Mi)",
-		"Category": "CampusVital",
-		"Date": "2026-02-06",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.9,
-		"Vegetarian": true
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.95,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Hausgemachtes Kartoffel-Butterstampf (Mi)",
