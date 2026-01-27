@@ -1,11 +1,11 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
-		"Category": "Pastabar",
+		"Name": "Frühlingsgemüse (1), Erbsen (1), Mexikanisches Gemüse (Sl), Karotten (1)",
+		"Category": "Gemüsebar",
 		"Date": "2026-01-27",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
@@ -14,17 +14,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frühlingsgemüse (1), Brechbohnen, Blumenkohl, Rosenkohl (Mi)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sl,Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-01-27",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw)",
@@ -55,13 +57,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünkohl (2,3,8,Sl,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
+		"Name": "Grünkohl (3,Sl,Sf), Kasseler Nackenbraten (2,3), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2026-01-27",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
