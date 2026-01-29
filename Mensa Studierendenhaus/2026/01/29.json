@@ -1,25 +1,51 @@
 [
 	{
-		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
+		"Name": "gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-01-29",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Spätzle (1,Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-01-29",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-01-29",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Category": "Pastabar",
+		"Date": "2026-01-29",
+		"Additives": {
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
@@ -31,23 +57,24 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Balsamicolinsen (1,5,So,Sf,Sw), Spätzle (Ei,Mi,GlW)",
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Balsamicolinsen (1,5,So,Sf,Sw), Couscous mit Mandeln Rosinen und Chili (Sl,GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2026-01-29",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Indisches Buttercurry mit Hähnchenstreifen und crispy Chicken (3,8,Mi,Sw,GlW), Kurkumareis, verschiedene Extras (2,Mi,Se,Sw,GlW), verschiede Soßen und Dips (2,3,4,Ei,En,So,Sf,Se,GlW)",

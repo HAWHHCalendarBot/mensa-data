@@ -1,13 +1,27 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,Sl,GlW,GlG,NWa)",
+		"Name": "Maisgemüse (1), Flageolets Bohnen,  Pastinaken, Gartengemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-01-29",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-01-29",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -16,30 +30,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Vollkorn Tomatenreis, Bunte Fusilli (GlW), Blechkartoffeln, Linsengemüse (2,3,5,8,Sl,Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2026-01-29",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
+		"Name": "Minestrone (Sl,Sw,GlW), Baguette Brötchen (GlW,GlR)",
 		"Category": "Pottkieker",
 		"Date": "2026-01-29",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -82,17 +77,22 @@
 		"Pig": true
 	},
 	{
-		"Name": "Belgische Pommes, Planted Duck (Erbsen-, Sonnenblumen-, Hafer Proteine) (So,GlH), Kräuterdip (Sf), gepickelte rote Zwiebel und Frühlingslauch (Sf)",
+		"Name": "Belgische Pommes, Planted Duck (Erbsen-, Sonnenblumen-, Hafer Proteine) (So,GlH), Kräuterdip (Sf), Rote Zwiebelmarmelade (1,2,5,Sw)",
 		"Category": "CampusSpezial",
 		"Date": "2026-01-29",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.4,
 		"PriceGuest": 10.2,
 		"PriceStudent": 5.1,
+		"Alcohol": true,
 		"LactoseFree": true,
 		"Vegan": true
 	}
