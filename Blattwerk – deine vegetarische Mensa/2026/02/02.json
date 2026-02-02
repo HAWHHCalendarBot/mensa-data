@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Fusilli (GlW), verschiedene Gemüse in Tomatensoße (Sl)",
+		"Name": "Pasta (GlW), verschiedene Gemüse in Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-02-02",
 		"Additives": {
@@ -12,20 +12,6 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Fusilli (GlW), Carbonara vegetariana (Mi,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-02-02",
-		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Karotten mit Ingwer und Sesam (1,Se), Kohlrabigemüse (1), Blumenkohl mit gebräunten Bröseln (1,GlW), Nusskartoffeln",
@@ -41,6 +27,20 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Carbonara vegetariana (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-02-02",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kurkumareis, BBQ-Bohnen (9,Sf), frischer Grünkohl mit Knoblauch, Limette und Chili (3,Sl), Ajvar Dip (Sf)",
@@ -59,25 +59,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Linsen Hirsebällchen (GlW,GlH), Bulgur Tomaten Salat (3,5,Sw,GlW), Sojajoghurt-Minz Dip (3,So), Rucola",
-		"Category": "CampusWorld",
+		"Name": "Vegetarisch gefüllte Kohlroulade (Ei,So), Kümmelsoße (Sl), Röstkartoffel",
+		"Category": "CampusSpezial",
 		"Date": "2026-02-02",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 6.35,
-		"PriceGuest": 7.55,
-		"PriceStudent": 5.05,
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.95,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Hafer-Bratling auf Karottengemüse (GlW,GlH), Chimichurri (3), Pikante Kartoffeln (Se)",
+		"Name": "Hafer-Bratling auf Karottengemüse (GlW,GlH), Chimichurri (3), Pikante Sesamkartoffeln (Se)",
 		"Category": "CampusVital",
 		"Date": "2026-02-02",
 		"Additives": {
