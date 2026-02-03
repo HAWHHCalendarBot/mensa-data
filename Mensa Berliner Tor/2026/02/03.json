@@ -1,26 +1,11 @@
 [
 	{
-		"Name": "Penne alla Norma mit Auberginen-Tomatensoße und Ricotta (Mi,Sw,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-02-03",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Steckrüben-Möhren Gemüse (1), Fenchelgemüse (Sl), Süßkartoffelwürfel gebacken, gerösteter Broccoli, Zartweizen mit Maronen und Kürbis (GlW)",
+		"Name": "Bohnen Gemüse mit Soja Creme (1), Broccoli, Auberginen Gemüse (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-03",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -29,11 +14,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
+		"Name": "Pasta (GlW), Sonnenblumenhack-Champingoncreme (Sonnenblumenprotein) (1,So,Mi,Sl,Sf,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-02-03",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kartoffel-Lauch Eintopf (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-02-03",
 		"Additives": {
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -44,7 +46,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Beete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Dip (2,3,So,Sf)",
+		"Name": "Bowl mit Karotten Salat, Röstinchen und orientalischer rote Beete (2,3,5,So,Sl,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Dip (2,3,So,Sf)",
 		"Category": "CampusVital",
 		"Date": "2026-02-03",
 		"Additives": {
@@ -53,7 +55,6 @@
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",

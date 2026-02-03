@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Penne (GlW), Tomaten-Sahnesoße mit Zucchiniwürfel (Mi)",
+		"Name": "Pasta Tomaten-Sahnesoße mit Zucchiniwürfel (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-11",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl)",
+		"Name": "Pasta Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-11",
 		"Additives": {
@@ -27,13 +27,12 @@
 		"Beef": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl, frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6), Süßkartoffelwürfel gebacken, rote-Beete-Pilaw (9)",
+		"Name": "gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-11",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>6</strong>": "Geschwärzt",
-			"<strong>9</strong>": "Süßungsmittel",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -56,6 +55,25 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Grünkohl (2,3,8,Sl,Sf), Kochwurst (1,2,3,4,8,Sl,Sf), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2026-02-11",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.3,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Veganer Sloppy Joes Burger mit Sojahack (Sojaprotein), gepickelten Zwiebeln und Gewürzgurke (1,2,3,9,So,Sf,GlW), Cole Slaw mit Sojamajo (Sf), Pommes Frites (Sf)",
