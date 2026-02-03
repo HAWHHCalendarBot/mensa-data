@@ -1,19 +1,6 @@
 [
 	{
-		"Name": "Steckrüben-Möhren Gemüse (1)",
-		"Category": "Gemüsebar",
-		"Date": "2026-02-03",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Penne (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Name": "Fusilli (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-02-03",
 		"Additives": {
@@ -25,6 +12,25 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Kohlrabi-Broccoli in Curry-Kokos (3,En,Sf), 3 Kartoffeltaschen mit Tomaten-Mozzarellafüllung (Mi), Sauerkraut (vegan) (Sl), Rosenkohl (1), Champignons, Tomaten, Knobi und frischen Kräutern (Sw,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-02-03",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
@@ -42,18 +48,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne alla Norma mit Auberginen-Tomatensoße und Ricotta (Mi,Sw,GlW)",
+		"Name": "Penne alla Norma mit Auberginen-Tomatensoße und Soja-Dip (1,3,5,Sf,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-02-03",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.15,
 		"PriceGuest": 6.35,
 		"PriceStudent": 3.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "gebratene Hähnchenbrust, Bratensoße (Sl), Prinzessbohnen, hausgemachtes Kartoffelpüree (Mi)",
