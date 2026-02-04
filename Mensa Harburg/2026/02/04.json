@@ -1,12 +1,9 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Grünkohl (Sl,Sf), Prinzessbohnen, rote Beete Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Gnocchi",
+		"Category": "Pastabar",
 		"Date": "2026-02-04",
-		"Additives": {
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -14,13 +11,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Reis, asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,GlW)",
+		"Name": "Linsenragout mit Kokosmilch und roter Beete (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-02-04",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -30,20 +25,50 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Name": "gebratene Champignons (Sw),  Fingermöhrchen (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2026-02-04",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Hähnchengyros in Cremesoße mit Tomaten und Gemüse (4,Mi,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-04",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>4</strong>": "Geschmacksverstärker",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"Poultry": true
+	},
+	{
+		"Name": "Reis,  Sojageschnetzeltes Asiatisch (Sojaprotein) (2,So,Sl,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-04",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
@@ -60,12 +85,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Colcannon, Irisches Kartoffelgericht, kandierte Cashewkerne (1,2,So,GlW,NCa), gebratene Karotten",
+		"Name": "Colcannon, Irisches Kartoffelgericht, kandierte Cashewkerne (1,2,En,So,GlW,NCa), gebratene Karotten, Rotkrautsalat (3)",
 		"Category": "CampusSpezial",
 		"Date": "2026-02-04",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"

@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Ratatouille (Sl), Kürbisgemüse, Grünkohl (Sl,Sf), Prinzessbohnen, rote Beete Gnocchi",
+		"Name": "Zucchini (Sl), Blumenkohl, buntem Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-04",
 		"Additives": {
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -14,20 +13,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Name": "Pasta (GlW), Hähnchenstreifen in Tomatensoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-02-04",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Beef": true
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-02-04",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl)",
