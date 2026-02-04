@@ -1,14 +1,18 @@
 [
 	{
-		"Name": "Dicke Bohen mit Gyrosalternative, Bohnenragout, Blumenkohl, Süßkartoffeln, Brechbohnen",
+		"Name": "Dicke Bohen mit Gyrosalternative, Bohnenragout, Blumenkohl, Süßkartoffeln, Brechbohnen, Auberginenauflauf mit Rinderhack (Mi,Sw,GlW,GlG)",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-04",
-		"Additives": {},
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true
 	},
 	{
 		"Name": "Reis, asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Sl,Se,GlW)",
