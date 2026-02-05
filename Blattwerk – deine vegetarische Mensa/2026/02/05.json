@@ -29,7 +29,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Karotten Pastinakenmix mit frischer Petersilie, Spitzkohl in Creme (So), Petersilienkartoffeln",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Bohnen, Röstkartoffel mit Paprika, Sauerkraut, Spitzkohl in Creme (So)",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-05",
 		"Additives": {
@@ -47,16 +47,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), Paprikacreme mit Ricotta Salata und Rucola (Mi)",
+		"Name": "Hausgemachte Pasta (GlW), Aubergine, Paprika und Kräutern in Tomatensoße und Ricotta Salata (Mi,Sl,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-02-05",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.4,
 		"PriceStudent": 3.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Ofenkartoffeln mit Rosmarin, Gemüse und Hirtenkäse (Mi), Tomaten-Sonnenblumenkern-Salsa",
+		"Category": "CampusSpezial",
+		"Date": "2026-02-05",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.5,
 		"Vegetarian": true
 	},
 	{
@@ -78,16 +92,5 @@
 		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Ovenkartoffel mit Rosmarin, Karotten, Hirtenkäse (Mi), Tomaten-Sonnenblumenkern-Salsa",
-		"Category": "CampusKlassiker",
-		"Date": "2026-02-05",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 7.9,
-		"PriceStudent": 5.4
 	}
 ]
