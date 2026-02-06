@@ -1,24 +1,24 @@
 [
 	{
-		"Name": "Brechbohnen, Blumenkohl, Brechbohnen, Spätzle (Ei,GlW), Karotten Pastinakenmix mit frischer Petersilie",
+		"Name": "Kohlrabigemüse (1), Sommergemüse (Mi), Zuckerschoten (1), Wok-Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-06",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
-		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Pasta (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl,Se)",
 		"Category": "Pastabar",
 		"Date": "2026-02-06",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -29,11 +29,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Curry mit Kichererbsen, Fenchel und rotem Paprika (3), Kurkumareis",
+		"Name": "Mohren-Kichererbsen-Curry (So,Sl,Sf,Se,GlW), Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-02-06",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -61,7 +65,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Hausgemachtes Kartoffel-Butterstampf (Mi,Sl)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-02-06",
 		"Additives": {
