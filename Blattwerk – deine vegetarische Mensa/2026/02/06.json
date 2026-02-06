@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Penne (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Penne (GlW), Tomatensoße mit Sahne, Knoblauch und Broccoli (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-02-06",
 		"Additives": {
@@ -9,10 +9,11 @@
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Name": "Pasta (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-02-06",
 		"Additives": {
@@ -25,6 +26,18 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Ofenkartoffel Sour Cream (Mi), Tomaten-Sonnenblumenkern-Salsa",
+		"Category": "CampusSpezial",
+		"Date": "2026-02-06",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.3,
+		"PriceGuest": 5.5,
+		"PriceStudent": 3.0,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tikka Masala mit Sojaschnetzel (Sojaprotein) (So,Se), Basmatireis",
