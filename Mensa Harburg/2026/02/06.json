@@ -1,6 +1,44 @@
 [
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2026-02-06",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Couscous (Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-06",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Fingermöhrchen (Mi),  Asiagemüse (So)",
+		"Category": "Gemüsebar",
+		"Date": "2026-02-06",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Bohnenragout mit Tofu (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-06",
 		"Additives": {
@@ -15,28 +53,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Kichererbsen-Ragout mit Soja und Paprika (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-06",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
-	},
-	{
-		"Name": "glasierte rote Beete, Steckrübengemüse in Creme (1,So,GlW), Broccoli, gebratene Karotten, Gemüse Sesamreis (Se)",
-		"Category": "Gemüsebar",
-		"Date": "2026-02-06",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -46,11 +68,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Curry mit Kichererbsen, Fenchel und rotem Paprika (3), Kurkumareis",
+		"Name": "Pasta nach Wahl (GlW), Kürbis-Rote Beete Ragout mit Linsen (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-02-06",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grünes Curry mit Kichererbsen und Gemüse (3), Gemüse Bulgur (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-02-06",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel"
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
@@ -59,25 +98,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegane Maultaschen mit Zucchini- Champignongemüse und Salbei (1,3,So,Sl,Sw,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-02-06",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.25,
-		"PriceGuest": 7.45,
-		"PriceStudent": 4.95,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf)",
+		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,GlW,GlG), Reis, Tomatensalat mit Petersilie (3,5,Sw), Knoblauchdip (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2026-02-06",
 		"Additives": {
@@ -96,7 +117,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Röstkartoffeln",
+		"Name": "Tortellini mit Käsefüllung, Zucchini- Champignonsoße und Salbei (1,Ei,So,Mi,Sl,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-02-06",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.95,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüsebratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2026-02-06",
 		"Additives": {
