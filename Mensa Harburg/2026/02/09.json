@@ -1,11 +1,20 @@
 [
 	{
-		"Name": "Fusilli (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl",
+		"Name": "Pariser Kartoffeln mit Chili",
+		"Category": "Gemüsebar",
+		"Date": "2026-02-09",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reis",
 		"Category": "Pastabar",
 		"Date": "2026-02-09",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -26,22 +35,91 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Schinkenstreifen in einer Käse- Sahnesoße (2,3,8,Mi,Sl,Sw)",
+		"Name": "Kürbis-Steckrübenmedaillon (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-09",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bohnenragout mit Tofu (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-09",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Kichererbsen-Ragout mit Soja (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-09",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Nerone Schweinefleischstreifen in Tomaten-Sahnesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-02-09",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"Pig": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Wirsing in Sojacremesoße (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-09",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "glacierte rote Beete in Sojasahnesoße (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-09",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl)",
@@ -108,21 +186,20 @@
 		"Pig": true
 	},
 	{
-		"Name": "Hähnchenbrust im Knuspermantel (GlW), Erdnussdip (En,So,GlW), gebratener Reis (2,3,So,Se,GlW)",
+		"Name": "Hähnchenbrust im Knuspermantel (GlW), Chili Cheese Dip (Mi), gebratener Reis (2,3,So,Se,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-02-09",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.9,
 		"PriceGuest": 8.1,
 		"PriceStudent": 5.6,
-		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
