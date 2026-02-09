@@ -22,24 +22,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-09",
 		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Kürbis-Steckrübenmedaillon (GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-02-09",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -63,7 +50,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta nach Wahl (GlW), Kichererbsen-Ragout mit Soja (So,Sl,GlW)",
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-09",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Curry-Sojaragout mit Wok-Gemüse (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-09",
 		"Additives": {
@@ -107,13 +109,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glacierte rote Beete in Sojasahnesoße (So,Sl,GlW)",
+		"Name": "glacierte rote Beete mit Balsamocoessig (1,5,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-02-09",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
