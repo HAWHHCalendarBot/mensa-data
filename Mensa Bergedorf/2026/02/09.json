@@ -13,11 +13,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Lauch in Creme (So), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "gerösteter Blumenkohl, Lauch in Creme (So), Asiagemüse (So), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-09",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -27,13 +26,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Schinkenstreifen in einer Käse- Sahnesoße (2,3,8,Mi,Sl,Sw,GlW)",
+		"Name": "Pizza Pollo e Broccoli (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-09",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta Hähnchenbruststreifen in einer Käse- Sahnesoße (Mi,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-09",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
@@ -42,10 +51,10 @@
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Pig": true
+		"Poultry": true
 	},
 	{
-		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl)",
+		"Name": "Bohnensuppe mit Räuchertofu (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-02-09",
 		"Additives": {
@@ -59,36 +68,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl, Sojajoghurt-Minz Dip (3,So)",
+		"Name": "Gnocchi-Tomaten-Auflauf mit Mozzarella überbacken (Mi)",
 		"Category": "CampusVital",
 		"Date": "2026-02-09",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 5.1,
 		"PriceGuest": 6.3,
 		"PriceStudent": 3.8,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Hausgemachte Spinatknödel auf gebratenen Champigons mit Salat (1,5,Ei,Mi,Sl,Sw,GlW,GlH), Tomaten- Linsenragout mit Zimtcroutons (1,GlW)",
-		"Category": "CampusSpezial",
-		"Date": "2026-02-09",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 8.0,
-		"PriceStudent": 5.5,
 		"Vegetarian": true
 	},
 	{
