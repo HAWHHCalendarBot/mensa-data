@@ -12,11 +12,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Erbsen (1), Edamame (So), griechische Bohnen",
+		"Name": "Erbsen (1), Sesammöhrchen (Se), Edamame (So), griechische Bohnen",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-10",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
@@ -72,19 +73,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schweinenackensteak, Kräuterbutter (Mi), Brechbohnen, Röstkartoffelwürfel",
-		"Category": "CampusKlassiker",
-		"Date": "2026-02-10",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.5,
-		"PriceGuest": 7.7,
-		"PriceStudent": 5.2,
-		"Pig": true
-	},
-	{
-		"Name": "Hausgemachte Spinatknödel auf gebratenen Champigons mit Salat (1,5,Ei,Mi,Sl,Sw,GlW,GlH), Tomaten- Linsenragout mit Zimtcroutons (1,GlW)",
+		"Name": "Hausgemachte Spinatknödel auf gebratenen Champigons mit Salat (1,5,Ei,Mi,Sl,Sw,GlW,GlH)",
 		"Category": "CampusSpezial",
 		"Date": "2026-02-10",
 		"Additives": {
@@ -97,9 +86,21 @@
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 8.0,
-		"PriceStudent": 5.5,
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.6,
+		"PriceStudent": 5.1,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Schweinenackensteak, Kräuterbutter (Mi), Brechbohnen, Röstkartoffelwürfel",
+		"Category": "CampusKlassiker",
+		"Date": "2026-02-10",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.2,
+		"Pig": true
 	}
 ]
