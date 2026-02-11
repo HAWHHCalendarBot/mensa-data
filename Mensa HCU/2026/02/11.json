@@ -1,9 +1,23 @@
 [
 	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl)",
+		"Name": "Gartengemüse, Romanesco (Sl), Brechbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2026-02-11",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.7,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,GlW,GlG), Kartoffelgratin (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-02-11",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
@@ -12,21 +26,6 @@
 		"PriceGuest": 1.7,
 		"PriceStudent": 0.85,
 		"Beef": true
-	},
-	{
-		"Name": "Gartengemüse, Vegane Maultaschen (GlW), Tricolore Gemüse (Mi,Sl), Kohlrabigemüse (1)",
-		"Category": "Gemüsebar",
-		"Date": "2026-02-11",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.7,
-		"PriceStudent": 0.85,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
@@ -44,12 +43,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pennette in Tomatensoße mit Gemüsebällchen (Ei,GlW)",
+		"Name": "Pennette in Tomatensoße mit Gemüsebällchen (Ei,Sl,GlW)",
 		"Category": "CampusVital",
 		"Date": "2026-02-11",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 4.25,
 		"PriceGuest": 5.9,
