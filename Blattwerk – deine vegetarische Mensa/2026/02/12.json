@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Stortelli Rigati (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl",
+		"Name": "Pasta (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl",
 		"Category": "Pastabar",
 		"Date": "2026-02-12",
 		"Additives": {
@@ -13,7 +13,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Stortelli Rigati (GlW), Pilzen und Zucchini in Mozzarella- Sahnesoße (Mi,GlW,GlG)",
+		"Name": "Pasta (GlW), Pilzen und Zucchini in Mozzarella- Sahnesoße (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-02-12",
 		"Additives": {
@@ -27,15 +27,32 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Wirsing in Creme (So,Sl,GlW), Madras Kürbis, pikantes Grillgemüse (Sl,Sf,GlW), Bulgur mit Rosinen und Mandeln (GlW,NMa)",
+		"Name": "Wirsing in Creme, Schwarzwurzeln mit Karotten (So,Sl,Sw,GlW), Pikanter Reis mit Gemüse, Auberginen mit Gemüse, pikantes Grillgemüse, geschmorte Paprika mit Zwiebel, Curry Blumenkohl (Sl,Sf,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-12",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Wirsing in Creme, Schwarzwurzeln mit Karotten (So,Sl,Sw,GlW), Pikanter Reis mit Gemüse, Auberginen mit Gemüse, pikantes Grillgemüse, geschmorte Paprika mit Zwiebel, Curry Blumenkohl (Sl,Sf,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-02-12",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -99,6 +116,24 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Nudelsalat mit Rucolapesto, Kichererbsen, veganem Kebap und Chili Cheese Dip (2,3,5,6,Mi,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-02-12",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.6,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Geschmorte Aubergine mit grüner Couscous-Salat (GlW), Ägyptische Falafel-Bällchen (GlW), Zitronen-Dip (So)",
 		"Category": "CampusSpezial",
 		"Date": "2026-02-12",
@@ -106,9 +141,9 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 7.15,
-		"PriceGuest": 8.35,
-		"PriceStudent": 5.85,
+		"PriceAttendant": 7.05,
+		"PriceGuest": 8.25,
+		"PriceStudent": 5.75,
 		"LactoseFree": true,
 		"Vegan": true
 	}
