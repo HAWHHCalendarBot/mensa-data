@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Nudelauflauf mit Tomaten, Mozzarella, Bohnen und Aubergine (Mi,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-02-13",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Vollkorn Penne (GlW), Kürbiscremesoße mit Soja und Curry (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-02-13",
@@ -119,10 +132,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Geschmorte Aubergine mit grüner Couscous-Salat (GlW), Dattel-Curry Falafel (GlW), Erbsendip (So)",
+		"Name": "Veganes Hackbällchen (So,GlW,GlG), Maccaroni (GlW), scharfe Tomatensoße",
 		"Category": "CampusVital",
 		"Date": "2026-02-13",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
