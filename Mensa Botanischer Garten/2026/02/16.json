@@ -1,12 +1,11 @@
 [
 	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl)",
+		"Name": "Penne (GlW), Rinderhackfleisch in Tomaten-Sahnesoße mit Kräutern (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-02-16",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -27,11 +26,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf), Salat (Sf,Sw)",
+		"Name": "Belugalinsen-Tomaten-Curry (1,Sl,Sf), Indische Kartoffeln (Sf), Salat (Ei,Mi,Sw)",
 		"Category": "CampusVital",
 		"Date": "2026-02-16",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -39,8 +40,7 @@
 		"PriceAttendant": 4.4,
 		"PriceGuest": 5.6,
 		"PriceStudent": 3.1,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), Bayrischer Kartoffelsalat mit Gurkenwürfel (3,5,9,Sl,Sf,Sw)",
