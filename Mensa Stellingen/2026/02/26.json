@@ -1,16 +1,29 @@
 [
 	{
-		"Name": "Spanischer Linseneintopf mit veganen Hackbällchen (3,5,So,Sl,Sf,Sw,GlW,GlG)",
+		"Name": "Wiener Würstchen (2,3,8)",
+		"Category": "Wiener Würstchen (2,3,8)",
+		"Date": "2026-02-26",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat"
+		},
+		"PriceAttendant": 2.0,
+		"PriceGuest": 2.7,
+		"PriceStudent": 1.2,
+		"Beef": true,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Linseneintopf mit gerösteten Kartoffelwürfeln (3,5,Sl,Sf,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2026-02-26",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
@@ -18,5 +31,42 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Vegane Bällchen in Kapernsoße (Soja und Weizenprotein) (1,2,So,Sl,Sw,GlW,GlG), Petersilienkartoffeln, Rote Beete Salat (9)",
+		"Category": "CampusVital",
+		"Date": "2026-02-26",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.25,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "4 Cevapcici (Ei,Sf,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-02-26",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 6.75,
+		"PriceGuest": 7.95,
+		"PriceStudent": 5.45,
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]
