@@ -1,20 +1,47 @@
 [
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
+		"Name": "gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-02-19",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
+		"LactoseFree": true,
 		"Poultry": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-19",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spätzle (1,Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-19",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2026-02-19",
 		"Additives": {
@@ -29,23 +56,24 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Balsamicolinsen (1,5,So,Sf,Sw), Spätzle (Ei,Mi,GlW)",
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Couscous mit Mandeln Rosinen und Chili (Sl,GlW,NMa), Balsamicolinsen (1,5,So,Sf,Sw), Weiße Bohnen mediterraneo",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-19",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Bao Bun Teigtaschen (1,GlW), mit pulled Turkey mit Hoisin (1,2,So,GlW), mit marinierten Schweinenackenstreifen mit Hoisin und Ingwer (1,2,So,Se,GlW), Sesamreis (Se), verschiedene Extras (1,3,5,En,So,Se,Sw,GlW), verschiedene Soßen (1,2,3,4,5,Ei,En,So,Sf,Se,Sw,GlW)",
@@ -74,13 +102,10 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl)",
+		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen, Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-02-19",
-		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.7,
 		"PriceStudent": 2.2,
