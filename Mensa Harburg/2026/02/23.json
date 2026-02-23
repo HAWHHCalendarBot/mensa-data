@@ -1,6 +1,28 @@
 [
 	{
-		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Gebratener Broccoli, Pastinaken, Nusskartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2026-02-23",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Röstiecken",
+		"Category": "Pastabar",
+		"Date": "2026-02-23",
+		"Additives": {},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rote Beete Stäbchen (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-23",
 		"Additives": {
@@ -9,10 +31,25 @@
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
-		"PriceStudent": 0.85
+		"PriceStudent": 0.85,
+		"Vegetarian": true
 	},
 	{
-		"Name": "Conchiglie (GlW), Rinderhackfleisch in einer Paprika- Sahnesoße (Mi,Sl)",
+		"Name": "Pasta nach Wahl (GlW), Belugalinsenragout (Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-23",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Bolognese mit Rinderhackfleisch (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-02-23",
 		"Additives": {
@@ -26,14 +63,27 @@
 		"Beef": true
 	},
 	{
-		"Name": "Geschmorter Sellerie (Sl,Sw), gebratenem Wirsing, Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Gartenbohnen mit Pfifferlingen und Cherrytomaten in Sahnesoße (Mi,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-02-23",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rote Beete in Zucchini-Tomatenragout in Sojacreme (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-02-23",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -42,7 +92,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kichererbsencurry, pikantes Möhrengemüse (Sl)",
+		"Name": "Kichererbsencurry (Sl), pikantes Möhrengemüse (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-02-23",
 		"Additives": {
