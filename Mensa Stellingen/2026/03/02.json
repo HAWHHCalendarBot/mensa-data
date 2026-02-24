@@ -15,16 +15,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili con Carne (2), Creme Fraiche (Mi), Reis",
-		"Category": "CampusSpezial",
+		"Name": "4 Röstiecken, Kräuterquark (Mi), Gurkensalat (Mi)",
+		"Category": "CampusKlassiker",
 		"Date": "2026-03-02",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.25,
-		"PriceGuest": 7.45,
-		"PriceStudent": 4.95,
-		"Beef": true
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl), Preiselbeeren, Salzkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2026-03-02",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.0,
+		"PriceStudent": 3.5,
+		"Beef": true,
+		"Pig": true
 	}
 ]
