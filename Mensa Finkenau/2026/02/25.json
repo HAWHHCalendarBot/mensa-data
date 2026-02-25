@@ -1,10 +1,10 @@
 [
 	{
-		"Name": "Ratatouille (Sl)",
+		"Name": "Karotten, Broccoli, gerösteter Blumenkohl, gegrillte Auberginen (Sw), Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-02-25",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -13,14 +13,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Reis, asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,GlW)",
+		"Name": "Bratreis mit Gemüse (2,3,So,GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-02-25",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -29,11 +30,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
+		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Kaiserbrötchen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-02-25",
 		"Additives": {
-			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -45,13 +45,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Bolognese mit Rinderhackfleisch (Sl), Hartkäse gerieben (Mi)",
+		"Name": "Bunte Fusilli (GlW), Bolognese mit Rinderhackfleisch (2,So,Sl,GlW), Hartkäse gerieben (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-02-25",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.05,
 		"PriceGuest": 6.25,
