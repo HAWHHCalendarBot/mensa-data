@@ -1,26 +1,10 @@
 [
 	{
-		"Name": "Vollkorn Fussili (GlW), Hähnchenstreifen in Tomatensoße (Sl)",
-		"Category": "Pastabar",
-		"Date": "2026-03-03",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), karamellisierte Schwarzwurzeln (1), Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Edamame (Sojabohnen) mit Curry (So), Blumenkohl-Paprika Gemüse, Erbsengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-03-03",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -29,13 +13,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,GlW)",
+		"Name": "Schupfnudeln (Ei,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-03-03",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), weiße Bohnen in Soja-Cremesoße mit Spinat (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-03-03",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -44,6 +40,24 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), mexikanische Bohnenpfanne mit Rindfleisch (2,5,So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-03-03",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Indisches Linsencurry (Sf,GlW), Couscous (GlW)",
