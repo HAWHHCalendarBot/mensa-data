@@ -14,22 +14,6 @@
 		"PriceStudent": 0.85
 	},
 	{
-		"Name": "Bunte Nudeln (GlW), Tomatensoße mit Waldpilzen und Speck (2,3,8)",
-		"Category": "Pastabar",
-		"Date": "2026-03-05",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
 		"Name": "Wirsing in Creme (So,Sl,GlW), Kräuterkartoffeln, Gartengemüse, Madras Kürbis, Bulgur mit Rosinen und Mandeln (GlW,NMa)",
 		"Category": "Gemüsebar",
 		"Date": "2026-03-05",
@@ -44,6 +28,23 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Bunte Nudeln (GlW), Tomatensoße mit Waldpilzen und Speck (2,3,8,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-03-05",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Holsteiner Kartoffeltopf (Sl,Sw)",
