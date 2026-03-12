@@ -1,41 +1,36 @@
 [
 	{
-		"Name": "Reis, gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw)",
-		"Category": "Pastabar",
+		"Name": "Broccoli, Maisgemüse (1), Baby Karotten (1)",
+		"Category": "Gemüsebar",
 		"Date": "2026-03-12",
 		"Additives": {
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>1</strong>": "Farbstoff"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Veganer Aromatischer Pilawreis (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-03-12",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Balsamicolinsen (1,5,So,Sf,Sw), Blechkartoffeln (Sw)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Vegane Letschosauce mit Gemüse (Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-03-12",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -43,6 +38,22 @@
 		"PriceStudent": 0.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rindercurry in Spinatsauce (2,Mi,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2026-03-12",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Beef": true
 	},
 	{
 		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
