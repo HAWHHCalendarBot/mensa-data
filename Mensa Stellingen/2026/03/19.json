@@ -15,34 +15,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebackener Gnocchi mit Blumenkohl in Kräuterrahm (So,Mi,Sf,GlW)",
+		"Name": "Gebackener Gnocchi mit Blumenkohl in Kräuterrahm (So,Sf,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-03-19",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.85,
 		"PriceGuest": 6.05,
 		"PriceStudent": 3.55,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Geflügelcurry (Mi,Sl,Sf,GlW,GlG), Reis",
-		"Category": "CampusVital",
+		"Name": "Rindfleischfrikadelle (Ei,GlW)",
+		"Category": "CampusKlassiker",
 		"Date": "2026-03-19",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.0,
-		"PriceGuest": 6.2,
-		"PriceStudent": 3.7,
-		"Poultry": true
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.9,
+		"Beef": true,
+		"LactoseFree": true
 	}
 ]
