@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
+		"Name": "Pasta (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße, Rucola und Gouda Käse (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-03-19",
 		"Additives": {
@@ -14,7 +14,22 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Creme (So), Petersilienkartoffeln",
+		"Name": "Penne in Tomaten Paprikacreme mit Käse gebacken (Ei,Mi,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-03-19",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Knoblauch Champignons mit Zucchini aus dem Ofen (1,2,5,So,Sw,GlW), Rosmarinkartoffeln, Orientalisches Kichererbsengemüse (2,5,Sw), Romanesco (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-03-19",
 		"Additives": {
@@ -22,6 +37,7 @@
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -32,7 +48,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Tomaten-Linsen-Gemüsesuppe, vegan (Sf,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-03-19",
 		"Additives": {
@@ -57,21 +73,6 @@
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.7,
 		"PriceStudent": 4.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Flammkuchen des Tages: Teriyaki mit Räuchertofu, asiatischem Gemüse, Sesam (2,So,Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-03-19",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.1,
-		"PriceStudent": 4.6,
 		"Vegetarian": true
 	},
 	{
@@ -110,5 +111,21 @@
 		"PriceStudent": 6.0,
 		"Fish": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Flammkuchen des Tages: mit Geflügelsalami und frischen Tomaten (1,2,3,Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-03-19",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 11.0,
+		"PriceGuest": 13.0,
+		"PriceStudent": 8.5,
+		"Poultry": true
 	}
 ]
