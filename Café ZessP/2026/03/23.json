@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Baked Potato \"Green Garden\" mit Karotte, Gurke, Rote Beete, Blattsalat, Sour Cream (3,4,Ei,So,Mi,Sf)",
+		"Name": "Baked Potatoe \"pfiffiger Garten\" (3,4,Ei,So,Mi,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2026-03-23",
 		"Additives": {
@@ -9,11 +9,12 @@
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 4.9,
-		"PriceGuest": 5.6,
-		"PriceStudent": 4.1,
+		"PriceAttendant": 5.7,
+		"PriceGuest": 6.7,
+		"PriceStudent": 4.7,
 		"Vegetarian": true
 	},
 	{
@@ -29,13 +30,28 @@
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.7,
-		"PriceGuest": 6.4,
+		"PriceAttendant": 5.9,
+		"PriceGuest": 6.9,
 		"PriceStudent": 4.9,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Baked Potato \"Italian\" Grillgemüse, Feta, Rucola, Sonnenblumenkerne, Sour Cream (3,4,Ei,So,Mi,Sf,Sw)",
+		"Name": "Caesars Salat vegetarisch (2,Ei,Mi,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2026-03-23",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.95,
+		"PriceGuest": 6.95,
+		"PriceStudent": 4.95
+	},
+	{
+		"Name": "Baked Potatoe \"Curry-Chicken\" (3,4,Ei,So,Mi,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2026-03-23",
 		"Additives": {
@@ -44,43 +60,12 @@
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 5.95,
-		"PriceGuest": 6.65,
-		"PriceStudent": 5.15
-	},
-	{
-		"Name": "Herbstsalat \"Pulled Pork &amp; Pumpkin\" (Ei,Sf,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2026-03-23",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 6.3,
-		"PriceGuest": 7.0,
-		"PriceStudent": 5.5,
-		"LactoseFree": true,
-		"Pig": true
-	},
-	{
-		"Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (Ei,Mi,Sl,Sf,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2026-03-23",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.6,
-		"PriceGuest": 7.3,
-		"PriceStudent": 5.8,
-		"Vegetarian": true
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.4,
+		"PriceStudent": 5.4,
+		"Poultry": true
 	},
 	{
 		"Name": "Ravioli Rustico mit Pecorino- und Feigenfüllung, Tomaten-Sugo, Grana Padano (2,Ei,Mi,Sf,GlW)",
@@ -93,9 +78,42 @@
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 6.6,
-		"PriceGuest": 7.3,
+		"PriceAttendant": 6.8,
+		"PriceGuest": 7.8,
 		"PriceStudent": 5.8
+	},
+	{
+		"Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Ei,Mi,Sf,Sw,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2026-03-23",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.95,
+		"PriceGuest": 7.95,
+		"PriceStudent": 5.95,
+		"Poultry": true
+	},
+	{
+		"Name": "Salat Hot Chick´n´Tigh (Se,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2026-03-23",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.1,
+		"PriceStudent": 6.1,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Ravioli Zucca mit Kürbisfüllung, Olivenöl, Rucola und Kürbiskernen (2,Ei,Mi,GlW)",
@@ -107,25 +125,8 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.95,
-		"PriceGuest": 7.65,
-		"PriceStudent": 6.15
-	},
-	{
-		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (Ei,So,Mi,Sl,Sf,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2026-03-23",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 7.45,
+		"PriceAttendant": 7.15,
 		"PriceGuest": 8.15,
-		"PriceStudent": 6.65,
-		"Poultry": true
+		"PriceStudent": 6.15
 	}
 ]
