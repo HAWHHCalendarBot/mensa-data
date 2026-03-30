@@ -1,21 +1,6 @@
 [
 	{
-		"Name": "Spitzkohl in Creme (So), Auberginen-Zucchini Gemüse mit Balsamiko und Knoblauch (Sw), gerösteter Blumenkohl (Sw), Süßkartoffel Gnocchi, Karotten mit Ingwerund Kukurma (1,Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2026-03-30",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.1,
-		"PriceGuest": 1.3,
-		"PriceStudent": 0.85,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Strozzapreti (GlW), Carbonara vegetariana (Mi,GlW,GlG)",
+		"Name": "Pasta (GlW), Carbonara vegetariana (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-03-30",
 		"Additives": {
@@ -29,15 +14,36 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Pasta (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-03-30",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.1,
+		"PriceGuest": 1.3,
+		"PriceStudent": 0.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spitzkohl in Creme (So), Auberginen-Zucchini Gemüse mit Balsamiko und Knoblauch (Sw), gerösteter Blumenkohl (Sw), Süßkartoffel Gnocchi, Karotten mit Ingwerund Kukurma (1,Sw), Karottenrösti (Ei,Mi,GlW,GlR,GlH,GlD), Vegetarisch gefüllte Paprikaschote (Ei,So,Sl,Sf,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-03-30",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
@@ -64,6 +70,22 @@
 		"PriceStudent": 3.85,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "italienischer Nudelsalat (3,5,Mi,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-03-30",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.95,
+		"PriceGuest": 7.15,
+		"PriceStudent": 4.65,
+		"Vegetarian": true
 	},
 	{
 		"Name": "All in one Pot: Bulgur, Soja, Weißkohl, Cranberries, Ananas, Asia-Majo, Cashew (Sojaprotein) (2,So,Sl,Sf,Sw,GlW,NCa)",
