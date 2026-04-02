@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "gerösteter Broccoli",
+		"Name": "Fenchelgemüse, Spitzkohl, gebratene Champignons (Sw), Röstkartoffeln, Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-02",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
 		"PriceStudent": 0.85,
@@ -11,14 +13,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-02",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.1,
 		"PriceGuest": 1.3,
@@ -26,21 +27,27 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Erbsensuppe mit Räuchertofu (So,Sl)",
+		"Name": "Erbsensuppe mit Räuchertofu (So,Sl), extra Kochwurst 2,15, 2,40, 2,60 € (1,2,3,4,8,Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2026-04-02",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.7,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 2.2,
+		"PriceGuest": 3.5,
+		"PriceStudent": 2.6,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
-		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,Sw,GlW), Tomatensoße (Sw)",
+		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,Sw,GlW), Tomatensoße (Mi,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-04-02",
 		"Additives": {
