@@ -1,10 +1,35 @@
 [
 	{
-		"Name": "Ratatouille (Sl,Sw), Karotten (1), Mangold mit gerösteten Walnüssen (Sw,NWa), gerösteter Broccoli, Gnocchi",
+		"Name": "Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2026-04-08",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Eliche (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ratatouille (Sl,Sw), Karotten (1), Mangold mit gerösteten Walnüssen (Sw,NWa), gerösteter Broccoli, Blumenkohl mit gebräunten Bröseln (1,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-08",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -16,7 +41,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Name": "Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-04-08",
 		"Additives": {
@@ -32,7 +57,7 @@
 		"Beef": true
 	},
 	{
-		"Name": "Eliche (GlW), asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,Sw,GlW)",
+		"Name": "asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-08",
 		"Additives": {
@@ -141,6 +166,21 @@
 		"PriceGuest": 7.5,
 		"PriceStudent": 4.9,
 		"Pig": true
+	},
+	{
+		"Name": "Hausgemachte Lasagne Bolognese (Mi,Sl,Sw,GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-04-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.1,
+		"Beef": true
 	},
 	{
 		"Name": "Caesars Salad mit Hähnchenbrust und Baguette (3,8,Ei,Mi,Sf,Sw,GlW)",
