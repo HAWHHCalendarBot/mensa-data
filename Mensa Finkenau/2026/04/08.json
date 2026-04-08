@@ -1,17 +1,18 @@
 [
 	{
-		"Name": "Ratatouille (Sl,Sw)",
+		"Name": "Blumenkohl, Rosenkohl (1), Fenchelgemüse (Sl), Broccoli (Mi), Süßkartoffeln, Tomaten, Kichererbsen, Mais-Gemüse mit Grünkern (Sl,GlD)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-08",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Gemüselasagne (Mi,Sl,Sw,GlW), asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,Sw,GlW)",
@@ -48,12 +49,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganes Hackbällchen-Curry (Soja und Weizenprotein) mit Kokosmilch, Erdnussbutter und Gemüse (1,2,En,So,Sw,GlW,GlG), Basmatireis",
+		"Name": "Veganes Hackbällchen-Curry (Soja und Weizenprotein) mit Kokosmilch, Erdnussbutter und Gemüse (1,2,En,So,Sw,GlW,GlG), Bratreis mit Gemüse (2,3,So,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-04-08",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
