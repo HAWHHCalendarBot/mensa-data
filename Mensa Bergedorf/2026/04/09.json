@@ -1,17 +1,17 @@
 [
 	{
-		"Name": "Pasta gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl,GlW)",
+		"Name": "Pasta Bolognese mit Rinderhackfleisch (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-09",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Poultry": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Pasta Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,Sw,GlW,NHa)",
@@ -63,7 +63,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Erbsen- Karotten Gemüse (Mi), Spitzkohl in Creme (So), Süßkartoffeln",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Mischgemüse (1), Mangold mit gerösteten Walnüssen (Sw,NWa), Spitzkohl in Creme (So), Süßkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-09",
 		"Additives": {
@@ -71,14 +71,15 @@
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
