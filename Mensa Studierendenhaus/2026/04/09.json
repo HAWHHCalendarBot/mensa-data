@@ -1,10 +1,33 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
+		"Name": "Petersilienkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-04-09",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-09",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-04-09",
+		"Additives": {
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -14,11 +37,10 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Bunte Fusilli (GlW), Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,Sw,NHa)",
+		"Name": "Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,Sw,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-04-09",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -30,7 +52,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Blattspinat (Sl,Sw), Spitzkohl in Creme (So), Petersilienkartoffeln",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Blattspinat (Sl,Sw), Spitzkohl in Creme (So)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-09",
 		"Additives": {
@@ -89,6 +111,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Möhrensuppe mit Ingwer (Sl,Sw), Baguette Brötchen (GlW,GlR)",
+		"Category": "Pottkieker",
+		"Date": "2026-04-09",
+		"Additives": {
+			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Hähnchenkeule (Sf,Sw), Schmortomaten-Soße, Bohnen- Kartoffelstampf (Mi,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-04-09",
@@ -120,6 +158,26 @@
 		"PriceStudent": 4.8,
 		"Fish": true,
 		"LactoseFree": true
+	},
+	{
+		"Name": "Kochwurst (1,2,3,4,8,Sl,Sf), Rahmwirsing (Mi,Sl,GlW), hausgemachtes Kartoffelpüree (Mi)",
+		"Category": "CampusSpezial",
+		"Date": "2026-04-09",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.5,
+		"PriceStudent": 4.9,
+		"Pig": true
 	},
 	{
 		"Name": "Dattel-Curry Falafel (GlW), grüner Hummus (Se,Sw), Rotkrautsalat (3), gebackene Süßkartoffel (Sw)",
