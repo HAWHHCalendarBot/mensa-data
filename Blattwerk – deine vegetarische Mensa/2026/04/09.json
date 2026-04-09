@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Fusilli (GlW), Blattspinat und Oliven (3,Sf)",
+		"Name": "Pasta (GlW), Blattspinat und Oliven (3,Sf)",
 		"Category": "Pastabar",
 		"Date": "2026-04-09",
 		"Additives": {
@@ -15,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Pasta (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-04-09",
 		"Additives": {
@@ -30,7 +30,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Spitzkohl in Creme (So), Petersilienkartoffeln, Sesam-Blumenkohl (Se), Gemüsecouscous (Sl)",
+		"Name": "gebratene Karotten (Sw), Frühlingsgemüse (1), Spitzkohl in Creme (So), Spitzkohl in Creme (Sw), Sesam-Blumenkohl (Se), Broccoli (Mi), Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-09",
 		"Additives": {
@@ -38,16 +38,15 @@
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hausgemachte Pasta (GlW), Lenticchie e verdure mit Belugalinsen, Gemüse und (Sw), Pesto orientale mit Datteln und Harissa (1,5,Sw,NCa)",
@@ -65,6 +64,45 @@
 		"PriceStudent": 3.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Asiatischer Nudelsalat mit Erdnuss, Sesam und frisches Kimchi (1,2,3,5,9,Ei,En,So,Sf,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-04-09",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.85,
+		"PriceGuest": 7.15,
+		"PriceStudent": 4.55,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Blumenkohl-Käse-Bratling (Ei,Mi,GlW), Wirsing in Rahm (Mi,Sl,GlW), Schwenkkartoffel",
+		"Category": "CampusSpezial",
+		"Date": "2026-04-09",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.05,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.75,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Crispy Tempeh Bällchen (gelbe Erbse und Süßlupine) (Lu), Reis",
