@@ -15,11 +15,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Staudensellerie und Tomate (Sl,Sw), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
 		"Date": "2026-04-10",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,Sw,GlW,NHa)",
+		"Category": "Pastabar",
+		"Date": "2026-04-10",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -30,14 +46,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
+		"Name": "glasierte rote Beete, Staudensellerie und Tomate (Sl,Sw), Champignon-Zwiebel Gemüse (Mi,Sw,NCa), Grünes Currygemüse (2,So,Sl,Sw,GlW), Röstkartoffeln, Bohnen- Kartoffelstampf (Mi,Sw)",
+		"Category": "Gemüsebar",
 		"Date": "2026-04-10",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
