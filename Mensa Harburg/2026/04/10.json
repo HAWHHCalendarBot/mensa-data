@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "glasierte rote Beete, Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1)",
+		"Name": "Nusskartoffeln,  Kohlrabigemüse (1),  gerösteter Blumenkohl (Sw),  Gartengemüse,  Prinzessbohnen,  Karotten (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-10",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -13,13 +14,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Pasta nach Wahl (GlW), Kichererbsen-Ragout in Tomatensoße (So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-10",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -28,22 +30,39 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Soja Bolognese (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-10",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Mexikanischer Bohnentopf (2,Sl)",
+		"Name": "Pasta nach Wahl (GlW), vegane Pfifferling-Lauchsoße (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-10",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Weißer Bohnentopf mit kartoffeln (2,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-04-10",
 		"Additives": {
@@ -70,7 +89,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Kerbel- Gemüsesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Kräuter- Gemüsesoße (Mi,Sl,GlW,GlG)",
 		"Category": "CampusSpezial",
 		"Date": "2026-04-10",
 		"Additives": {
@@ -86,23 +105,23 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Vegane Bowl mit Crispy Tempeh Balls (3,So,Lu), Kimchi (2,So,Sw,GlW), Curryreis (Sf), Sojajoghurt Dip mit Sesam (So,Se)",
+		"Name": "Vegane Bowl mit Crispy Tempeh Balls (3,So,Lu), Asiatischer lauwarmer Gemüsesalat (Ei,Mi,Sl,Sw), Curryreis (Sf), Sojajoghurt Dip mit Sesam (So,Se)",
 		"Category": "CampusWorld",
 		"Date": "2026-04-10",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.45,
 		"PriceGuest": 8.75,
 		"PriceStudent": 6.15,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
