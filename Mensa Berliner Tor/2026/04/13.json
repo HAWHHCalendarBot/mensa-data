@@ -1,11 +1,21 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Erbsen (1), Kohlrabi-Bärlauch Gemüse (1), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Reis, Bohnen-Tomaten-Gemüse",
+		"Category": "Pastabar",
+		"Date": "2026-04-13",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Zucchini, gebraten, Broccoli, Pommes Frites (Sf)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-13",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,22 +24,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Schinkenstreifen in einer Käse- Sahnesoße (2,3,8,Mi,Sl,Sw)",
+		"Name": "Pasta (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-13",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Pig": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Rotes Gemüsecurry mit Bohnen, Erbsen und Pak Choi (2,So,Sw,GlW), Reis",
