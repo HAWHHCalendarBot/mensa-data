@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Brechbohnen",
+		"Name": "gebratenem Wirsing, gebackene Aubergine (Sw,GlW), Zucchini, gebratene Champignons (Sw), Gemüsemix Eskorial, Rosenkohl (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-14",
-		"Additives": {},
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -29,19 +33,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Linsencurry (Sf,Sw,GlW), Wrap (GlW)",
+		"Name": "Indisches Linsencurry (Sf,Sw,GlW), vegane Kochwurst (Erbsenprotein), Kochwurst (1,2,3,4,8,Sl,Sf)",
 		"Category": "Pottkieker",
 		"Date": "2026-04-14",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
-		"Vegan": true
+		"Pig": true
 	},
 	{
 		"Name": "4 Röstiecken, Kräuterquark (Mi), Gurkensalat (Mi)",
