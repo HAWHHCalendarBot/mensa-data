@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Edamame (So), Blumenkohl, Erbsen, Gartengemüse",
+		"Name": "Edamame (So), Blumenkohl, Erbsen, Gartengemüse, Fingermöhrchen (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-14",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
@@ -13,28 +14,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Hähnchenstreifen in Tomatensoße (Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Chili con Carne (2,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-04-14",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Bohnenragout in Sojacreme (So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-14",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -46,12 +45,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Linsencurry (Sf,Sw,GlW), Couscous (GlW)",
+		"Name": "Pasta nach Wahl (GlW), Vegane Sojastreifen in in sojacreme (2,3,So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-14",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indisches Bohnencurry (Sl,Sf,Sw,GlW), Couscous (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-04-14",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
