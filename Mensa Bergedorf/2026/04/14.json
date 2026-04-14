@@ -1,9 +1,38 @@
 [
 	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,So,GlW), Gartengemüse",
+		"Name": "Pasta Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-14",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Chili con Carne (2,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-14",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Brechbohnen, gebratener Pak Choi (2,So,GlW), Gartengemüse, Kohlrabi-Bärlauch Gemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-14",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
@@ -15,10 +44,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta Hähnchenstreifen in Tomatensoße (Sl,Sw,GlW)",
+		"Name": "Red Curry Dim Sum mit Asiagemüse in Erdnusssoße (3,En,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-14",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -27,7 +58,7 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
 		"Name": "Pasta Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
@@ -46,6 +77,24 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Schinkenstreifen in einer Käse- Sahnesoße (2,3,8,Mi,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-14",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Pig": true
 	},
 	{
 		"Name": "Indisches Linsencurry (Sf,Sw,GlW), Couscous (GlW)",
