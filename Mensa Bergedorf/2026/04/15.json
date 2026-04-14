@@ -13,21 +13,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta Hähnchenstreifen in Tomatensoße (Sl,Sw,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-04-15",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
 		"Name": "gerösteter Blumenkohl (Sw), frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6,Sw), Süßkartoffelwürfel gebacken",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-15",
@@ -41,6 +26,22 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta Hähnchenstreifen in Oregano-Gemüsesoße (Mi,Sl,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-04-15",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Poultry": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
