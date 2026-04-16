@@ -1,23 +1,70 @@
 [
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
+		"Name": "Frisch gebackener Blumenkohl, Frisch glasierte Karotten (1), Brokkoli-Gemüsemix, Reis",
+		"Category": "Gemüsebar",
+		"Date": "2026-04-16",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Champignon-Lauch-Sauce (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-16",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Kräutersoße (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-04-16",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
-		"Name": "Blattspinat (Sl,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Bulgur mit Tomate und Peperoni (Sl,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Ratatouille (2,5,Sl,Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-04-16",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Sonnenblumenhack in Belugalinsen-sauce (1,So,Sl,Sf,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-16",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
@@ -31,20 +78,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunte Nudeln (GlW), Tomatensoße mit Waldpilzen und Speck (2,3,8,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Cremige Soße mit Speck, Kartoffeln und Wirsing (2,3,8,Mi,Sl,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-04-16",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>8</strong>": "Phosphat",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
 		"Pig": true
 	},
 	{
