@@ -1,9 +1,14 @@
 [
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch",
+		"Name": "Fenchelgemüse (Sl), Blumenkohl mit einer Tomaten-Kokossoße, gebratene Paprika (1,5,Sw), Spanisches Pfannengemüse, Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-17",
-		"Additives": {},
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -11,26 +16,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-04-17",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Name": "Gemüsegulasch (Sl,Sw), Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-04-17",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
