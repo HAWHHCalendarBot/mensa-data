@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "gerösteter Broccoli, Gebackene Rote Bete, Frische gebackene Karotten (1), Frühlingsgemüse, Gebratener Pastinakenmix (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-04-17",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Pfifferlinge in veganer Sahnesauce (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-17",
 		"Additives": {
@@ -15,28 +29,43 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Scharfe Kirschtomatensoße (Arrabiata) (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-17",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Champignoncremesauce (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-04-17",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Sonnenblumenhack in veganer Sauce (1,So,Sl,Sf,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-17",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -49,13 +78,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-04-17",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -64,11 +93,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indisches Bohnencurry Rajma Chawal (3,So,Sw), Gemüse-Reis (Sl)",
+		"Name": "Indisches Bohnencurry Rajma Chawal (3,So,Sl,Sw,GlW), Gemüse-Reis (Sl)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-04-17",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
