@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Gnocchi, Tomatensoße mit Schweinefleischstreifen, Zucchini und Champignons (Sl,Sw)",
+		"Name": "Reis, Asia Gemüsecurry mit Kokosmilch (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-20",
 		"Additives": {
@@ -11,7 +11,22 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
-		"Pig": true
+		"Vegan": true
+	},
+	{
+		"Name": "Wirsing in Creme mit Gemüse Köttbullar (Ei,So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-04-20",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi in Creme (1,So,GlW), Süßkartoffel Gnocchi",
@@ -30,28 +45,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi, Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Schweinefleisch in Tomatensahnesoße (Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-20",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"Pig": true
 	},
 	{
-		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Kartoffel-Lauch Suppe (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-04-20",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -80,7 +92,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Spanischer Linseneintopf mit Linsen Hirse Bällchen (3,5,Sl,Sf,Sw,GlW,GlH), Fladenbrot (Se,GlW)",
+		"Name": "Spanischer Linseneintopf mit Hirse Bällchen (3,5,Sl,Sf,Sw,GlW,GlH), Fladenbrot oder Gemüsereis als Wahlbeilage (Sl,Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-04-20",
 		"Additives": {
