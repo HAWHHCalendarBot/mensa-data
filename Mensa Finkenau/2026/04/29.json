@@ -1,23 +1,9 @@
 [
 	{
-		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
-		"Category": "Pastabar",
-		"Date": "2026-04-27",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
-	},
-	{
-		"Name": "Blattspinat mit veganem Hirtenkäse (Sw), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Nusskartoffeln",
+		"Name": "Ratatouille (Sl,Sw)",
 		"Category": "Gemüsebar",
-		"Date": "2026-04-27",
+		"Date": "2026-04-29",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -28,13 +14,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kohlrabi Kokos Suppe mit Erdnuss- Minz Topping (3,En,Sf,Sw)",
-		"Category": "Pottkieker",
-		"Date": "2026-04-27",
+		"Name": "Eliche (GlW), asiatischer Tomatensoße und Sojawürfeln (Sojaprotein) (2,So,Se,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-29",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2026-04-29",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
@@ -44,26 +46,9 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rostbratwurst (4,8,Sl,Sf), Sauerkraut (vegan) (Sl), hausgemachtes Kartoffelpüree (Mi)",
-		"Category": "CampusKlassiker",
-		"Date": "2026-04-27",
-		"Additives": {
-			"<strong>4</strong>": "Geschmacksverstärker",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 5.1,
-		"PriceGuest": 6.4,
-		"PriceStudent": 3.8,
-		"Beef": true,
-		"Pig": true
-	},
-	{
 		"Name": "Bibimbap Bowl mit Sonnenblumenhack (Sonnenblumenprotein) und Champignons (2,3,5,En,So,Sl,Sf,Se,Sw,GlW)",
 		"Category": "CampusWorld",
-		"Date": "2026-04-27",
+		"Date": "2026-04-29",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
@@ -81,5 +66,20 @@
 		"PriceStudent": 5.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Putengulasch (Mi,Sl,GlW), Spätzle (Ei,Mi,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-04-29",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.4,
+		"Poultry": true
 	}
 ]
