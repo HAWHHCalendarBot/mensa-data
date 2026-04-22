@@ -1,44 +1,49 @@
 [
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-04-22",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
-		"Name": "Maccaroni (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-04-22",
-		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Weiße Bohnen mediterraneo (Sw), spanisches Kartoffelgemüse (Sw), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini (Sw), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
+		"Name": "Broccoli,  Bratkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-22",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reis",
+		"Category": "Pastabar",
+		"Date": "2026-04-22",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Pikante Bohnenpfanne mit Auberginen und Tomaten (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-04-22",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Gemüse-Paprikaragout in Sojacreme (So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-04-22",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -46,6 +51,37 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Linsen-Gemüsecurry mit Kokos (So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-04-22",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Nerone Hähnchenstreifen in Tomaten-Sahnesoße (Mi,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-04-22",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Poultry": true
 	},
 	{
 		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf,Sw), Basmatireis",
@@ -111,7 +147,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Guacamole Bites (3,Mi,Sf,Sw,GlW), Tomatenbulgur (GlW), Chili Dip (Mi)",
+		"Name": "Guacamole Bites (3,Mi,Sf,Sw,GlW), Tomatenbulgur (GlW), Chili Dip (Mi,Sl)",
 		"Category": "CampusSpezial",
 		"Date": "2026-04-22",
 		"Additives": {
@@ -119,6 +155,7 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.9,
