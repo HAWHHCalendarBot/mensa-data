@@ -43,7 +43,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), getrockneten Steinpilzen, Champignons und Tomaten (2,5,So,Sw)",
+		"Name": "Strozzapreti (GlW), getrockneten Steinpilzen, Champignons und Tomaten (2,5,So,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-04-23",
 		"Additives": {
@@ -56,6 +56,25 @@
 		"PriceAttendant": 5.2,
 		"PriceGuest": 6.5,
 		"PriceStudent": 3.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nudelsalat mit rote Beete Puffer und  Remoulade (2,3,5,9,Sf,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-04-23",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.75,
+		"PriceGuest": 7.05,
+		"PriceStudent": 4.45,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -78,12 +97,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Perlcouscous-Salat mit Kichererbsen und grünem Spargel, Grapefruit und Babyspinat (GlW), Linsen Hirsebällchen (GlW,GlH)",
+		"Name": "Perlcouscous mit Kichererbsen und grünem Spargel, Grapefruit, Babyspinat und Senf (2,5,So,Sf,Sw,GlW), Linsen Hirsebällchen (GlW,GlH)",
 		"Category": "CampusVital",
 		"Date": "2026-04-23",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.25,
 		"PriceGuest": 8.55,
