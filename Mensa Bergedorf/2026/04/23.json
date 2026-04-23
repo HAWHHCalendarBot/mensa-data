@@ -1,20 +1,6 @@
 [
 	{
-		"Name": "gebratene Hähnchenstreifen und Auberginen in Tomatensoße (Sw,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-04-23",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl)",
+		"Name": "Sommergemüse, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-23",
 		"Additives": {
@@ -28,19 +14,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Pasta Bolognese mit Rinderhackfleisch (Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-04-23",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "vegane Pasta Funghi (So,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-23",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Paprika Tomaten Topf (Sl,Sw), Gemüsereis (Sl)",
@@ -109,19 +110,18 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Tagliatelle (GlW), Pfifferlinge mit Bohnen in Creme (So,Sl,Sw), Hähnchen Oberkeulensteak",
+		"Name": "Tagliatelle (GlW), Pfifferlinge mit Bohnen in Creme (Mi,Sl,Sw), Hähnchen Oberkeulensteak",
 		"Category": "CampusWorld",
 		"Date": "2026-04-23",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.7,
 		"PriceGuest": 9.0,
 		"PriceStudent": 6.4,
-		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
