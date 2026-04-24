@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Vollkorn Penne (GlW), Broccoli in Tomatensoße (Sw)",
+		"Name": "Pasta (GlW), Pikante Tomatensoße mit Soja (So,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-24",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,7 +15,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Penne (GlW), Crema di pesto mit Gemüse und Pestocreme (Mi,Sl,GlW,GlG,NCa)",
+		"Name": "geschmorter Chicoree (So,Mi), Broccoli Rosenkohl und Bohnen (Mi), Spitzkohl, vegane Schupfnudeln (GlW), glacierte rote Beete, gerösteter Broccoli",
+		"Category": "Gemüsebar",
+		"Date": "2026-04-24",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Crema di pesto mit Gemüse und Pestocreme (Mi,Sl,GlW,GlG,NCa)",
 		"Category": "Pastabar",
 		"Date": "2026-04-24",
 		"Additives": {
@@ -27,6 +42,21 @@
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Couscoussalat mit Spargel, Kichererbsen, Hirtenkäse und Senfdip (Mi,Sl,Sf,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-04-24",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.85,
+		"PriceGuest": 7.15,
+		"PriceStudent": 4.55,
 		"Vegetarian": true
 	},
 	{
@@ -43,6 +73,24 @@
 		"PriceAttendant": 6.3,
 		"PriceGuest": 7.6,
 		"PriceStudent": 5.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Soja-Geschnetzeltes in Erdnusssoße (Sojaprotein) (2,En,So,Sl,Sw,GlW), eingelegtes Asiagemüse süß-sauer, Reis",
+		"Category": "CampusSpezial",
+		"Date": "2026-04-24",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.35,
+		"PriceGuest": 7.65,
+		"PriceStudent": 5.05,
 		"LactoseFree": true,
 		"Vegan": true
 	},

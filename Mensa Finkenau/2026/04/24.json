@@ -1,14 +1,17 @@
 [
 	{
-		"Name": "Brechbohne",
+		"Name": "gerösteter Blumenkohl (Sw), Edamame mit Tomaten (So), Gartenbohnen mit Pfifferlingen und Cherrytomaten (So), Spitzkohl, Süßkartoffelpüree (Mi), Spanisches Pfannengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-24",
-		"Additives": {},
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Fusilli (GlW), Soja-Bolognese mit Gemüse (Sojaprotein) (So,Sl,Sw)",
@@ -27,7 +30,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
+		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2026-04-24",
 		"Additives": {
