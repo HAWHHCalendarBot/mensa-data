@@ -1,10 +1,11 @@
 [
 	{
-		"Name": "Mais (1)",
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Auberginen (Sw), Blumenkohl, Spanisches Pfannengemüse, Edamame-Tomaten Gemüse (So), buntem Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-27",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -13,16 +14,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Conchiglie (GlW), Soja-Bolognese mit Gemüse (Sojaprotein) (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-27",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Kohlrabi Kokos Suppe mit Erdnuss- Minz Topping (3,En,Sf,Sw)",
