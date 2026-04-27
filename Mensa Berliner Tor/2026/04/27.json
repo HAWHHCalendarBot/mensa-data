@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Rosenkohl (1)",
-		"Category": "Gemüsebar",
-		"Date": "2026-04-27",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pasta (GlW), Gemüse-Rahmsoße mit Hähnchenstreifen (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-04-27",
@@ -25,6 +12,21 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Poultry": true
+	},
+	{
+		"Name": "Rosenkohl (1), gebratene Zucchini und Aubergine (Sw), Kroketten (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-04-27",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Reis, Soja Kokos Curry (So,Sl,Sw,GlW)",
