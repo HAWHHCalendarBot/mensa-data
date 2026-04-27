@@ -1,42 +1,109 @@
 [
 	{
-		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen",
+		"Category": "Gemüsebar",
 		"Date": "2026-05-04",
-		"Additives": {},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.55,
-		"PriceStudent": 5.95,
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Fusilli (GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-05-04",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.55,
-		"PriceStudent": 5.95,
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Deutscher Spargel, Hollandaise (2,Ei,Mi,Sl,Sw), Salzkartoffeln",
+		"Name": "Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-05-04",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2026-05-04",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-05-04",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.15,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spinatknödel (Ei,Mi,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2026-05-04",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.55,
-		"PriceStudent": 5.95,
-		"Alcohol": true,
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.1,
+		"PriceStudent": 5.5,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Hähnchenfilets in Soja Pflaumen Soße (So,Sl,Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-05-04",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.85,
+		"PriceGuest": 8.15,
+		"PriceStudent": 5.55,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
