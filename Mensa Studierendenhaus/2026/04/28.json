@@ -1,11 +1,21 @@
 [
 	{
-		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Karotten (1), Süßkartoffelwürfel gebacken, gerösteter Broccoli",
-		"Category": "Gemüsebar",
+		"Name": "Süßkartoffelwürfel gebacken",
+		"Category": "Pastabar",
+		"Date": "2026-04-28",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Strozzapreti (GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-04-28",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>6</strong>": "Geschwärzt"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,11 +24,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Name": "Tomaten- Kräuter- Gemüsesoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-04-28",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -28,20 +37,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Tomatensoße mit Speckwürfel (2,3,8)",
+		"Name": "Tomatensoße mit Speckwürfel (2,3,8)",
 		"Category": "Pastabar",
 		"Date": "2026-04-28",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>8</strong>": "Phosphat"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Gelbe und Grüne Zucchini mit Cherrytomaten und Oliven (6), Karotten (1), Blumenkohl mit gebräunten Bröseln (1,GlW), gerösteter Broccoli, Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-04-28",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Cassoulet- Bohneneintopf mit Räuchertofu (So,Sl,Sf)",
