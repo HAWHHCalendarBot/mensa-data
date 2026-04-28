@@ -1,42 +1,74 @@
 [
 	{
-		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Erbsen (1), Kohlrabi-Bärlauch Gemüse (1), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Category": "Gemüsebar",
 		"Date": "2026-05-04",
-		"Additives": {},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.55,
-		"PriceStudent": 5.95,
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Fusilli (GlW), Blumenkohl in einer Sahnesoße mit grünem Pfeffer (3,Mi)",
+		"Category": "Pastabar",
 		"Date": "2026-05-04",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.55,
-		"PriceStudent": 5.95,
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Deutscher Spargel, Hollandaise (2,Ei,Mi,Sl,Sw), Salzkartoffeln",
-		"Category": "CampusSpezial",
+		"Name": "Schwarze Bohnensuppe mit Räuchertofu (So,Sl,Sw)",
+		"Category": "Pottkieker",
 		"Date": "2026-05-04",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 7.25,
-		"PriceGuest": 8.55,
-		"PriceStudent": 5.95,
-		"Alcohol": true,
-		"Vegetarian": true
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl und Brokkoli (Sw), Sojajoghurt-Kräuter Dip (3,So)",
+		"Category": "CampusVital",
+		"Date": "2026-05-04",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.8,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hähnchenfilets in Soja Pflaumen Soße (So,Sl,Sw), Reis",
+		"Category": "CampusKlassiker",
+		"Date": "2026-05-04",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.85,
+		"PriceGuest": 8.15,
+		"PriceStudent": 5.55,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
