@@ -12,22 +12,23 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Weißkohl Curry mit Kartoffeln (Mi), Waldpilzragout (So), Weiße Bohnen mediterraneo mit Tofu (So,Sw), gebackene Süßkartoffel, Zucchini, Spitzkohl mit Champignons (1,2,So,Sf,Sw,GlW)",
+		"Name": "Curry Weißkohl (Sl,Sw), Waldpilzragout, Weiße Bohnen mediterraneo mit Tofu (So,Sw), gebackene Süßkartoffel, Zucchini, Spitzkohl mit Champignons (1,2,So,Sf,Sw,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-04-29",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Beef": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
@@ -45,42 +46,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bibimbap Bowl mit Sonnenblumenhack (Sonnenblumenprotein) und Champignons (2,3,5,En,So,Sl,Sf,Se,Sw,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-04-29",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.5,
-		"PriceGuest": 7.8,
-		"PriceStudent": 5.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Putengulasch mit Sauerkraut (Mi,Sl), Schnittlauchkartoffeln",
-		"Category": "CampusKlassiker",
-		"Date": "2026-04-29",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.7,
-		"PriceGuest": 8.0,
-		"PriceStudent": 5.4,
-		"Poultry": true
-	},
-	{
-		"Name": "Matjesfilets (2,Fi), Hausfrauen Art (1,3,9,Ei,Mi,Sf,Sw), Zwiebelscheiben, Schnittlauchkartoffeln",
+		"Name": "Matjesfilets (2,Fi), Hausfrauen Art (1,3,9,Ei,Mi,Sf,Sw), Zwiebelscheiben, Kräuterkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2026-04-29",
 		"Additives": {
@@ -94,9 +60,39 @@
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.5,
+		"Fish": true
+	},
+	{
+		"Name": "Bibimbap Bowl mit Sonnenblumenhack (Sonnenblumenprotein) und Champignons (3,5,Sl,Sf,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2026-04-29",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Putengulasch mit Sauerkraut (Mi,Sl), Kräuterkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2026-04-29",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
 		"PriceAttendant": 6.7,
 		"PriceGuest": 8.0,
 		"PriceStudent": 5.4,
-		"Fish": true
+		"Poultry": true
 	}
 ]
