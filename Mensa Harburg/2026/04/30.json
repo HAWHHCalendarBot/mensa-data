@@ -1,5 +1,29 @@
 [
 	{
+		"Name": "Blumenkohl asiatischer Art",
+		"Category": "Gemüsebar",
+		"Date": "2026-04-30",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüse-Reis (Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-04-30",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Bunte Fusilli (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-04-30",
@@ -30,14 +54,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Frühlingsgemüse (1), Kohlrabigemüse (1), Spitzkohl in Creme (So), Petersilienkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Bärlauch Soße (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-04-30",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -48,12 +70,46 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Hähnchenstreifen in einer scharfen Tomatensoße mit Paprika (So,Mi,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-04-30",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), rote Beete Ragout (2,9,So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-04-30",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indische Tomaten-Linsensuppe mit Soja-Erbsen-Dip (So,Sf,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-04-30",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
