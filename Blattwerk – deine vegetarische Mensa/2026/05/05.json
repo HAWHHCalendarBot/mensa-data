@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-05-05",
 		"Additives": {
@@ -15,7 +15,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Kürbis in einer Curry- Kokossoße (So,Sl,Sf,GlW)",
+		"Name": "Pasta (GlW), Kürbis in einer Curry- Kokossoße (So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-05-05",
 		"Additives": {
@@ -31,14 +31,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paprika-Zwiebelgemüse, Gartengemüse, gebratener Pak Choi (2,So,GlW), Schupfnudeln (GlW), Broccoli (Mi), Brechbohnen",
+		"Name": "Paprika-Zwiebelgemüse, Gartengemüse, gebratener Pak Choi (2,So,GlW), Schupfnudeln (GlW), Broccoli (Mi), Brechbohnen, gebackene Aubergine (Sw,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-05",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -77,6 +78,23 @@
 		"PriceStudent": 4.45,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Couscoussalat mit Erbsen, Auberginenbällchen und Sojadip (3,So,Mi,Sl,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-05-05",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.5,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Crispy Burger (Se,Sw,GlW,GlG), vegane Remoulade (9,So,Sf,Sw,GlH,NMa), Pommes Frites (Sf)",
