@@ -1,11 +1,9 @@
 [
 	{
-		"Name": "Brechbohnen, Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Gartengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-05",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -13,11 +11,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta nach Wahl (GlW), Waldpilzsauce in Sojacreme (So,Sw,GlW)",
+		"Name": "Austernpilzsauce in Sojacreme mit Bärlauch und Erbsen (So,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-05-05",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -26,6 +23,20 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Schupfnudeln (Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-05-05",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta nach Wahl (GlW), Nerone Hähnchenstreifen in pikanter Tomaten-Sahnesoße (Mi,Sl,Sw)",
@@ -48,6 +59,23 @@
 		"Date": "2026-05-05",
 		"Additives": {
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Puttanesca mit Tofu und schwarzen Oliven in Tomatensoße (6,So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-05-05",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
