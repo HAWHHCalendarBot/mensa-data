@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "gerösteter Blumenkohl (Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2026-05-06",
-		"Additives": {
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Penne (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-05-06",
@@ -29,6 +16,24 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Broccoli Blumenkohlgemüse, Auberginen mit Balsamico Bianco (3,5,Sw), Chili Weißkohl (Sl,Sw), Paprika-Zwiebelgemüse mit Fenchel, gebratene Champignons (Sw), Spätzle (Ei,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2026-05-06",
@@ -40,6 +45,24 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "2 Dattel-Curry Falafel und 3 Kichererbsen-Falafel (GlW), orientalischer Bulgursalat mit Cranberries und Mandeln (Sl,GlW,NMa), Kräuter Dip (3,Sf,GlH,NMa)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.35,
+		"PriceGuest": 7.65,
+		"PriceStudent": 5.05,
 		"LactoseFree": true,
 		"Vegan": true
 	},
