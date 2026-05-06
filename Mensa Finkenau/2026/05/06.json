@@ -1,21 +1,5 @@
 [
 	{
-		"Name": "Penne (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-05-06",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Broccoli Blumenkohlgemüse, Auberginen mit Balsamico Bianco (3,5,Sw), Chili Weißkohl (Sl,Sw), Paprika-Zwiebelgemüse mit Fenchel, gebratene Champignons (Sw), Spätzle (Ei,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-06",
@@ -31,6 +15,23 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Penne (GlW), Bärlauchsoße mit Spargel (1,So,Mi,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"Vegetarian": true
 	},
 	{
