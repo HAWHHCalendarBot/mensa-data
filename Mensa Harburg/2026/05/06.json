@@ -1,10 +1,20 @@
 [
 	{
-		"Name": "gerösteter Blumenkohl (Sw), frisches Gemüse aus dem Wok (2,Sw), Basmatireis",
+		"Name": "Reis",
+		"Category": "Pastabar",
+		"Date": "2026-05-06",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ofengemüse (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-06",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,7 +24,68 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
+		"Name": "Pasta nach Wahl (GlW), Gemüseragout in Cremesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Linsen-Gemüseragout mit Kokos (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bohnentopf mit Tofu (3,So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Asiatisches Soja Sugo mit Gemüse (So,Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Rucola (Mi,Sl,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-05-06",
 		"Additives": {
@@ -26,22 +97,6 @@
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9
-	},
-	{
-		"Name": "Eliche (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-05-06",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",

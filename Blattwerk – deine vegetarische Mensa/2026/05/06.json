@@ -29,20 +29,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Karotten (1), frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6,Sw), Basmatireis, gebratene Zucchini (Sw), gerösteter Blumenkohl (Sw)",
+		"Name": "Karotten (1), frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6,Sw), Basmatireis, gebratene Zucchini (Sw), gerösteter Blumenkohl (Sw), Broccoli und Blumenkohl (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-06",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Südstaaten Jambalaja Kreolisches Reisgericht mit Bohnen; Gemüse und Tortilla Chips (Sl,Sw)",
@@ -55,6 +55,23 @@
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.8,
 		"PriceStudent": 3.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nudelsalat mit Erbsen und Pilze, Remolade und Chik'n (3,5,Sw,GlW,GlG)",
+		"Category": "CampusWorld",
+		"Date": "2026-05-06",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
 	},
