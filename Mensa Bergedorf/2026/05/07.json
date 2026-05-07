@@ -28,26 +28,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-05-07",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Beef": true
-	},
-	{
-		"Name": "Blattspinat (Sl,Sw), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Bulgur mit Tomate und Peperoni (Sl,GlW)",
+		"Name": "Blattspinat (Sl,Sw), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Erbsen- Karotten Gemüse (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-07",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -56,8 +42,7 @@
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
@@ -88,6 +73,21 @@
 		"PriceStudent": 3.7,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Chili con Carne (2), dazu Fladenbrot (Se,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-05-07",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 6.15,
+		"PriceGuest": 7.45,
+		"PriceStudent": 4.85,
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Tom Kha Gai Hühner-Kokos-Topf mit Gemüse und Hähnchen (Sl,Sw), Reis",

@@ -1,10 +1,20 @@
 [
 	{
-		"Name": "Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
+		"Name": "Reis",
 		"Category": "Pastabar",
 		"Date": "2026-05-07",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Prinzessbohnen,  gebratene Champignons (Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2026-05-07",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,38 +24,68 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Blattspinat (Sl,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Bulgur mit Tomate und Peperoni (Sl,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW),  Belugalinsenragout mit Kokosmilch (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-05-07",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rindfleisch Bolognese (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-05-07",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Gemüseragout in Sojacreme mit Karotten und Sellerie, Hirsebällchen (So,Sl,GlW,GlH)",
+		"Category": "Pastabar",
+		"Date": "2026-05-07",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Pasta Pesto mit Haselnüssen und Rucola (Mi,Sw,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-05-07",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Beef": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Türkische Linsen-Bulgur-Suppe (Sl,GlW), Wrap (GlW)",
+		"Name": "Syrische Linsensuppe (Sl), Wrap (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-05-07",
 		"Additives": {
