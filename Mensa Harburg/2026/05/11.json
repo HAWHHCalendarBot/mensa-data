@@ -1,9 +1,48 @@
 [
 	{
-		"Name": "Gnocchi, mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Süßkartoffel Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2026-05-11",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Erbsen (1), Gemüsemix",
+		"Category": "Gemüsebar",
+		"Date": "2026-05-11",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spargelragout mit Orange,Zitrone und Minze (Ei,Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-05-11",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Basmatireis, Asia-Ragout in Kokosmilchsoße (So,Sl,Sw,NCa)",
+		"Category": "Pastabar",
+		"Date": "2026-05-11",
+		"Additives": {
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -15,12 +54,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen-Zucchini Gemüse (Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi in Creme (1,So,GlW), Süßkartoffel Gnocchi",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Tomatensoße mit getrockneten Tomaten und Oliven (2,5,6,So,Sl,Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-05-11",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>6</strong>": "Geschwärzt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -29,23 +71,6 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gnocchi, Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-05-11",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Tofu-Gemüse-Topf (So,Sl)",
@@ -82,10 +107,11 @@
 		"Pig": true
 	},
 	{
-		"Name": "Hühnchen in Kokos Soße (So,Sl), Sesammöhrchen (Se), Basmatireis",
+		"Name": "Hühnchen in Kokos Soße (So,Sl,NCa), Sesammöhrchen (Se), Basmatireis",
 		"Category": "CampusVital",
 		"Date": "2026-05-11",
 		"Additives": {
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"

@@ -1,6 +1,28 @@
 [
 	{
-		"Name": "Gnocchi, mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2026-05-11",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Nusskartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-05-11",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-05-11",
 		"Additives": {
@@ -15,7 +37,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi, Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Name": "Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-05-11",
 		"Additives": {
@@ -32,14 +54,18 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Karotten (1), Auberginen mit Balsamico Bianco (3,5,Sw), karamellisierte Schwarzwurzeln (1), Kohlrabi in Creme (1,So,GlW), Nusskartoffeln",
+		"Name": "Ingwermöhrchen mit Sesam (Se), Auberginen mit Balsamico Bianco (3,5,Sw), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Kohlrabi in Creme (1,So,GlW), Grüne Bohnen mit Sesam und Sojasoße (1,2,So,Se,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-11",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
