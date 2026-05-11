@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Penne (GlW), mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Name": "mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-05-11",
 		"Additives": {
@@ -16,16 +16,33 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spanisches Pfannengemüse, Gebratener Brokkoli mit Spargel (2,So,Se,Sw,GlW), Erbsen- Karotten Gemüse (Mi), Fenchelgemüse (Sl), Rote Beete Stäbchen (Mi,GlW), Blumenkohl Korma, Reisnudeln mit schwarzen Bohnen (So,Sl,Sw)",
+		"Name": "Karotten (1,Se), Auberginen-Zucchini Gemüse (Sw), Brechbohnen, Kohlrabi in Creme (1,So,GlW), Bulgur (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-11",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-05-11",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -68,7 +85,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Tempeh-Gemüsepfanne mit Cashews (gelbe Erbse und Süßlupine) (2,So,Sw,Lu,GlW,NCa), Vegane Asia-Majonnaise (Sf), Zartweizen (GlW)",
+		"Name": "Tempeh-Gemüsepfanne mit Cashews (gelbe Erbse und Süßlupine) (2,So,Sw,Lu,GlW,NCa), Zartweizen (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2026-05-11",
 		"Additives": {
@@ -76,13 +93,46 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
 			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.0,
 		"PriceGuest": 7.3,
 		"PriceStudent": 4.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ghome sabzi (1,3,5,Sw), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2026-05-11",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sw), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
+		"Category": "CampusWorld",
+		"Date": "2026-05-11",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.8,
+		"PriceGuest": 8.1,
+		"PriceStudent": 5.5,
 		"LactoseFree": true,
 		"Vegan": true
 	}
