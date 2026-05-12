@@ -1,15 +1,9 @@
 [
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl,Sw), spanisches Kartoffelgemüse (Sw), gebratene Paprika (1,5,Sw), rote-Beete-Pilaw (9,Sw)",
+		"Name": "Gemüsebar des Tages",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-15",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -17,17 +11,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
+		"Name": "Pastabar des Tages (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-05-15",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -50,6 +38,20 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
+		"Category": "CampusVital",
+		"Date": "2026-05-15",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.7,
+		"PriceGuest": 5.0,
+		"PriceStudent": 2.4,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Soja Bolognese mit Gemüse (So,Sl,Sw), Pasta (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-05-15",
@@ -66,21 +68,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Briocheburger mit Blumenkohlbratling, Honig-Senf und Zwiebelmarmelade (3,5,Ei,Mi,Sf,Sw,GlW), Pommes Frites (Sf)",
-		"Category": "CampusSpezial",
+		"Name": "3 Kartoffeltaschen mit Frischkäse (Mi)",
+		"Category": "CampusVital",
 		"Date": "2026-05-15",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.9,
-		"PriceGuest": 8.2,
-		"PriceStudent": 5.6,
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.5,
+		"PriceStudent": 4.9,
 		"Vegetarian": true
 	}
 ]
