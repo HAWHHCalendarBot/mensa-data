@@ -24,13 +24,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Unsere vegane \"ExtraVurst - CampusStyle\" (Sf), mit Curry-Spezial-Sauce (5,Sf,Sw), oder Curry-Delikant-Sauce, Pommes Frites (Sf)",
+		"Name": "vegane Currybratwurst (Erbsenprotein) (Sf), BBQ Soße (2,9,Sl,Sf), Kartoffelspalten (GlW), verschiedene Currypulver nach Wahl (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-05-13",
 		"Additives": {
-			"<strong>5</strong>": "Geschwefelt",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.5,
@@ -39,15 +41,16 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Unsere \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Spezial-Sauce (5,Sf,Sw), oder Curry-Delikant-Sauce, Pommes Frites (Sf)",
+		"Name": "Unsere \"ExtraWurst - CampusStyle\" (8,Sl,Sf), BBQ Soße (2,9,Sl,Sf), Kartoffelspalten (GlW), verschiedene Currypulver nach Wahl (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-05-13",
 		"Additives": {
-			"<strong>5</strong>": "Geschwefelt",
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>8</strong>": "Phosphat",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.5,
@@ -56,24 +59,33 @@
 		"Pig": true
 	},
 	{
-		"Name": "Cremige Udonnudeln in einer Kokos - Erdnusssauce mit Gemüse, Koriander und Crunch (2,3,En,So,Sl,Sf,Se,Sw,GlW)",
-		"Category": "CampusWorld",
+		"Name": "Deutscher Spargel, zerlassene Margarine (1), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2026-05-13",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 7.25,
+		"PriceGuest": 8.55,
+		"PriceStudent": 5.95,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Deutscher Spargel, Hollandaise (2,Ei,Mi,Sl,Sw), Salzkartoffeln",
+		"Category": "CampusSpezial",
 		"Date": "2026-05-13",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 7.2,
-		"PriceGuest": 8.5,
-		"PriceStudent": 5.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 7.25,
+		"PriceGuest": 8.55,
+		"PriceStudent": 5.95,
+		"Alcohol": true,
+		"Vegetarian": true
 	}
 ]
