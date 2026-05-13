@@ -1,10 +1,49 @@
 [
 	{
-		"Name": "Conchiglie (GlW), Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Belugalinsen in Kokosmilchsoße (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-05-13",
 		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Prinzessbohnen, Sesammöhrchen (Se)",
+		"Category": "Gemüsebar",
+		"Date": "2026-05-13",
+		"Additives": {
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffeln-Auflauf (Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-05-13",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pilze im Soja-Tomatenrahm (So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-05-13",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -16,30 +55,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Reis, Sojageschnetzeltes mit buntem Gemüse Asia Style (So,Sl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2026-05-13",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Weiße Bohnen mediterraneo (Sw), spanisches Kartoffelgemüse (Sw), Orientalisches Kichererbsengemüse (2,5,Sw), gebratene Zucchini (Sw), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Sonnenblumenhack mit Gemüse und Oliven (1,So,Sl,Sf,Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-05-13",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -49,10 +88,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch (Sw)",
+		"Name": "Kohlrabi-Erbsencurry mit Kokosmilch (Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-05-13",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
