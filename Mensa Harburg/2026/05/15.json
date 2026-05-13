@@ -24,31 +24,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gelbe Linsensuppe mit Mango (Sl,Sw)",
+		"Name": "Spargelsuppe (Mi,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-05-15",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Tomatensoße (Sw)",
-		"Category": "CampusVital",
-		"Date": "2026-05-15",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 3.7,
-		"PriceGuest": 5.0,
-		"PriceStudent": 2.4,
 		"Vegetarian": true
 	},
 	{
@@ -68,10 +54,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "3 Kartoffeltaschen mit Tomate Mozzarella (Mi), Kräuterquark (Mi), grüner Bohnensalat (Sw)",
+		"Name": "3 Kartoffeltaschen mit Tomate Mozzarella (Mi)",
 		"Category": "CampusVital",
 		"Date": "2026-05-15",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
