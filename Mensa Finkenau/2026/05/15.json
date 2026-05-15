@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Brechbohne",
+		"Name": "gebratene Zucchini (Sw), Spitzkohl, gebackene Süßkartoffel, gebratene Champignons (Sw), Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-15",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -11,14 +13,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,Sw,GlW), Bunte Fusilli (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-05-15",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -40,24 +41,6 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,Sw,GlW), Conchiglie (GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-05-15",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 4.25,
-		"PriceGuest": 5.55,
-		"PriceStudent": 2.95,
 		"LactoseFree": true,
 		"Vegan": true
 	},

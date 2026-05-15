@@ -13,12 +13,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohne, Cajun Gemüse (Sl,Sw), spanisches Kartoffelgemüse (Sw), gebratene Paprika (1,5,Sw)",
+		"Name": "spanisches Kartoffelgemüse (Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-05-15",
+		"Additives": {
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Brechbohne, Cajun Gemüse (Sl,Sw), Couscous mit Mandeln  Rosinen und Chili (Sl,GlW,NMa), gebratene Paprika (1,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-15",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -29,7 +44,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
+		"Name": "Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-05-15",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
 		"Category": "Pastabar",
 		"Date": "2026-05-15",
 		"Additives": {
@@ -94,9 +126,9 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.9,
-		"PriceGuest": 8.2,
-		"PriceStudent": 5.6,
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.7,
 		"Vegetarian": true
 	},
 	{
