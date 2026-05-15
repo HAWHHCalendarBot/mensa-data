@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Gemüsebar des Tages",
-		"Category": "Gemüsebar",
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
 		"Date": "2026-05-15",
 		"Additives": {},
 		"PriceAttendant": 1.15,
@@ -11,11 +11,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pastabar des Tages (GlW)",
-		"Category": "Pastabar",
+		"Name": "Erbsen, Maisgemüse (1), Broccoli",
+		"Category": "Gemüsebar",
 		"Date": "2026-05-15",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>1</strong>": "Farbstoff"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -24,18 +24,68 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spargelsuppe (Mi,GlW), Baguette Brötchen (GlW,GlR)",
+		"Name": "Reis,  Pikanter Veganer Spargel mit Tomaten und Kokosmilch (1)",
+		"Category": "Pastabar",
+		"Date": "2026-05-15",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,Sw,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-05-15",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,Sw,GlW), Pasta nach Wahl (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-05-15",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane Spargelsuppe mit frischem Gemüse (So,GlW), Brötchen (GlW,GlR)",
 		"Category": "Pottkieker",
 		"Date": "2026-05-15",
 		"Additives": {
 			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Soja Bolognese mit Gemüse (So,Sl,Sw), Pasta (GlW)",
