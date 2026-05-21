@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "buntem Gemüse (So)",
+		"Category": "Gemüsebar",
+		"Date": "2026-05-21",
+		"Additives": {
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Bunte Fusilli (GlW), Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,Sw,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-05-21",
@@ -16,25 +29,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2026-05-21",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Erbsencremesuppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Erbsencremesuppe (So,Sl), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-05-21",
 		"Additives": {
@@ -49,21 +44,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchenkeule (Sf,Sw), Schmortomaten-Soße, Bohnen- Kartoffelstampf (Mi,Sw)",
-		"Category": "CampusWorld",
-		"Date": "2026-05-21",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.8,
-		"Poultry": true
-	},
-	{
-		"Name": "Dattel-Curry Falafel (GlW), grüner Hummus (Se,Sw), Rotkrautsalat (3), gebackene Süßkartoffel (Sw)",
+		"Name": "Dattel-Curry Falafel (GlW), grüner Hummus (Se,Sw), Rotkrautsalat (3), Süßkartoffelpüree mit Kokos",
 		"Category": "CampusKlassiker",
 		"Date": "2026-05-21",
 		"Additives": {
@@ -77,5 +58,28 @@
 		"PriceStudent": 5.8,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Deutscher Spargel, Vegane Hollandaise, Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2026-05-21",
+		"Additives": {},
+		"PriceAttendant": 7.25,
+		"PriceGuest": 8.55,
+		"PriceStudent": 5.95,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Deutscher Spargel, zerlassene Butter (Mi), Salzkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2026-05-21",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 7.25,
+		"PriceGuest": 8.55,
+		"PriceStudent": 5.95,
+		"Vegetarian": true
 	}
 ]
