@@ -1,24 +1,11 @@
 [
 	{
-		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
-		"Category": "Pastabar",
+		"Name": "Broccoli-Pastinaken Mix, Zucchini-Tomaten Gemüse (So,Sw), Linsengemüse in Kokoscreme (So,Sl), Gnocchi",
+		"Category": "Gemüsebar",
 		"Date": "2026-05-22",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-05-22",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -28,13 +15,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Staudensellerie und Tomate (Sl,Sw), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Gemüse Sesamreis (Se)",
+		"Name": "Pasta nach Wahl (GlW), Spinatcremesoße (Mi,Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-05-22",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "Reis, Mexikanisches Gemüse in Rahmsoße (2,5,So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-05-22",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -74,10 +75,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Frisch aus dem Wok, frisches Gemüse mit Asiasoße \"Süß-Sauer\" (Sl,Sw), Reis",
+		"Name": "Frisch aus dem Wok, frisches Gemüse mit Asiasoße \"Süß-Sauer\" (En,Sl,Sw), Reis",
 		"Category": "CampusVital",
 		"Date": "2026-05-22",
 		"Additives": {
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
