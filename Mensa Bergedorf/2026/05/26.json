@@ -1,26 +1,11 @@
 [
 	{
-		"Name": "Pasta Hähnchen in Tomatensoße (Sw,GlW)",
+		"Name": "Pasta Linsen in pikanter Tomatensoße (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-05-26",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,So,GlW), Gartengemüse",
-		"Category": "Gemüsebar",
-		"Date": "2026-05-26",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -36,6 +21,39 @@
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta Fisch mit Spinat (Fi,Mi,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-05-26",
+		"Additives": {
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Fish": true
+	},
+	{
+		"Name": "Brechbohnen, gebratene Champignons (Sw), gebratener Pak Choi (2,So,GlW), Gartengemüse, gebratene Paprika (1,5,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2026-05-26",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
