@@ -1,5 +1,50 @@
 [
 	{
+		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-06-04",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Maccaroni (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-06-04",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), vegane Schupfnudeln (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-04",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Minestrone (Sl,Sw,GlW), Ciabatta (GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-04",
@@ -14,5 +59,53 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen und Joghurt (2,5,Mi,Sl,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2026-06-04",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.25,
+		"PriceGuest": 5.55,
+		"PriceStudent": 2.95,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Belgische Pommes, Planted Duck (Erbsen-, Sonnenblumen-, Hafer Proteine) (So,GlH), Kräuterdip (Sf), gepickelte rote Zwiebel und Frühlingslauch (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2026-06-04",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.1,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tagliatelle (GlW), Pfifferlinge mit Bohnen in Creme (So,Sl,Sw), Hähnchen Oberkeulensteak",
+		"Category": "CampusWorld",
+		"Date": "2026-06-04",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.7,
+		"PriceGuest": 9.0,
+		"PriceStudent": 6.4,
+		"LactoseFree": true,
+		"Poultry": true
 	}
 ]
