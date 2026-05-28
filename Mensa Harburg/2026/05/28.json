@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
-		"Category": "Pastabar",
+		"Name": "gerösteter Blumenkohl,  Romanesco (Sl),  Röstkartoffeln",
+		"Category": "Gemüsebar",
 		"Date": "2026-05-28",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,7 +13,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
+		"Name": "Belugalinsenragout in Sojarahm (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-05-28",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Fleischbällchen in Tomaten-Sahnesoße (Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-05-28",
 		"Additives": {
@@ -29,10 +42,11 @@
 		"Beef": true
 	},
 	{
-		"Name": "Blattspinat (Sl,Sw), Kräuterkartoffeln, pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Bulgur mit Tomate und Peperoni (Sl,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Reis,  Sonnenblumenhack mit buntem Gemüse und Spargel (1,So,Sl,Sf,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-05-28",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
@@ -74,7 +88,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit persischem Gewürzreis (Sl,Se,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
+		"Name": "Ägyptische Falafel mit persischem Bulgur (Sl,Se,GlW), Pfirsich-Tomaten-Chutney (3,5,Sl,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-05-28",
 		"Additives": {
