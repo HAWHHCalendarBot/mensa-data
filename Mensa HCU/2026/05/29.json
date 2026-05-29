@@ -1,13 +1,10 @@
 [
 	{
-		"Name": "Gartengemüse, Erbsen (1), Orientalisches Kichererbsengemüse (2,5,Sw), Mexikanisches Gemüse (Sl)",
-		"Category": "Gemüsebar",
+		"Name": "Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-05-29",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -15,6 +12,19 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Röstkartoffeln, Brechbohnen mit Chili, Karotten (1), Broccoli geröstet (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2026-05-29",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
