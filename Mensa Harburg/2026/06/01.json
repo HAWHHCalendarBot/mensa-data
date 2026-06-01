@@ -1,12 +1,9 @@
 [
 	{
-		"Name": "Reis,  Asiatische Gemüseragout mit Süßkartoffeln (2,Sl)",
-		"Category": "Pastabar",
+		"Name": "Broccoli,  Brechbohnen,  Gartengemüse",
+		"Category": "Gemüsebar",
 		"Date": "2026-06-01",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -14,13 +11,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "karamellisierte Schwarzwurzeln (1), Kohlrabi in Creme (1,So,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Reis,  Asiatisches Gemüseragout mit Süßkartoffeln (2,Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-06-01",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -60,11 +56,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kartoffel-Lauch Suppe (So,Sl), Kaiserbrötchen (GlW)",
+		"Name": "Spätzle Gratin mit Gemüse und Käse (1,Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-06-01",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Kartoffel-Lauch Suppe (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-01",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -75,15 +85,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Kerbel- Gemüsesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Tortellini mit Spinat Ricottafüllung (Ei,Mi,GlW), Tomatensoße (So,Sl)",
 		"Category": "CampusSpezial",
 		"Date": "2026-06-01",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.8,
