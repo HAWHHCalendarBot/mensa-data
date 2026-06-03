@@ -26,13 +26,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat mit veganem Hirtenkäse (Sw), Blumenkohl mit gebräunten Bröseln (1,GlW), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Nusskartoffeln",
+		"Name": "Mais (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-06-08",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -58,47 +57,48 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frisch gebackene PIZZA nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-06-08",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 6.0,
-		"PriceGuest": 7.3,
-		"PriceStudent": 4.7,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Paniertes Putenschnitzel (GlW)",
+		"Name": "Rostbratwurst (4,8,Sl,Sf), Sauerkraut (vegan) (Sl), hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-06-08",
 		"Additives": {
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.8,
+		"Beef": true,
+		"Pig": true
+	},
+	{
+		"Name": "Penne alla Norma mit Auberginen-Tomatensoße und Sojajoghurt (So,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2026-06-08",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.15,
+		"PriceGuest": 6.45,
+		"PriceStudent": 3.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "3 Kartoffeltaschen mit Tomaten-Mozzarellafüllung (Mi), Kräuterquark (Mi), gemischter Salat (Ei,Mi)",
+		"Category": "CampusVital",
+		"Date": "2026-06-08",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.5,
 		"PriceStudent": 4.9,
-		"Poultry": true
-	},
-	{
-		"Name": "Chinesische Nudeln mit Rindfleisch (2,Ei,So,Sl,Sw,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-06-08",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.75,
-		"PriceGuest": 8.05,
-		"PriceStudent": 5.45,
-		"Beef": true,
-		"LactoseFree": true
+		"Vegetarian": true
 	}
 ]
