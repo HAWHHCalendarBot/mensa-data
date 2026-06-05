@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Brechbohne",
+		"Name": "Zucchini, Pilzragout (GlW), Karotten Rustica, Blumenkohl mit Curry, gebratene Paprika (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-06-05",
-		"Additives": {},
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -11,16 +14,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
+		"Name": "Penne (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-06-05",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -46,11 +45,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Quinoa-Jalapeno-Pot, Tortillachips, Chili-Cheese-Sauce (2,Mi,Sw)",
+		"Name": "Quinoa-Couscous Jalapeno-Pot, Tortillachips, Chili-Cheese-Sauce (2,Mi,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-06-05",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
