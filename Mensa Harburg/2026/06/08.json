@@ -22,12 +22,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Nudel (GlW)",
+		"Name": "Nusskartoffeln",
 		"Category": "Pastabar",
 		"Date": "2026-06-08",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -35,7 +33,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüse-Bulgur mit Pinienkernen und Kräuter (Sl,GlW)",
+		"Name": "Bulgur mit Pinienkernen und Kräuter (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-08",
 		"Additives": {
@@ -49,10 +47,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Saporita mit Sojagranulat und Paprika (So,Sl)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-08",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Saporita mit Sojagranulat und Paprika (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-06-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -63,13 +75,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Carbonara mit geräuchertem Tofu (1,So,Sl,Sf,Sw,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Carbonara mit geräuchertem Tofu (1,So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-08",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
