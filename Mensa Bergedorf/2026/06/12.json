@@ -1,11 +1,12 @@
 [
 	{
-		"Name": "Pasta Blattspinat-Tomaten-Frischkäsesoße (Mi,GlW)",
+		"Name": "Pasta mit Tofu in Mangold- Tomaten Cremesoße (So,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-12",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -13,12 +14,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta Linsen in pikanter Tomatensoße (Sl,Sw,GlW)",
+		"Name": "Soja-Bolognese mit Gemüse (Sojaprotein) (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-06-12",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -28,7 +29,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Staudensellerie und Tomate (Sl,Sw), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1)",
+		"Name": "glasierte rote Beete, Blattspinat mit veganem Feta (Sl,Sw), Staudensellerie und Tomate (Sl,Sw), Fingermöhrchen mit Ingwer und Frühlingslauch (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-06-12",
 		"Additives": {
@@ -43,7 +44,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Name": "glasierte rote Beete, Blattspinat mit veganem Feta (Sl,Sw), Staudensellerie und Tomate (Sl,Sw), Fingermöhrchen mit Ingwer und Frühlingslauch (1)",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-12",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsegulasch (Sl,Sw), Maccaroni (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-12",
 		"Additives": {
