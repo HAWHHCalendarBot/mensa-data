@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Penne (GlW), Broccoli in einer Bärlauchsoße (Mi,GlW,GlG)",
+		"Name": "Pasta (GlW), Broccoli in einer Bärlauchsoße (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-06-12",
 		"Additives": {
@@ -14,7 +14,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Name": "Pasta (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-06-12",
 		"Additives": {
@@ -25,6 +25,39 @@
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Knoblauch Champignons aus dem Ofen, Zuckerschoten (1,2,5,So,Sw,GlW), Mischgemüse in Hollandaise (1), Spitzkohl in Creme (So), Schwenkkartoffel mit Chili und Knoblauch, Pastinaken und Karotte",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-12",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "3 vegane Mini Bratwürstchen, Sauerkraut (vegan) (1,Sl), veganes hausgemachtes Kartoffelpüree (1,So)",
+		"Category": "CampusSpezial",
+		"Date": "2026-06-12",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.15,
 		"LactoseFree": true,
 		"Vegan": true
 	},

@@ -11,25 +11,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
+		"Name": "Pasta nach Wahl (GlW),  Asiatisches Soja-Gemüseragout (2,So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-06-12",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Chili sin carne (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-06-12",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -39,11 +43,29 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Name": "Pasta nach Wahl (GlW), vegane Hackbällchen in Tomatencremesoße (So,Sl,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-06-12",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsegulasch (Sl,Sw), dazu Fladenbrot (Se,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-12",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -54,7 +76,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mi Nudeln mit Brokkoli, Edamame, Pak Choi und Erdnüssen (2,3,En,So,Se,Sw,GlW)",
+		"Name": "Mi Nudeln mit Gemüse, Edamame und Erdnüssen (2,3,En,So,Se,Sw,GlW), Asiatische Erdnusssoße (En,Mi,Sl)",
 		"Category": "CampusSpezial",
 		"Date": "2026-06-12",
 		"Additives": {
@@ -62,15 +84,16 @@
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.5,
 		"PriceGuest": 5.8,
 		"PriceStudent": 3.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "veganer Wrap Dürüm Kebab (Erbsenprotein) mit BBQ-Soße (2,3,5,En,So,Sf,Sw,GlW)",
