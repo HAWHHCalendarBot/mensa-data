@@ -1,7 +1,29 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Chili-Kartoffeln aus dem Ofen, Orientalisches Linsengemüse (Sl)",
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen",
 		"Category": "Gemüsebar",
+		"Date": "2026-06-15",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indische Kartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-06-15",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Belugalinsenragout mit Tomaten und Kokosmilch (Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-06-15",
 		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
@@ -13,11 +35,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Blumenkohl in einer Sahnesoße mit grünem Pfeffer (3,Mi)",
+		"Name": "Pasta nach Wahl (GlW), Blattspinat-Tomaten-Sahnesoße (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-06-15",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -27,12 +48,30 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Fusilli (GlW), Tomatensoße mit Kapern und Tofu (6,So,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), vegane Hackbällchen in Gemüsecremesoße (So,Sl,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-06-15",
 		"Additives": {
-			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW),  Asiatisches Ragout mit Sojastreifen (2,So,Sl,Se,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-06-15",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -70,7 +109,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl und Brokkoli (Sw), Sojajoghurt-Kräuter Dip (3,So)",
+		"Name": "Süßkartoffel-Gnocchi mit geröstetem Blumenkohl und Brokkoli (Sw), Tomatensoße (Sw), Sojajoghurt (3,So)",
 		"Category": "CampusVital",
 		"Date": "2026-06-15",
 		"Additives": {
