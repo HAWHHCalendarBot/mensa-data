@@ -1,6 +1,43 @@
 [
 	{
-		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Erbsen (1), Kohlrabi-Bärlauch Gemüse (1), Orientalisches Linsengemüse (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
+		"Date": "2026-06-15",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-06-15",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl in einer Sahnesoße mit grünem Pfeffer (3,Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-06-15",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüsemix mit Karotten, Brokkoli und Bohnen, Erbsen (1), glasierte rote Beete, Orientalisches Linsengemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-06-15",
 		"Additives": {
@@ -14,26 +51,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Fusilli (GlW), Blumenkohl in einer Sahnesoße mit grünem Pfeffer (3,Mi)",
-		"Category": "Pastabar",
-		"Date": "2026-06-15",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Fusilli (GlW), Tomatensoße mit Kapern und Tofu (6,So,Sl,Sw)",
+		"Name": "Tomatensoße mit Kapern und Tofu (6,So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-06-15",
 		"Additives": {
 			"<strong>6</strong>": "Geschwärzt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -59,16 +81,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Dill-Quark (Mi), Rote Beete Salat (9)",
+		"Name": "Gebratene Pierogi mit Kartoffel-Quarkfüllung (1,Ei,Mi,Sl,GlW), Dill-Quark (Mi), Weißkrautsalat (3,5,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-06-15",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.45,
 		"PriceGuest": 6.75,
@@ -106,6 +130,21 @@
 		"PriceStudent": 4.9,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Röstkartoffeln",
+		"Category": "CampusVital",
+		"Date": "2026-06-15",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.45,
+		"PriceGuest": 7.75,
+		"PriceStudent": 5.15,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hähnchenfilets in Soja Pflaumen Soße (So,Sl,Sw), Reis",
