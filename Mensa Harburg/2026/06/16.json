@@ -1,24 +1,33 @@
 [
 	{
-		"Name": "Vollkorn Fussili (GlW), Hähnchen, Fenchel und Kardamom in Tomatensoße (Sw)",
+		"Name": "Röstiecken",
 		"Category": "Pastabar",
 		"Date": "2026-06-16",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gartengemüse mit Champignons und Sesam (Se),  Erbsen und Mais",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-16",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
-		"Poultry": true
+		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse, Schupfnudeln (GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Kartoffel-Gemüseragout in Basilikumcremesoße (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-06-16",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
@@ -30,59 +39,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta nach Wahl (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (3,8,Sl,Sw)",
+		"Name": "Reis,  Sonnenblumenhack-Lauchcreme mit Brunoise (Sonnenblumenprotein) (So,Sl,Sf,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-06-16",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Hähnchenstreifen in Tomaten-Sahnesoße (3,8,Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-06-16",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>8</strong>": "Phosphat",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
 		"Poultry": true
-	},
-	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-06-16",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Tomatenreis (6,So), Sonnenblumenhacksoße (Sonnenblumenprotein) (1,So,Sl,Sf,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-06-16",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Rotes Gemüsecurry mit Bohnen, Erbsen und Pak Choi (2,So,Sw,GlW), Reis",
@@ -118,15 +105,16 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Crispy Tempeh Bällchen (gelbe Erbse und Süßlupine) (Lu), Zuckerschoten-Zucchini-Gemüse mit Erdnuss-Dip (1,2,En,So,Sw,GlW), Basmatireis",
+		"Name": "Crispy Tempeh Bällchen (gelbe Erbse und Süßlupine) (Lu), Gemüse-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2026-06-16",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
