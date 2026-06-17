@@ -37,21 +37,6 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "gerösteter Blumenkohl (Sw), frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6,Sw), Süßkartoffelwürfel gebacken",
-		"Category": "Gemüsebar",
-		"Date": "2026-06-17",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-17",
@@ -60,6 +45,23 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl (Sw), frisches Gemüse aus dem Wok (2,Sw), Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-17",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -134,6 +136,21 @@
 		"PriceAttendant": 6.55,
 		"PriceGuest": 7.85,
 		"PriceStudent": 5.25,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Hähnchenfilets in Soja Pflaumen Soße (So,Sl,Sw), Reis",
+		"Category": "CampusKlassiker",
+		"Date": "2026-06-17",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.85,
+		"PriceGuest": 8.15,
+		"PriceStudent": 5.55,
 		"LactoseFree": true,
 		"Poultry": true
 	},

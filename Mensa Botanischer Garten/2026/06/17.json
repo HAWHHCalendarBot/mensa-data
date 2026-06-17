@@ -1,9 +1,10 @@
 [
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
+		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,GlW,GlG,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-06-17",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
@@ -14,13 +15,11 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Mi,Sl,Sf,Sw,GlW,GlG)",
+		"Name": "Indische Tomaten-Linsensuppe (Sl,Sf,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-17",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -28,7 +27,8 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Broccoli Nuggets (Ei,So,Mi,Sl,GlW,GlG), Ajvar Dip (Mi), Schnittlauchkartoffeln, Eisbergsalat mit Kräuterdressing (Mi,Sw)",
