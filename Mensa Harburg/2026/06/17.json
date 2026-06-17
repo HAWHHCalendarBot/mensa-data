@@ -1,10 +1,24 @@
 [
 	{
-		"Name": "Gnocchi gebraten (GlW)",
+		"Name": "Gnocchi (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-17",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsecouscous (Sl,GlW),  buntes Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-17",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -25,13 +39,12 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Pasta nach Wahl (GlW), Kartoffel-Gemüseragout in Basilikumcremesoße (So,Sl)",
+		"Name": "Pasta nach Wahl (GlW), Spargel mit Erbsen und Mais in Orangenfond (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-06-17",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -40,13 +53,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gerösteter Blumenkohl (Sw), frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6,Sw), Süßkartoffelwürfel gebacken, Basmatireis",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Gemüse-Basilikumcremesoße (So,Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-06-17",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,

@@ -14,19 +14,21 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Indische Tomaten-Linsensuppe (Mi,Sl,Sf,Sw,GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-17",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Broccoli Nuggets (Ei,So,Mi,Sl,GlW,GlG), Ajvar Dip (Mi), Schnittlauchkartoffeln, Eisbergsalat mit Kräuterdressing (Mi,Sw)",
@@ -47,18 +49,18 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Schweinenacken- Braten mit Senf-Oregano-Kruste (Sf), Bratensoße (Sl), Gartenbohnen mit Pfifferlingen, Kroketten (GlW)",
+		"Name": "Schweinenacken- Braten mit Senf-Oregano-Kruste (Sf), Bratensoße (Mi,Sl), Gartenbohnen mit Pfifferlingen, Kroketten (GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2026-06-17",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.9,
 		"PriceGuest": 8.2,
 		"PriceStudent": 5.6,
-		"LactoseFree": true,
 		"Pig": true
 	}
 ]
