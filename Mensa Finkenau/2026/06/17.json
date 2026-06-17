@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "gerösteter Blumenkohl (Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2026-06-17",
-		"Additives": {
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Eliche (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-17",
@@ -29,7 +16,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "gebratene Champignons (Sw), gebackene Aubergine (Sw,GlW), Weißkohl mit Curry (Sf), Kohlrabi-Karotten Gemüse (Mi), Sonnenblumenhack-Lauchcreme mit Erbsen (1,So,Sl,Sf,Sw,GlW), Gemüse-Reis (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-17",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW), Baguette (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-17",
 		"Additives": {
@@ -44,12 +49,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche in Tomatensoße mit Gemüsebällchen (Ei,Sw,GlW)",
+		"Name": "Eliche in Tomatensoße mit Gemüsebällchen (Ei,Sw,GlW), Mandel-Chrunch (NMa)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-06-17",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.25,
