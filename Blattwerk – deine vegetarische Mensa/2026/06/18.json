@@ -45,7 +45,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Weiße Bohnencreme mit Tomaten, gebratenem Bohnen, Kräutern, Rucola und Knoblauch (2,5,6,Sw)",
+		"Name": "Strozzapreti (GlW), Weiße Bohnencreme mit Tomaten, gebratenem Bohnen, Kräutern, Rucola und Knoblauch (2,5,6,Mi,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-06-18",
 		"Additives": {
@@ -53,13 +53,13 @@
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>6</strong>": "Geschwärzt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.3,
 		"PriceGuest": 6.6,
 		"PriceStudent": 4.0,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Käsespätzle mit Sahne, Gouda, Zwiebelschmelze, Röstzwiebel und rote Beete Bacon (Ei,Mi,GlW)",
@@ -94,6 +94,23 @@
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.2,
 		"PriceStudent": 4.6,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bulgursalat mit gebratener Paprika, Falafel und roter Beete Hummus (9,Sl,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-06-18",
+		"Additives": {
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.05,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.75,
 		"LactoseFree": true,
 		"Vegan": true
 	}
