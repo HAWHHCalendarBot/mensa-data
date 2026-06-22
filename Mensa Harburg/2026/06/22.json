@@ -48,13 +48,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+		"Name": "Veganer Linseneintopf mit Gemüse und Kartoffeln (Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-06-22",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -63,12 +61,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegane Carbonara mit Tofuwürfel (1,So,Sl,Sf,Sw,GlW), Conchiglie (GlW)",
+		"Name": "Vegetarische Carbonara mit Tofuwürfel (So,Mi,Sl,Sf,Sw,GlW,GlG), Conchiglie (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-06-22",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -77,8 +76,7 @@
 		"PriceAttendant": 4.25,
 		"PriceGuest": 5.55,
 		"PriceStudent": 2.95,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Frikadelle (Ei,GlW), Pfefferrahmsoße (3,Mi,Sl),  Röstkartoffeln,  Tomaten-Gurken-Salsa (3,5,Sw)",
@@ -100,7 +98,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sw), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
+		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganer Käruterdip (So,Sw), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
 		"Category": "CampusWorld",
 		"Date": "2026-06-22",
 		"Additives": {
