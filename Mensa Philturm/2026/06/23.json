@@ -11,17 +11,18 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Blattspinat in Gorgonzola-Käsesauce (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-06-23",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceStudent": 0.9
 	},
 	{
 		"Name": "Gnocchi mit Babyspinat und Champignons in einer cremigen Käsesauce, Sonnenblumenkerne (Mi,Sl,Sw,GlW)",
@@ -53,6 +54,22 @@
 		"PriceGuest": 8.65,
 		"PriceStudent": 6.05,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Gebratenes Wildlachsfilet (Fi,GlW), Gnocchi Champignons in einer cremigen Käsesauce, Sonnenblumenkerne (GlW), Blattspinat (Sl,Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2026-06-23",
+		"Additives": {
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.8,
+		"PriceGuest": 9.1,
+		"PriceStudent": 6.5,
+		"Fish": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Caesar's Burger mit Knusperschnitzel, Hartkäse, Senfdressing, Tomaten und Croutons (3,Ei,Mi,Sf,GlW), Pommes Frites",

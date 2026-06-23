@@ -1,38 +1,9 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-06-23",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Bunte Fusilli (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-06-23",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing, Maiskolben (1), Bratkartoffeln",
+		"Name": "Karotten (Se), Prinzessbohnen, Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2026-06-23",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
@@ -40,6 +11,37 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Chili con Carne (2)",
+		"Category": "Pastabar",
+		"Date": "2026-06-23",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Spätzle (Ei,GlW), Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-06-23",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",
@@ -53,34 +55,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frisch gebackene FLAMMKUCHEN nach Wahl (versch. Sorten) ab 4,20 / 5,50 / 6,70 (auch TAKE AWAY) (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-06-23",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Flammkuchen des Tages: mit Apfelwürfel, Zimt und Zucker (Mi,GlW,NHa)",
-		"Category": "CampusWorld",
-		"Date": "2026-06-23",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Burrito Bowl mit Sonnenblumenhack (Sonnenblumenprotein), Petersilie-Knoblauch-Dip (1,3,Sl,Sf,Sw,GlH,NMa), Tomaten-Gurken-Salsa (3,5,Sw)",
+		"Name": "Sonnenblumenhack Ragout (Sonnenblumenprotein) mit Kurkuma Reis (1,3,Sl,Sf,Sw,GlH,NMa), Petersilie Knoblauch Dip (3,5,Sw)",
 		"Category": "CampusVital",
 		"Date": "2026-06-23",
 		"Additives": {
@@ -119,24 +94,23 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Crispy Burger Vegan (3,Sw,GlW,GlG), vegane Remoulade (9,So,Sf,Sw,GlH,NMa), Pommes Frites (Sf)",
+		"Name": "Crispy Burger, veggie (1,3,9,Ei,Sf,Sw,GlW,GlG), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2026-06-23",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.4,
 		"PriceGuest": 7.7,
 		"PriceStudent": 5.1,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]

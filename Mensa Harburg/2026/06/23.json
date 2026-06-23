@@ -1,23 +1,20 @@
 [
 	{
-		"Name": "Sesammöhrchen (Se), Gartenbohnen mit Pfifferlingen und Cherrytomaten, gebratenem Wirsing",
+		"Name": "Röstkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-06-23",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Broccoli, gebratene Champignons (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-06-23",
 		"Additives": {
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-06-23",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -27,18 +24,52 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunte Fusilli (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw)",
+		"Name": "Pasta nach Wahl (GlW), Wirsing in Creme (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-06-23",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Nerone Hähnchenstreifen in Tomaten-Sahnesoße (Mi,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-06-23",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"Poultry": true
+	},
+	{
+		"Name": "Reis, Vegetarische Carbonara mit Tofuwürfel (So,Mi,Sl,Sf,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-06-23",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",
@@ -72,13 +103,15 @@
 		"Pig": true
 	},
 	{
-		"Name": "Wildlachs mit Honig-Sesam-Glaze (2,Fi,So,Se,Sw,GlW), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Basmatireis",
+		"Name": "Wildlachs im Sesambackteig (2,Ei,Fi,So,Mi,Se,Sw,GlW), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2026-06-23",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -86,8 +119,7 @@
 		"PriceAttendant": 7.2,
 		"PriceGuest": 8.5,
 		"PriceStudent": 5.9,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
 	},
 	{
 		"Name": "Blumenkohl im Backteig (Ei,GlW), Bulgur Tomaten Salat (3,5,Sw,GlW), Hüttenkäse-Kräuter-Dip (Mi)",
