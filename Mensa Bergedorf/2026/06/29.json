@@ -1,5 +1,46 @@
 [
 	{
+		"Name": "Pasta Broccoli in einer Gorgonzola- Sahnesoße (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-06-29",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "Pasta Tomaten- Kräuter- Gemüsesoße (Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-06-29",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blattspinat mit veganem Hirtenkäse (Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-29",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf,Sw), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2026-06-29",
@@ -12,6 +53,22 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Makhloota Curry mit Kidneybohnen, Kichererbsen, Linsen und Gurkentopping (3,Sl,Se), Gemüse Bulgur (Sl,GlW)",
+		"Category": "CampusVital",
+		"Date": "2026-06-29",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
