@@ -1,48 +1,68 @@
 [
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-06-25",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
-		"Name": "Maccaroni (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-06-25",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "gerösteter Broccoli, Steckrüben-Möhren Gemüse (1), Spitzkohl, Tomaten Mango Belugalinsenragout (Sl), vegane Schupfnudeln (GlW)",
+		"Name": "Broccoli, Rosenkohl (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2026-06-25",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüsereis mit gebackenen Tofu (So)",
+		"Category": "Pastabar",
+		"Date": "2026-06-25",
+		"Additives": {
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Blumenkohl Korma",
+		"Category": "Pastabar",
+		"Date": "2026-06-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Geflügelrahmsoße (Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-06-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Tomatensoße (Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-06-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3), Kurkumareis",
@@ -56,35 +76,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Frisch gebackene FLAMMKUCHEN nach Wahl (versch. Sorten) ab 4,20 / 5,50 / 6,70 (auch TAKE AWAY) (Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-06-25",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.2,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Flammkuchen des Tages: mit Geflügelsalami und frischen Tomaten (1,2,3,Mi,GlW)",
-		"Category": "CampusWorld",
-		"Date": "2026-06-25",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.2,
-		"PriceStudent": 4.6,
-		"Poultry": true
 	},
 	{
 		"Name": "Unsere vegane \"ExtraVurst - CampusStyle\" (Sf), mit Curry-Spezial-Sauce (5,Sf,Sw), oder Curry-Delikant-Sauce, Pommes Frites (Sf)",

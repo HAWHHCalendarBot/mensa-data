@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "Süßkartoffeln, Gartengemüse, Erbsen, Fingermöhrchen",
+		"Category": "Gemüsebar",
+		"Date": "2026-06-25",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-06-25",
@@ -15,11 +26,12 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3), Kurkumareis",
+		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3,Sl), Kurkumareis",
 		"Category": "Pottkieker",
 		"Date": "2026-06-25",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel"
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -47,11 +59,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Zitronenhähnchen (Mi,Sw), Kräuterdip (Mi,Sw), gerösteter Broccoli, Basmatireis",
+		"Name": "Zitronenhähnchen (Mi,Sw), Tomatenreis mit Edamame und Oliven (3,6,So,Sw), Kräuterdip (Mi,Sw), gerösteter Broccoli",
 		"Category": "CampusWorld",
 		"Date": "2026-06-25",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>6</strong>": "Geschwärzt",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.7,
+		"PriceGuest": 8.0,
+		"PriceStudent": 5.4,
+		"Poultry": true
+	},
+	{
+		"Name": "Zitronenhähnchen (Mi,Sw), Tomatenreis mit Edamame und Oliven (3,6,So,Sw), Kräuterdip (Mi,Sw), gerösteter Broccoli",
+		"Category": "CampusWorld",
+		"Date": "2026-06-25",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.7,

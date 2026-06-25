@@ -55,12 +55,32 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojagyros (Sojaprotein) (So,Sl,Sw), veganes Tzatziki (So,Sw), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
+		"Name": "Couscoussalat mit weißen Bohnen, Tomaten und Zwiebeln, vegane Hackbällchen und Haferdip (So,Sl,Sw,GlW,GlG,GlH,NMa)",
+		"Category": "CampusWorld",
+		"Date": "2026-06-25",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.3,
+		"PriceGuest": 6.6,
+		"PriceStudent": 4.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sojagyros (Sojaprotein) (So,Sl,Sw), Tzatziki (So,Mi,Sw), Krautsalat (3,5,Sw), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-06-25",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -69,8 +89,7 @@
 		"PriceAttendant": 6.5,
 		"PriceGuest": 7.8,
 		"PriceStudent": 5.2,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Guacamole Bites (3,Mi,Sf,Sw,GlW), Mexican Reispfanne (Sw), Chili Dip (Mi)",
