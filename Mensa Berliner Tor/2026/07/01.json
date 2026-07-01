@@ -1,47 +1,43 @@
 [
 	{
-		"Name": "Eliche (GlW), Currysauce mit Erbsen und Bärlauch (Mi,GlW)",
+		"Name": "Pasta (GlW), Arrabiata mit veganen Kebap Streifen",
+		"Category": "Pastabar",
+		"Date": "2026-07-01",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Romanesco, Broccoli, Gemüse-Reis (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-01",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Champignons in Cremesoße (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-07-01",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Eliche (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
-		"Category": "Pastabar",
-		"Date": "2026-07-01",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Ratatouille, Kohlrabigemüse (1), Karotten (1), Prinzessbohnen, Mangold mit gerösteten Walnüssen (Sw,NWa), Gnocchi (GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2026-07-01",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Indisches Linsencurry (Sf,Sw,GlW), Couscous (GlW)",
