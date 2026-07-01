@@ -1,23 +1,34 @@
 [
 	{
-		"Name": "Eliche (GlW), Currysauce mit Erbsen und Bärlauch (Mi,GlW)",
+		"Name": "gebratene Champignons mit Paprika",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-01",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Belugalinsenragout Asia Style (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-07-01",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Name": "Reis,   Saporita mit Sojastreifen und Gemüse in Paprika Cremesoße (Sojaprotein) (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-07-01",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -28,14 +39,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Ratatouille (Sl,Sw), Karotten (1), Mangold mit gerösteten Walnüssen (Sw,NWa), Prinzessbohnen, Gnocchi (GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Champignoncremesauce (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-07-01",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -43,6 +53,21 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Gemüseragout mit Mozzarella (Mi,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-07-01",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Indisches Linsencurry (Sf,Sw,GlW), Couscous (GlW)",
