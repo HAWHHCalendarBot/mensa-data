@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Brechbohnen, Zartweizen mit Gemüse (Sl,GlW), gebratener Pak Choi (2,So,GlW), Gartengemüse",
-		"Category": "Gemüsebar",
-		"Date": "2026-07-07",
+		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-07-10",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
@@ -16,12 +15,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-07-07",
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-10",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -34,14 +34,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rotes Gemüsecurry mit Bohnen, Erbsen und Pak Choi (2,So,Sw,GlW), Reis",
+		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
 		"Category": "Pottkieker",
-		"Date": "2026-07-07",
+		"Date": "2026-07-10",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -50,36 +50,38 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Schwedische Köttbullar (Ei,GlW), Rahmsoße (Mi,Sl), Preiselbeeren, Salzkartoffeln",
-		"Category": "CampusWorld",
-		"Date": "2026-07-07",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.8,
-		"PriceGuest": 6.1,
-		"PriceStudent": 3.5,
-		"Beef": true,
-		"Pig": true
-	},
-	{
-		"Name": "Red Curry Dim Sum mit Pak Choi, Bohnen und Kokosbrühe (3,En,Sl,Sw,GlW), Sesamrotkohl (En,Se)",
-		"Category": "CampusVital",
-		"Date": "2026-07-07",
+		"Name": "Indisches Bohnencurry Rajma Chawal (3,So,Sw), Gemüse Bulgur (Sl,GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-07-10",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.85,
+		"PriceGuest": 6.15,
+		"PriceStudent": 3.55,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Scharfe Kokos-Limonen-Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
+		"Category": "CampusVital",
+		"Date": "2026-07-10",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.25,
-		"PriceGuest": 7.55,
-		"PriceStudent": 4.95,
+		"PriceAttendant": 5.9,
+		"PriceGuest": 7.2,
+		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Vegan": true
 	}
