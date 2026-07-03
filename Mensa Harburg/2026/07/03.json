@@ -1,25 +1,10 @@
 [
 	{
-		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
+		"Name": "Vegane Maultaschen (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-03",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-07-03",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -28,13 +13,56 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Staudensellerie und Tomate (Sl,Sw), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Gemüse Sesamreis (Se)",
+		"Name": "Pasta nach Wahl (GlW), Spitzkohl-Champignon Ragout mit Tofu (So)",
+		"Category": "Pastabar",
+		"Date": "2026-07-03",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Romanesco mit Sesam (Se), Maisgemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-03",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Soße Art all`Amatriciana mit Soja (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-07-03",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reis, Linsengemüse \"Asia Style\" (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-03",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -50,6 +78,21 @@
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indisches Linsencurry (Sf,Sw,GlW), Zartweizen (GlW)",
+		"Category": "Pottkieker",
+		"Date": "2026-07-03",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,

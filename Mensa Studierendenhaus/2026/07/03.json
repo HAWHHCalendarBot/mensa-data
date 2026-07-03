@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
+		"Name": "Blattspinat-Tomaten-Frischkäsesoße (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-07-03",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.15,
@@ -13,11 +12,36 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Name": "Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-03",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kartoffelgratin (Ei,Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-07-03",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-07-03",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -28,18 +52,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "glasierte rote Beete, Kartoffelgratin (Ei,Mi), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1)",
+		"Name": "glasierte rote Beete, Spitzkohl in Creme (So), Broccoli, Fingermöhrchen mit Ingwer und Frühlingslauch (1), Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Kohlrabigemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-03",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Spanische Tapas mit Paellareis, Hähnchenoberkeule mit geräuchertem Paprika und Knoblauch, Hackbällchen in scharfer Tomatensoße (Ei,GlW), pikante Kartoffeln, gebackene Kartoffel-Kroketten (GlW), Omelettestreifen mit Chili und Tomate (2,5,Ei,Mi,Sw), verschiedene Tapas Toppings (1,2,3,5,6,8,So,Mi,Sw), verschiedene Soßen (2,3,4,Ei,En,So,Mi,Sf,GlW)",
@@ -97,6 +125,22 @@
 		"PriceAttendant": 4.8,
 		"PriceGuest": 6.1,
 		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Dattel-Curry Falafel (GlW), grüner Hummus (Se,Sw), Rotkrautsalat (3), gebackene Süßkartoffel (Sw)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-07-03",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.8,
 		"LactoseFree": true,
 		"Vegan": true
 	},
