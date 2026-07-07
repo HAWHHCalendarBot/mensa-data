@@ -1,35 +1,34 @@
 [
 	{
-		"Name": "Vollkorn Fussili (GlW), Hähnchen, Fenchel und Kardamom in Tomatensoße (Sw)",
+		"Name": "Pasta Blumenkohl in einer Sahnesoße mit grünem Pfeffer (3,Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-07-07",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Bolognese mit Rinderhackfleisch (Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-07",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
-		"Name": "Brechbohnen, gebratener Pak Choi (2,So,GlW), Gartengemüse",
-		"Category": "Gemüsebar",
-		"Date": "2026-07-07",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
+		"Name": "Pasta Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-07",
 		"Additives": {
@@ -39,6 +38,24 @@
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "pikantes Grillgemüse (Sl,Sf,GlW), Kohlrabi-Bärlauch Gemüse (1), gebratener Pak Choi (2,So,GlW), Fenchelgemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-07",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -62,12 +79,32 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili con Carne (2), Creme Fraiche (Mi), Reis",
+		"Name": "Tempeh-Gemüsepfanne mit Cashews (gelbe Erbse und Süßlupine) (2,So,Sw,Lu,GlW,NCa), Zartweizen (GlW)",
+		"Category": "CampusVital",
+		"Date": "2026-07-07",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Lu</strong>": "Lupine und - erzeugnisse",
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili con Carne (2), Creme Fraiche (Mi), Fladenbrot (Se,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2026-07-07",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse"
 		},
 		"PriceAttendant": 6.25,
 		"PriceGuest": 7.55,
