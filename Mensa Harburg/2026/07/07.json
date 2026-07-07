@@ -1,7 +1,29 @@
 [
 	{
-		"Name": "Brechbohnen, Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Brechbohnen,  Gartengemüse",
 		"Category": "Gemüsebar",
+		"Date": "2026-07-07",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reis",
+		"Category": "Pastabar",
+		"Date": "2026-07-07",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schupfnudeln (GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-07-07",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
@@ -13,29 +35,42 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Hähnchen, Fenchel und Kardamom in Tomatensoße (Sw)",
+		"Name": "Pasta nach Wahl (GlW), Waldpilzragout in Sahnesoße (Mi,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-07",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Hähnchenstreifen in Käse-Lauchsoße (Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-07-07",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Sonnenblumenhack-Bolognese (Sl,Sf,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-07-07",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
