@@ -1,25 +1,23 @@
 [
 	{
-		"Name": "gerösteter Blumenkohl (Sw), frisches Gemüse aus dem Wok (2,Sw), mediterranes Gemüse (6,Sw)",
-		"Category": "Gemüsebar",
+		"Name": "Käsespätzle mit Röstzwiebeln (Ei,Mi,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-07-08",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
+		"Name": "Pasta Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-07-08",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
@@ -29,7 +27,7 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Eliche (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
+		"Name": "Pasta mit mediteranem Gemüse (1,So,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-08",
 		"Additives": {
@@ -45,17 +43,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
-		"Category": "Pottkieker",
+		"Name": "Red Curry Dim Sum mit Pak Choi, Bohnen und Kokosbrühe (3,En,Sl,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-07-08",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.8,
-		"PriceStudent": 2.2,
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "gerösteter Blumenkohl (Sw), frisches Gemüse aus dem Wok (2,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Fenchelgemüse (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-08",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
 	},
