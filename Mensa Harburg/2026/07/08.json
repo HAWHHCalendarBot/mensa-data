@@ -14,6 +14,20 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "gebratener Reis mit Ei (Ei,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-07-08",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta nach Wahl (GlW), Gorgonzolasoße mit Basilikum (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-07-08",
@@ -74,13 +88,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Geflügelbratwurst,  BBQ Mexican Soße (2,9,Sl,Sf), Cole slaw Salat (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
+		"Name": "Rostbratwurst (4,8,Sl,Sf),  BBQ Mexican Soße (2,9,Sl,Sf), Cole slaw Salat (1,3,9,Ei,Mi,Sf), Pommes Frites (Sf)",
 		"Category": "CampusVital",
 		"Date": "2026-07-08",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>8</strong>": "Phosphat",
 			"<strong>9</strong>": "Süßungsmittel",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
@@ -91,7 +107,7 @@
 		"PriceGuest": 6.9,
 		"PriceStudent": 4.3,
 		"Beef": true,
-		"Poultry": true
+		"Pig": true
 	},
 	{
 		"Name": "Spaghetti in Basilikum Knoblauchsoße mit Gemüse Bällchen (1,3,5,Ei,Mi,Sw,GlW)",
