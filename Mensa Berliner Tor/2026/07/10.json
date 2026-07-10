@@ -1,52 +1,78 @@
 [
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Bohnengemüse, Blumenkohl, Kroketten (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-10",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsereis mit Gemüsetaler (GlW,GlD)",
+		"Category": "Pastabar",
+		"Date": "2026-07-10",
+		"Additives": {
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Linsengemüse in Kokoscreme (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-07-10",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bratnudeln mit Gemüsestreifen (2,Ei,So,Se,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-10",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-07-10",
-		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Ingwermöhrchen mit Sesam (Se), Gemüse süß sauer aus dem Wok (Sl,Sf,Sw), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta (GlW), Dillrahmsoße (2,Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
 		"Date": "2026-07-10",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Alcohol": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
