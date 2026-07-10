@@ -1,12 +1,32 @@
 [
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Basmati Reis",
 		"Category": "Pastabar",
 		"Date": "2026-07-10",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
+		"Date": "2026-07-10",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Broccoli Mix, Gartengemüse, Karotten und Erbsen (1)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-10",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>1</strong>": "Farbstoff"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -15,7 +35,35 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Gorgonzolasoße mit Basilikum (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-07-10",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "Reis, Chili sin carne (So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-07-10",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-07-10",
 		"Additives": {
@@ -30,13 +78,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Ingwermöhrchen mit Sesam (Se), Grüne Bohnen mit Sesam und Sojasoße (2,So,Se,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-07-10",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
