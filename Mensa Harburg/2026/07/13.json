@@ -1,10 +1,40 @@
 [
 	{
-		"Name": "Gnocchi (GlW), mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Spinatcremesoße (Mi,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-13",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Tomatensoße aus frischen Tomaten mit Basilikum (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-07-13",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW),  Asiatisches Ragout mit Sojastreifen (2,So,Sl,Se,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-13",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -16,24 +46,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-07-13",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Mexikanisches Gemüse (Sl), Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Süßkartoffel Gnocchi",
+		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW),  Karotten Rustica,  Gemüse Bulgur (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-13",
 		"Additives": {
@@ -52,10 +65,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw), Bulgur (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-07-13",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
