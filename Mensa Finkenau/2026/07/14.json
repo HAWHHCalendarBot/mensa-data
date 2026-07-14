@@ -1,23 +1,27 @@
 [
 	{
-		"Name": "Maiskolben (1)",
-		"Category": "Gemüsebar",
-		"Date": "2026-07-14",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
+		"Name": "Penne (GlW), Tomaten- Gemüsesoße mit Auberginen und Zucchini (Mi,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-07-14",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spitzkohl mit Curry, gebratene Champignons (Sw), Spanisches Pfannengemüse, Gemüsecurry (So,Sl,Sw), Perlcouscous-Salat mit Kichererbsen und grünem Spargel, Grapefruit und Babyspinat (GlW), Linsen Hirsebällchen (GlW,GlH)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-14",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -52,7 +56,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "4 Cevapcici (Ei,Sf,GlW), Ajvar Dip (Mi), Rotkrautsalat (3), Djuvecreis (3,Sw)",
+		"Name": "4 Cevapcici (Ei,Sf,GlW), Ajvar Dip (Mi), Rotkrautsalat (3), Wedges",
 		"Category": "CampusWorld",
 		"Date": "2026-07-14",
 		"Additives": {
@@ -60,8 +64,7 @@
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.75,
 		"PriceGuest": 8.05,
