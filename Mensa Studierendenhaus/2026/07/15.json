@@ -1,10 +1,49 @@
 [
 	{
-		"Name": "Zuckerschoten, Romanesco, Weiße Bohnen mediterraneo (Sw), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
+		"Date": "2026-07-15",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-15",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zuckerschoten, Romanesco, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Alte Gemüse: Pastinake-Sellerie-Karotte-Topinambur (Sl), Chili-Kartoffeln aus dem Ofen, Edamame (So)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-15",
 		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-07-15",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,7 +53,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2026-07-15",
 		"Additives": {
@@ -22,22 +61,6 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-07-15",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -110,6 +133,20 @@
 		"PriceGuest": 6.55,
 		"PriceStudent": 3.95,
 		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Perlcouscous-Salat mit Kichererbsen und grünem Spargel, Grapefruit und Babyspinat (GlW), Linsen Hirsebällchen (GlW,GlH)",
+		"Category": "CampusVital",
+		"Date": "2026-07-15",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.2,
 		"LactoseFree": true,
 		"Vegan": true
 	}
