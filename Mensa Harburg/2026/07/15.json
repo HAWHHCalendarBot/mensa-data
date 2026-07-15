@@ -1,10 +1,24 @@
 [
 	{
-		"Name": "Romanesco, Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Romanesco und Blumenkohl,  Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-15",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Paprikareis,  Mexikanisches Gemüse in Cajun Soße (2,5,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-07-15",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -13,7 +27,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Conchiglie (GlW), Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Sojastreifen Jäger Art mit Pilzen (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-07-15",
 		"Additives": {
@@ -29,19 +43,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
-		"Category": "Pastabar",
+		"Name": "Pasta nach Wahl (GlW), Soße Don Pepe mit getrockneten Tomaten und Lachs (Fi,Mi,Sl)",
+		"Category": "Gemüsebar",
 		"Date": "2026-07-15",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"Fish": true
 	},
 	{
 		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
@@ -60,7 +74,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spinat Rindfleisch Curry (2,Mi,Sl,Sf), Reis",
+		"Name": "Mexikanisches Rindfleisch Curry (2,Mi,Sl,Sf), Reis",
 		"Category": "CampusWorld",
 		"Date": "2026-07-15",
 		"Additives": {
