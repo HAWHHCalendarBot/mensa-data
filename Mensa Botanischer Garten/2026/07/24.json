@@ -1,21 +1,11 @@
 [
 	{
-		"Name": "Brechbohnen",
-		"Category": "Gemüsebar",
-		"Date": "2026-07-21",
-		"Additives": {},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Strozzapreti (GlW), Broccoli in Tomatensoße (Sw)",
+		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
 		"Category": "Pastabar",
-		"Date": "2026-07-21",
+		"Date": "2026-07-24",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -25,12 +15,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
+		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
 		"Category": "Pottkieker",
-		"Date": "2026-07-21",
+		"Date": "2026-07-24",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
@@ -40,37 +30,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Bohnen-Tomaten-Gemüse, Salsa Verde (2,3,5,9,Sf,Sw)",
-		"Category": "CampusKlassiker",
-		"Date": "2026-07-21",
+		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,Sw,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-24",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.25,
-		"PriceGuest": 6.55,
-		"PriceStudent": 3.95,
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.55,
+		"PriceStudent": 4.95,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Hähnchen Crossies (GlW), Gemüsepfanne in pikanter Tandoorisoße (Sl,Sf,GlW), Reis",
-		"Category": "CampusWorld",
-		"Date": "2026-07-21",
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Champignonrahmsoße (Mi), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-07-24",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 7.45,
-		"PriceGuest": 8.75,
-		"PriceStudent": 6.15,
-		"LactoseFree": true,
-		"Poultry": true
+		"PriceAttendant": 6.45,
+		"PriceGuest": 7.75,
+		"PriceStudent": 5.15,
+		"Vegetarian": true
 	}
 ]
