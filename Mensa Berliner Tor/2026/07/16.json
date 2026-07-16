@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Spitzkohl, Erbsen-Mais Gemüse (1), Fingermöhrchen, Tricolore Gemüse (1), vegane Schupfnudeln (GlW)",
+		"Name": "Broccoli, Kohlrabigemüse mit veganen Sauce Hollandaise (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-16",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Tomaten Kokos Gemüse (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-16",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,34 +26,17 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
+		"Name": "Pasta (GlW), Geflügelrahmsoße (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-07-16",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
-		"Name": "Maccaroni (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-07-16",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3), Kurkumareis",
@@ -74,7 +69,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Spicy Crispy Chicken Burger mit gebackenen Zwiebelringen (1,2,3,9,So,Sl,GlW,GlG), Pommes Frites (Sf)",
+		"Name": "Spicy Crispy Chicken Burger (1,2,3,9,So,Sl,GlW,GlG), Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-07-16",
 		"Additives": {
