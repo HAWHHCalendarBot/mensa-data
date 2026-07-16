@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Pasta (GlW), Pikante Tomatensoße mit grünen Bohnen (Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-07-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Spitzkohl, Erbsen-Mais Gemüse (1), Fingermöhrchen, Tricolore Gemüse (1), vegane Schupfnudeln (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-16",
@@ -12,20 +26,6 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Bunte Fusilli (GlW), Champignons in Cremesoße (Mi,Sl)",
-		"Category": "Pastabar",
-		"Date": "2026-07-16",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Nudelauflauf mit Spinat in Sahnesoße und mit Hirtenkäse gebacken (Ei,Mi,Sw,GlW)",
@@ -41,6 +41,37 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Farfalle (GlW), Pilzragout mit Tomaten, Steinpilze, Weißwein und veganem Käse (1,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-16",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.5,
+		"PriceStudent": 3.9,
+		"Alcohol": true,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bulgursalat mit Datteln, Petersilie, Falafel und Paprikadip (Sl,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.7,
+		"PriceGuest": 7.0,
+		"PriceStudent": 4.4,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Soja-Geschnetzeltes in Erdnusssoße (Sojaprotein) (2,En,So,Sl,Sw,GlW), eingelegtes Asiagemüse süß-sauer (So), Reis",

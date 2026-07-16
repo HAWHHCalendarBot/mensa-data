@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Schupfnudeln (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Erbsen-Mais Gemüse (1), Tricolore Gemüse (1), vegane Schupfnudeln (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-16",
@@ -14,7 +27,34 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
+		"Name": "Pasta (Nudeln) nach Wahl (GlW), Gorgonzolasauce (Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-07-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "Pasta (GlW), veganes Wurstgulasch mit Champignons (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-07-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-07-16",
 		"Additives": {
@@ -27,21 +67,6 @@
 		"PriceStudent": 0.9,
 		"Beef": true,
 		"LactoseFree": true
-	},
-	{
-		"Name": "Maccaroni (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-07-16",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
 	},
 	{
 		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3), Kurkumareis",
@@ -74,13 +99,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Vegane Nuggets (Soja und Weizenprotein) (So,GlW,GlG), Basmatireis",
+		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), gefüllte Kichererbsenbällchen (GlW), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2026-07-16",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
