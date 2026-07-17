@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Kroketten (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-17",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-17",
@@ -13,13 +26,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohne, Kohlrabigemüse (1), Cajun Gemüse (Sl,Sw), gebratene Paprika (1,5,Sw), Kroketten (GlW)",
+		"Name": "Brechbohne, Kohlrabigemüse (1), Cajun Gemüse (Sl,Sw), gebratene Paprika (1,5,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-17",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -30,7 +42,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
+		"Name": "Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-07-17",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
 		"Category": "Pastabar",
 		"Date": "2026-07-17",
 		"Additives": {
@@ -75,6 +104,20 @@
 		"PriceGuest": 6.2,
 		"PriceStudent": 3.6,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Jerk- Curry mit Süßkartoffeln und schwarzen Bohnen (3,Sw), Langkorn Wildreis",
+		"Category": "CampusVital",
+		"Date": "2026-07-17",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.95,
+		"PriceGuest": 6.25,
+		"PriceStudent": 3.65,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Quinoa-Jalapeno-Pot, Tortillachips, Chili-Cheese-Sauce (2,Mi,Sw)",
