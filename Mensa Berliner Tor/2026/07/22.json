@@ -59,19 +59,58 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Soja-Bolognese mit Gemüse (Sojaprotein) (So,Sl,Sw), Spaghetti (GlW)",
-		"Category": "CampusKlassiker",
+		"Name": "All in one pot: Vollkornreis, Tandoori Soja, Avocado, Linsen, Cranberries, Chia (Sojaprotein) (1,2,3,So,Mi,Sl,Sf,Sw,GlW)",
+		"Category": "CampusWorld",
 		"Date": "2026-07-22",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.0,
-		"PriceGuest": 6.3,
-		"PriceStudent": 3.7,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.85,
+		"PriceStudent": 4.25,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Bratwurst (8,Sl,Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-07-22",
+		"Additives": {
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.65,
+		"PriceGuest": 6.95,
+		"PriceStudent": 4.35,
+		"Pig": true
+	},
+	{
+		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,So,Mi,Sl,Sf,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-22",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.85,
+		"PriceGuest": 7.15,
+		"PriceStudent": 4.55,
+		"Poultry": true
 	}
 ]
