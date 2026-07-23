@@ -29,10 +29,25 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tikka Masala mit Sojaschnetzel (Sojaprotein) (So,Se,Sw), Basmatireis",
-		"Category": "CampusWorld",
+		"Name": "Schupfnudelpfanne mit Sauerkraut, Röstzwiebel und Creme fraiche und Schnittlauch (Ei,Mi,GlW)",
+		"Category": "CampusKlassiker",
 		"Date": "2026-07-24",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.45,
+		"PriceGuest": 6.75,
+		"PriceStudent": 4.15,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tikka Masala mit Sojaschnetzel (Sojaprotein), Champignons, Zwiebel und Basmatireis (So,Mi,Se,Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2026-07-24",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -40,8 +55,24 @@
 		"PriceAttendant": 5.65,
 		"PriceGuest": 6.95,
 		"PriceStudent": 4.35,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tikka Masala mit Sojaschnetzel (Sojaprotein), Champignons, Zwiebel und Naan-Brot (2,So,Mi,Se,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2026-07-24",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.5,
+		"PriceStudent": 4.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Briocheburger mit Blumenkohlbratling, Honig-Senf und Zwiebelmarmelade (3,5,Ei,Mi,Sf,Sw,GlW), Pommes Frites (Sf)",

@@ -1,35 +1,8 @@
 [
 	{
-		"Name": "Reis, Linsengemüse in Kokoscreme (Sl)",
+		"Name": "Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
 		"Category": "Pastabar",
-		"Date": "2026-07-23",
-		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Hähnchenstreifen in Tomatensoße (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-07-23",
-		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
-	},
-	{
-		"Name": "Reis (GlW), in Tomatensoße (Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-07-23",
+		"Date": "2026-07-30",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -41,10 +14,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kaisergemüse, Bohnen in Creme (So,Sl,Sw), Pommes Frites (Sf)",
-		"Category": "Gemüsebar",
-		"Date": "2026-07-23",
+		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-07-30",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Beef": true
+	},
+	{
+		"Name": "Fingermöhrchen, Blattspinat (Sl,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Kräuterkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-30",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -57,12 +46,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kichererbsencurry (Sw), pikantes Möhrengemüse (Sl)",
+		"Name": "Tofu-Gemüse-Topf (So,Sl)",
 		"Category": "Pottkieker",
-		"Date": "2026-07-23",
+		"Date": "2026-07-30",
 		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -71,39 +60,43 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Linsen Hirsebällchen (GlW,GlH), Bulgur Tomaten Salat (3,5,Sw,GlW), Petersilienpesto (Sw), Rucola",
+		"Name": "Frisch aus dem Wok, Vegane Gemüsepfane (En,Sl,Sw), Reis",
 		"Category": "CampusVital",
-		"Date": "2026-07-23",
+		"Date": "2026-07-30",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.5,
-		"PriceStudent": 4.9,
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.5,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Chinesische Nudeln mit Rindfleisch (2,Ei,So,Sl,Se,Sw,GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2026-07-23",
+		"Name": "Bacon Bomb Burger (1,2,3,5,8,9,Ei,Mi,Sl,Sf,Sw,GlW), Pommes Frites (Sf)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-30",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>9</strong>": "Süßungsmittel",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 8.1,
-		"PriceStudent": 5.5,
+		"PriceAttendant": 7.3,
+		"PriceGuest": 8.6,
+		"PriceStudent": 6.0,
+		"Alcohol": true,
 		"Beef": true,
-		"LactoseFree": true
+		"Pig": true
 	}
 ]
