@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Penne (GlW), Broccoli in einer Bärlauchsoße (Mi,GlW,GlG)",
+		"Name": "Pasta (GlW), Tomatensoße mit getrocknetem Tomaten, Broccoli und Knoblauch (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-07-24",
 		"Additives": {
@@ -14,19 +14,38 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Name": "Pasta (GlW), Rahmsoße mit Käse, Austernpilze und Quorn (2,Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-07-24",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
+	},
+	{
+		"Name": "Erbsen, Sesam Broccoli (Se), Spitzkohl in Creme (So), Bohnen mit getrocknetem Tomaten und Knoblauch (Sw), Petersilienkartoffeln, Karotten aus dem Ofen (1), gebratene Karotten mit Kichererbsen und Sellerie (Sl,Sw), gebratene Spätzle (Ei,Mi,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-24",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Schupfnudelpfanne mit Sauerkraut, Röstzwiebel und Creme fraiche und Schnittlauch (Ei,Mi,GlW)",
@@ -72,6 +91,21 @@
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.5,
 		"PriceStudent": 4.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Bulgur mit Gurken, Krautsalat, Gemüsebällchen und Haferdip (Mi,GlW,GlH,NMa)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-24",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse"
+		},
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.55,
+		"PriceStudent": 4.95,
 		"Vegetarian": true
 	},
 	{
