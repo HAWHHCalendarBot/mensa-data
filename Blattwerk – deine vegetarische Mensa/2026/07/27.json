@@ -13,7 +13,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
+		"Name": "Pasta (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-07-27",
 		"Additives": {
@@ -27,14 +27,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-27",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Rahmsoße mit Käse, Austernpilze und Quorn (2,Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-07-27",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
