@@ -1,16 +1,16 @@
 [
 	{
-		"Name": "Kohlrabi-Bärlauch Gemüse (1), Erbsen (1), Prinzeßgemüse, Blumenkohl, Chili-Kartoffeln aus dem Ofen",
+		"Name": "Broccoli mit Sesam (Mi), Erbsen (1), Prinzeßgemüse, Blumenkohl, Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-27",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Pasta (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
@@ -40,21 +40,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta (GlW), Rahmsoße mit Käse, Austernpilze und Quorn (2,Mi,Sl)",
-		"Category": "Pastabar",
-		"Date": "2026-07-27",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Cous-Cous One Pot mit getrockneten Tomaten, Erbsen-Spinatsalat, Griechischer Joghurt und Hirtenkäse (2,5,Mi,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2026-07-27",
@@ -68,6 +53,22 @@
 		"PriceAttendant": 5.25,
 		"PriceGuest": 6.55,
 		"PriceStudent": 3.95,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Nudelsalat mit Tomate, Melanzane-Bällchen, Cherrytomaten und Rucola (3,5,Mi,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-27",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.05,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.75,
 		"Vegetarian": true
 	},
 	{
