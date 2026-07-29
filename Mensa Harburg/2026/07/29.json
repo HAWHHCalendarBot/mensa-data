@@ -1,26 +1,40 @@
 [
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
-		"Category": "Pastabar",
+		"Name": "Broccoli, Couscous-Gemüse mit Kichererbsen (Sl), Risi Bisi, Brechbohnen",
+		"Category": "Gemüsebar",
 		"Date": "2026-07-29",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Käsesauce (1,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-29",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Tomaten-Bärlauchsoße (1,So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-07-29",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
@@ -30,29 +44,31 @@
 		"Vegan": true
 	},
 	{
-		"Name": "mediterranes Gemüse (6,Sw), Sesammöhrchen (Se), Erbsen-Mais Gemüse (1), gerösteter Blumenkohl (Sw), Herzoginkartoffeln (Ei,Mi)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Veganes Sonnenblumenhack-Ragout (1,So,Sl,Sf,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-07-29",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Indische Tomaten-Linsensuppe (Sl,Sf,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-07-29",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
