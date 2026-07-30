@@ -11,7 +11,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Penne (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Name": "Pasta (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-07-31",
 		"Additives": {
@@ -25,7 +25,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Penne (GlW), Blattspinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta (GlW), Blattspinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-07-31",
 		"Additives": {
@@ -38,6 +38,21 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Reis, Geschmorte Sojastreifen in Tomatensoße mit Gemüse (So,Sl,Sf)",
+		"Category": "CampusVital",
+		"Date": "2026-07-31",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Superfood Salat mit Quinoa, Spinat, Walnüssen und Süßkartoffel (2,3,So,Sl,GlW,NWa), Mariniertes Tofusteak (2,So,Sw,GlW), Kräuter Dip (3,GlH,NMa)",
@@ -59,5 +74,26 @@
 		"PriceStudent": 4.4,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Glasnudelsalat mit Wakame, Edamamebohnen und Omelette (1,2,3,5,Ei,So,Mi,Se,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-07-31",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.05,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.75,
+		"Vegetarian": true
 	}
 ]
