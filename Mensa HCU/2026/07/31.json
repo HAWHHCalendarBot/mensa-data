@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Erbsen- Karotten in Rahm (Mi), Bohnen Cassoulet (Sw), Orientalisches Linsengemüse (Sl), Röstkartoffeln mit Knoblauch",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-31",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Penne (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-07-31",
 		"Additives": {
@@ -13,6 +27,20 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Asiatisches Gemüsecurry mit Tofu (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2026-07-31",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
@@ -44,25 +72,5 @@
 		"PriceStudent": 3.4,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Rote Beete Stäbchen (Mi,GlW), Remoulade (1,3,9,Ei,Mi,Sf,Sw), Gewürzgurke (2,9), Bratkartoffeln",
-		"Category": "CampusWorld",
-		"Date": "2026-07-31",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 6.3,
-		"PriceGuest": 7.6,
-		"PriceStudent": 5.0,
-		"Vegetarian": true
 	}
 ]

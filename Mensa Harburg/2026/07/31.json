@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Broccoli, Gemüsemix Eskorial, Erbsen, Kräuterkartoffeln",
+		"Name": "Spargel glasiert, Erbsen, Fingermöhrchen, Gebackenes Maisgemüse (1), glacierte rote Beete",
 		"Category": "Gemüsebar",
 		"Date": "2026-07-31",
-		"Additives": {},
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -11,13 +13,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Pasta nach Wahl (GlW), Rotes Linsenragout mit Sojabolognese in Kokosmilch (So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-31",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -26,19 +29,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Tomaten-Kapern-Sauce (6,So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-07-31",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>6</strong>": "Geschwärzt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
