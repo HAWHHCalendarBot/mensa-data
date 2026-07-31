@@ -1,17 +1,6 @@
 [
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch",
-		"Category": "Gemüsebar",
-		"Date": "2026-07-31",
-		"Additives": {},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Farfalle (GlW), Pesto-Rosso (Mi,Sl,NCa)",
+		"Name": "Strozzapreti (GlW), Pesto-Rosso (Mi,Sl,NCa)",
 		"Category": "Pastabar",
 		"Date": "2026-07-31",
 		"Additives": {
@@ -25,7 +14,24 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
+		"Name": "buntes Gemüse mit Tofu (So,Sl), gebratene Auberginen (3,5,Sw), Pfifferlingen, gebackene Süßkartoffel (Sw), hausgemachtes Kartoffelpüree (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2026-07-31",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Vollkornreis",
 		"Category": "Pottkieker",
 		"Date": "2026-07-31",
 		"Additives": {
