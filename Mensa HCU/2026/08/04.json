@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Edamame (So), Brechbohnen, Fingermöhrchen, Röstkartoffeln",
+		"Category": "Gemüsebar",
+		"Date": "2026-08-04",
+		"Additives": {
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Bunte Fusilli (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-08-04",
@@ -14,10 +27,12 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Blumenkohl Korma, Reis",
+		"Name": "Gemüse Korma (So), Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-08-04",
-		"Additives": {},
+		"Additives": {
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
@@ -45,7 +60,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Burrito Bowl mit Sonnenblumenhack (Sonnenblumenprotein), Petersilie-Knoblauch-Dip (1,3,Sl,Sf,Sw,GlH,NMa), Tomaten-Gurken-Salsa (3,5,Sw)",
+		"Name": "Burrito Bowl mit Sonnenblumenhack (Sonnenblumenprotein), Petersilie-Knoblauch-Dip (1,3,So,Sl,Sf,Sw,GlH,NMa), Tomaten-Gurken-Salsa (3,5,Sw)",
 		"Category": "CampusVital",
 		"Date": "2026-08-04",
 		"Additives": {
@@ -56,6 +71,7 @@
 			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.15,
