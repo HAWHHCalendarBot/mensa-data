@@ -11,24 +11,86 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Brokkoli in Tomatensauce und Käse überbacken (Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-06",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "7 Stück Ägyptische Falafel-Taler (GlW)",
+		"Category": "7 Stück Schwedische Köttbullar mit Rahmsoße (Ei,Mi,Sl,GlW)",
+		"Date": "2026-08-06",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3), Kurkumareis",
+		"Name": "1 Stück Blumenkohl-Käse Bratling (Ei,Mi,GlW)",
+		"Category": "7 Stück Schwedische Köttbullar mit Rahmsoße (Ei,Mi,Sl,GlW)",
+		"Date": "2026-08-06",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück paniertes Schweineschnitzel (GlW)",
+		"Category": "7 Stück Schwedische Köttbullar mit Rahmsoße (Ei,Mi,Sl,GlW)",
+		"Date": "2026-08-06",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "7 Stück Schwedische Köttbullar mit Rahmsoße (Ei,Mi,Sl,GlW)",
+		"Category": "7 Stück Schwedische Köttbullar mit Rahmsoße (Ei,Mi,Sl,GlW)",
+		"Date": "2026-08-06",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Beef": true,
+		"Pig": true
+	},
+	{
+		"Name": "Kokos-Curryeintopf mit Karotten und Kartoffeln (2,3,So,Sl,Se,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-08-06",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
