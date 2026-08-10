@@ -11,26 +11,78 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Cherrytomaten und Tomatenpesto (Mi,GlW,NCa)",
 		"Category": "Pastabar",
+		"Date": "2026-08-10",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "7 Stück Ägyptische Falafel-Taler (GlW)",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
 		"Date": "2026-08-10",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf,Sw), Basmatireis",
+		"Name": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Date": "2026-08-10",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück paniertes Schweineschnitzel (GlW)",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Date": "2026-08-10",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Date": "2026-08-10",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "tomatisierter Kichererbsen-Kartoffeleintopf mit Kreuzkümmel (Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2026-08-10",
 		"Additives": {
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
