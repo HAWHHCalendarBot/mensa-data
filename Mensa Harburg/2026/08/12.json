@@ -1,24 +1,24 @@
 [
 	{
-		"Name": "Eliche (GlW), Currysauce mit Erbsen und Bärlauch (Mi,GlW)",
-		"Category": "Pastabar",
+		"Name": "Bratreis mit Gemüse (Sl), grüne Gartenbohnen, buntem Gemüse, Kartoffelgemüse \"Spanische Art\" (Sw), Blumenkohl",
+		"Category": "Gemüsebar",
 		"Date": "2026-08-12",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Name": "Pasta nach Wahl (GlW), Champignon Creme mit Sojastreifen (So,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-12",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
@@ -28,14 +28,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Kohlrabigemüse (1), Karotten (1), Prinzessbohnen, Mangold mit gerösteten Walnüssen (Sw,NWa), Gnocchi (GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Curry-Linsenragout (Sl,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-08-12",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Sojastreifen \"Ungarische Art\" (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-08-12",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
