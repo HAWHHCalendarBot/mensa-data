@@ -11,11 +11,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Cherrytomaten in Broccolicreme (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-14",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -24,12 +25,68 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Name": "7 Stück Ägyptische Falafel-Taler (GlW)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-14",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "1 Stück veganes Knusperschnitzel (GlW)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-14",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-14",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück Black Bean Patty (So,Sf,GlW,GlH)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-14",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "grünes Erbsencurry mit Kartoffeln (2,So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-08-14",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
