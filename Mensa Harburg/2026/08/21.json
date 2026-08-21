@@ -1,9 +1,12 @@
 [
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Broccoli, Gemüsemix Eskorial, Erbsen, Kräuterkartoffeln",
+		"Name": "gerösteter Blumenkohl (Sw),  Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl),  Gemüsemix Eskorial,  Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2026-08-21",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -11,7 +14,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Pasta nach Wahl (GlW), Austernpilze in veganer Cremesoße (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-21",
 		"Additives": {
@@ -26,19 +29,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Mediterranes Gemüseragout in Tomatensoße (Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-21",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rote Beete- Zwiebelchutney (2,9,So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-08-21",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
@@ -57,15 +78,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pariser Kartoffel-Gemüsegratin (Ei,Mi), Krautsalat (3,5,Sw)",
+		"Name": "Pariser Kartoffel-Gemüsegratin (Ei,Mi), Cole Slaw mit Sojamajo (Sf)",
 		"Category": "CampusVital",
 		"Date": "2026-08-21",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 4.7,
 		"PriceGuest": 6.0,

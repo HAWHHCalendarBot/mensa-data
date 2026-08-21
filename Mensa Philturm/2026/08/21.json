@@ -11,11 +11,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Auberginen in Tomatensauce (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-21",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -24,12 +25,64 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
+		"Name": "1 Stück Quinoa-Erbsen-Bratling",
+		"Category": "1 Stück spicy crispy Patty (GlW,GlG)",
+		"Date": "2026-08-21",
+		"Additives": {},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "8 Stück vegetarische Gemüsebällchen (Ei)",
+		"Category": "1 Stück spicy crispy Patty (GlW,GlG)",
+		"Date": "2026-08-21",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück spicy crispy Patty (GlW,GlG)",
+		"Category": "1 Stück spicy crispy Patty (GlW,GlG)",
+		"Date": "2026-08-21",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "1 Stück veganes Knusperschnitzel (GlW)",
+		"Category": "1 Stück spicy crispy Patty (GlW,GlG)",
+		"Date": "2026-08-21",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Blumenkohl-Kartoffelcurry (2,So,Sl,Se,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-08-21",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
