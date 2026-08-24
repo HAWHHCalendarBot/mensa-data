@@ -11,17 +11,71 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Erbsen in Rahm (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-08-24",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "7 Stück Ägyptische Falafel-Taler (GlW)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-24",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "1 Stück Blumenkohl-Käse Bratling (Ei,Mi,GlW)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-24",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"Vegetarian": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-24",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück Hähnchen-Knusperschnitzel (GlW)",
+		"Category": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Date": "2026-08-24",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 3.3,
+		"PriceGuest": 3.75,
+		"PriceStudent": 3.0,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Putensteak, Pommes Frites (Sf), Maisgemüse (1), Kräuterbutter (Mi)",
