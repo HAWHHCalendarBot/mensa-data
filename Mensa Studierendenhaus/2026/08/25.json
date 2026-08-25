@@ -1,6 +1,30 @@
 [
 	{
-		"Name": "Maiskolben (1), Broccoli, gebratenem Wirsing, Gartenbohnen mit Pfifferlingen und Cherrytomaten, Rosmarinkartoffeln",
+		"Name": "Rosmarinkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-08-25",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bunte Fusilli (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-08-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Maiskolben (1), Broccoli, gebratenem Wirsing, Gartenbohnen mit Pfifferlingen und Cherrytomaten",
 		"Category": "Gemüsebar",
 		"Date": "2026-08-25",
 		"Additives": {
@@ -13,11 +37,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunte Fusilli (GlW), Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
+		"Name": "Tomaten- Gemüsesoße mit Auberginen, Zucchini und Kapern (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-08-25",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -27,11 +50,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunte Fusilli (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw)",
+		"Name": "mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-08-25",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -50,6 +72,20 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Perlcouscous-Salat mit Kichererbsen und grünem Spargel (GlW), Linsen Hirsebällchen (GlW,GlH), Ajvar Dip (Mi)",
+		"Category": "CampusVital",
+		"Date": "2026-08-25",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 5.2,
+		"PriceGuest": 6.5,
+		"PriceStudent": 3.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Hähnchenkeule (Sf,Sw), Kräuterdip (Mi,Sw), Broccoli, gebratene Drillinge (1)",
@@ -81,7 +117,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Jerk- Curry mit Süßkartoffeln und schwarzen Bohnen (3,Sw), Langkorn Wildreis",
+		"Name": "Jerk- Curry mit Süßkartoffeln und schwarzen Bohnen (3,Sw), Djuvecreis (3,Sw)",
 		"Category": "CampusVital",
 		"Date": "2026-08-25",
 		"Additives": {

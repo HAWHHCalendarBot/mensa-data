@@ -11,17 +11,69 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Brokkoli in Tomatensauce (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-25",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "1 Stück Quinoa-Erbsen-Bratling",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Date": "2026-08-25",
+		"Additives": {},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "7 Stück Ägyptische Falafel-Taler (GlW)",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Date": "2026-08-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Date": "2026-08-25",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück Hähnchenkeule",
+		"Category": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Date": "2026-08-25",
+		"Additives": {},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Vegetarischer Caesar's Burger mit Knusperschnitzel, Hartkäse, Senfdressing, Tomaten und Croutons (3,Ei,Mi,Sf,GlW), Pommes Frites",

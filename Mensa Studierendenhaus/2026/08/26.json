@@ -45,14 +45,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
+		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
 		"Category": "Pottkieker",
 		"Date": "2026-08-26",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -92,6 +91,22 @@
 		"PriceGuest": 6.55,
 		"PriceStudent": 3.95,
 		"Beef": true
+	},
+	{
+		"Name": "Hähnchenkeule (Sf,Sw), Kräuterdip (Mi,Sw), Pommes Frites (Sf), Krautsalat (3,5,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2026-08-26",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.5,
+		"PriceGuest": 7.8,
+		"PriceStudent": 5.2,
+		"Poultry": true
 	},
 	{
 		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Vegane Nuggets (Soja und Weizenprotein) (So,GlW,GlG), Basmatireis",
