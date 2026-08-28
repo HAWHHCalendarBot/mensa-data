@@ -11,11 +11,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Mie-Nudeln mit Spinat (2,So,Se,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-28",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -24,10 +27,64 @@
 		"Vegan": true
 	},
 	{
-		"Name": "WRAP - Veggi-Dönerfleisch mit Gurken,Tomaten und Krautsalat, würzigem Dill-Dip und Röstzwiebeln (3,Ei,Mi,Sw,GlW)",
+		"Name": "1 Stück Quinoa-Erbsen-Bratling",
+		"Category": "1 Stück Quinoa-Erbsen-Bratling",
+		"Date": "2026-08-28",
+		"Additives": {},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "5 Stück vegane Nuggets (Soja und Weizenprotein) (So,GlW,GlG)",
+		"Category": "1 Stück Quinoa-Erbsen-Bratling",
+		"Date": "2026-08-28",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "1 Stück Milchschnitzel (Ei,Mi,GlW,GlH)",
+		"Category": "1 Stück Quinoa-Erbsen-Bratling",
+		"Date": "2026-08-28",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"Vegetarian": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "1 Stück Quinoa-Erbsen-Bratling",
+		"Date": "2026-08-28",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "WRAP - Veggi-Dönerfleisch mit Gurken,Tomaten und Krautsalat, würzigem Dill-Dip und Röstzwiebeln (2,3,Ei,Mi,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-08-28",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",

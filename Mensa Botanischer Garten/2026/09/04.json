@@ -1,12 +1,31 @@
 [
 	{
-		"Name": "Caesars Salat vegetarisch (2,Ei,Mi,Sf,GlW)",
-		"Category": "Caesars Salat mit Hähnchenbrust (2,3,8,Ei,Mi,Sf,Sw,GlW)",
+		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
+		"Category": "Pastabar",
 		"Date": "2026-09-04",
-		"Additives": {},
-		"PriceAttendant": 5.95,
-		"PriceGuest": 6.95,
-		"PriceStudent": 4.95
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Category": "Pottkieker",
+		"Date": "2026-09-04",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,Sw,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf,Sw)",
@@ -42,15 +61,5 @@
 		"PriceGuest": 7.75,
 		"PriceStudent": 5.15,
 		"Vegetarian": true
-	},
-	{
-		"Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Ei,Mi,Sf,Sw,GlW)",
-		"Category": "Caesars Salat mit Hähnchenbrust (2,3,8,Ei,Mi,Sf,Sw,GlW)",
-		"Date": "2026-09-04",
-		"Additives": {},
-		"PriceAttendant": 6.95,
-		"PriceGuest": 7.95,
-		"PriceStudent": 5.95,
-		"Poultry": true
 	}
 ]

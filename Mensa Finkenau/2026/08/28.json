@@ -1,14 +1,20 @@
 [
 	{
-		"Name": "Brechbohne",
+		"Name": "Brechbohne mit Soja (2,So,GlW), Gebratener Kürbis (Sw), Kohlrabigemüse (1), Broccoli (Mi), Erbsen-Mais Gemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-08-28",
-		"Additives": {},
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Penne (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
@@ -42,5 +48,19 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Quinoa-Jalapeno-Pot, Tortillachips, Chili-Cheese-Sauce (2,Mi,Sw)",
+		"Category": "CampusWorld",
+		"Date": "2026-08-28",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.55,
+		"PriceGuest": 6.85,
+		"PriceStudent": 4.25,
+		"Vegetarian": true
 	}
 ]
