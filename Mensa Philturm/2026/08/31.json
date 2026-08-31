@@ -11,17 +11,70 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Blattspinat und Kirschtomaten in Rahm (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-08-31",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "7 Stück Ägyptische Falafel-Bällchen (GlW)",
+		"Category": "1 Stück Hähnchenbrust mit Parmesanpanade (Mi,GlW)",
+		"Date": "2026-08-31",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "1 Stück paniertes Schweineschnitzel (GlW)",
+		"Category": "1 Stück Hähnchenbrust mit Parmesanpanade (Mi,GlW)",
+		"Date": "2026-08-31",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "1 Stück Hähnchenbrust mit Parmesanpanade (Mi,GlW)",
+		"Date": "2026-08-31",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück Hähnchenbrust mit Parmesanpanade (Mi,GlW)",
+		"Category": "1 Stück Hähnchenbrust mit Parmesanpanade (Mi,GlW)",
+		"Date": "2026-08-31",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 3.85,
+		"PriceGuest": 4.4,
+		"PriceStudent": 3.5,
+		"Poultry": true
 	},
 	{
 		"Name": "Seelachsfilet vom Grill mit scharfem Ingwer-Bohnengemüse, Erdnusscreme und Crunch (2,Fi,En,So,Se,Sw,GlW), Basmatireis",
