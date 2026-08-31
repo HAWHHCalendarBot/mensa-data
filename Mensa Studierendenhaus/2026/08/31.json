@@ -1,23 +1,21 @@
 [
 	{
-		"Name": "Conchiglie (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Nusskartoffeln",
 		"Category": "Pastabar",
 		"Date": "2026-08-31",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Conchiglie (GlW), Tomaten- Kräuter- Gemüsesoße (Sw)",
+		"Name": "Conchiglie (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-08-31",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -26,7 +24,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mais (1), Blattspinat (Sl,Sw), Blumenkohl mit gebräunten Bröseln (1,GlW), Karotten Rustica, Nusskartoffeln",
+		"Name": "Mais (1), Blattspinat (Sl,Sw), Blumenkohl mit gebräunten Bröseln (1,GlW), Karotten Rustica",
 		"Category": "Gemüsebar",
 		"Date": "2026-08-31",
 		"Additives": {
@@ -69,6 +67,38 @@
 		"PriceGuest": 7.5,
 		"PriceStudent": 4.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Unsere vegane \"ExtraVurst - CampusStyle\" (Sf), mit Curry-Spezial-Sauce (5,Sf,Sw), oder Curry-Delikant-Sauce, Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-08-31",
+		"Additives": {
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.5,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Unsere \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Spezial-Sauce (5,Sf,Sw), oder Curry-Delikant-Sauce, Pommes Frites (Sf)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-08-31",
+		"Additives": {
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.5,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Hähnchen Crossies (GlW), Gemüsepfanne in pikanter Tandoorisoße (Sl,Sf,GlW), Reis",
