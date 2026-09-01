@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Fenchelgemüse (Sl), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Broccoli",
+		"Name": "Fenchelgemüse (Sl),  Blumenkohl gebacken,  Brechbohnen,  Spanisches Pfannengemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-09-01",
 		"Additives": {
-			"<strong>6</strong>": "Geschwärzt",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
@@ -14,11 +13,52 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Broccoli in Tomatensoße (Sw)",
+		"Name": "Kartoffeltaschen mit Kräuter Frischkäsefüllung (Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-09-01",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Vollkornreis (Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-09-01",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-09-01",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Linsenbolognese (Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-09-01",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -28,29 +68,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-09-01",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Beef": true
-	},
-	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
+		"Name": "Kartoffel-Gemüseeintopf mit veganen Hackbällchen (So,Sl,GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-01",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -76,13 +101,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchen Crossies (GlW), Gemüsepfanne in pikanter Tandoorisoße (Sl,Sf,GlW), Reis",
+		"Name": "Hähnchen Crossies (GlW), Gemüsepfanne in pikanter Indischer Tomatencreme (So,Sl,Sf,GlW), Reis",
 		"Category": "CampusWorld",
 		"Date": "2026-09-01",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 7.45,
 		"PriceGuest": 8.75,

@@ -11,17 +11,69 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Broccoli in Tomatensauce (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-01",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "8 Stück vegetarische Gemüsebällchen (Ei)",
+		"Category": "8 Stück vegetarische Gemüsebällchen (Ei)",
+		"Date": "2026-09-01",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück Hähnchenkeule",
+		"Category": "8 Stück vegetarische Gemüsebällchen (Ei)",
+		"Date": "2026-09-01",
+		"Additives": {},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "1 Stück veganes Knusperschnitzel (GlW)",
+		"Category": "8 Stück vegetarische Gemüsebällchen (Ei)",
+		"Date": "2026-09-01",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "1 Stück gebratenes Seelachsfilet (Fi,GlW)",
+		"Category": "8 Stück vegetarische Gemüsebällchen (Ei)",
+		"Date": "2026-09-01",
+		"Additives": {
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 4.4,
+		"PriceGuest": 5.0,
+		"PriceStudent": 4.0,
+		"Fish": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Vegetarischer Döner - Burger mit Gurken,Tomaten und Krautsalat, würzigem Dill-Dip und Röstzwiebeln (3,Mi,Sw,GlW), Pommes Frites",
