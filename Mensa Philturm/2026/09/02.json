@@ -11,17 +11,75 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Blattspinat in Hirtenkäse in Rahm (Mi,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-09-02",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "5 Stück Kürbis-Falafel",
+		"Category": "5 Stück Kürbis-Falafel",
+		"Date": "2026-09-02",
+		"Additives": {},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "1 Stück Goudaschnitzel (1,Ei,Mi,GlW,GlH)",
+		"Category": "5 Stück Kürbis-Falafel",
+		"Date": "2026-09-02",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück Hähnchenbrust mit Kokossoße (2,So,Se,GlW)",
+		"Category": "5 Stück Kürbis-Falafel",
+		"Date": "2026-09-02",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "1 Stück gebackenes Seelachsfilet (Fi,GlW)",
+		"Category": "5 Stück Kürbis-Falafel",
+		"Date": "2026-09-02",
+		"Additives": {
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 3.3,
+		"PriceGuest": 3.75,
+		"PriceStudent": 3.0,
+		"Fish": true,
+		"LactoseFree": true
 	},
 	{
 		"Name": "Cremige Udonnudeln in einer Kokos - Erdnusssauce mit Gemüse, Koriander und Crunch (2,3,En,So,Sl,Sf,Se,Sw,GlW)",
