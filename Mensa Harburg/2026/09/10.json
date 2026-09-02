@@ -1,23 +1,25 @@
 [
 	{
-		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
+		"Name": "Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
 		"Category": "Pastabar",
-		"Date": "2026-09-04",
+		"Date": "2026-09-10",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Broccoli, Staudensellerie und Tomate (Sl,Sw), glacierte rote Beete, Zuckerschoten, Gemüse Sesamreis (Se)",
+		"Name": "Blattspinat (Sl,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Gnocchi (GlW)",
 		"Category": "Gemüsebar",
-		"Date": "2026-09-04",
+		"Date": "2026-09-10",
 		"Additives": {
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -28,28 +30,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
 		"Category": "Pastabar",
-		"Date": "2026-09-04",
+		"Date": "2026-09-10",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Beef": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Name": "Tofu-Gemüse-Topf (So,Sl)",
 		"Category": "Pottkieker",
-		"Date": "2026-09-04",
+		"Date": "2026-09-10",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -58,36 +59,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojagyros (Sojaprotein) (So,Sl,Sw), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf,Sw)",
-		"Category": "CampusWorld",
-		"Date": "2026-09-04",
+		"Name": "All in one Pot: Bulgur, Soja, Weißkohl, Cranberries, Ananas, Asia-Majo, Cashew (Sojaprotein) (2,So,Sl,Sf,Sw,GlW,NCa)",
+		"Category": "CampusVital",
+		"Date": "2026-09-10",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.25,
-		"PriceGuest": 7.55,
-		"PriceStudent": 4.95,
+		"PriceAttendant": 6.05,
+		"PriceGuest": 7.35,
+		"PriceStudent": 4.75,
 		"LactoseFree": true,
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Rosmarinkartoffeln",
+		"Name": "Schweinenacken- Braten mit Senf-Oregano-Kruste (Sf), Bratensoße (Sl), Gartenbohnen mit Pfifferlingen, Kroketten (GlW)",
 		"Category": "CampusKlassiker",
-		"Date": "2026-09-04",
+		"Date": "2026-09-10",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
-		"PriceAttendant": 6.45,
-		"PriceGuest": 7.75,
-		"PriceStudent": 5.15,
-		"Vegetarian": true
+		"PriceAttendant": 6.9,
+		"PriceGuest": 8.2,
+		"PriceStudent": 5.6,
+		"LactoseFree": true,
+		"Pig": true
 	}
 ]
