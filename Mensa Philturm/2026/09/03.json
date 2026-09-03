@@ -11,17 +11,77 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit grünen Bohnen in Tomatenpesto und Käse überbacken (Mi,Sl,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2026-09-03",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "1 Stück Gemüseschnitzel (GlW,GlD)",
+		"Category": "7 Stück vegane Köttbullar mit Soße (So,Sl,GlW,GlG)",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "7 Stück vegane Köttbullar mit Soße (So,Sl,GlW,GlG)",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "7 Stück vegane Köttbullar mit Soße (So,Sl,GlW,GlG)",
+		"Category": "7 Stück vegane Köttbullar mit Soße (So,Sl,GlW,GlG)",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "1 Stück \"ExtraWurst - CampusStyle\" mit Currysoße (5,8,Sl,Sf,Sw)",
+		"Category": "7 Stück vegane Köttbullar mit Soße (So,Sl,GlW,GlG)",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.85,
+		"PriceGuest": 4.4,
+		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Gegrillter Ingwer-Tofu (2,So,Se,Sw,GlW), Lo mein - würzige Sesamnudeln mit Edamame und Paprika (1,2,So,Sl,Se,Sw,GlW)",

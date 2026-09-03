@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
+		"Name": "Farfalle (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-09-03",
 		"Additives": {
@@ -12,6 +12,24 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Poultry": true
+	},
+	{
+		"Name": "Rosenkohl (1), Kartofell-Paprikapfanne, Asiatisches Gemüse mit Omelett (2,Ei,So,Mi,Sw,GlW), Brechbohnen, zweierlei Bohnen (So)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Kichererbsencurry (Sw), pikantes Möhrengemüse (Sl)",
@@ -42,15 +60,13 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,So,Mi,Sl,Sf,Sw,GlW)",
+		"Name": "All in one pot: Vollkornreis, Tandoori Chicken, Avocado, Linsen, Cranberries, Chia (1,2,3,So,Sl,Sf,Sw,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-09-03",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -59,6 +75,7 @@
 		"PriceAttendant": 5.9,
 		"PriceGuest": 7.2,
 		"PriceStudent": 4.6,
+		"LactoseFree": true,
 		"Poultry": true
 	}
 ]
