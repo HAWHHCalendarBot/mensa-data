@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Broccoli-Kohlrabigemüse,  Röstkartoffeln,  Reis",
-		"Category": "Gemüsebar",
-		"Date": "2026-09-03",
-		"Additives": {},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Mini Frühlingsrollen (So,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-03",
@@ -25,10 +14,53 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta nach Wahl (GlW), Griechisches Geschnetzeltes vom Hähnchen in Rahmsoße (Mi,Sl,GlW)",
+		"Name": "Reis,  Röstkartoffeln,  Broccoli-Kohlrabigemüse mit zweierlei Käse gratiniert (1,Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Mie-Nudeln mit Gemüsestreifen (Ei,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-03",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Edamame in Ingwer-Ananassoße (So,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Griechisches Geschnetzeltes in Cremesauce (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-09-03",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
@@ -39,36 +71,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Pasta nach Wahl (GlW), Hülsenfrüchte in Sojarahm (So,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-09-03",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "gebratene Mi-Nudeln mit Gemüsestreifen (Ei,Mi,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-09-03",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Pasta nach Wahl (GlW), Waldpilzragout in Cremesoße (So,Mi,Sw,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Waldpilzragout in Sahnesoße (So,Mi,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-03",
 		"Additives": {
@@ -83,26 +86,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta nach Wahl (GlW), vegane Hackbällchen in Kräutersoße (So,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-09-03",
-		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Blumenkohl Korma",
+		"Name": "Blumenkohl Korma mit Gemüsenudeln (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-03",
-		"Additives": {},
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
