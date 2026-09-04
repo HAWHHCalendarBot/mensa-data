@@ -1,25 +1,10 @@
 [
 	{
-		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
-		"Category": "Pastabar",
-		"Date": "2026-09-04",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Broccoli, Staudensellerie und Tomate (Sl,Sw), glacierte rote Beete, Zuckerschoten, Gemüse Sesamreis (Se)",
+		"Name": "Broccoli,  Romanesco,  Brechbohnen,  Mexikanisches Gemüse (Sl),  Pariser Kartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-09-04",
 		"Additives": {
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -28,25 +13,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Asiatisches Gemüseragout mit Sojabohnen (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-09-04",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Tofuragout in Sojacreme (So,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-09-04",
-		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -58,12 +29,42 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
-		"Category": "Pottkieker",
+		"Name": "Pasta nach Wahl (GlW), Kräuterpilze in Sahnesoße (So,Mi,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-09-04",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gratinierte Gnocchi mit Sahne, Käse und Tomaten (So,Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-09-04",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Szegediner Krauttopf mit Räuchertofu (So,Sl,Sw), Tortilla Chips und Sojajoghurt",
+		"Category": "Pottkieker",
+		"Date": "2026-09-04",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
@@ -73,7 +74,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojagyros (Sojaprotein) (So,Sl,Sw), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf,Sw)",
+		"Name": "Sojagyros (Sojaprotein) (So,Sl,Sw), Reis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-09-04",
 		"Additives": {
