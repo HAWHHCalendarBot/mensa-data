@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Kohlrabi-Bärlauch Gemüse (1)",
-		"Category": "Gemüsebar",
-		"Date": "2026-09-07",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Fusilli (GlW), Blumenkohl in einer Sahnesoße mit grünem Pfeffer (3,Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-09-07",
@@ -27,6 +14,23 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "buntem Gemüse, gebratene Paprika (1,5,Sw), gebratene Karotten (Sw), Bohnen-Tomaten-Gemüse, Zartweizen mit Gemüse (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-07",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Mexikanischer Bohnentopf (2,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-07",
@@ -39,6 +43,21 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Kasseler Rückenbraten (2,3), Rahmsoße (Mi,Sl), Erbsen- Karotten Gemüse (Mi), hausgemachtes Kartoffelpüree (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-09-07",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 6.85,
+		"PriceGuest": 8.15,
+		"PriceStudent": 5.55,
+		"Pig": true
 	},
 	{
 		"Name": "Rindfleischfrikadelle (Ei,GlW), Rahmsoße (Mi,Sl), Erbsen- Karotten Gemüse (Mi), hausgemachtes Kartoffelpüree (Mi)",
