@@ -11,15 +11,73 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Broccoli,getrockneten Tomaten in Basilikumpesto (2,5,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-07",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "8 Stück vegetarische Gemüsebällchen (Ei)",
+		"Category": "1 Stück Black Bean Patty (So,Sf,GlW,GlH)",
+		"Date": "2026-09-07",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück paniertes Schweineschnitzel (GlW)",
+		"Category": "1 Stück Black Bean Patty (So,Sf,GlW,GlH)",
+		"Date": "2026-09-07",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"LactoseFree": true,
+		"Pig": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "1 Stück Black Bean Patty (So,Sf,GlW,GlH)",
+		"Date": "2026-09-07",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück Black Bean Patty (So,Sf,GlW,GlH)",
+		"Category": "1 Stück Black Bean Patty (So,Sf,GlW,GlH)",
+		"Date": "2026-09-07",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
 		"LactoseFree": true,
 		"Vegan": true
 	},
