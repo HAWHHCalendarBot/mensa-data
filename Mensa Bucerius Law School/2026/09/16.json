@@ -1,12 +1,26 @@
 [
 	{
-		"Name": "gebratene Zucchini (Sw), Gebratener Kürbis (Sw), Mexikanisches Gemüse (Sl), Erbsen- Karotten Gemüse (Mi), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Zuckerschoten, Romanesco, Weiße Bohnen mediterraneo (Sw), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
-		"Date": "2026-09-09",
+		"Date": "2026-09-16",
 		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Category": "Pastabar",
+		"Date": "2026-09-16",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,27 +28,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
-		"Category": "Pastabar",
-		"Date": "2026-09-09",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
-	},
-	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
 		"Category": "Pottkieker",
-		"Date": "2026-09-09",
+		"Date": "2026-09-16",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -45,7 +46,7 @@
 	{
 		"Name": "Unsere vegane \"ExtraVurst - CampusStyle\" (Sf), mit Curry-Spezial-Sauce (5,Sf,Sw), oder Curry-Delikant-Sauce, Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
-		"Date": "2026-09-09",
+		"Date": "2026-09-16",
 		"Additives": {
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
@@ -60,7 +61,7 @@
 	{
 		"Name": "Unsere \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Spezial-Sauce (5,Sf,Sw), oder Curry-Delikant-Sauce, Pommes Frites (Sf)",
 		"Category": "CampusKlassiker",
-		"Date": "2026-09-09",
+		"Date": "2026-09-16",
 		"Additives": {
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>8</strong>": "Phosphat",
