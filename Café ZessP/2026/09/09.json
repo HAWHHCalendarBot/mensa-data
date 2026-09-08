@@ -18,6 +18,21 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "Caesars Salat vegetarisch (2,Ei,Mi,Sf,GlW)",
+		"Category": "Food Angebot im Café ZessP",
+		"Date": "2026-09-09",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 5.95,
+		"PriceGuest": 6.95,
+		"PriceStudent": 4.95
+	},
+	{
 		"Name": "Baked Potatoe \"spicy Pumpkin\" (3,4,Ei,So,Mi,Sf)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2026-09-09",
@@ -85,22 +100,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Quinoa Caesar Salat, Gemischter Blattsalat, Hartkäse, Quinoa, Ei, Croutons und Caesar-Dressing (Ei,Mi,Sl,Sf,GlW)",
-		"Category": "Food Angebot im Café ZessP",
-		"Date": "2026-09-09",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 6.8,
-		"PriceGuest": 7.8,
-		"PriceStudent": 5.8,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Ravioli Rustico mit Pecorino- und Feigenfüllung, Tomaten-Sugo, Grana Padano (2,Ei,Mi,Sf,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2026-09-09",
@@ -116,20 +115,22 @@
 		"PriceStudent": 5.8
 	},
 	{
-		"Name": "Chicken Quinoa Caesar Salat, Blattsalat, Hähnchenstreifen, Ei, Hartkäse, Croutons Caesar-Dressing (Ei,So,Mi,Sl,Sf,GlW)",
+		"Name": "Caesars Salat mit Hähnchenbrust (2,3,8,Ei,Mi,Sf,Sw,GlW)",
 		"Category": "Food Angebot im Café ZessP",
 		"Date": "2026-09-09",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 7.65,
-		"PriceGuest": 8.65,
-		"PriceStudent": 6.65,
+		"PriceAttendant": 6.95,
+		"PriceGuest": 7.95,
+		"PriceStudent": 5.95,
 		"Poultry": true
 	}
 ]
