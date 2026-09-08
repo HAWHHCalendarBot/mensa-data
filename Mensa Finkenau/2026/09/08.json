@@ -1,14 +1,17 @@
 [
 	{
-		"Name": "Brechbohnen",
+		"Name": "gebratene Zucchini (Sw), Gebratener Kürbis (Sw), Mexikanisches Gemüse (Sl), Erbsen- Karotten Gemüse (Mi), hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "Gemüsebar",
 		"Date": "2026-09-08",
-		"Additives": {},
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
