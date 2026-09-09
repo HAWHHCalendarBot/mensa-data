@@ -1,19 +1,5 @@
 [
 	{
-		"Name": "gebratene Zucchini (Sw), Gebratener Kürbis (Sw), Mexikanisches Gemüse (Sl), Erbsen- Karotten Gemüse (Mi), hausgemachtes Kartoffelpüree (Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2026-09-09",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
 		"Category": "Pastabar",
 		"Date": "2026-09-09",
@@ -28,7 +14,25 @@
 		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "gebratene Zucchini (Sw), Gebratener Kürbis (Sw), Sonnenblumenhack-Blumenkohl (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW), gebratene Champignons (Sw), gebackene Süßkartoffel",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-09",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW), Wrap (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-09",
 		"Additives": {
