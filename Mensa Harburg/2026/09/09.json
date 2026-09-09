@@ -1,28 +1,9 @@
 [
 	{
-		"Name": "Eliche (GlW), Gorgonzola- Hartkäsesoße, gerösteten Haselnüssen und Basilikum (Mi,Sl,NHa)",
+		"Name": "Reis",
 		"Category": "Pastabar",
 		"Date": "2026-09-09",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
-	},
-	{
-		"Name": "Eliche (GlW), Vegane Bärlauchsoße mit Spargel (1,So,Sf,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-09-09",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -30,13 +11,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "mediterranes Gemüse (6,Sw), Sesammöhrchen (Se), Erbsen-Mais Gemüse (1), gerösteter Blumenkohl (Sw)",
+		"Name": "glacierte rote Beete mit Hirtenkäse (Mi),  Karotten Pastinakenmix,  Broccoli,  Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2026-09-09",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Gorgonzolasauce (Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-09-09",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Pikante weiße Bohnen in Tomatensauce (So,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-09-09",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -46,7 +50,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW),  Kokos Koriander Topping,  Wrap (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-09",
 		"Additives": {
@@ -61,7 +65,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hausgemachter Gemüsebratling frisch vom Grill (Sl,Sw,GlW), Cole Slaw mit Sojamajo (Sf), Salsa Dip (2), Kartoffelspalten (GlW)",
+		"Name": "Hausgemachter Leinsamen-Gemüsebratling (Sl,Sw,GlW), Cole Slaw mit Sojamajo (Sf), Salsa Dip (2), Kartoffelspalten (GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-09-09",
 		"Additives": {
@@ -78,7 +82,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rindfleischfrikadelle (Ei,GlW), Rahmsoße (Mi,Sl), Erbsen- Karotten Gemüse (Mi), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Rindfleischfrikadelle (Ei,GlW), Rahmsoße (Mi,Sl), Erbsen- Karotten Gemüse (Mi), hausgemachtes Kartoffelpüree mit Kräutern (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-09-09",
 		"Additives": {
