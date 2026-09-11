@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Broccoli, Gemüsemix Eskorial, Erbsen, Kräuterkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Farfalle (GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-09-11",
-		"Additives": {},
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -11,11 +13,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Name": "Gnocchi (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-11",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Sojahack in einer Paprika Cremesoße (Sojaprotein) (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-09-11",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -26,7 +40,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Name": "Paprikagemüse mit Zwiebeln und Lauch, Broccoli, Gemüsemix Eskorial, pikantes Grillgemüse (Sl,Sf,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-11",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Austernpilze in Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-09-11",
 		"Additives": {
@@ -39,6 +68,20 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Tofu-Gemüse-Topf (So,Sl)",
+		"Category": "Pottkieker",
+		"Date": "2026-09-11",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Sojageschnetzeltes in Currysoße (Sojaprotein) (So,Sl,Sf,GlW), Reis",
