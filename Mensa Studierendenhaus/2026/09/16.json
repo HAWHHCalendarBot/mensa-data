@@ -1,11 +1,35 @@
 [
 	{
-		"Name": "Zuckerschoten, Romanesco, Weiße Bohnen mediterraneo (Sw), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
+		"Date": "2026-09-16",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-09-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Zuckerschoten, Romanesco, Maiskolben (1), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-09-16",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,11 +38,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Conchiglie (GlW), Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-09-16",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -30,7 +53,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
 		"Category": "Pastabar",
 		"Date": "2026-09-16",
 		"Additives": {
@@ -45,7 +68,22 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw)",
+		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw), Reis",
+		"Category": "Pottkieker",
+		"Date": "2026-09-16",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Orientalisches Gemüsecurry (So,Sl,Sw), Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-09-16",
 		"Additives": {
