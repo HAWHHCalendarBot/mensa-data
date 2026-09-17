@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Spitzkohl, Erbsen-Mais Gemüse (1), Fingermöhrchen, Tricolore Gemüse (1), vegane Schupfnudeln (GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Maccaroni (GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-09-17",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,11 +13,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
+		"Name": "Spitzkohl, Erbsen-Mais Gemüse (1), Fingermöhrchen, Tricolore Gemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-17",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "vegane Schupfnudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-17",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bolognese mit Rinderhackfleisch (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-09-17",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -29,11 +53,10 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Maccaroni (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
+		"Name": "pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-09-17",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -75,6 +98,20 @@
 		"PriceStudent": 3.8,
 		"LactoseFree": true,
 		"Pig": true
+	},
+	{
+		"Name": "Putengulasch (Mi,Sl,GlW), Penne (GlW)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-09-17",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.5,
+		"Poultry": true
 	},
 	{
 		"Name": "Süßkartoffelpommes (1), Cajun Gemüse (Sl,Sw), Erbsen-Dip (2,3,So,Sf)",
