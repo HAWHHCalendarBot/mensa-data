@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Strozzapreti (GlW), Broccoli in Tomatensoße (Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Brechbohnen, Fenchelgemüse (Sl), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Broccoli, Macairekartoffeln (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-09-22",
@@ -13,5 +27,81 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Strozzapreti (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Beef": true
+	},
+	{
+		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
+		"Category": "Pottkieker",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Veganes Hackbällchen-Curry (Soja und Weizenprotein) mit Kokosmilch, Erdnussbutter und Gemüse (1,2,En,So,Sw,GlW,GlG), Basmatireis",
+		"Category": "CampusWorld",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.8,
+		"PriceGuest": 7.1,
+		"PriceStudent": 4.5,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Frisch gebackene PIZZA nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.7,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Paniertes Schweineschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",
+		"Category": "CampusKlassiker",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 6.2,
+		"PriceGuest": 7.5,
+		"PriceStudent": 4.9,
+		"LactoseFree": true,
+		"Pig": true
 	}
 ]
