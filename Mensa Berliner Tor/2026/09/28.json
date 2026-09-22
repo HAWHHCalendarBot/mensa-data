@@ -1,10 +1,42 @@
 [
 	{
-		"Name": "Reispfanne mit Gemüse (Sw), Pikante Kartoffeln (Se,Sw), gebratene Champignons (Sw), Kürbisgemüse",
+		"Name": "Kohlrabi-Bärlauch Gemüse (1), Erbsen (1), Prinzeßgemüse, Blumenkohl, Chili-Kartoffeln aus dem Ofen",
 		"Category": "Gemüsebar",
-		"Date": "2026-09-22",
+		"Date": "2026-09-28",
 		"Additives": {
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Fusilli (GlW), Blumenkohl in einer Sahnesoße mit grünem Pfeffer (2,3,Ei,Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-09-28",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Fusilli (GlW), Tomatensoße mit Kapern und Tofu (6,So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-09-28",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,29 +46,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Conchiglie (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-09-22",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Beef": true
-	},
-	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
+		"Name": "Mexikanischer Bohnentopf (2,Sl)",
 		"Category": "Pottkieker",
-		"Date": "2026-09-22",
+		"Date": "2026-09-28",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -45,9 +60,21 @@
 		"Vegan": true
 	},
 	{
+		"Name": "4 Röstiecken, Kräuterquark (Mi), Gurkensalat (Mi)",
+		"Category": "CampusKlassiker",
+		"Date": "2026-09-28",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
+	},
+	{
 		"Name": "2 Stück vegane Weißwürste (1), Süßer Senf (Sf), Rettichsalat (3,5,Sw), Laugenbrezel (GlW)",
 		"Category": "CampusKlassiker",
-		"Date": "2026-09-22",
+		"Date": "2026-09-28",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
@@ -65,7 +92,7 @@
 	{
 		"Name": "2 Stück Weißwürste (3,4,Mi), Süßer Senf (Sf), Rettichsalat (3,5,Sw), Laugenbrezel (GlW)",
 		"Category": "CampusKlassiker",
-		"Date": "2026-09-22",
+		"Date": "2026-09-28",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>4</strong>": "Geschmacksverstärker",
@@ -82,37 +109,30 @@
 		"Pig": true
 	},
 	{
-		"Name": "Vegane Bällchen in Kapernsoße (Soja und Weizenprotein) (1,2,So,Sl,Sw,GlW,GlG), Petersilienkartoffeln, Rote Beete Salat (9)",
-		"Category": "CampusVital",
-		"Date": "2026-09-22",
+		"Name": "Frisch gebackene PIZZA nach Wahl (versch. Sorten) ab 4,70 / 6,00 / 7,20 (auch TAKE AWAY) (Mi,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-09-28",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 5.9,
-		"PriceGuest": 7.2,
-		"PriceStudent": 4.6,
-		"Alcohol": true,
-		"LactoseFree": true,
-		"Vegan": true
+		"PriceAttendant": 6.0,
+		"PriceGuest": 7.3,
+		"PriceStudent": 4.7,
+		"Vegetarian": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",
-		"Category": "CampusKlassiker",
-		"Date": "2026-09-22",
+		"Name": "Putensteak",
+		"Category": "CampusSpezial",
+		"Date": "2026-09-28",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
-		"PriceAttendant": 6.2,
-		"PriceGuest": 7.5,
-		"PriceStudent": 4.9,
-		"LactoseFree": true,
-		"Pig": true
+		"PriceAttendant": 7.4,
+		"PriceGuest": 8.7,
+		"PriceStudent": 6.1,
+		"Poultry": true
 	}
 ]
