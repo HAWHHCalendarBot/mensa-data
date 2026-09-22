@@ -1,11 +1,22 @@
 [
 	{
-		"Name": "Strozzapreti (GlW), Broccoli in Tomatensoße (Sw)",
+		"Name": "gebackene Champignons,  Broccoli",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-22",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Spitzkohl in veganem Rahm (So), vegane Schupfnudeln (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-22",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,28 +25,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Brechbohnen, Fenchelgemüse (Sl), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Broccoli, Macairekartoffeln (GlW)",
-		"Category": "Gemüsebar",
-		"Date": "2026-09-22",
-		"Additives": {
-			"<strong>6</strong>": "Geschwärzt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Strozzapreti (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Name": "Rindfleischcurry mit Paprika und Spinat (3,Mi,Sl),  Reis",
 		"Category": "Pastabar",
 		"Date": "2026-09-22",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
@@ -45,12 +39,31 @@
 		"Beef": true
 	},
 	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Ratatouille (2,5,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Marokkanische Kichererbsensuppe (Sl,Sw), Malz-Croissant (GlW,GlG,GlD)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-22",
 		"Additives": {
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
