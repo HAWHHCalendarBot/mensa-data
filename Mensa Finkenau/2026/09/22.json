@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Brechbohnen",
-		"Category": "Gemüsebar",
-		"Date": "2026-09-22",
-		"Additives": {},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Strozzapreti (GlW), Broccoli in Tomatensoße (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-09-22",
@@ -23,6 +12,21 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Brechbohnen, gebratene rote Paprika, Spitzkohl, Erbsen (1), Karotten (Mi), Gemüse Sesamreis (So,Se)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-22",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
