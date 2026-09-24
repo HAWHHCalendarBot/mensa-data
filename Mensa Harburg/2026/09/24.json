@@ -1,9 +1,13 @@
 [
 	{
-		"Name": "Erbsen, Spitzkohl, Petersilienkartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Salzkartoffeln, Gartenbohnen mit Pfifferlingen in Sojarahmsauce (So,Sl,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-09-24",
-		"Additives": {},
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -11,13 +15,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunte Fusilli (GlW), Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,Sw,NHa)",
+		"Name": "Tricolore, Maisgemüse (1), Zuckerschoten Asia-Style (2,So,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-24",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reis, vegane Hackbällchen in Tomaten-Sojasahnesauce (So,Sl,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-09-24",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -27,7 +48,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bunte Fusilli (GlW), gebratenen Hähnchenstreifen in einer Rahmsoße mit Rucola (3,8,Mi,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), gebratene Hähnchenstreifen in einer Rahmsoße (3,8,Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-09-24",
 		"Additives": {
@@ -44,27 +65,12 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Kichererbsencurry (Sw), pikantes Möhrengemüse (Sl)",
-		"Category": "Pottkieker",
-		"Date": "2026-09-24",
-		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 3.5,
-		"PriceGuest": 4.8,
-		"PriceStudent": 2.2,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Kartoffel-Gemüseeintopf (So,Sl,GlW)",
+		"Name": "Mediterraner Kartoffel-Gemüseeintopf (Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-24",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -73,7 +79,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "2 Stück vegane Weißwürste (1), Süßer Senf (Sf), Rettichsalat (3,5,Sw), Laugenbrezel (GlW)",
+		"Name": "2 Stück vegane Weißwürste (1), Süßer Senf (Sf), Rettichsalat (3,5,Sf,Sw), Laugenbrezel (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-09-24",
 		"Additives": {
@@ -91,7 +97,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "2 Stück Weißwürste (3,4,Mi), Süßer Senf (Sf), Rettichsalat (3,5,Sw), Laugenbrezel (GlW)",
+		"Name": "2 Stück Weißwürste (3,4,Mi), Süßer Senf (Sf), Rettichsalat (3,5,Sf,Sw), Laugenbrezel (GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-09-24",
 		"Additives": {
