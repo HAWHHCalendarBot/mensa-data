@@ -1,7 +1,7 @@
 [
 	{
-		"Name": "Broccoli, Chili-Kartoffeln aus dem Ofen, glacierte rote Beete, Zuckerschoten",
-		"Category": "Gemüsebar",
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
 		"Date": "2026-09-25",
 		"Additives": {},
 		"PriceAttendant": 1.15,
@@ -11,11 +11,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Farfalle (GlW), Blattspinat-Tomaten-Frischkäsesoße (Mi)",
+		"Name": "Blattspinat-Tomaten-Frischkäsesoße (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-09-25",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 1.15,
@@ -24,17 +23,56 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Farfalle (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Name": "Broccoli, Spitzkohl, glacierte rote Beete, Zuckerschoten, Erbsen-Mais Gemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2026-09-25",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Farfalle (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-25",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-09-25",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Kichererbsencurry (Sw), pikantes Möhrengemüse (Sl), Vollkornreis",
+		"Category": "Pottkieker",
+		"Date": "2026-09-25",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -67,6 +105,23 @@
 		"PriceAttendant": 4.65,
 		"PriceGuest": 5.95,
 		"PriceStudent": 3.35,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grüne Gemüsepfanne mit Erdnusssoße (2,En,So,Sw,GlW), Vollkornreis",
+		"Category": "CampusVital",
+		"Date": "2026-09-25",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.8,
+		"PriceGuest": 6.1,
+		"PriceStudent": 3.5,
 		"LactoseFree": true,
 		"Vegan": true
 	},
