@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Gartengemüse, Schupfnudeln (GlW)",
+		"Name": "Pastinaken-Kartoffelgemüse,  Zuckerschoten,  gerösteter Blumenkohl",
 		"Category": "Gemüsebar",
 		"Date": "2026-09-29",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), gelbe und grüne Zucchini in Tomatensauce (Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-09-29",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -13,30 +25,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Hähnchen, Fenchel und Kardamom in Tomatensoße (Sw)",
+		"Name": "Pasta nach Wahl (GlW), Chili con Carne (2,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-09-29",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
+		"Beef": true,
+		"LactoseFree": true
 	},
 	{
-		"Name": "Vollkorn Fussili (GlW), Sonnenblumenhack-Lauchcreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Linsenragout mit Gemüse (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-09-29",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -45,10 +55,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganer Kartoffeltopf mit Soja und Gemüse (So,Sl,Sw,GlW)",
+		"Name": "Pasta nach Wahl (GlW), Spinatcremesoße Holländische Art (Ei,Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-09-29",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Veganer Kartoffeltopf mit Wurstalternative und Gemüse (1,So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-09-29",
 		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -77,10 +103,12 @@
 		"Pig": true
 	},
 	{
-		"Name": "Tikka Masala mit Sojaschnetzel (Sojaprotein) (So,Se,Sw), Reis",
+		"Name": "Tikka Masala mit Sojaschnetzel (Sojaprotein) (So,Se,Sw), Reis, karamelisierte Sonnenblumenkerne mit Knoblauch und Sojasoße (2,So,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-09-29",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
