@@ -1,49 +1,57 @@
 [
 	{
-		"Name": "Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-10-01",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-10-01",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Beef": true
-	},
-	{
-		"Name": "Fingermöhrchen, Blattspinat (Sl,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Gnocchi (GlW)",
+		"Name": "Bunte Gemüsemischung, Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-01",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsecouscous mit veganen Schnitzel (Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-01",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Reis, Kürbis Paprika Curry (En,Sf)",
+		"Category": "Pastabar",
+		"Date": "2026-10-01",
+		"Additives": {
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Spinat-Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-10-01",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tofu-Gemüse-Topf (So,Sl)",
@@ -60,7 +68,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Madras Curry mit Kichererbsen und Blumenkohl (So,Sw), Basmatireis",
+		"Name": "Madras Curry mit Kichererbsen und Blumenkohl (So,Sw), Röstkartoffeln",
 		"Category": "CampusVital",
 		"Date": "2026-10-01",
 		"Additives": {
@@ -87,13 +95,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Döner Teller mit Falafel (3,5,Sw,GlW), veganes Tzatziki (So,Sw), Tomatenreis",
+		"Name": "Döner Teller mit Falafel (3,5,Sw,GlW), veganes Tzatziki (So,Sw), Fladenbrot (Se,GlW)",
 		"Category": "CampusWorld",
 		"Date": "2026-10-01",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
