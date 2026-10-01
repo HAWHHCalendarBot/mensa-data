@@ -1,10 +1,9 @@
 [
 	{
-		"Name": "Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
+		"Name": "Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-01",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,11 +13,36 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Penne (GlW), Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
+		"Name": "Gnocchi (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-01",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Penne (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-01",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Rinderhackfleisch in Sahnesoße mit Kräutern (Mi,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-01",
+		"Additives": {
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -29,14 +53,13 @@
 		"Beef": true
 	},
 	{
-		"Name": "Fingermöhrchen, Blattspinat (Sl,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Edamame (So), Gnocchi (GlW)",
+		"Name": "Fingermöhrchen, Blattspinat (Sl,Sw), pikantes Grillgemüse (Sl,Sf,GlW), Bulgur mit Tomate und Peperoni (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-01",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -60,6 +83,22 @@
 		"Vegan": true
 	},
 	{
+		"Name": "Rotes Gemüsecurry mit Bohnen, Erbsen und Pak Choi (2,So,Sw,GlW), Reis",
+		"Category": "Pottkieker",
+		"Date": "2026-10-01",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Madras Curry mit Kichererbsen und Blumenkohl (So,Sw), Basmatireis",
 		"Category": "CampusVital",
 		"Date": "2026-10-01",
@@ -72,6 +111,19 @@
 		"PriceStudent": 3.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2026-10-01",
+		"Additives": {
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.2,
+		"LactoseFree": true,
+		"Poultry": true
 	},
 	{
 		"Name": "Kasseler Rückenbraten (2,3), Bratensoße (Sl), Erbsen, Petersilienkartoffeln",
