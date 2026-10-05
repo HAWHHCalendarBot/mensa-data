@@ -1,12 +1,35 @@
 [
 	{
-		"Name": "Gnocchi (GlW), mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Vollkornreis",
+		"Category": "Pastabar",
+		"Date": "2026-10-05",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Orientalisches Linsengemüse mit Bulgur (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-05",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Vegane rote Linsen mit Gemüse in Kurkumasauce (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-05",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -16,30 +39,42 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Tomatensoße aus getrockneten Tomaten mit Basilikum (2,5,Mi,Sw,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-10-05",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Karotten (1), Mexikanisches Gemüse (Sl), Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Süßkartoffel Gnocchi",
+		"Name": "Gartengemüse, Erbsen (1), Gemüsecouscous (Sl,GlW), Mexikanisches Gemüse (Sl)",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-05",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Soja-Geschnetzeltes in Curry-Gemüsesoße (So,Sl,Sf,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-05",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), mediterranes Gemüseragout in Basilikum-Tomatensauce (6,So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-05",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
