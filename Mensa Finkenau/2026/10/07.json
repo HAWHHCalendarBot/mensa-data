@@ -1,9 +1,11 @@
 [
 	{
-		"Name": "Zuckerschoten",
+		"Name": "gebratene Zucchini (Sw), Asiagemüse, Broccoli, Blumenkohl-Gemüse mit Kokosmilch, Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-07",
-		"Additives": {},
+		"Additives": {
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -26,11 +28,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
+		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Baguette Brötchen (GlW,GlR)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-07",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlR</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Roggen)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
@@ -74,7 +77,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Guacamole Bites (3,Mi,Sf,Sw,GlW), Mexican Reispfanne (Sw), Chili Dip (Mi)",
+		"Name": "Guacamole Bites (3,Mi,Sf,Sw,GlW), Mexican Reispfanne (Sw), Ajvar Dip (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2026-10-07",
 		"Additives": {
