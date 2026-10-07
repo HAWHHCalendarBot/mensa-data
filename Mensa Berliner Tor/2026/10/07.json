@@ -1,11 +1,22 @@
 [
 	{
-		"Name": "Zuckerschoten, Romanesco, Weiße Bohnen mediterraneo (Sw), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Blumenkohl, Rosenkohl mit veganen Sauce Hollandaise",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-07",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Basmatireis, Kürbis Paprika Curry (En,Sf)",
+		"Category": "Pastabar",
+		"Date": "2026-10-07",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,11 +25,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Conchiglie (GlW), Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Pasta Gratin mit Blattspinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-10-07",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Chili Fries sin carne (Sl,Sw), Tofunese (6,So,Sf,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-07",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -30,14 +57,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini mit Käsefüllung (Mi,GlW), Zucchini und Walnüssen in Sahnesoße (Mi,GlW,GlG,NWa)",
+		"Name": "Pasta (GlW), Sojageschnetzeltes in Curry-Sahnesoße (Sojaprotein) (So,Mi,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-07",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NWa</strong>": "Schalenfrüchte (Walnüsse)/-erzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
