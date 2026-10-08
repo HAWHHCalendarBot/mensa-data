@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Spitzkohl, Fingermöhrchen, Tricolore Gemüse (1), vegane Schupfnudeln (GlW)",
+		"Name": "Broccoli-Blumenkohl-Gemüse,  Edamame (So),  Prinzessbohnen,  Fingermöhrchen mit Mais,  Reis,  Röstkartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-08",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,7 +13,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Sugo mit Rinderhackfleisch in Lauch-Sahnesoße (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-08",
 		"Additives": {
@@ -29,12 +28,15 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Maccaroni (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
+		"Name": "Sojastreifen Madras mit Kichererbsen (2,So,Sl,Se,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-08",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -44,11 +46,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3), Kurkumareis",
+		"Name": "Türkischer Gemüseeintopf mit Reis (So,Sl,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-08",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -71,7 +75,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Frisches Gemüse aus dem Wok in Hoisin-Soße (1,2,So,Se,Sw,GlW), Vegane Nuggets (Soja und Weizenprotein) (So,GlW,GlG), Basmatireis",
+		"Name": "Frisches Gemüse in Hoisin-Soße (1,2,So,Se,Sw,GlW), Vegane Nuggets (Soja und Weizenprotein) (So,GlW,GlG), Reis",
 		"Category": "CampusWorld",
 		"Date": "2026-10-08",
 		"Additives": {
@@ -90,7 +94,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,5,9,So,Sw,GlW), pikanter Karottensalat (3,Sw), Röstkartoffeln",
+		"Name": "Gebratenes Seelachsfilet (Fi,GlW), Chipotlesoße (mild) (1,2,3,5,9,Ei,So,Mi,Sf,Sw,GlW), pikanter Karottensalat (3,Sw), Röstkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2026-10-08",
 		"Additives": {
@@ -99,15 +103,17 @@
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
 			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 7.45,
 		"PriceGuest": 8.75,
 		"PriceStudent": 6.15,
-		"Fish": true,
-		"LactoseFree": true
+		"Fish": true
 	}
 ]

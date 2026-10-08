@@ -1,47 +1,57 @@
 [
 	{
-		"Name": "Spitzkohl, Erbsen-Mais Gemüse (1), Fingermöhrchen, Tricolore Gemüse (1), vegane Schupfnudeln (GlW)",
+		"Name": "Bunte Gemüsepfanne, Blumenkohl mit Hollandaise, vegan",
 		"Category": "Gemüsebar",
+		"Date": "2026-10-08",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Basmatireis, Linsengemüse in Kokoscreme (Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-10-08",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-08",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Gnocchi Mac and Cheese (1,Mi,Sl,Sf,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-10-08",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Maccaroni (GlW), Bolognese mit Rinderhackfleisch (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-10-08",
-		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Beef": true,
-		"LactoseFree": true
-	},
-	{
-		"Name": "Maccaroni (GlW), pikante Tomaten- Pilz- Gemüse- Soße (Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-10-08",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3), Kurkumareis",
@@ -55,22 +65,6 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Gnocchi Mac and Cheese (1,Mi,Sl,Sf,GlW)",
-		"Category": "CampusKlassiker",
-		"Date": "2026-10-08",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 4.7,
-		"PriceGuest": 6.0,
-		"PriceStudent": 3.4,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Frisch gebackene FLAMMKUCHEN nach Wahl (versch. Sorten) ab 4,20 / 5,50 / 6,70 (auch TAKE AWAY) (Mi,GlW)",
