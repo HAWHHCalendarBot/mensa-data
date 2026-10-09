@@ -1,14 +1,10 @@
 [
 	{
-		"Name": "Brechbohne, Kohlrabigemüse (1), Cajun Gemüse (Sl,Sw), gebratene Paprika (1,5,Sw), Kroketten (GlW)",
+		"Name": "Champignon, Rosenkohl, Currypfanne mit Broccoli (3)",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-09",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>3</strong>": "Antioxidationsmittel"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -17,16 +13,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Nudelauflauf mit Auberginen in Tomaten- Kräutersoße (1,2,Ei,Mi,Sw,GlW)",
+		"Name": "Grünes Curry mit Kichererbsen, Fenchel und Paprika (3)",
 		"Category": "Pastabar",
 		"Date": "2026-10-09",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>3</strong>": "Antioxidationsmittel"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Blattspinat mit Cherrytomaten in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-10-09",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -34,23 +41,21 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
+		"Name": "Steak House Frites (Sf), Frittierte Tofuwürfel in BBQ Soße (2,9,So,Sl,Sf)",
 		"Category": "Pastabar",
 		"Date": "2026-10-09",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
