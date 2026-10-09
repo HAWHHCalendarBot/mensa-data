@@ -1,10 +1,38 @@
 [
 	{
-		"Name": "Veganer Wurstgulasch (9,Sl,Sw), Conchiglie (GlW)",
+		"Name": "Röstkartoffeln, buntes Bohnengemüse, Blumenkohl, Ingwer-Chili-Fingermöhrchen, Erbsen-Mais Gemüse mit Rüben",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-09",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Veganer Wurstgulasch (9,Sl,Sw), Penne (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-09",
 		"Additives": {
 			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Veganer Wurstgulasch (9,Sl,Sw), Penne (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-09",
+		"Additives": {
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -29,11 +57,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Veganes Knusperschnitzel (GlW), Bratkartoffeln, Gurkensalat, Zitrone",
+		"Name": "Veganes Knusperschnitzel (GlW), Pommes Frites (Sf), Gurkensalat, Zitrone",
 		"Category": "CampusSpezial",
 		"Date": "2026-10-09",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.25,
 		"PriceGuest": 7.55,
