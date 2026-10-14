@@ -1,12 +1,10 @@
 [
 	{
-		"Name": "Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Bulgur mit Tomate und Peperoni (Sl,GlW), Kürbisgemüse, Prinzessbohnen, Blattspinat (Sl,Sw)",
-		"Category": "Gemüsebar",
+		"Name": "Gnocchi (GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-10-14",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -15,11 +13,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Ratatouille (Sl,Sw)",
+		"Name": "Bulgur mit Tomate und Peperoni (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-14",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Ratatouille (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-14",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -30,7 +41,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-10-14",
 		"Additives": {
@@ -43,6 +54,25 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Champignons (2,So,Sw,GlW), Auberginen mit Balsamico Bianco (3,5,Sw), Kürbisgemüse, Prinzessbohnen, Blattspinat (Sl,Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-14",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Tortilla Chips mit Rinderhack und Hähnchenbruststreifen (3,8,Sw), Vollkornreis mit schwarzen Bohnen, verschiedene Extras (1,2,3,5,9,Ei,En,Mi,Sf,Sw), verschiedene Soßen und Dips (2,3,4,Ei,En,So,Mi,Sf,GlW)",
