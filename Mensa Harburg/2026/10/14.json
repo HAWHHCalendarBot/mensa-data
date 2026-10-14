@@ -1,5 +1,16 @@
 [
 	{
+		"Name": "rote Beete Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2026-10-14",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Grünkohl (Sl,Sf), Kürbisgemüse, Prinzessbohnen, rote Beete Gnocchi",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-14",
@@ -14,13 +25,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Ratatouille (Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Gemüseragout in Cremesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-10-14",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Linsenragout mit Gemüse (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-14",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -29,14 +54,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Rosenkohl in Sojarahm (So,Sl,GlW), Salzkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2026-10-14",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Hausgemachte vegetarische Käsesoße (1,Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-10-14",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -44,7 +85,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Indische Linsen mit Karotten und Paprika (Sf,Sw,GlW), Couscous (GlW)",
+		"Name": "Indische Linsen mit Karotten und Paprika (Sf,Sw,GlW), Zartweizen (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-14",
 		"Additives": {
@@ -110,14 +151,14 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), scharfe Tomatensoße (Sw), Pommes Frites (Sf)",
+		"Name": "Hähnchenbrust in Parmesanpanade (Mi,GlW), Pfefferrahmsoße (3,Mi), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2026-10-14",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.5,
