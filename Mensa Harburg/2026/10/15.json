@@ -1,6 +1,46 @@
 [
 	{
-		"Name": "Strozzapreti (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Name": "Gartengemüse,  Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur und Erbsen (Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-15",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Schupfnudeln (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-15",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Mini-Kürbisgnocchi (Ei,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-15",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Steckrüben-Gnocchipfanne (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-15",
 		"Additives": {
@@ -15,7 +55,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Rindfleischstreifen und Pilzen in Sahnesoße (3,Mi,Sl,GlW,GlG)",
+		"Name": "Reis,  Ratatouille (2,5,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-15",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rindfleischstreifen und Pilze in Sahnesoße (3,Mi,Sl,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-10-15",
 		"Additives": {
@@ -31,31 +87,12 @@
 		"Beef": true
 	},
 	{
-		"Name": "Rosenkohl (1), Chili Weißkohl (Sl,Sw), Karotten Pastinakenmix mit frischer Petersilie, Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Chili-Kartoffeln aus dem Ofen",
-		"Category": "Gemüsebar",
-		"Date": "2026-10-15",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "One Pot Kichererbse mit Tomate (Sw), pikantes Möhrengemüse (Sl)",
+		"Name": "Steckrübeneintopf mit Gemüse und Kartoffeln (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-15",
 		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -64,7 +101,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Sojageschnetzeltes Stroganoff mit Waldpilzen (Sojaprotein) (So,Mi,Sl,Sf,Sw), Petersilienkartoffeln,  Krautsalat (3,5,Sw)",
+		"Name": "Sojageschnetzeltes Stroganoff mit Waldpilzen und Paprika (Sojaprotein) (So,Mi,Sl,Sf,Sw), Petersilienkartoffeln,  Krautsalat (3,5,Sw)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-10-15",
 		"Additives": {
@@ -99,7 +136,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rösti Leberkäs Burger im Brioche Bun mit süßem Senf und Preiselbeeren (2,3,8,Ei,Mi,Sf,GlW), Pommes Frites (Sf)",
+		"Name": "Rösti Leberkäs Burger im Brioche Bun mit süßem Senf-Preiselbeer Dip (2,3,8,Ei,Mi,Sf,GlW), Pommes Frites (Sf)",
 		"Category": "CampusWorld",
 		"Date": "2026-10-15",
 		"Additives": {
