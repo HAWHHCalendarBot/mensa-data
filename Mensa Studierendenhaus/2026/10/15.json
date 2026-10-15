@@ -1,10 +1,33 @@
 [
 	{
-		"Name": "Strozzapreti (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
+		"Date": "2026-10-15",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-15",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Räuchertofu in Kräuter- Cremesoße (So,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-10-15",
+		"Additives": {
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
@@ -15,13 +38,12 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Tomatensoße mit Waldpilzen und Speck (2,3,Sw)",
+		"Name": "Tomatensoße mit Waldpilzen und Speck (2,3,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-15",
 		"Additives": {
 			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -31,7 +53,7 @@
 		"Pig": true
 	},
 	{
-		"Name": "Rosenkohl (1), Chili Weißkohl (Sl,Sw), Karotten Pastinakenmix mit frischer Petersilie, Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Chili-Kartoffeln aus dem Ofen",
+		"Name": "Prinzessbohnen, Chili Weißkohl (Sl,Sw), Kürbisgemüse, Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Bulgur mit Tomate und Peperoni (Sl,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-15",
 		"Additives": {
@@ -158,6 +180,21 @@
 		"PriceGuest": 7.0,
 		"PriceStudent": 4.4,
 		"Poultry": true
+	},
+	{
+		"Name": "Vegetarisch gefüllte Kohlroulade (Ei,So), Kümmelsoße (Sl), Petersilienkartoffeln",
+		"Category": "CampusVital",
+		"Date": "2026-10-15",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.8,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Green Oat Homestyle Burger mit Umami Soße, Tomate und Römersalat (Ei,So,Sf,GlW,GlH), Pommes Frites (Sf)",
