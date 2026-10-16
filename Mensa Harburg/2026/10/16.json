@@ -1,13 +1,9 @@
 [
 	{
-		"Name": "Pennette (GlW), Linsen in pikanter Tomatensoße (Sl,Sw)",
+		"Name": "Reis",
 		"Category": "Pastabar",
 		"Date": "2026-10-16",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -15,14 +11,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Broccoli, glacierte rote Beete, gebratene Karotten (Sw), Steckrübengemüse in Creme (1,So,GlW), Schupfnudeln (GlW)",
+		"Name": "Salzkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-10-16",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tricolore Gemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-16",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>1</strong>": "Farbstoff"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -31,13 +35,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spätzle (Ei,GlW), Käsesoße mit Gouda und Rosmarin (2,Ei,Mi,GlW,GlG)",
+		"Name": "Tortellini mit Käsefüllung (Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-16",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
@@ -47,12 +48,57 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Gemüsegulasch (Sl,Sw), Zartweizen (GlW)",
+		"Name": "Belugalinsen-Gemüseragout mit Kokos (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Spinatcremesoße (So,Sl)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-16",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomaten-Gemüse Käsesauce (Mi,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-16",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Gemüsegulasch mit Soja und Pilzen (So,Sl,Sw), Tomatenbulgur (GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-16",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
@@ -62,7 +108,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mi Nudeln mit Brokkoli, Edamame, Pak Choi und Erdnüssen (2,3,En,So,Se,Sw,GlW)",
+		"Name": "Mi Nudeln mit Brokkoli, Edamame, Pak Choi und Erdnüssen (2,3,En,So,Se,Sw,GlW), pikanter Asia-Dip",
 		"Category": "CampusSpezial",
 		"Date": "2026-10-16",
 		"Additives": {
@@ -81,7 +127,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,Sw,GlW,GlG), Vollkornreis, Tomatensalat mit Bohnen, Petersilie (3,5,Sw), Knoblauchdip (Sf,Sw)",
+		"Name": "All in one Pot: Vegane Köfte (Soja und Weizenprotein) (So,Sw,GlW,GlG), Vollkornreis, Krautsalat und Rucola (3,5,Sw), Knoblauchdip (Sf,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-10-16",
 		"Additives": {
@@ -100,7 +146,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Hausgemachtes Kartoffel-Butterstampf (Mi)",
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Rahmwirsing (Mi,Sl,GlW), Salzkartoffeln",
 		"Category": "CampusKlassiker",
 		"Date": "2026-10-16",
 		"Additives": {
