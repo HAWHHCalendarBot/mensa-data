@@ -1,17 +1,28 @@
 [
 	{
-		"Name": "rote Beete Gnocchi, Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Petersilienkartoffeln",
 		"Category": "Pastabar",
 		"Date": "2026-10-19",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Glacierte Pastinaken, Rosenkohl (1), Karotten (1), Weiße Bohnen mediterraneo (Sw), Petersilienkartoffeln",
+		"Name": "rote Beete Gnocchi",
+		"Category": "Pastabar",
+		"Date": "2026-10-19",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Glacierte Pastinaken, Rosenkohl (1), Karotten (1), Weiße Bohnen mediterraneo (Sw), glacierte rote Beete",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-19",
 		"Additives": {
@@ -25,7 +36,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "rote Beete Gnocchi, mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Broccoli in einer Gorgonzola- Sahnesoße (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-10-19",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-19",
 		"Additives": {

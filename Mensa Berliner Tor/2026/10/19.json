@@ -1,23 +1,11 @@
 [
 	{
-		"Name": "rote Beete Gnocchi, Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
+		"Name": "Gebackene Kartoffeln mit Wirsing und Käse (1,So)",
 		"Category": "Pastabar",
 		"Date": "2026-10-19",
 		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
-	},
-	{
-		"Name": "Glacierte Pastinaken, Rosenkohl (1), Sellerie-Karotten Gemüse (Sl), Weiße Bohnen mediterraneo (Sw), Petersilienkartoffeln",
-		"Category": "Gemüsebar",
-		"Date": "2026-10-19",
-		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -26,10 +14,42 @@
 		"Vegan": true
 	},
 	{
-		"Name": "rote Beete Gnocchi, mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Broccoli, Blumenkohl mit Hollandaise (Ei,Mi,Sl), Kartoffeltwister (GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-19",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Waldpilzen in Sahnesoße mit Basilikum (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-10-19",
 		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Soja Kokos Curry (Sojaprotein) (So,Mi,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-19",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
@@ -37,8 +57,7 @@
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf mit Kartoffeln (2,Sl)",
