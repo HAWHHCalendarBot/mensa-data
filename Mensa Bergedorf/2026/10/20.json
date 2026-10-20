@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pasta Tomatensoße mit Pastinaken und Thymian (Sw,GlW)",
+		"Name": "Pasta Tomate- Basilikum (Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-20",
 		"Additives": {
@@ -14,18 +14,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gebratenem Wirsing, Mexikanisches Gemüse (Sl), Zwiebelgemüse, Herzoginkartoffeln (Ei,Mi)",
-		"Category": "Gemüsebar",
+		"Name": "mit Sojagranulat, Lauch und Sojasahne (Sojaprotein) (So,Sl,Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-10-20",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pasta Rindfleischstreifen in cremiger Paprikasoße mit Auberginen und Chili (Mi,Sl,Sw,GlW)",
@@ -41,6 +42,21 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Beef": true
+	},
+	{
+		"Name": "gebratenem Wirsing, Madras Kürbis, Mexikanisches Gemüse (Sl), Zwiebelgemüse, Herzoginkartoffeln (Ei,Mi), rote Beete Gnocchi, gerösteter Blumenkohl (Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-20",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Herbstlicher Gemüse- Kohl- Eintopf, Kräuterbrot (GlW,GlR)",
