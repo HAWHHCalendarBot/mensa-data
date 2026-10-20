@@ -1,10 +1,23 @@
 [
 	{
-		"Name": "Pennette (GlW), Tomatensoße mit Pastinaken und Thymian (Sw)",
+		"Name": "Prinzessbohnen,  gerösteter Rosenkohl,  Karotten-Kurkuma-Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-20",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Pilzrahmsoße (So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-20",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,13 +27,46 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pennette (GlW), Rindfleischstreifen in cremiger Paprikasoße mit Auberginen und Chili (Mi,Sl,Sw)",
+		"Name": "Pikantes Mexikanisches Gemüse in Tomatensauce (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-20",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüseschnitzel mit Käse und Sauce Hollandaise Überbacken (Ei,So,Mi,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-20",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Rindfleischstreifen-Gulasch (So,Mi,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-20",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -29,27 +75,13 @@
 		"Beef": true
 	},
 	{
-		"Name": "karamellisierte Schwarzwurzeln (1), gebratenem Wirsing, Mexikanisches Gemüse (Sl), Zwiebelgemüse, Herzoginkartoffeln (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2026-10-20",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Rotes Gemüsecurry mit Bohnen, Erbsen und Pak Choi (2,So,Sw,GlW), Reis",
+		"Name": "veganer Erbseneintopf mit wurstalternative (So,Sl,Sw,GlW,GlG)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-20",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -60,12 +92,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pennette in Tomatensoße mit Gemüsebällchen (Ei,Sw,GlW)",
+		"Name": "Pennette in Tomatensoße mit Gemüsebällchen (Ei,Sl,Sw,GlW)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-10-20",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.25,
@@ -95,7 +128,7 @@
 		"LactoseFree": true
 	},
 	{
-		"Name": "Spinatknödel (Ei,Mi,GlW), Tomaten- Linsenragout mit Zimtcroutons (1,Sw,GlW)",
+		"Name": "Spinatknödel (Ei,Mi,GlW), Tomaten- Linsenragout mit Zimtcroutons (1,Sl,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2026-10-20",
 		"Additives": {
@@ -103,6 +136,7 @@
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.55,
