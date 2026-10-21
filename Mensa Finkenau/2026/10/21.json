@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Madras Kürbis",
-		"Category": "Gemüsebar",
-		"Date": "2026-10-21",
-		"Additives": {},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Farfalle (GlW), Wurzelgemüse in Sojacreme mit Rosmarin (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-21",
@@ -24,6 +13,24 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "gebratene Zucchini (Sw), Spitzkohl, Süßkartoffeln, gebratene Paprika (1,5,Sw), Fenchelgemüse (Sl), Kartoffelpuffer (Ei,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-21",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen (Sw), Reis",
