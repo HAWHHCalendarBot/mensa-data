@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pasta mit Pfferlinge in Sahnesoße (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-21",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta Tomatensoße mit dicken Bohnen und Hirtenkäse (Mi,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-21",
@@ -14,22 +27,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pasta Wurzelgemüse in Sojacreme mit Rosmarin (So,Sl,GlW)",
-		"Category": "Pastabar",
-		"Date": "2026-10-21",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Madras Kürbis, pikantes Grillgemüse (Sl,Sf,GlW), Prinzessbohnen, Blumenkohl mit gebräunten Bröseln (1,GlW)",
+		"Name": "Herbstgemüse, pikantes Grillgemüse (Sl,Sf,GlW), Prinzessbohnen, Blumenkohl mit gebräunten Bröseln (1,GlW), gebratenem Wirsing, gebratenem Wirsing",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-21",
 		"Additives": {
@@ -43,6 +41,38 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Hausgemachte Spinatknödel (Ei,Sw,GlW), Pilzsoße (3,Mi)",
+		"Category": "Pastabar",
+		"Date": "2026-10-21",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta mit Rübchen in Sahne (So,Mi,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-21",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Grünes Steckrübencurry mit Kokosmilch und grüne Erbsen (Sw), Reis",
@@ -96,14 +126,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Rindfleischfrikadelle (Ei,GlW), Rahmsoße (Mi,Sl), Erbsen- Karotten Gemüse, hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Rindfleischfrikadelle (Ei,GlW), Erbsen- Karotten Gemüse in Rahm, hausgemachtes Kartoffelpüree (Mi)",
 		"Category": "CampusSpezial",
 		"Date": "2026-10-21",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
 		},
 		"PriceAttendant": 6.85,
 		"PriceGuest": 8.15,
