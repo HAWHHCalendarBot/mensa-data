@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Pastinaken mit Kurkuma (Sl), Mexican Reis (Sw)",
+		"Name": "Pastinaken mit Kurkuma (Sl), Mexican Reis (Sw), Brechbohnen, Glasierte Schwarzwurzeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-22",
 		"Additives": {
@@ -14,11 +14,28 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
+		"Name": "Pasta nach Wahl (GlW), Hähnchenstreifen in Paprika-Zwiebel-Suace (Mi,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-22",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Poultry": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Vegane Pilzrahmsoße (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-22",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -28,26 +45,27 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Penne (GlW), mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw)",
+		"Name": "Pasta nach Wahl (GlW), Vegetarische Gorgonzola-Käseasauce (So,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-22",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Poultry": true
+		"PriceStudent": 0.9
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Orientalischer Gemüseeintopf mit Kartoffeln (So,Sl,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-22",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
