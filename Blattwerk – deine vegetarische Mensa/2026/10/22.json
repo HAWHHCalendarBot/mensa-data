@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Vollkorn Penne (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
+		"Name": "Pasta (GlW), Aglio e olio mit Tomate und Knoblauch in Olivenöl (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-22",
 		"Additives": {
@@ -29,7 +29,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Penne (GlW), Pilzen und Zucchini in Mozzarella- Sahnesoße (Mi,Sw,GlW,GlG)",
+		"Name": "Pasta (GlW), Pilzen und Zucchini in Mozzarella- Sahnesoße (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-10-22",
 		"Additives": {
@@ -61,7 +61,20 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), mit Kürbis, Kastanien und Camembert (Mi,Sw)",
+		"Name": "Erdbeer Tiramisu (Ei,Mi)",
+		"Category": "CampusWorld",
+		"Date": "2026-10-22",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 4.9,
+		"PriceGuest": 6.2,
+		"PriceStudent": 3.6,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Hausgemachte Pasta (GlW), mit Kürbis, Kastaniencreme und gebackenem Camembert mit Salbei (Mi,Sw)",
 		"Category": "CampusWorld",
 		"Date": "2026-10-22",
 		"Additives": {
@@ -73,6 +86,22 @@
 		"PriceGuest": 6.5,
 		"PriceStudent": 3.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Nudelauflauf mit Tomaten, Aubergine, Soja und veganem Käse (1,So,Sw,GlW)",
+		"Category": "CampusSpezial",
+		"Date": "2026-10-22",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.65,
+		"PriceGuest": 6.95,
+		"PriceStudent": 4.35,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Bowl mit Karotten Wakame Salat, Röstinchen und orientalischer rote Beete (1,2,3,5,So,Sl,Se,Sw,GlW), Kirschtomaten-Konfit (1,5,Sw), Erbsen-Dip (2,3,So,Sf)",
