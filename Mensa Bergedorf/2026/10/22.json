@@ -43,12 +43,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Indische Tomaten-Linsensuppe (Sf,Sw,GlW)",
+		"Name": "Chili con Corn (Sl,GlD), Knoblauch- Kräuter- Brot (Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-22",
 		"Additives": {
+			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 3.5,
@@ -71,6 +72,19 @@
 		"PriceStudent": 3.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Chili con Carne (2), Creme Fraiche (Mi), Reis",
+		"Category": "CampusSpezial",
+		"Date": "2026-10-22",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 6.25,
+		"PriceGuest": 7.55,
+		"PriceStudent": 4.95,
+		"Beef": true
 	},
 	{
 		"Name": "Dattel-Curry Falafel (GlW), orientalischer Bulgursalat mit Datteln und Cranberries (Sl,GlW), Kräuter Dip (3,GlH,NMa), Frühlingslauch",
