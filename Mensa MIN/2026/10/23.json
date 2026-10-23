@@ -13,7 +13,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Tomatensoße mit Auberginen, Paprika und Kapern (Sw)",
+		"Name": "Pasta (GlW), Tomatensoße mit Auberginen, Paprika (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-23",
 		"Additives": {
@@ -27,7 +27,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Waldpilzen in Sahnesoße mit Basilikum und geräuchertem Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Pasta (GlW), Waldpilzen in Sahnesoße mit Basilikum und geräuchertem Knoblauch (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-10-23",
 		"Additives": {
@@ -56,6 +56,23 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gemüse Vollkornbratling (Ei,Sl,GlW), Bayrischer Kartoffelsalat (2,Sf), Salatbeilage (Ei,Mi)",
+		"Category": "CampusVital",
+		"Date": "2026-10-23",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 4.5,
+		"PriceGuest": 5.8,
+		"PriceStudent": 3.2,
+		"Vegetarian": true
 	},
 	{
 		"Name": "vegetarischer Zwiebel-Kürbiskuchen (Ei,Mi,GlW), Schnittlauch-Dip (Mi)",
@@ -89,21 +106,5 @@
 		"PriceStudent": 4.75,
 		"LactoseFree": true,
 		"Vegan": true
-	},
-	{
-		"Name": "Rindfleischfrikadelle (Ei,GlW), Bayrischer Kartoffelsalat (2,Sf), Salatbeilage (Ei,Mi)",
-		"Category": "CampusVital",
-		"Date": "2026-10-23",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
-		},
-		"PriceAttendant": 6.1,
-		"PriceGuest": 7.4,
-		"PriceStudent": 4.8,
-		"Beef": true
 	}
 ]
