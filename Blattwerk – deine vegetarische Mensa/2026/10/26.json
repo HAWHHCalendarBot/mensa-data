@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Indische Kartoffeln (Sf,Sw), gebratenem Wirsing, Sesammöhrchen (Se), Broccoli",
+		"Name": "Indische Kartoffeln, Bohnen (Sf,Sw), gebratenem Wirsing, Sesammöhrchen, Spitzkohl (Se), Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-26",
 		"Additives": {
@@ -15,7 +15,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pennette (GlW), mit cremiger Tomatensoße mit Harissa und Aubergine (Mi,Sw)",
+		"Name": "Pasta (GlW), mit cremiger Tomatensoße mit Harissa und Aubergine (Mi,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-26",
 		"Additives": {
@@ -29,7 +29,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Pennette (GlW), Sonnenblumenhack mit Rosenkohl in Sojacreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
+		"Name": "Pasta (GlW), Sonnenblumenhack mit Rosenkohl in Sojacreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-26",
 		"Additives": {
@@ -63,6 +63,20 @@
 		"PriceAttendant": 5.15,
 		"PriceGuest": 6.45,
 		"PriceStudent": 3.85,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Paprikaschote gefülllt mit Linsengemüse (Sl,Sw), Reis, hausgemachtes Petersilienpesto (Sw)",
+		"Category": "CampusSpezial",
+		"Date": "2026-10-26",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 5.5,
+		"PriceGuest": 6.8,
+		"PriceStudent": 4.2,
 		"LactoseFree": true,
 		"Vegan": true
 	},
@@ -103,5 +117,20 @@
 		"PriceStudent": 4.95,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Nudelsalat mit Champignons, roter Beete und Schafskäse (3,5,Mi,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-10-26",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.4,
+		"PriceGuest": 7.7,
+		"PriceStudent": 5.1
 	}
 ]
