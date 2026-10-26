@@ -1,6 +1,28 @@
 [
 	{
-		"Name": "gebratenem Wirsing, Sesammöhrchen (Se), Broccoli",
+		"Name": "Pariser Kartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-10-26",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reis",
+		"Category": "Pastabar",
+		"Date": "2026-10-26",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pikante Fingermöhren (Se),  gerösteter Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-26",
 		"Additives": {
@@ -13,21 +35,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pennette (GlW), mit cremiger Tomatensoße mit Harissa und Aubergine (Mi,Sw)",
+		"Name": "Buntes Linsenragout mit Kokos (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-26",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Pennette (GlW), Sonnenblumenhack mit Rosenkohl in Sojacreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
+		"Name": "Wirsing in Sojacremesoße (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-26",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Sonnenblumenhack-Bolognese (1,So,Sl,Sf,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-26",
 		"Additives": {
@@ -45,7 +83,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Orientalischer Gemüseeintopf (So,Sl,Sw)",
+		"Name": "Orientalischer Gemüseeintopf (So,Sl,Sw), geröstete Kürbiskerne",
 		"Category": "Pottkieker",
 		"Date": "2026-10-26",
 		"Additives": {
@@ -60,7 +98,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Roasted Sesam Crossies (2,3,So,Sf,Se,GlW), Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), Frühlingslauch",
+		"Name": "Roasted Sesam Crossies (2,3,So,Sf,Se,GlW), Bratnudeln mit Gemüsestreifen (2,So,Se,GlW), Frühlingslauch, Teriyaki-Sauce (2,So,Sl,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2026-10-26",
 		"Additives": {
@@ -69,6 +107,7 @@
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 5.9,
@@ -78,28 +117,29 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (Mi), Spätzle (Ei,GlW), Zitrone",
+		"Name": "Paniertes Schweineschnitzel (GlW), Champignonrahmsoße (2,Mi,Sw), Spätzle (Ei,GlW), Zitrone",
 		"Category": "CampusSpezial",
 		"Date": "2026-10-26",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.5,
 		"PriceStudent": 4.9,
+		"Alcohol": true,
+		"Beef": true,
 		"Pig": true
 	},
 	{
-		"Name": "Ägyptische Falafel mit Hummusfüllung (So,Sl,Se,GlW), veganes Tzatziki (So,Sw), Gemüsecouscous (Sl,GlW), Rotkrautsalat (3)",
+		"Name": "Kürbis-Falafel, veganes Tzatziki (So,Sw), Basmatireis, Rotkrautsalat (3)",
 		"Category": "CampusWorld",
 		"Date": "2026-10-26",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
