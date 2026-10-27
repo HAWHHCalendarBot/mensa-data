@@ -1,5 +1,19 @@
 [
 	{
+		"Name": "Pasta mit Hähnchenstreifen in einer pikanten Tomatensoße (Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-10-27",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
 		"Name": "Cajun Gemüse (Sl,Sw), geschmorter Sellerie (Sl,Sw), Karotten Bohnengemüse, Gnocchi (GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-27",
@@ -68,25 +82,6 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Spätzle (Ei,GlW),  Schinken- Käsesoße mit Thymian (2,3,8,Ei,Mi,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-10-27",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Pig": true
-	},
-	{
 		"Name": "Blumenkohl Korma, Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-10-27",
@@ -96,6 +91,22 @@
 		"PriceStudent": 2.2,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Gefüllter Pfannkuchen mit Apfel-Zimt Füllung und süßer Creme (Ei,Mi,35,GlW), Vanillesoße (Mi)",
+		"Category": "Pottkieker",
+		"Date": "2026-10-27",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 3.5,
+		"PriceGuest": 4.8,
+		"PriceStudent": 2.2,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Vegane Hackbällchen (Soja- und Weizenprotein) mit Sesam-Knoblauch-Glaze (2,So,Se,Sw,GlW,GlG), Grüne Bohnen mit Sesam und Sojasoße (1,2,So,Se,GlW), Basmatireis",
