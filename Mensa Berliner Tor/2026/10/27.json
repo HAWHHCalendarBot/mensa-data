@@ -1,12 +1,31 @@
 [
 	{
-		"Name": "Apfelrotkohl (3,5,Sw), Cajun Gemüse (Sl,Sw), geschmorter Sellerie (Sl,Sw), Karotten Bohnengemüse, Gnocchi (GlW)",
+		"Name": "Fingermöhren, Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-27",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Gemüsereis mit Putenbruststreifen",
+		"Category": "Pastabar",
+		"Date": "2026-10-27",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Poultry": true
+	},
+	{
+		"Name": "Rote Beete Gnocchi, verschiedene Gemüse in Tomatensoße (Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-10-27",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -17,42 +36,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mi Nudeln (GlW), Spinat-Erdnusssoße (2,En,So,Sl,Sw,GlW,NMa)",
+		"Name": "Pasta (GlW), Raücherlachs-Rahmsoße (Fi,Mi,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-10-27",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Spätzle (Ei,GlW),  Schinken- Käsesoße mit Thymian (2,3,8,Ei,Mi,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-10-27",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Pig": true
+		"Fish": true
 	},
 	{
 		"Name": "Blumenkohl Korma, Reis",
