@@ -1,11 +1,21 @@
 [
 	{
-		"Name": "Spaghetti (GlW), scharfe Tomatensoße mit Fenchel und Kichererbsen (Sw)",
+		"Name": "Reis, Blumenkohl Korma",
+		"Category": "Pastabar",
+		"Date": "2026-10-28",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pommes Frites Chili Cheese, vegetarisch (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-28",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -14,30 +24,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini (Ei,Mi,GlW), Frischkäse- Gorgonzolasoße mit Kürbis (Mi,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-10-28",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
-	},
-	{
-		"Name": "Auberginen mit Balsamico Bianco (3,5,Sw), Karotten Pastinakenmix mit frischer Petersilie, Madras Kürbis, Rosenkohl (1), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
+		"Name": "Rosenkohl (Sw), buntem Gemüse",
 		"Category": "Gemüsebar",
 		"Date": "2026-10-28",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -45,6 +35,20 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Pasta (GlW), Kräuter-Rahmsoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-10-28",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "Tofu-Gemüse-Topf (So,Sl)",
@@ -61,17 +65,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Frisch gebackene FLAMMKUCHEN nach Wahl (versch. Sorten) ab 4,20 / 5,50 / 6,70 (auch TAKE AWAY) (Mi,GlW)",
-		"Category": "CampusWorld",
+		"Name": "Leberkäse im Ganzen gebacken (2,3,8), Süßer Senf (Sf), Kartoffelsalat mit Mayo (2,Ei,Sf,GlW)",
+		"Category": "CampusKlassiker",
 		"Date": "2026-10-28",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
-		"PriceAttendant": 5.5,
-		"PriceGuest": 6.8,
-		"PriceStudent": 4.2,
-		"Vegetarian": true
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.7,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "vegane Tom Kha Suppe mit Tofu und Basmatireis (2,3,So,Sw,GlW)",
@@ -91,15 +100,15 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gebackener Hirtenkäse (Mi), Tomatenreis mit Edamame und Oliven (3,6,So,Sw), Tomaten-Gurken-Salsa (3,5,Sw), Rucola",
+		"Name": "gebackener Hirtenkäse (Mi), italienischer Nudelsalat (2,3,5,Mi,Sw,GlW), Tomaten-Gurken-Salsa (3,5,Sw), Rucola",
 		"Category": "CampusVital",
 		"Date": "2026-10-28",
 		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
-			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.0,
