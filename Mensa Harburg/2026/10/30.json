@@ -1,11 +1,10 @@
 [
 	{
-		"Name": "Vollkorn Fusilli (GlW), rote Beete- Tomatensoße (Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Pikante Peperonata (Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-10-30",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -15,14 +14,45 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mini Kürbisgnocchi (Ei,GlW), Hausgemachte Käsesoße mit Wirsing und Chili (Mi,GlW,GlG)",
+		"Name": "Couscous (Sl,GlW),  Rosenkohl (1),  Karotten-Mais Gemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-30",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Soja-Geschnetzeltes Griechische Art (So,Sl,Sf,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-10-30",
 		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Spinatcremesoße (Mi,Sl,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2026-10-30",
+		"Additives": {
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -30,31 +60,11 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Kürbisgemüse, Sellerie-Karotten Gemüse (Sl)",
-		"Category": "Gemüsebar",
-		"Date": "2026-10-30",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Name": "Kichererbsen-Linsentopf mit Curry und Gemüse (3)",
 		"Category": "Pottkieker",
 		"Date": "2026-10-30",
 		"Additives": {
-			"<strong>GlD</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Dinkel)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>3</strong>": "Antioxidationsmittel"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -63,7 +73,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "4 Röstiecken, Spitzkohl, Schnittlauchquark (Mi)",
+		"Name": "4 Röstiecken, Spitzkohl, Kräuterquark (Mi)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-10-30",
 		"Additives": {
@@ -75,39 +85,34 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "veganer Grillteller (Soja, Erbsen und Weizenprotein) mit veganem Kebab und vegane Hackbällchen (Sw), Ajvar Dip (3,So,Sf), Reis, Weißkrautsalat (3,5,Sw)",
+		"Name": "veganer Grillteller (Soja, Erbsen und Weizenprotein) mit veganem Kebab (Sw), Ajvar Dip (Mi,Sf), Reis, Weißkrautsalat (3,5,Sw)",
 		"Category": "CampusVital",
 		"Date": "2026-10-30",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 4.95,
 		"PriceGuest": 6.25,
 		"PriceStudent": 3.65,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "veganer Wrap Dürüm Kebab (Erbsenprotein) mit BBQ-Soße (2,3,5,En,So,Sf,Sw,GlW)",
-		"Category": "CampusWorld",
+		"Name": "Soja-Bolognese mit Gemüse (Sojaprotein) (So,Sl,Sw), Vollkornpasta (GlW)",
+		"Category": "CampusKlassiker",
 		"Date": "2026-10-30",
 		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 5.3,
-		"PriceGuest": 6.6,
-		"PriceStudent": 4.0,
+		"PriceAttendant": 5.1,
+		"PriceGuest": 6.4,
+		"PriceStudent": 3.8,
 		"LactoseFree": true,
 		"Vegan": true
 	}
