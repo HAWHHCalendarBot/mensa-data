@@ -1,6 +1,68 @@
 [
 	{
-		"Name": "Spaghetti (GlW), Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw)",
+		"Name": "Chili-Kartoffeln aus dem Ofen",
+		"Category": "Pastabar",
+		"Date": "2026-11-02",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Reis",
+		"Category": "Pastabar",
+		"Date": "2026-11-02",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Röstiecken",
+		"Category": "Pastabar",
+		"Date": "2026-11-02",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Hafer-Bratling (GlW,GlH)",
+		"Category": "Pastabar",
+		"Date": "2026-11-02",
+		"Additives": {
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl),  Champignon-Broccolipfanne (Sw),  Maisgemüse (1)",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-02",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Indisches Kichererbsenragout mit Fleischalternative (So,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-11-02",
 		"Additives": {
@@ -16,13 +78,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gebratenem Wirsing, Blumenkohl mit gebräunten Bröseln (1,GlW), geschmorter Sellerie (Sl,Sw), Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl), Nusskartoffeln",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Soja Bolognese (So,Sl,Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-11-02",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -32,10 +94,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf,Sw), Basmatireis",
+		"Name": "Bohnen-Lauch-Curry mit Brech- Bohnen, Edamame Bohnen und Lauch (So,Sl,Sf,Sw,GlW), Basmatireis",
 		"Category": "Pottkieker",
 		"Date": "2026-11-02",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -78,7 +141,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Mini Frühlingsrollen (So,GlW), gebratener Pak Choi mit Cashewkerne (1,2,So,Sw,GlW,NCa), Basmatireis",
+		"Name": "Mini Frühlingsrollen (So,GlW), gebratener Pak Choi mit Cashewkerne (1,2,So,Sw,GlW,NCa), Tomaten-Asia-Dip, Basmatireis",
 		"Category": "CampusSpezial",
 		"Date": "2026-11-02",
 		"Additives": {
