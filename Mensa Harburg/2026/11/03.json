@@ -1,13 +1,26 @@
 [
 	{
-		"Name": "Steckrüben-Möhren Gemüse (1), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Apfelrotkohl (3,5,Sw)",
-		"Category": "Gemüsebar",
+		"Name": "Pasta nach Wahl (GlW), Chili con Carne (2,Sl)",
+		"Category": "Pastabar",
 		"Date": "2026-11-03",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>6</strong>": "Geschwärzt",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Beef": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "veganes Sugo mit roten und weißen Bohnen (So,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-11-03",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -17,11 +30,26 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fusilli (GlW), Kürbis- Sojacreme mit Rosmarin (3,So,Sl,Sw)",
+		"Name": "Asiatischer Gemüsereis (2,So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-03",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Champignoncremesauce (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-03",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -34,21 +62,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fusilli (GlW), Hähnchenstreifen in Tomaten-Gemüse Creme (3,8,Mi,Sl,Sw)",
-		"Category": "Pastabar",
+		"Name": "Mediterranes Steckrübengemüse (So,Sl,GlW),  Broccoli und Champignons,  Apfelrotkohl mit Himbeeressig (3,5,Sw)",
+		"Category": "Gemüsebar",
 		"Date": "2026-11-03",
 		"Additives": {
 			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Poultry": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
@@ -82,10 +111,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paniertes Putenschnitzel (GlW), Champignonrahmsoße (Mi), Pommes Frites (Sf)",
+		"Name": "Paniertes Putenschnitzel (GlW), Pfefferrahmsoße (3,Mi), Pommes Frites (Sf)",
 		"Category": "CampusSpezial",
 		"Date": "2026-11-03",
 		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
@@ -96,7 +126,7 @@
 		"Poultry": true
 	},
 	{
-		"Name": "Dreierlei Kartoffelgnocchi mit gebratenen Champignons, Soja-Skyr und Rucola (3,So,Sw,GlW)",
+		"Name": "Zweierlei Kartoffelgnocchi mit gebratenen Champignons, Soja-Skyr und Rucola (3,So,Sw,GlW)",
 		"Category": "CampusSpezial",
 		"Date": "2026-11-03",
 		"Additives": {
