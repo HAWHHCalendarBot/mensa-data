@@ -1,12 +1,24 @@
 [
 	{
-		"Name": "Gnocchi (GlW), Ratatouille (Sl,Sw)",
+		"Name": "Gnocchi (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-04",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bulgur mit Tomate und Peperoni (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-04",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -15,11 +27,11 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wurzelgemüse (Sl,Sw), Blattspinat (Sl,Sw), Kürbisgemüse, Prinzessbohnen, Bulgur mit Tomate und Peperoni (Sl,GlW)",
+		"Name": "Champignongemüse mit Zwiebeln (Sw), Blattspinat (Sl,Sw), Prinzessbohnen, Steckrüben-Möhren Gemüse (1)",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-04",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>1</strong>": "Farbstoff",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -30,7 +42,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Ratatouille (6,Sl,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-11-04",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-11-04",
 		"Additives": {
