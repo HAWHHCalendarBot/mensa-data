@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Wurzelgemüse (Sl,Sw), Kürbisgemüse, Prinzessbohnen",
+		"Name": "Wurzelgemüse (Sl,Sw), gebratene Zucchini (Sw), Kürbisgemüse, Prinzessbohnen",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-04",
 		"Additives": {
@@ -44,11 +44,12 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Kartoffelsuppe (Sl)",
+		"Name": "Kartoffelsuppe mit Tofu (So,Sl)",
 		"Category": "Pottkieker",
 		"Date": "2026-11-04",
 		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -57,18 +58,19 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Paprikaschote gefülllt mit Linsengemüse (Sl,Sw), Petersilienpesto (Sw), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Paprikaschote gefülllt mit Linsengemüse (Sl,Sw), Petersilienpesto (Sw), hausgemachtes Kartoffelpüree (GlH)",
 		"Category": "CampusSpezial",
 		"Date": "2026-11-04",
 		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 5.5,
 		"PriceGuest": 6.8,
 		"PriceStudent": 4.2,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Grünkohl (Sl,Sf), Kochwurst (1,2,3,4,8,Sl,Sf), Röstkartoffeln",

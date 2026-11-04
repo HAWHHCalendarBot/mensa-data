@@ -1,11 +1,54 @@
 [
 	{
-		"Name": "Gnocchi (GlW), Ratatouille (Sl,Sw)",
+		"Name": "Rosenkohl,  Nusskartoffeln,  Alte Gemüse: Pastinake- Sellerie- Karotte- Topinambur (Sl),  Prinzessbohnen",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-04",
+		"Additives": {
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), gelbe und grüne Zucchini in Tomatensauce (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-04",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Spinatcremesoße (So,Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-04",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Mediterrane Olivensoße (6,So,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-04",
+		"Additives": {
+			"<strong>6</strong>": "Geschwärzt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -15,37 +58,23 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Pasta nach Wahl (GlW), Scharfe Kirschtomatensauce Arrabbiata (So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-04",
 		"Additives": {
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Wurzelgemüse (Sl,Sw), Tortellini mit Käsefüllung (Mi,GlW), Kürbisgemüse, Prinzessbohnen",
-		"Category": "Gemüsebar",
-		"Date": "2026-11-04",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"Vegetarian": true
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
-		"Name": "Indische Linsen mit Karotten und Paprika (Sf,Sw,GlW), Couscous (GlW)",
+		"Name": "Indische Linsen mit Karotten, Paprika und Kartoffeln (Sf,Sw,GlW)",
 		"Category": "Pottkieker",
 		"Date": "2026-11-04",
 		"Additives": {
@@ -93,13 +122,12 @@
 		"Pig": true
 	},
 	{
-		"Name": "Vegetarisch gefüllte Paprikaschote (Ei,So,Sl,Sf,GlW), Petersilienpesto (Sw), hausgemachtes Kartoffelpüree (Mi)",
+		"Name": "Vegetarisch gefüllte Paprikaschote (Ei,So,Sl,Sf,GlW), Petersilienpesto (Sw), Tomaten-Gemüsesoße (Sl,Sw), Reis",
 		"Category": "CampusSpezial",
 		"Date": "2026-11-04",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
@@ -108,15 +136,17 @@
 		"PriceAttendant": 6.0,
 		"PriceGuest": 7.3,
 		"PriceStudent": 4.7,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Schweinenackenbraten, Rahmwirsing (Mi,Sl,GlW), Macairekartoffeln (GlW)",
+		"Name": "Schweinenackenbraten, Rahmwirsing (Mi,Sl,GlW), Rosmarinkartoffeln, Senf (Sf)",
 		"Category": "CampusKlassiker",
 		"Date": "2026-11-04",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 6.5,
