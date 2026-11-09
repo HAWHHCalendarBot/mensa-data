@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "rote Beete Gnocchi, Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
-		"Category": "Pastabar",
-		"Date": "2026-11-09",
-		"Additives": {
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
-	},
-	{
 		"Name": "Glacierte Pastinaken, Rosenkohl (1), Sellerie-Karotten Gemüse (Sl), Weiße Bohnen mediterraneo (Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-09",
@@ -24,6 +13,19 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "rote Beete Gnocchi |, Broccoli in einer Gorgonzola- Sahnesoße (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-11-09",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf mit Kartoffeln (2,Sl)",
