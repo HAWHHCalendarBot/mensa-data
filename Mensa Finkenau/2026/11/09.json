@@ -1,16 +1,5 @@
 [
 	{
-		"Name": "Glacierte Pastinaken",
-		"Category": "Gemüsebar",
-		"Date": "2026-11-09",
-		"Additives": {},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Vollkorn Fussili (GlW), Broccoli in einer Gorgonzola- Sahnesoße (Mi)",
 		"Category": "Pastabar",
 		"Date": "2026-11-09",
@@ -21,6 +10,21 @@
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9
+	},
+	{
+		"Name": "Glacierte Pastinaken, Karotten (1), Gemüsecouscous (Sl,GlW), glacierte rote Beete, gebratenem Wirsing",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-09",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Mexikanischer Bohnentopf mit Kartoffeln (2,Sl)",
