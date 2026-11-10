@@ -1,12 +1,9 @@
 [
 	{
-		"Name": "Pennette (GlW), Tomatensoße mit Pastinaken und Thymian (Sw)",
-		"Category": "Pastabar",
+		"Name": "Ganze Blumenkohl mit veganen Sauce Hollandaise, buntem Gemüse",
+		"Category": "Gemüsebar",
 		"Date": "2026-11-10",
-		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
+		"Additives": {},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
@@ -14,7 +11,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pennette (GlW), Rindfleischstreifen in cremiger Paprikasoße mit Auberginen und Chili (Mi,Sl,Sw)",
+		"Name": "Pasta (GlW), Sojastreifen mit Champignons in Cremesoße (Mi,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-11-10",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta (GlW), Rindfleischstreifen in cremiger Paprikasoße mit Auberginen und Chili (Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-11-10",
 		"Additives": {
@@ -27,21 +38,6 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Beef": true
-	},
-	{
-		"Name": "karamellisierte Schwarzwurzeln (1), gebratenem Wirsing, Mexikanisches Gemüse (Sl), Zwiebelgemüse, Herzoginkartoffeln (Ei,Mi)",
-		"Category": "Gemüsebar",
-		"Date": "2026-11-10",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
 	},
 	{
 		"Name": "Rotes Gemüsecurry mit Bohnen, Erbsen und Pak Choi (2,So,Sw,GlW), Reis",
