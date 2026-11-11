@@ -1,20 +1,5 @@
 [
 	{
-		"Name": "Gebratener Sellerie mit Fenchel (Sl,Sw), gebratenem Wirsing, Sesammöhrchen (Se), Broccoli, Indische Kartoffeln (Sf,Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2026-11-16",
-		"Additives": {
-			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Pennette (GlW), mit cremiger Tomatensoße mit Harissa und Aubergine (Mi,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-11-16",
@@ -27,6 +12,21 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "gebratene Champignons (Sw)",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-16",
+		"Additives": {
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Pennette (GlW), Sonnenblumenhack mit Rosenkohl in Sojacreme (Sonnenblumenprotein) (1,So,Sl,Sf,Sw,GlW)",
@@ -43,6 +43,20 @@
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grünkohl (Sl,Sf), vegane Kochwurst (Erbsenprotein), Röstkartoffeln",
+		"Category": "CampusKlassiker",
+		"Date": "2026-11-16",
+		"Additives": {
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.6,
+		"PriceGuest": 6.9,
+		"PriceStudent": 4.3,
 		"LactoseFree": true,
 		"Vegan": true
 	},
