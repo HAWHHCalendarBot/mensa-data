@@ -1,10 +1,33 @@
 [
 	{
-		"Name": "Strozzapreti (GlW), Tomatensoße mit dicken Bohnen und Hirtenkäse (Mi,Sw)",
+		"Name": "Bratkartoffeln",
+		"Category": "Pastabar",
+		"Date": "2026-11-11",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Strozzapreti (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-11",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomatensoße mit dicken Bohnen und Hirtenkäse (Mi,Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-11-11",
+		"Additives": {
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -14,7 +37,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Strozzapreti (GlW), Wurzelgemüse in Sojacreme mit Rosmarin (So,Sl,GlW)",
+		"Name": "Wurzelgemüse in Sojacreme mit Rosmarin (So,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-11",
 		"Additives": {
@@ -29,7 +52,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Madras Kürbis, pikantes Grillgemüse (Sl,Sf,GlW), Prinzessbohnen, Blumenkohl mit gebräunten Bröseln (1,GlW), Bratkartoffeln",
+		"Name": "Madras Kürbis, pikantes Grillgemüse (Sl,Sf,GlW), Prinzessbohnen, Blumenkohl mit gebräunten Bröseln (1,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-11",
 		"Additives": {
@@ -110,6 +133,21 @@
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
 		"PriceStudent": 2.2,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Grünkohl Linsen Kokos Pfanne mit Currykartoffeln (Sf,Sw,GlW)",
+		"Category": "CampusWorld",
+		"Date": "2026-11-11",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 4.25,
+		"PriceGuest": 5.55,
+		"PriceStudent": 2.95,
 		"LactoseFree": true,
 		"Vegan": true
 	},
