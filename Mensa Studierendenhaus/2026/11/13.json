@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Eliche (GlW), Tomatensoße mit Auberginen, Paprika und Kapern (Sw)",
+		"Name": "Eliche (GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-13",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Tomatensoße mit Paprika und Kapern (Sw)",
+		"Category": "Pastabar",
+		"Date": "2026-11-13",
+		"Additives": {
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,7 +26,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "rote Beete Gnocchi, Karotten Rustica, Steckrübe gebacken mit Thymian, Blattspinat (Sl,Sw)",
+		"Name": "gebratenem Wirsing, Karotten Rustica, Steckrübe gebacken mit Thymian, Paprikagemüse mit Zwiebeln und Lauch, Chili Weißkohl (Sl,Sw)",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-13",
 		"Additives": {
@@ -28,7 +40,21 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Eliche (GlW)",
+		"Name": "Spätzlepfanne mit Wirsing und Röstzwiebeln (Ei,Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-13",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Waldpilzen in Sahnesoße mit Basilikum und geräuchertem Knoblauch (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-11-13",
 		"Additives": {
@@ -43,7 +69,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Spanische Tapas mit Paellareis",
+		"Name": "Spanische Tapas mit Paellareis, Hähnchenoberkeule mit geräuchertem Paprika und Knoblauch, Hackbällchen in scharfer Tomatensoße (Ei,GlW), pikante Kartoffeln, gebackene Kartoffel-Kroketten (GlW), Omelettestreifen mit Chili und Tomate (2,5,Ei,Mi,Sw), verschiedene Tapas Toppings (1,2,3,5,6,8,So,Mi,Sw), verschiedene Soßen (2,3,4,Ei,En,So,Mi,Sf,GlW)",
 		"Category": "Werkskombüse",
 		"Date": "2026-11-13",
 		"Additives": {
@@ -102,22 +128,6 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Hausgemachte Pasta (GlW), rote Beete Pesto mit Hartkäse und Ruccola (2,Ei,Mi,NMa)",
-		"Category": "CampusWorld",
-		"Date": "2026-11-13",
-		"Additives": {
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse"
-		},
-		"PriceAttendant": 5.2,
-		"PriceGuest": 6.5,
-		"PriceStudent": 3.9,
-		"Vegetarian": true
-	},
-	{
 		"Name": "Scharfe Kokos-Limonen-Suppe mit Udon-Nudeln (2,3,So,Sl,Se,Sw,GlW)",
 		"Category": "CampusVital",
 		"Date": "2026-11-13",
@@ -135,5 +145,22 @@
 		"PriceStudent": 4.6,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "Green Oat Homestyle Burger mit Umami Soße, Tomate und Römersalat (Ei,So,Sf,GlW,GlH), Pommes Frites (Sf)",
+		"Category": "CampusWorld",
+		"Date": "2026-11-13",
+		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlH</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Hafer)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 7.1,
+		"PriceGuest": 8.4,
+		"PriceStudent": 5.8,
+		"LactoseFree": true,
+		"Vegetarian": true
 	}
 ]
