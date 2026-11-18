@@ -1,10 +1,22 @@
 [
 	{
-		"Name": "Spaghetti (GlW), scharfe Tomatensoße mit Fenchel und Kichererbsen (Sw)",
+		"Name": "Reis, Blumenkohl Korma",
 		"Category": "Pastabar",
 		"Date": "2026-11-18",
+		"Additives": {},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Wintergemüse Pfanne (3,5,Sw), Champignon-Tomaten-Gemüse",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-18",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
@@ -14,47 +26,41 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Tortellini (Ei,Mi,GlW), Frischkäse- Gorgonzolasoße mit Kürbis (Mi,GlW,GlG)",
+		"Name": "Pasta (GlW), Blattspinat in Käse-Sahnesoße (Mi,Sl,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-11-18",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Spätzle Gemüsepfanne (Ei,Mi,Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-18",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9
-	},
-	{
-		"Name": "Auberginen mit Balsamico Bianco (3,5,Sw), Karotten Pastinakenmix mit frischer Petersilie, Madras Kürbis, Rosenkohl (1), Couscous mit Mandeln, Rosinen und Chili (Sl,GlW,NMa)",
-		"Category": "Gemüsebar",
-		"Date": "2026-11-18",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NMa</strong>": "Schalenfrüchte (Mandel)/-erzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
-		"Name": "Tomaten-Kokossuppe (3,So,Sl,GlW), Reis",
+		"Name": "Linsengemüse in Kokoscreme (Sl), Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-11-18",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
