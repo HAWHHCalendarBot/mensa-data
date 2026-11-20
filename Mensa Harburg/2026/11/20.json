@@ -1,12 +1,11 @@
 [
 	{
-		"Name": "Vollkorn Fusilli (GlW), rote Beete- Tomatensoße (Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), veganes Currywurstgulasch (Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-11-20",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -15,29 +14,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Mini Kürbisgnocchi (Ei,GlW), Hausgemachte Käsesoße mit Wirsing und Chili (Mi,GlW,GlG)",
-		"Category": "Pastabar",
-		"Date": "2026-11-20",
-		"Additives": {
-			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"Vegetarian": true
-	},
-	{
-		"Name": "Knoblauch Champignons aus dem Ofen (1,2,5,So,Sw,GlW), Kürbisgemüse",
+		"Name": "gerösteter Blumenkohl (Sw),  Blattspinat in Rahm (So,Sw),  Broccoli",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-20",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>2</strong>": "Konservierungsstoff",
-			"<strong>5</strong>": "Geschwefelt",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -48,7 +28,37 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Chili con Corn (Sl,GlD), Basmatireis",
+		"Name": "Pasta nach Wahl (GlW), Bohnensoße mit Tomaten (2,Sl)",
+		"Category": "Pastabar",
+		"Date": "2026-11-20",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Steckrübengemüse in Sojarahm (So,Sl,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-20",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Chili con Corn (Sl,GlD),  Reis",
 		"Category": "Pottkieker",
 		"Date": "2026-11-20",
 		"Additives": {
@@ -79,7 +89,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Bowl mit Sojastreifen, Edamame, Erdnüssen, Staudensellerie, Orange, schwarzem Sesam (Sojaprotein) (2,3,5,En,So,Sl,Se,Sw,GlW), Reis-Nudeln",
+		"Name": "Bowl mit Sojastreifen, Edamame, Erdnüssen, Gemüsestreifen, Orange, schwarzem Sesam (Sojaprotein) (2,3,5,En,So,Sl,Se,Sw,GlW), Reis-Nudeln",
 		"Category": "CampusVital",
 		"Date": "2026-11-20",
 		"Additives": {
@@ -100,11 +110,13 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Veganes Knusperschnitzel (GlW), Röstkartoffeln, Gurkensalat, Zitrone",
+		"Name": "Veganes Knusperschnitzel (GlW), Röstkartoffeln, pikanter Karottensalat (3,Sw), Zitrone",
 		"Category": "CampusSpezial",
 		"Date": "2026-11-20",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 6.25,
 		"PriceGuest": 7.55,
