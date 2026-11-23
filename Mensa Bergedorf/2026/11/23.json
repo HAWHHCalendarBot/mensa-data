@@ -1,6 +1,20 @@
 [
 	{
-		"Name": "Pasta Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw,GlW)",
+		"Name": "Pasta Hausgemachte Käsesoße mit Wirsing und Chili (Mi,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-11-23",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta Soja - Tomatensoße (So,Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-23",
 		"Additives": {
@@ -16,12 +30,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "gebratenem Wirsing, Blumenkohl mit gebräunten Bröseln (1,GlW), geschmorter Sellerie (Sl,Sw), Nusskartoffeln",
+		"Name": "Pasta mit scharfen Linsen (1,5,Sl,Sw,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-23",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "pikantes Grillgemüse (Sl,Sf,GlW), Blumenkohl mit gebräunten Bröseln (1,GlW), geschmorter Sellerie (Sl,Sw), Nusskartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-23",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
