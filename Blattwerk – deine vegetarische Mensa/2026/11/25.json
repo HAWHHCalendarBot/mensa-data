@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "Penne (GlW), Ratatouille (Sl,Sw)",
+		"Name": "Pasta (GlW), Ratatouille mit Tomaten Zucchini, Auberginen und Paprika (Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-11-25",
 		"Additives": {
@@ -30,7 +30,7 @@
 		"Vegetarian": true
 	},
 	{
-		"Name": "Penne (GlW), Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Pasta (GlW), Wurzelcremesoße mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-11-25",
 		"Additives": {
@@ -60,6 +60,21 @@
 		"Vegetarian": true
 	},
 	{
+		"Name": "vegane Bratwurst gegrillt (Erbsenprotein) (9,Sf), Sauerkraut (vegan) (Sl), Kräuterkartoffeln",
+		"Category": "CampusSpezial",
+		"Date": "2026-11-25",
+		"Additives": {
+			"<strong>9</strong>": "Süßungsmittel",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 5.0,
+		"PriceGuest": 6.3,
+		"PriceStudent": 3.7,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
 		"Name": "Tikka Masala mit Sojaschnetzel (Sojaprotein) (So,Se,Sw), Basmatireis",
 		"Category": "CampusWorld",
 		"Date": "2026-11-25",
@@ -75,20 +90,24 @@
 		"Vegan": true
 	},
 	{
-		"Name": "vegane Bratwurst gegrillt (Erbsenprotein) (9,Sf), Sauerkraut (vegan) (Sl), veganes hausgemachtes Kartoffelpüree (1,So)",
-		"Category": "CampusSpezial",
+		"Name": "Asiatischer Nudelsalat mit Kräutern, Kimchi, mini Frühlingsrollen und Asiadip (2,3,5,Ei,En,So,Se,Sw,GlW)",
+		"Category": "CampusWorld",
 		"Date": "2026-11-25",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>9</strong>": "Süßungsmittel",
-			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>En</strong>": "Erdnüsse und Erdnusserzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Se</strong>": "Sesamsamen und Sesamsamenerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
-		"PriceAttendant": 6.9,
-		"PriceGuest": 8.2,
-		"PriceStudent": 5.6,
+		"PriceAttendant": 6.75,
+		"PriceGuest": 8.05,
+		"PriceStudent": 5.45,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	}
 ]
