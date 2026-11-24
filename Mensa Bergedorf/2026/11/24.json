@@ -1,5 +1,18 @@
 [
 	{
+		"Name": "Pasta  mit Spitzkohl und Kürbis in Rahm (Mi,GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-24",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
 		"Name": "Pasta Hähnchenstreifen in Tomaten-Gemüse Creme (3,8,Mi,Sl,Sw)",
 		"Category": "Pastabar",
 		"Date": "2026-11-24",
@@ -33,12 +46,30 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Steckrüben-Möhren Gemüse (1), Rosenkohl in Creme (1,So,Sl,GlW), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6), Macairekartoffeln (GlW)",
+		"Name": "Pasta Frischkäsesoße mit Meerrettich und Kräutern (3,5,Mi,Sw,GlW,GlG)",
+		"Category": "Pastabar",
+		"Date": "2026-11-24",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Steckrüben-Möhren Gemüse (1), Rosenkohl in Creme (1,So,Sl,GlW), Zucchini mit Cherrytomate (6), Brechbohnen in Rahm (So,GlW), Mini-Kürbisgnocchi (Ei,GlW), Blumenkohl mit gebräunten Bröseln (1,GlW)",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-24",
 		"Additives": {
 			"<strong>1</strong>": "Farbstoff",
 			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
@@ -47,7 +78,7 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Karotten Kartoffel Topf (Sl,Sw), vegane Wursteinlage (1)",
@@ -78,6 +109,24 @@
 		"PriceStudent": 4.8,
 		"LactoseFree": true,
 		"Vegetarian": true
+	},
+	{
+		"Name": "2 Stück Weißwürste (3,4,Mi), Bayrisch Kraut (3,5,Sw), hausgemachtes Kartoffelpüree (Mi), Süßer Senf (Sf)",
+		"Category": "CampusSpezial",
+		"Date": "2026-11-24",
+		"Additives": {
+			"<strong>3</strong>": "Antioxidationsmittel",
+			"<strong>4</strong>": "Geschmacksverstärker",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 6.1,
+		"PriceGuest": 7.4,
+		"PriceStudent": 4.8,
+		"Beef": true,
+		"Pig": true
 	},
 	{
 		"Name": "Indisches Buttercurry (Mi,Sw), Hähnchen Crossies in Panko Panade (3,GlW), Kurkumareis",

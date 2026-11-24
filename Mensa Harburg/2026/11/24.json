@@ -1,14 +1,26 @@
 [
 	{
-		"Name": "Steckrüben-Möhren Gemüse (1), Rosenkohl in Creme (1,So,Sl,GlW), Grüne und gelbe Zucchini mit Oliven und Cherrytomate (6)",
+		"Name": "gerösteter Rosenkohl,  Schupfnudelpfanne mit Gemüse (Ei,GlW),  Nusskartoffeln",
 		"Category": "Gemüsebar",
 		"Date": "2026-11-24",
 		"Additives": {
-			"<strong>1</strong>": "Farbstoff",
-			"<strong>6</strong>": "Geschwärzt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Belugalinsenragout mit Tomaten (Sl,Sf)",
+		"Category": "Pastabar",
+		"Date": "2026-11-24",
+		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -17,47 +29,60 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vollkorn Fusilli (GlW), Kürbis- Sojacreme mit Rosmarin (3,So,Sl,Sw)",
+		"Name": "Pasta nach Wahl (GlW), Hähnchenstreifen in einer pikanten Paprikasoße (Sl,Sw,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-24",
 		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Vollkorn Fusilli (GlW), Hähnchenstreifen in Tomaten-Gemüse Creme (3,8,Mi,Sl,Sw)",
-		"Category": "Pastabar",
-		"Date": "2026-11-24",
-		"Additives": {
-			"<strong>3</strong>": "Antioxidationsmittel",
-			"<strong>8</strong>": "Phosphat",
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
 		"Poultry": true
 	},
 	{
-		"Name": "Möhren-Tajine mit Soja-Joghurt (So,Sl,Sw)",
-		"Category": "Pottkieker",
+		"Name": "Pasta nach Wahl (GlW), Gemüse-Tomatensoße (So,Sl,Sw,GlW)",
+		"Category": "Pastabar",
 		"Date": "2026-11-24",
 		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Pasta nach Wahl (GlW), Spinatcremesoße mit Käse (Mi,Sl,Sf,GlW,GlG)",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-24",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "Tomaten-Kokossuppe (So,Sl,GlW), Risi Bisi",
+		"Category": "Pottkieker",
+		"Date": "2026-11-24",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 3.5,
 		"PriceGuest": 4.8,
@@ -88,22 +113,22 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Vegetarisch gefüllte Kohlroulade (Ei,So), Kümmelsoße (Sl), Petersilienkartoffeln",
+		"Name": "Vegetarisch gefüllte Kohlroulade (Ei,So), Kümmelsoße (Mi,Sl), Petersilienkartoffeln",
 		"Category": "CampusVital",
 		"Date": "2026-11-24",
 		"Additives": {
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
 		},
 		"PriceAttendant": 6.1,
 		"PriceGuest": 7.4,
 		"PriceStudent": 4.8,
-		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
-		"Name": "Indisches Buttercurry (Mi,Sw), Hähnchen Crossies in Panko Panade (3,GlW), Kurkumareis",
+		"Name": "Indisches Buttercurry (Mi,Sw), Hähnchen Crossies in Panko Panade (3,GlW), Reis",
 		"Category": "CampusWorld",
 		"Date": "2026-11-24",
 		"Additives": {
