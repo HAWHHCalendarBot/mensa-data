@@ -1,12 +1,24 @@
 [
 	{
-		"Name": "Gnocchi (GlW), Ratatouille (Sl,Sw)",
+		"Name": "Gnocchi (GlW)",
+		"Category": "Pastabar",
+		"Date": "2026-11-25",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
+	},
+	{
+		"Name": "Bulgur mit Tomate und Peperoni (Sl,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-25",
 		"Additives": {
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
@@ -15,11 +27,10 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Wurzelgemüse (Sl,Sw), Blattspinat (Sl,Sw), Kürbisgemüse, Prinzessbohnen, Bulgur mit Tomate und Peperoni (Sl,GlW)",
-		"Category": "Gemüsebar",
+		"Name": "Ratatouille (Sl,Sw)",
+		"Category": "Pastabar",
 		"Date": "2026-11-25",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
@@ -30,7 +41,7 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Gnocchi (GlW), Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-11-25",
 		"Additives": {
@@ -43,6 +54,23 @@
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
 		"Vegetarian": true
+	},
+	{
+		"Name": "Edamame (So), Blattspinat (Sl,Sw), Steckrüben-Möhren Gemüse (1), Prinzessbohnen, Bulgur mit Tomate und Peperoni (Sl,GlW)",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-25",
+		"Additives": {
+			"<strong>1</strong>": "Farbstoff",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
+		"Vegan": true
 	},
 	{
 		"Name": "Beef Brisket (Sw), Tasmanisches Pfeffer-Chicken (Se), Bacon-Mashed potatoes (2,3,Mi), Süßkartoffel-Pommes (1), Chili-Maiskolben, verschiedene Extras (1,2,3,5,9,Ei,En,Mi,Sf,Sw), verschiedene Soßen (2,3,4,Ei,En,So,Mi,Sf,GlW)",
