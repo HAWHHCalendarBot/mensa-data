@@ -1,31 +1,35 @@
 [
 	{
-		"Name": "Wurzelgemüse (Sl,Sw)",
-		"Category": "Gemüsebar",
-		"Date": "2026-11-25",
-		"Additives": {
-			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
-			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
-		"Name": "Gnocchi (GlW), Steckrübencreme mit Thymian und Knoblauch (Mi,Sw,GlW,GlG)",
+		"Name": "Gnocchi (GlW), Steckrübencreme mit Thymian und Knoblauch (So,Mi,Sw,GlW,GlG)",
 		"Category": "Pastabar",
 		"Date": "2026-11-25",
 		"Additives": {
 			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
 			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
+		"Vegetarian": true
+	},
+	{
+		"Name": "gebratenem Wirsing, gebratene Zucchini (Sw), glacierte rote Beete, gerösteter Blumenkohl (Sw), Orientalisches Kichererbsengemüse (2,5,Sw), Vegetarisch gefüllte Kohlroulade (Ei,So)",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-25",
+		"Additives": {
+			"<strong>2</strong>": "Konservierungsstoff",
+			"<strong>5</strong>": "Geschwefelt",
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"LactoseFree": true,
 		"Vegetarian": true
 	},
 	{
