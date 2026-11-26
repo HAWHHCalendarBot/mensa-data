@@ -11,17 +11,75 @@
 		"Vegan": true
 	},
 	{
-		"Name": "Pasta des Tages (GlW)",
+		"Name": "Pasta mit Kürbis,Blattspinat in Pesto Rosso (Mi,Sl,Sw,GlW,NCa)",
 		"Category": "Pastabar",
 		"Date": "2026-11-26",
 		"Additives": {
-			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>NCa</strong>": "Schalenfrüchte (Cashewnüsse)/-erzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
+		"PriceStudent": 0.9
+	},
+	{
+		"Name": "5 Stück vegane Nuggets (Soja und Weizenprotein) (So,GlW,GlG)",
+		"Category": "1 Stück \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Delikant-Sauce",
+		"Date": "2026-11-26",
+		"Additives": {
+			"<strong>GlG</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Gerste)",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse"
+		},
+		"PriceAttendant": 2.2,
+		"PriceGuest": 2.5,
+		"PriceStudent": 2.0,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "3 Stück Kartoffeltaschen Tomate-Mozzarellafüllung (Mi)",
+		"Category": "1 Stück \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Delikant-Sauce",
+		"Date": "2026-11-26",
+		"Additives": {
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+		},
+		"PriceAttendant": 2.75,
+		"PriceGuest": 3.15,
+		"PriceStudent": 2.5,
+		"Vegetarian": true
+	},
+	{
+		"Name": "1 Stück gebackenes Seelachsfilet (Fi,GlW)",
+		"Category": "1 Stück \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Delikant-Sauce",
+		"Date": "2026-11-26",
+		"Additives": {
+			"<strong>Fi</strong>": "Fisch und Fischerzeugnisse",
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)"
+		},
+		"PriceAttendant": 3.3,
+		"PriceGuest": 3.75,
+		"PriceStudent": 3.0,
+		"Fish": true,
+		"LactoseFree": true
+	},
+	{
+		"Name": "1 Stück \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Delikant-Sauce",
+		"Category": "1 Stück \"ExtraWurst - CampusStyle\" (8,Sl,Sf), mit Curry-Delikant-Sauce",
+		"Date": "2026-11-26",
+		"Additives": {
+			"<strong>8</strong>": "Phosphat",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse",
+			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse"
+		},
+		"PriceAttendant": 3.85,
+		"PriceGuest": 4.4,
+		"PriceStudent": 3.5,
+		"LactoseFree": true,
+		"Pig": true
 	},
 	{
 		"Name": "Japanische Gemüsebrühe mit Udonnudeln, Tofu, Wokgemüse und Shoyu-Ei (2,Ei,So,Sl,Se,Sw,GlW)",
