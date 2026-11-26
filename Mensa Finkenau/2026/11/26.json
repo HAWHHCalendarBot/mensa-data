@@ -1,18 +1,5 @@
 [
 	{
-		"Name": "Rosenkohl (1)",
-		"Category": "Gemüsebar",
-		"Date": "2026-11-26",
-		"Additives": {
-			"<strong>1</strong>": "Farbstoff"
-		},
-		"PriceAttendant": 1.15,
-		"PriceGuest": 1.4,
-		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
-	},
-	{
 		"Name": "Strozzapreti (GlW), Räuchertofu in Kräuter- Cremesoße (So,Sl)",
 		"Category": "Pastabar",
 		"Date": "2026-11-26",
@@ -26,6 +13,20 @@
 		"PriceStudent": 0.9,
 		"LactoseFree": true,
 		"Vegan": true
+	},
+	{
+		"Name": "gebackene Süßkartoffel, gebratene Zucchini (Sw), gebackene Aubergine (Sw,GlW), gebratenem Wirsing, Kartoffeltaschen mit Tomaten-Mozzarellafüllung (Mi)",
+		"Category": "Gemüsebar",
+		"Date": "2026-11-26",
+		"Additives": {
+			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
+		},
+		"PriceAttendant": 1.15,
+		"PriceGuest": 1.4,
+		"PriceStudent": 0.9,
+		"Vegetarian": true
 	},
 	{
 		"Name": "One Pot Kichererbse mit Tomate (Sw), pikantes Möhrengemüse (Sl)",
