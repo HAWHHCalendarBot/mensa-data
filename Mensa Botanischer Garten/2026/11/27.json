@@ -1,19 +1,20 @@
 [
 	{
-		"Name": "Bunte Fusilli (GlW), Tomatensoße mit Paprika, getrocknete Tomaten und geröstete Haselnüsse (Sl,Sw,NHa)",
+		"Name": "Vollkorn Fussili (GlW), Sojastreifen in scharfer Tomatensoße (Sojaprotein) (So,Sl,Sw), Soja-Bolognese mit Gemüse (Sojaprotein) (So,Sl,Sw), Ravioli mit Käsefüllung (Ei,Mi,GlW)",
 		"Category": "Pastabar",
 		"Date": "2026-11-27",
 		"Additives": {
+			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
 			"<strong>GlW</strong>": "glutenhaltiges Getreide und daraus hergestellte Erzeugnisse (Weizen)",
-			"<strong>NHa</strong>": "Schalenfrüchte (Haselnüsse)/-erzeugnisse",
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
 			"<strong>Sl</strong>": "Sellerie und Sellerieerzeugnisse",
+			"<strong>So</strong>": "Soja und Sojaerzeugnisse",
 			"<strong>Sw</strong>": "Schwefeldioxid und Sulfite (Konzentration über 10mg/kg oder 10mg/l)"
 		},
 		"PriceAttendant": 1.15,
 		"PriceGuest": 1.4,
 		"PriceStudent": 0.9,
-		"LactoseFree": true,
-		"Vegan": true
+		"Vegetarian": true
 	},
 	{
 		"Name": "Gemüsegulasch (Sl,Sw), Reis",
@@ -46,12 +47,14 @@
 		"Vegan": true
 	},
 	{
-		"Name": "3 Kartoffeltaschen mit Tomaten-Mozzarellafüllung (Mi), Kräuterquark (Mi), gemischter Salat (Ei,Mi)",
+		"Name": "3 Kartoffeltaschen mit Tomaten-Mozzarellafüllung (Mi), Sour Cream (4,Ei,Mi,Sf), gemischter Salat (Ei,Mi)",
 		"Category": "CampusVital",
 		"Date": "2026-11-27",
 		"Additives": {
+			"<strong>4</strong>": "Geschmacksverstärker",
 			"<strong>Ei</strong>": "Ei und Eierzeugnisse",
-			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)"
+			"<strong>Mi</strong>": "Milch und Milcherzeugnisse (einschließlich Laktose)",
+			"<strong>Sf</strong>": "Senf und Senferzeugnisse"
 		},
 		"PriceAttendant": 6.2,
 		"PriceGuest": 7.5,
